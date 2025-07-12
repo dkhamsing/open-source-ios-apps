@@ -33226,6 +33226,25 @@
       "stars": 1072,
       "date_added": "Jun 30 2025",
       "suggested_by": "@csprasad"
-    }  
+    },
+    {
+            "title": "CodeAgents",
+            "category-ids": ["developer"],
+            "description": "Mobile client for Claude Code",
+            "source": "https://github.com/eugenepyvovarov/CodeAgentsMobile",
+            "itunes": "https://testflight.apple.com/join/eUpweBZV",
+            "date_added": "Jul 9 2025",
+            "suggested_by": "@eugenepyvovarov",
+            "license": "apache-2.0",
+            "screenshots": [
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_1.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_2.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_3.png?raw=true",
+              "https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_4.png?raw=true"
+            ],
+            "tags": [
+              "ai", "claude-code"
+            ],
+    }
   ]
 }
