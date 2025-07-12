@@ -31957,10 +31957,10 @@
       "description": "Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information",
       "source": "https://github.com/simonoppowa/OpenNutriTracker",
       "screenshots": [
-        "https://simonoppowa.github.io/OpenNutriTracker-Website/assets/screenshot/yourscreenshot.png"
+        "https://github.com/user-attachments/assets/dadb3708-6de6-48c3-b07f-263bb0f74818"
       ],
       "tags": [
-        "react-native"
+        "react-native", "ipad"
       ],
       "date_added": "Jul 26 2024",
       "license": "gpl-3.0",
