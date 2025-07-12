@@ -33232,7 +33232,7 @@
             "category-ids": ["developer"],
             "description": "Mobile client for Claude Code",
             "source": "https://github.com/eugenepyvovarov/CodeAgentsMobile",
-            "itunes": "https://testflight.apple.com/join/eUpweBZV",
+            "website": "https://testflight.apple.com/join/eUpweBZV",
             "date_added": "Jul 9 2025",
             "suggested_by": "@eugenepyvovarov",
             "license": "apache-2.0",
@@ -33244,7 +33244,7 @@
             ],
             "tags": [
               "ai", "claude-code"
-            ],
+            ]
     }
   ]
 }
