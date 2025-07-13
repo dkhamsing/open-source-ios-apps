@@ -29670,7 +29670,7 @@
 
       ],
       "source": "https://github.com/256Arts/Sprite-Cutter",
-      "homepage": "https://www.jaydenirwin.com/spritecutter/",
+      "homepage": "https://www.256arts.com/spritecutter/",
       "itunes": "https://apps.apple.com/app/sprite-cutter/id1562779425",
       "tags": [
         "swift",
@@ -29693,7 +29693,7 @@
       ],
       "license": "other",
       "source": "https://github.com/256Arts/Sprite-Pencil",
-      "homepage": "https://www.jaydenirwin.com/spritepencil/",
+      "homepage": "https://www.256arts.com/spritepencil/",
       "itunes": "https://apps.apple.com/app/sprite-pencil/id1437835952",
       "tags": [
         "swift"
@@ -29713,7 +29713,7 @@
 
       ],
       "source": "https://github.com/256Arts/Sprite-Catalog",
-      "homepage": "https://www.jaydenirwin.com/spritecatalog/",
+      "homepage": "https://www.256arts.com/spritecatalog/",
       "itunes": "https://apps.apple.com/app/sprite-catalog/id1560692872",
       "tags": [
         "swift",
@@ -29735,11 +29735,12 @@
 
       ],
       "source": "https://github.com/256Arts/Sprite-Fonts",
-      "homepage": "https://www.jaydenirwin.com/spritefonts/",
+      "homepage": "https://www.256arts.com/",
       "itunes": "https://apps.apple.com/app/sprite-fonts/id1554027877",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "archive"
       ],
       "license": "other",
       "date_added": "Oct 4 2022",
@@ -29757,7 +29758,7 @@
 
       ],
       "source": "https://github.com/256Arts/My-Assets",
-      "homepage": "https://www.jaydenirwin.com/myassets/",
+      "homepage": "https://www.256arts.com/myassets/",
       "itunes": "https://apps.apple.com/app/my-assets/id1592367070",
       "tags": [
         "swift",
@@ -29779,11 +29780,12 @@
 
       ],
       "source": "https://github.com/256Arts/Symbol-Code",
-      "homepage": "https://www.jaydenirwin.com/sfcode/",
+      "homepage": "https://www.256arts.com/",
       "itunes": "https://apps.apple.com/app/sf-code/id1568916751",
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "archive"
       ],
       "license": "other",
       "date_added": "Oct 7 2022",
@@ -29801,7 +29803,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp"
       ],
       "source": "https://github.com/256Arts/Space-UI",
-      "homepage": "https://www.jaydenirwin.com/spaceui/",
+      "homepage": "https://www.256arts.com/spaceui/",
       "itunes": "https://apps.apple.com/app/space-ui/id1494402514",
       "tags": [
         "swift",
