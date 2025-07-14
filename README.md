@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2013,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1783,8 +1783,8 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`376` 
 - [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information
-  -  <a href='https://simonoppowa.github.io/OpenNutriTracker-Website/assets/screenshot/yourscreenshot.png'>`Screenshot 1`</a> 
-  -  `2025` `react-native` 
+  -  <a href='https://github.com/user-attachments/assets/dadb3708-6de6-48c3-b07f-263bb0f74818'>`Screenshot 1`</a> 
+  -  `2025` `react-native` `ipad` 
   -  ☆`914` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
   - <a href=http://rise.vladimirbrejcha.com>`http://rise.vladimirbrejcha.com`</a>
@@ -4263,8 +4263,8 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2024` `react-native` `expo` 
   -  ☆`1467` 
 - [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information
-  -  <a href='https://simonoppowa.github.io/OpenNutriTracker-Website/assets/screenshot/yourscreenshot.png'>`Screenshot 1`</a> 
-  -  `2025` `react-native` 
+  -  <a href='https://github.com/user-attachments/assets/dadb3708-6de6-48c3-b07f-263bb0f74818'>`Screenshot 1`</a> 
+  -  `2025` `react-native` `ipad` 
   -  ☆`914` 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO
   - [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
