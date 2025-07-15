@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202025-lightgrey.svg)
 
 Jump to
 
@@ -101,7 +101,7 @@ Jump to
   -  `2025` `swift` 
   -  ☆`2633` 
 - [iCook TV](https://github.com/polydice/iCook-tvOS): Taiwanese cuisine cooking videos
-  -  <a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/ai-liao-li/id554065086) <a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`71` 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
