@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -96,6 +96,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [iCook TV](https://github.com/polydice/iCook-tvOS): Taiwanese cuisine cooking videos
+  - [` App Store`](https://apps.apple.com/app/ai-liao-li/id554065086) <a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'>`Screenshot 1`</a> 
+  -  `2023` `swift` 
+  -  ☆`71` 
 - [Moonlight Game Streaming](https://github.com/moonlight-stream/moonlight-ios)
   - [` App Store`](https://apps.apple.com/app/moonlight-game-streaming/id1000551566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a66520cc-5bf8-49e0-bfff-f859de4ad37a'>`Screenshot 1`</a> 
   -  `2024` `c` `ipad` 
