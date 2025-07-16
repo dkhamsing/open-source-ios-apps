@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2184,10 +2184,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`60` 
-- [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses): Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ec65e9bd-482f-433a-8fb0-6e3654594274'>`Screenshot 1`</a> 
-  -  `2021` `swift` 
-  -  ☆`4` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7d6171ac-a14c-497b-9208-a3dc2cd778ab'>`Screenshot 1`</a> 
   -  `2020` `swift` `alamofire` 
