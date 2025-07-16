@@ -335,6 +335,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Mergel](https://github.com/snazzware/Mergel)
 - [MetricTime](https://github.com/MoralCode/MetricTime)
 - [MeWeather](https://github.com/opensourceios/MeWeather)
+- [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses)
 - [Minds](https://github.com/Minds/mobile)
 - [MiniKeePass](https://github.com/MiniKeePass/MiniKeePass)
 - [Mission999](https://github.com/whunmr/Mission999)
