@@ -31835,7 +31835,7 @@
         "finance"
       ],
       "description": "Keep track of spending on bets and other gambling activities",
-      "source": "https://github.com/bigjermaine/BetBudd",
+      "source": "https://github.com/bigjermaine/SwiftTracker",
       "itunes": "https://apps.apple.com/us/app/betbudd/id1661151432",
       "license": "other",
       "stars": 39,
@@ -31843,8 +31843,8 @@
         "swift"
       ],
       "screenshots": [
-        "https://github.com/bigjermaine/BetBudd/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5",
-        "https://github.com/bigjermaine/BetBudd/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30"
+        "https://github.com/bigjermaine/SwiftTracker/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5",
+        "https://github.com/bigjermaine/SwiftTracker/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30"
       ],
       "date_added": "Jul 6 2024",
       "suggested_by": "@bigjermaine",
