@@ -9528,7 +9528,7 @@
       "description": "Plays the first five seconds of the CSI Miami theme song for on-the-go meme creation (YEAAAAAAAAAAHH)",
       "source": "https://github.com/MoralCode/MiamiSunglasses",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ec65e9bd-482f-433a-8fb0-6e3654594274"
