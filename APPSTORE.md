@@ -694,8 +694,8 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [BetBudd](https://github.com/bigjermaine/BetBudd): Keep track of spending on bets and other gambling activities
-  - [` App Store`](https://apps.apple.com/us/app/betbudd/id1661151432) <a href='https://github.com/bigjermaine/BetBudd/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5'>`Screenshot 1`</a>  <a href='https://github.com/bigjermaine/BetBudd/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30'>`Screenshot 2`</a> 
+- [BetBudd](https://github.com/bigjermaine/SwiftTracker): Keep track of spending on bets and other gambling activities
+  - [` App Store`](https://apps.apple.com/us/app/betbudd/id1661151432) <a href='https://github.com/bigjermaine/SwiftTracker/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5'>`Screenshot 1`</a>  <a href='https://github.com/bigjermaine/SwiftTracker/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30'>`Screenshot 2`</a> 
   -  `2025` `swift` 
   -  ☆`39` 
 - [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with Apple design guidelines in mind
