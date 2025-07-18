@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -818,10 +818,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631) <a href='https://hewgill.com/puzzles/screenshot-iphone4-1-200.png'>`Screenshot 1`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-2-200.png'>`Screenshot 2`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-3-200.png'>`Screenshot 3`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-4-200.png'>`Screenshot 4`</a> 
   -  `2024` `objc` 
   -  ☆`171` 
-- [Tic TAI Toe](https://github.com/NathanFallet/MorpionTPE-iOS): A tic tac toe with AI and PRO
-  - [` App Store`](https://apps.apple.com/app/tic-tai-toe/id1459186328) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/53/e7/af/53e7afa3-8d2d-3667-c1d3-963908340270/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/e6/3b/2d/e63b2dcc-4d84-0432-bfc6-44dbf6fa7e8b/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/fb/8a/16/fb8a16bb-f1cf-bcf8-e2fc-5638ecbb4201/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
-  -  `2023` `swift` 
-  -  ☆`5` 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://user-images.githubusercontent.com/4723115/146569119-685104a8-b67c-448c-9c3e-6898b5c0ceac.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
