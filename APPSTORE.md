@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -703,7 +703,7 @@ File Management — [back to top](#readme)
   -  `2025` `swift` `swiftui` 
   -  ☆`1154` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
-  - <a href=https://www.jaydenirwin.com/myassets/>`https://www.jaydenirwin.com/myassets/`</a>
+  - <a href=https://www.256arts.com/myassets/>`https://www.256arts.com/myassets/`</a>
   - [` App Store`](https://apps.apple.com/app/my-assets/id1592367070)
   -  `2024` `swift` `swiftui` 
   -  ☆`15` 
@@ -1263,17 +1263,17 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2021` 
   -  ☆`109` 
 - [Sprite Catalog](https://github.com/256Arts/Sprite-Catalog): A large collection of pixel art sprites and resources
-  - <a href=https://www.jaydenirwin.com/spritecatalog/>`https://www.jaydenirwin.com/spritecatalog/`</a>
+  - <a href=https://www.256arts.com/spritecatalog/>`https://www.256arts.com/spritecatalog/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-catalog/id1560692872)
   -  `2024` `swift` `swiftui` 
   -  ☆`9` 
 - [Sprite Cutter](https://github.com/256Arts/Sprite-Cutter): Quickly cut spritesheets into separate sprite PNG images
-  - <a href=https://www.jaydenirwin.com/spritecutter/>`https://www.jaydenirwin.com/spritecutter/`</a>
+  - <a href=https://www.256arts.com/spritecutter/>`https://www.256arts.com/spritecutter/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-cutter/id1562779425)
   -  `2024` `swift` `swiftui` 
   -  ☆`4` 
 - [Sprite Pencil](https://github.com/256Arts/Sprite-Pencil): Create and edit sprites and pixel art
-  - <a href=https://www.jaydenirwin.com/spritepencil/>`https://www.jaydenirwin.com/spritepencil/`</a>
+  - <a href=https://www.256arts.com/spritepencil/>`https://www.256arts.com/spritepencil/`</a>
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952)
   -  `2025` `swift` 
   -  ☆`13` 
@@ -1691,11 +1691,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/ivim/id1266544660) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/6c/f0/84/6cf08431-01bb-aacb-27f2-bcc769a8511e/pr_source.png/230x0w.jpg'>`Screenshot 1`</a> 
   -  `2020` `c` `vim-script` 
   -  ☆`619` 
-- [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts): Install a variety of pixel perfect fonts for use in other apps
-  - <a href=https://www.jaydenirwin.com/spritefonts/>`https://www.jaydenirwin.com/spritefonts/`</a>
-  - [` App Store`](https://apps.apple.com/app/sprite-fonts/id1554027877)
-  -  `2022` `swift` `swiftui` 
-  -  ☆`6` 
 - [TypeStyle](https://github.com/tapmoko/typestyle): Stylize your text and add decorations
   - <a href=https://typestyle.app>`https://typestyle.app`</a>
   - [` App Store`](https://apps.apple.com/app/typestyle/id1441019779) <a href='https://raw.githubusercontent.com/ebelinski/typestyle-ios/master/media/iphone-x-screenshots.png'>`Screenshot 1`</a> 
@@ -1864,15 +1859,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `swift` 
   -  ☆`244` 
 - [Space UI](https://github.com/256Arts/Space-UI): Generate and access great, realistic looking sci-fi user interfaces for use in TV and film production
-  - <a href=https://www.jaydenirwin.com/spaceui/>`https://www.jaydenirwin.com/spaceui/`</a>
+  - <a href=https://www.256arts.com/spaceui/>`https://www.256arts.com/spaceui/`</a>
   - [` App Store`](https://apps.apple.com/app/space-ui/id1494402514) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/d0/b1/7d/d0b17dc2-f840-5d32-69f3-6b0cf223addc/7ccac1f9-433e-4cad-8e7c-91b71f9ff84e_Phone.png/460x0w.webp'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`5` 
-- [Symbol Code](https://github.com/256Arts/Symbol-Code): Programs execute visually by moving variables around the symbol grid
-  - <a href=https://www.jaydenirwin.com/sfcode/>`https://www.jaydenirwin.com/sfcode/`</a>
-  - [` App Store`](https://apps.apple.com/app/sf-code/id1568916751)
-  -  `2022` `swift` `swiftui` 
-  -  ☆`1` 
 - [TriangleDraw](https://github.com/triangledraw/TriangleDraw-iOS): Create logos, typography, and other graphics, using nothing but triangles
   - <a href=https://www.triangledraw.com/>`https://www.triangledraw.com/`</a>
   - [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043) <a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'>`Screenshot 1`</a> 
