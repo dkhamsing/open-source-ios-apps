@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1611-green.svg) ![](https://img.shields.io/badge/Updated-July%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3712,10 +3712,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/triangledraw/id1453533043) <a href='https://raw.githubusercontent.com/triangledraw/TriangleDraw-iOS/develop/Source/Documentation/triangledraw_screenshots.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `ipad` `iphone` `metal` `uidocument` `apple pencil` 
   -  ☆`61` 
-- [TUM Campus](https://github.com/TUM-Dev/Campus-iOS): For Technische Universität München, includes lecture schedule, cafeteria menus, grades & more
-  -  <a href='https://user-images.githubusercontent.com/7985149/84211831-93e42f00-aabc-11ea-8594-6d3d6240589e.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` `ipad` `macos` 
-  -  ☆`105` 
 - [Umbrella](https://github.com/securityfirst/Umbrella_ios): Learn about and managing digital and physical security
   - [` App Store`](https://apps.apple.com/us/app/umbrella-security/id1453715310) <a href='https://raw.githubusercontent.com/securityfirst/Umbrella_ios/master/umbrella_ios.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
