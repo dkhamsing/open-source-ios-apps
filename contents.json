@@ -33248,6 +33248,22 @@
             "tags": [
               "ai", "claude-code"
             ]
-    }
+    },
+    {
+            "title": "iOS Image Optimizer Tool",
+            "category-ids": [
+              "developer",
+              "terminal"
+            ],
+            "description": "Command-line Swift tool for analyzing and optimizing project images against Apple's Human Interface Guidelines",
+            "source": "https://github.com/sahilsatralkar/iOSImageOptimizerTool",
+            "date_added": "Jul 20 2025",
+            "suggested_by": "@sahilsatralkar",
+            "tags": ["swift", "cli", "developer-tools", "image-optimization"],
+            "screenshots": [
+              "https://raw.githubusercontent.com/sahilsatralkar/iOSImageOptimizerTool/refs/heads/main/images/sampleoutput.png"
+            ],
+            "license": "apache-2.0"
+  }
   ]
 }
