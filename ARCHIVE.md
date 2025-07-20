@@ -605,6 +605,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [TrollDrop](https://github.com/a2/TrollDrop)
 - [Trust](https://github.com/TrustWallet/trust-wallet-ios)
 - [try! Swift](https://github.com/opensourceios/trySwiftApp)
+- [TUM Campus](https://github.com/TUM-Dev/Campus-iOS)
 - [tweedie](https://github.com/aanon4/tweedie)
 - [tweejump](https://github.com/haqu/tweejump)
 - [Twitter clone](https://github.com/opensourceios/Twitter)
