@@ -22,4 +22,4 @@ jobs:
         ruby .github/osia_convert.rb
         gem install awesome_bot
         ruby .github/osia_get_links.rb
-        awesome_bot check-unique.txt --allow-ssl -a 302,429,502 -w xbmc/xbmc,shadowfacts,c0051d18eb21,636db0400a1d
+        awesome_bot check-unique.txt --allow-ssl -a 302,429,502 -w xbmc/xbmc,shadowfacts,c0051d18eb21,636db0400a1d,263bb0f74818
