@@ -33273,6 +33273,22 @@
       ],
       "stars": 44,
       "updated": "2025-07-17 21:49:12 UTC"
+    },
+    {
+      "title": "Bark",
+      "description": "Allows you to send custom push notifications to your iPhone by simply calling an HTTP API",
+      "tags": [
+        "swift"
+      ],
+      "category-ids": [
+        "developer"
+      ],
+      "source": "https://github.com/Finb/Bark",
+      "homepage": "https://apps.apple.com/app/bark-custom-notifications/id1403753865",
+      "date_added": "Jul 25 2025",
+      "suggested_by": "@csprasad",
+      "license": "mit",
+      "stars": 6318
     }
   ]
 }
