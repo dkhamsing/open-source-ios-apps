@@ -33276,7 +33276,7 @@
     },
     {
       "title": "Bark",
-      "description": "Allows you to send custom push notifications to your iPhone by simply calling an HTTP API",
+      "description": "Send custom push notifications by calling an HTTP API",
       "tags": [
         "swift"
       ],
