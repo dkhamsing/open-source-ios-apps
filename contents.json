@@ -33284,7 +33284,8 @@
         "developer"
       ],
       "source": "https://github.com/Finb/Bark",
-      "homepage": "https://apps.apple.com/app/bark-custom-notifications/id1403753865",
+      "itunes": "https://apps.apple.com/app/bark-custom-notifications/id1403753865",
+      "homepage": "https://bark.day.app/",
       "date_added": "Jul 25 2025",
       "suggested_by": "@csprasad",
       "license": "mit",
