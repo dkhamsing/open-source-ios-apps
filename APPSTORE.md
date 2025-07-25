@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -332,6 +332,11 @@ Jump to
 [back to top](#readme) 
  
 
+- [Bark](https://github.com/Finb/Bark): Allows you to send custom push notifications to your iPhone by simply calling an HTTP API
+  - <a href=https://bark.day.app/>`https://bark.day.app/`</a>
+  - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865)
+  - `swift` 
+  -  ☆`6318` 
 - [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/
   - [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/a8/7b/8fa87bff-369c-f556-19be-04f9d64aafe5/mzl.cbjemxao.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/32/ba/3e/32ba3e1c-2ca3-9acb-6edb-837d9813d42f/mzl.fnosaifu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/b1/c3/75b1c366-26f2-3468-88cb-a5576b72ee38/mzl.fdapyomc.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
