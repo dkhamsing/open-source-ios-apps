@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1612-green.svg) ![](https://img.shields.io/badge/Updated-July%2025,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1612-green.svg) ![](https://img.shields.io/badge/Updated-July%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -127,10 +127,6 @@ Jump to
   -  <a href='https://cloud.githubusercontent.com/assets/1049693/18724167/ba26d9ba-803b-11e6-9c76-2f44c47d2dee.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`51` 
-- [Upcoming Movies](https://github.com/ivan-magda/UpcomingMovies)
-  -  <a href='https://github.com/ivan-magda/UpcomingMovies/raw/master/Screenshots/movies.png'>`Screenshot 1`</a> 
-  -  `2017` `swift` `themoviedb` 
-  -  ☆`33` 
 - [VLC](https://github.com/videolan/vlc): Media Player
   - <a href=https://www.videolan.org/>`https://www.videolan.org/`</a>
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
