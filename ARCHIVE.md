@@ -615,6 +615,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Ulangi](https://github.com/subconcept-labs/ulangi)
 - [Ultimate Peg Solitaire](https://github.com/opensourceios/ultimate-peg-solitaire)
 - [Uncle Nagy's House](https://github.com/kenmickles/unh_tvos)
+- [Upcoming Movies](https://github.com/ivan-magda/UpcomingMovies)
 - [Valio Con 2014 Schedule](https://github.com/soffes/valio)
 - [Vegan Lists UK](https://github.com/dsgriffin/vegan-lists-uk)
 - [Vesper](https://github.com/brentsimmons/Vesper)
