@@ -560,6 +560,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SwipeIt](https://github.com/ivanbruel/SwipeIt)
 - [Symbol Code](https://github.com/256Arts/Symbol-Code)
 - [Tack](https://github.com/stig/Tack)
+- [Tagger](https://github.com/ivan-magda/Tagger)
 - [Task Coach](https://sourceforge.net/projects/taskcoach/)
 - [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS)
 - [TechTavta](https://github.com/LUGM/TechTatva-15)
