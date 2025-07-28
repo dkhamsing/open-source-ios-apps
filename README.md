@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1612-green.svg) ![](https://img.shields.io/badge/Updated-July%2027,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1612-green.svg) ![](https://img.shields.io/badge/Updated-July%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -690,9 +690,9 @@ Jump to
   -  <a href='https://github.com/eugenebokhan/Awesome-ML/raw/master/Media/App-Demo-Transparent-Background.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`221` 
-- [Bark](https://github.com/Finb/Bark): Allows you to send custom push notifications to your iPhone by simply calling an HTTP API
+- [Bark](https://github.com/Finb/Bark): Send custom push notifications by calling an HTTP API
   - <a href=https://bark.day.app/>`https://bark.day.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865)
+  - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865) <a href='https://github.com/user-attachments/assets/0425d8ed-0c2a-49ea-92f8-b5062c91e411'>`Screenshot 1`</a> 
   - `swift` 
   -  ☆`6318` 
 - [Buglife](https://github.com/Buglife/Buglife-iOS): Awesome bug reporting SDK & web platform
