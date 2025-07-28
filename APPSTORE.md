@@ -332,9 +332,9 @@ Jump to
 [back to top](#readme) 
  
 
-- [Bark](https://github.com/Finb/Bark): Allows you to send custom push notifications to your iPhone by simply calling an HTTP API
+- [Bark](https://github.com/Finb/Bark): Send custom push notifications by calling an HTTP API
   - <a href=https://bark.day.app/>`https://bark.day.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865)
+  - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865) <a href='https://github.com/user-attachments/assets/0425d8ed-0c2a-49ea-92f8-b5062c91e411'>`Screenshot 1`</a> 
   - `swift` 
   -  ☆`6318` 
 - [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/
