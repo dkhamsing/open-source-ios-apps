@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1612-green.svg) ![](https://img.shields.io/badge/Updated-July%2028,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-July%2029,%202025-lightgrey.svg)
 
 Jump to
 
@@ -726,6 +726,9 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/khcrysalis/Feather/69bf3146b651b2bf123af6ad92c01f19f0118901/Images/Image-dark.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`2541` 
+- [Foundation Models Framework Example](https://github.com/rudrankriyam/Foundation-Models-Framework-Example): Example for Foundation Models Framework in iOS 26
+  - `ios26` 
+  -  ☆`530` 
 - [Haptic Haven](https://github.com/davejacobsen/HapticHaven): Test, learn about, and implement haptic feedback
   - [` App Store`](https://apps.apple.com/us/app/id1523772947) <a href='https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
