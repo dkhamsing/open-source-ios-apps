@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-July%2029,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-July%2030,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2990,10 +2990,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/c-villain/SneakerShop/raw/main/demo/demo.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `skip` 
   -  ☆`9` 
-- [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
-  -  <a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'>`Screenshot 1`</a> 
-  -  `2019` `react-native` `redux` 
-  -  ☆`4594` 
 - [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): State preservation & restoration APIs
   -  <a href='https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -4261,10 +4257,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
   -  `2019` `react-native` 
   -  ☆`99` 
-- [Snowflake](https://github.com/bartonhammond/snowflake): A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku
-  -  <a href='https://cloud.githubusercontent.com/assets/1282364/11598478/b2b1b5e6-9a87-11e5-8be9-37cbfa478a71.gif'>`Screenshot 1`</a> 
-  -  `2019` `react-native` `redux` 
-  -  ☆`4594` 
 - [Strata](https://github.com/microdotblog/strata):  Notes for Micro.blog
   - [` App Store`](https://apps.apple.com/app/strata-for-micro-blog/id6474192080)
   -  `2025` `react-native` 
