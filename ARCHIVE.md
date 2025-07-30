@@ -516,6 +516,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS)
 - [SmileWeather](https://github.com/liu044100/SmileWeather)
 - [Snapchat clone](https://github.com/opensourceios/SnapChat)
+- [Snowflake](https://github.com/bartonhammond/snowflake)
 - [Sol](https://github.com/comyar/Sol)
 - [Songkick](https://github.com/ArnaudRinquin/sk-react-native)
 - [Soon](https://github.com/sandofsky/soon)
