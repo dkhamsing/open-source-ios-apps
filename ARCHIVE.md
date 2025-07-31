@@ -153,6 +153,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch)
 - [CZInstagram](https://github.com/opensourceios/CZInstagram)
 - [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
+- [Dash](https://github.com/Kapeli/Dash-iOS)
 - [Delta: Math helper](https://github.com/opensourceios/Delta-iOS)
 - [Den](https://github.com/asamiller/den)
 - [DesireKeyboard](https://github.com/noppefoxwolf/DesireKeyboard)
