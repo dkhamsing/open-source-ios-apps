@@ -29536,7 +29536,7 @@
       ],
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/TelemetryDeck/TelemetryViewer",
