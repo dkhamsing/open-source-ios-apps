@@ -568,6 +568,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [TechTavta](https://github.com/LUGM/TechTatva-15)
 - [teh internets](https://github.com/insurgentgames/teh-internets)
 - [Telemat-tvOS](https://github.com/omichde/Telemat-tvOS)
+- [TelemetryViewer for TelemetryDeck](https://github.com/TelemetryDeck/TelemetryViewer)
 - [Tenere News Reader](https://github.com/yavuz/Tenere)
 - [Terrarium](https://github.com/penk/terrarium-app)
 - [Tether](https://github.com/chrisballinger/Tether-iOS)
