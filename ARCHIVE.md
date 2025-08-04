@@ -151,6 +151,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
 - [Currency Converter](https://github.com/ashwinpreet/ReactNativeExamples)
 - [CutTheNotch](https://github.com/Naituw/CutTheNotch)
+- [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios)
 - [CZInstagram](https://github.com/opensourceios/CZInstagram)
 - [Danbooru Lite](https://github.com/satishbabariya/Danbooru-Lite)
 - [Dash](https://github.com/Kapeli/Dash-iOS)
