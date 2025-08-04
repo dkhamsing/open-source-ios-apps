@@ -20996,14 +20996,14 @@
       "tags": [
         "swift",
         "rxswift",
-        "bluetooth"
+        "bluetooth", "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0f311927-f8a0-400d-bcb2-060d5c3c93dd"
       ],
       "lang": "ces",
       "source": "https://github.com/covid19cz/erouska-ios",
-      "itunes": "https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215",
+      "itunes": "https://apps.apple.com/app/erou%C5%A1ka/id1509210215",
       "homepage": "https://erouska.cz/",
       "license": "mit",
       "date_added": "Apr 21 2020",
