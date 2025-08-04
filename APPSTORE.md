@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -918,11 +918,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stop-covid-19/id1519179939) <a href='https://user-images.githubusercontent.com/4723115/129609595-4d08dc82-a418-477f-bbf8-3e6d7e4f89f8.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`6` 
-- [Czech Republic - eRouška](https://github.com/covid19cz/erouska-ios)
-  - <a href=https://erouska.cz/>`https://erouska.cz/`</a>
-  - [` App Store`](https://apps.apple.com/cz/app/erou%C5%A1ka/id1509210215) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0f311927-f8a0-400d-bcb2-060d5c3c93dd'>`Screenshot 1`</a> 
-  -  `2021` `swift` `rxswift` `bluetooth` 
-  -  ☆`105` 
 - [France - TousAntiCovid](https://gitlab.inria.fr/stopcovid19/stopcovid-ios)
   - <a href=https://www.economie.gouv.fr/tousanticovid>`https://www.economie.gouv.fr/tousanticovid`</a>
   - [` App Store`](https://apps.apple.com/app/stopcovid-france/id1511279125) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9cddac33-77fa-48f5-8b61-f596e9594b63'>`Screenshot 1`</a> 
