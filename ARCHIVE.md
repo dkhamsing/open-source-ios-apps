@@ -227,6 +227,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [GameJam](https://github.com/TheSwiftAlps/GameJam)
 - [gbible](https://github.com/photokandyStudios/gbible)
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS)
+- [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios)
 - [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios)
 - [Gifzat](https://github.com/remirobert/Gifzat)
 - [Giraffe](https://github.com/evgeniyd/Giraffe)
