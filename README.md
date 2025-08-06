@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%205,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%206,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1893,9 +1893,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [OpenCovidTrace](https://github.com/OpenCovidTrace/octrace-ios): Uses own open-source framework for exposure tracing
   -  `2020` `swift` 
   -  ☆`20` 
-- [TCN](https://github.com/TCNCoalition/tcn-client-ios): Reference implementation of the TCN protocol (Temporary Contact Numbers)
-  -  `2021` `swift` 
-  -  ☆`16` 
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Privacy-preserving ExposureNotification framework
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6dcbbd24-a509-4559-aeeb-404a9d9392d6'>`Screenshot 1`</a> 
   -  `2020` `swift` 
