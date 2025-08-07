@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%206,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1873,11 +1873,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/swisscovid-preview/id1509275381) <a href='https://github.com/SwissCovid/swisscovid-app-ios/blob/develop/Documentation/screenshots/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` `dp3t` 
   -  ☆`145` 
-- [UK - NHS COVID-19](https://github.com/ukhsa-collaboration/covid-19-app-ios-ag-public)
-  - <a href=https://www.nhsx.nhs.uk>`https://www.nhsx.nhs.uk`</a>
-  - [` App Store`](https://apps.apple.com/gb/app/nhs-covid-19/id1520427663) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/065bc847-e492-440f-9f76-f80ce18d4200'>`Screenshot 1`</a> 
-  -  `2023` `swift` 
-  -  ☆`163` 
 - [USA Arizona - Covid Watch](https://github.com/covidwatchorg/covidwatch-ios-en)
   - [` App Store`](https://apps.apple.com/us/app/id1521655110) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/50e7f707-8163-466e-97a0-b6d4e149b5a8'>`Screenshot 1`</a> 
   -  `2020` `swift` 
