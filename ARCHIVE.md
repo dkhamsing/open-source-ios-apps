@@ -142,6 +142,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Conway's Game of Life](https://github.com/yonbergman/swift-gameoflife)
 - [CookieCrunch](https://github.com/renatomcamilio/CookieCrunch)
 - [CoolSpot](https://github.com/neonichu/CoolSpot)
+- [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)
 - [Count It](https://github.com/PiXeL16/CountItApp)
 - [Counter](https://github.com/mutualmobile/Counter)
 - [COVID Certificate](https://github.com/admin-ch/CovidCertificate-App-iOS)
