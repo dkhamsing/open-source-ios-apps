@@ -22524,7 +22524,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/OpenCovidTrace/octrace-ios",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "May 28 2020",
       "suggested_by": "@shiaulis",
