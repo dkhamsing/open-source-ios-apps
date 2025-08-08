@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%207,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1702,10 +1702,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/alfianlosari/CoronaVirusTrackerSwiftUI/master/promo.jpg'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
   -  ☆`374` 
-- [Coronavirus in Iran](https://github.com/soroushchehresa/iran-coronavirus)
-  -  <a href='https://raw.githubusercontent.com/soroushchehresa/iran-coronavirus/master/screenshots.jpg'>`Screenshot 1`</a> 
-  -  `2020` `swift` `react-native` `typescript` 
-  -  ☆`7` 
 - [CoronaVirusTrackerFlutter](https://github.com/alfianlosari/CoronaVirusTrackerFlutter)
   -  <a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
