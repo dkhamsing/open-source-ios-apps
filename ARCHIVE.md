@@ -93,6 +93,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Calvin and Hobbes Comic Viewer](https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer)
 - [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
 - [CamShift](https://github.com/shihongzhi/CamShift-on-iOS)
+- [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
 - [Canada - COVID Shield](https://github.com/CovidShield/mobile)
 - [Cannonball](https://github.com/crashlytics/cannonball-ios)
 - [Canvas](https://github.com/usecanvas/ios-v1)
