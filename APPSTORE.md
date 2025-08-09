@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **331** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **330** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -910,10 +910,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/bg/app/virusafe/id1506362170) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f7b2b7ce-1a94-4dd6-8e58-d70ffbe55cbf'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`16` 
-- [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3bfd8fe9-58a3-4f52-91a6-16426a6be60d'>`Screenshot 1`</a> 
-  -  `2022` `react-native` 
-  -  ☆`869` 
 - [Croatia - Stop COVID-19](https://github.com/Stop-COVID-19-Croatia/stopcovid19-ios)
   - [` App Store`](https://apps.apple.com/app/stop-covid-19/id1519179939) <a href='https://user-images.githubusercontent.com/4723115/129609595-4d08dc82-a418-477f-bbf8-3e6d7e4f89f8.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
@@ -1999,10 +1995,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2025` `iphone` `ipad` `reactnative` `typescript` 
   -  ☆`3685` 
-- [Canada - COVID Alert](https://github.com/cds-snc/covid-alert-app)
-  - [` App Store`](https://apps.apple.com/app/id1520284227) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3bfd8fe9-58a3-4f52-91a6-16426a6be60d'>`Screenshot 1`</a> 
-  -  `2022` `react-native` 
-  -  ☆`869` 
 - [Chatwoot](https://github.com/chatwoot/chatwoot-mobile-app): Live chat for businesses
   - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a> 
   -  `2025` `react-native` 
