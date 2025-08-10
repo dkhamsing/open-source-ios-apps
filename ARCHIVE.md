@@ -391,6 +391,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Open States](https://github.com/openstates/legacy-openstates-ios)
 - [OpenCB](https://github.com/opensourceios/OpenCB)
 - [OpenClien](https://github.com/kewlbear/OpenClien)
+- [OpenCovidTrace](https://github.com/OpenCovidTrace/octrace-ios)
 - [OpenIt](https://github.com/BalestraPatrick/OpenIt)
 - [OpenPics](https://github.com/pj4533/OpenPics)
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame)
