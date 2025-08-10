@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1877,9 +1877,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [ExposureNotificationApp](https://developer.apple.com/documentation/exposurenotification/building-an-app-to-notify-users-of-covid-19-exposure): Inform people when they may have been exposed to COVID-19, using Apple's ExposureNotification framework
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6f35dab6-0cef-4d0a-bdf2-690d599de935'>`Screenshot 1`</a> 
   - `swift` 
-- [OpenCovidTrace](https://github.com/OpenCovidTrace/octrace-ios): Uses own open-source framework for exposure tracing
-  -  `2020` `swift` 
-  -  ☆`20` 
 - [TracePrivately](https://github.com/CrunchyBagel/TracePrivately): Uses Apple's Privacy-preserving ExposureNotification framework
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6dcbbd24-a509-4559-aeeb-404a9d9392d6'>`Screenshot 1`</a> 
   -  `2020` `swift` 
