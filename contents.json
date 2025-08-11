@@ -24040,7 +24040,7 @@
         "contact-tracing"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "lang": "nld",
       "source": "https://github.com/minvws/nl-covid19-notification-app-ios",
