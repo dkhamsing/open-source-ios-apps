@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2012,%202025-lightgrey.svg)
 
 Jump to
 
@@ -282,10 +282,6 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'>`Screenshot 4`</a> 
   -  `2020` 
   -  ☆`6` 
-- [RSToDoList](https://github.com/rursache/ToDoList)
-  - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7ba77342-79e0-41f3-9a85-e44fd877d9ca'>`Screenshot 1`</a> 
-  -  `2025` `swift` `apple-watch` `ipad` 
-  -  ☆`237` 
 - [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace): SpriteKit-based faux analog watch face example for watchOS
   -  <a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `spritekit` 
@@ -3254,10 +3250,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`5` 
-- [RSToDoList](https://github.com/rursache/ToDoList)
-  - [` App Store`](https://apps.apple.com/app/todolist-task-manager/id1454122524) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7ba77342-79e0-41f3-9a85-e44fd877d9ca'>`Screenshot 1`</a> 
-  -  `2025` `swift` `apple-watch` `ipad` 
-  -  ☆`237` 
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
   -  <a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
