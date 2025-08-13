@@ -21482,7 +21482,7 @@
         "contact-tracing-reference"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "license": "other",
       "source": "https://developer.apple.com/documentation/exposurenotification/building-an-app-to-notify-users-of-covid-19-exposure",
