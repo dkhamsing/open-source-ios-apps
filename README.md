@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2904,9 +2904,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://nemecek.be/media/images/photosLayoutOptimized.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`644` 
-- [MVCTodo](https://github.com/davedelong/MVCTodo): Simple To Do app to illustrate the principles from my A Better MVC talk
-  -  `2019` `swift` 
-  -  ☆`441` 
 - [MVI SwiftUI Example](https://github.com/AnupAmmanavar/Mvi-SwiftUI)
   -  `2020` `swift` `mvi` `model-view-intent` 
   -  ☆`21` 
