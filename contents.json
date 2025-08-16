@@ -33310,21 +33310,19 @@
     },
     {
       "title": "iOSImageGenerator",
-      "description": "An iOS app that generates images from text prompts using ImagePlayground.",
+      "description": "Generate images from text prompts using ImagePlayground",
       "category-ids": [
-        "photography"
+        "photo"
       ],
       "source": "https://github.com/mizadi/iOSImageGenerator",
-      "license": "MIT",
+      "license": "mit",
       "date_added": "Aug 13 2025",
       "suggested_by": "@mizadi",
       "stars": 0,
-      "languages": ["Swift"],
-      "platforms": ["iOS"],
+      "tags": ["swift"],
       "screenshots": [
         "https://raw.githubusercontent.com/mizadi/iOSImageGenerator/master/screenshots/cat-surfing.jpeg"
-      ],
-      "notes": ""
+      ]
     }    
   ]
 }
