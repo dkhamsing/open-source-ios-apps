@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1613-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2395,6 +2395,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/3d.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/portraitmatte.gif?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/arkit-depth.gif?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/shu223/iOS-Depth-Sampler/blob/master/README_resources/depth_1.gif?raw=true'>`Screenshot 4`</a> 
   -  `2023` `swift` 
   -  ☆`1203` 
+- [iOSImageGenerator](https://github.com/mizadi/iOSImageGenerator): Generate images from text prompts using ImagePlayground
+  -  <a href='https://raw.githubusercontent.com/mizadi/iOSImageGenerator/master/screenshots/cat-surfing.jpeg'>`Screenshot 1`</a> 
+  - `swift` 
 - [Kontax Cam](https://github.com/kxvn-lx/Kontax-Cam): Instant camera hybrid for photographers, by a photographer
   -  <a href='https://github.com/kxvn-lx/Kontax-Cam/raw/master/images/image1.jpg'>`Screenshot 1`</a> 
   -  `2021` `swift` `metal` 
