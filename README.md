@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202025-lightgrey.svg)
 
 Jump to
 
@@ -821,7 +821,7 @@ Jump to
  
 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'>`Screenshot 1`</a>  <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/AnderGoig/github-contributions-ios/develop/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`354` 
 - [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your contributions graph in a Today Extension
@@ -1241,7 +1241,7 @@ Widget (iOS 14) — [back to top](#readme)
   -  `2025` `swift` `swiftui` `iphone` `ipad` 
   -  ☆`682` 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'>`Screenshot 1`</a>  <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/AnderGoig/github-contributions-ios/develop/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`354` 
 - [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results
