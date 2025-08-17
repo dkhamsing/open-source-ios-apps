@@ -394,7 +394,7 @@ Jump to
  
 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'>`Screenshot 1`</a>  <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/AnderGoig/github-contributions-ios/develop/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`354` 
 - [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your contributions graph in a Today Extension
@@ -633,7 +633,7 @@ Widget (iOS 14) — [back to top](#readme)
   -  `2025` `swift` `swiftui` `iphone` `ipad` 
   -  ☆`682` 
 - [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-1.png'>`Screenshot 1`</a>  <a href='https://github.com/AnderGoig/github-contributions-ios/raw/develop/.assets/app-screenshot-2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/AnderGoig/github-contributions-ios/develop/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`354` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
