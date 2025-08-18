@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2527,10 +2527,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pushpin-for-pinboard/id548052590) <a href='https://camo.githubusercontent.com/ee9665d8adf0fb6007d274f58bc8ad6fb96e5781b1e5e0f92eb75924e0f7fb1c/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d312e706e67'>`Screenshot 1`</a>  <a href='https://camo.githubusercontent.com/f201929ac7e7faff2a9dc6138d4006e9cb818030896d90862e827042511c58ec/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d322e706e67'>`Screenshot 2`</a>  <a href='https://camo.githubusercontent.com/e6abdd17ee52245c1e7d6e91bf9437d0534699b5ce148b9c41f707d07299b84d/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d332e706e67'>`Screenshot 3`</a>  <a href='https://camo.githubusercontent.com/a53adf40cb03fb25a7a9bb4d401061593fc2554ccd944c1ffbe8379eee3acdc4/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d342e706e67'>`Screenshot 4`</a> 
   -  `2025` `objc` 
   -  ☆`41` 
-- [reddift](https://github.com/sonsongithub/reddift): Reddit browser, search, comments
-  -  <a href='https://cloud.githubusercontent.com/assets/33768/22405496/0c84f384-e687-11e6-9658-5ebf9d39a082.gif'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`240` 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client
   -  <a href='https://github.com/carson-katri/reddit-swiftui/blob/master/Resources/banner.jpeg?raw=true'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `macos` `watchos` 
