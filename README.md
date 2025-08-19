@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1614-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1615-green.svg) ![](https://img.shields.io/badge/Updated-August%2019,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2867,6 +2867,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [iCloudCoreDataStarter](https://github.com/jazzychad/iCloudCoreDataStarter): Uses Core Data + iCloud syncing
   -  `2022` `swift` `core-data` 
   -  ☆`536` 
+- [Implementing advanced speech-to-text](https://www.createwithswift.com/implementing-advanced-speech-to-text-in-your-swiftui-app/)
+  -  <a href='https://github.com/user-attachments/assets/603c7112-3fff-485c-b37b-1fe06e32ddbb'>`Screenshot 1`</a> 
+  - `swiftui` 
 - [iOS-MVVM-Clean-Architecture](https://github.com/denissimon/iOS-MVVM-Clean-Architecture): Uses MVVM-C, Clean Architecture and Swift Concurrency
   -  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/1_iOS-MVVM-Clean-Architecture.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/2_iOS-MVVM-Clean-Architecture.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/3_iOS-MVVM-Clean-Architecture.png'>`Screenshot 3`</a> 
   -  `2025` `swift` 
