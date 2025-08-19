@@ -33338,6 +33338,25 @@
   "screenshots": ["https://github.com/user-attachments/assets/603c7112-3fff-485c-b37b-1fe06e32ddbb"]
       
      
+    },
+ {
+      "title": "Open Food Facts",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Scan food products barcode to see if they are good for you and the planet",
+      "source": "https://github.com/openfoodfacts/smooth-app",
+      "itunes": "https://apps.apple.com/app/open-food-facts/id588797948",
+      "screenshots": [
+        "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png"
+      ],
+      "tags": [
+        "flutter"
+      ],
+      "date_added": "Aug 19 2025",
+      "suggested_by": "@dkhamsing",
+      "license": "apache-2.0"
+      
     }    
   ]
 }
