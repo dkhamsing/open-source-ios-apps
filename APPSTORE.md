@@ -872,10 +872,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/myweight-history/id1098061879) <a href='https://user-images.githubusercontent.com/4723115/146957241-b8b43b10-1132-472d-8fb7-b95afdf0cfc0.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`79` 
-- [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios): Scan food products barcode to see if they are good for you and the planet
+- [Open Food Facts](https://github.com/openfoodfacts/smooth-app): Scan food products barcode to see if they are good for you and the planet
   - [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` 
-  -  ☆`379` 
+  - `flutter` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
   - <a href=http://rise.vladimirbrejcha.com>`http://rise.vladimirbrejcha.com`</a>
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
