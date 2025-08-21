@@ -13080,7 +13080,7 @@
         "swift",
         "carthage",
         "alamofire",
-        "locationmanager"
+        "locationmanager", "archive"
       ],
       "lang": "fra",
       "source": "https://github.com/tpgoffline/tpg-offline-iOS",
