@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1616-green.svg) ![](https://img.shields.io/badge/Updated-August%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1616-green.svg) ![](https://img.shields.io/badge/Updated-August%2022,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3348,10 +3348,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Californication](https://github.com/ivan-magda/Californication): Discover only the best points of interest in the California
-  -  <a href='https://github.com/ivan-magda/Californication/raw/master/screenshot.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`51` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
   - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'>`Screenshot 5`</a> 
   -  `2023` `swift` 
@@ -3719,10 +3715,6 @@ https://joinmastodon.org — [back to top](#readme)
 https://firebase.google.com/ — [back to top](#readme) 
  
 
-- [Californication](https://github.com/ivan-magda/Californication): Discover only the best points of interest in the California
-  -  <a href='https://github.com/ivan-magda/Californication/raw/master/screenshot.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`51` 
 - [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
   -  <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'>`Screenshot 1`</a> 
   -  `2017` `parse` `firebase` `realm` 
