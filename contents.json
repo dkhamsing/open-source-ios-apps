@@ -33291,7 +33291,7 @@
       "license": "mit",
       "stars": 6318
     },
-{
+    {
       "title": "Foundation Models Framework Example",
       "description": "Example for Foundation Models Framework in iOS 26",
       "category-ids": [
@@ -33323,7 +33323,7 @@
         "https://raw.githubusercontent.com/mizadi/iOSImageGenerator/master/screenshots/cat-surfing.jpeg"
       ]
     },
-{
+    {
       "title": "Implementing advanced speech-to-text",
       "category-ids": [
         "sample"
@@ -33335,11 +33335,9 @@
       "license": "other",
       "date_added": "Aug 18 2025",
       "suggested_by": "@dkhamsing",
-  "screenshots": ["https://github.com/user-attachments/assets/603c7112-3fff-485c-b37b-1fe06e32ddbb"]
-      
-     
+      "screenshots": ["https://github.com/user-attachments/assets/603c7112-3fff-485c-b37b-1fe06e32ddbb"] 
     },
- {
+   {
       "title": "Open Food Facts",
       "category-ids": [
         "health"
@@ -33355,10 +33353,9 @@
       ],
       "date_added": "Aug 19 2025",
       "suggested_by": "@dkhamsing",
-      "license": "apache-2.0"
-      
+      "license": "apache-2.0"      
     },
-{
+    {
       "title": "Standard Notes",
       "description": "Notes app with focus on longevity, portability & privacy",
       "source": "https://github.com/standardnotes/app",
@@ -33375,8 +33372,26 @@
       "license": "other",
       "date_added": "Aug 22 2025",
       "suggested_by": "@dkhamsing"
-       
-      
-    }    
+    },
+    {
+      "title": "Bitwarden",
+      "category-ids": [
+        "password"
+      ],
+      "description": "Password Manager and Authenticator",
+      "source": "https://github.com/bitwarden/ios",
+      "homepage": "https://bitwarden.com",
+      "itunes": "https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "stars": 387,
+      "screenshots": [
+        "https://raw.githubusercontent.com/bitwarden/ios/main/.github/images/ios-dark.png"
+      ],
+      "date_added": "Aug 23 2025",
+      "suggested_by": "@csprasad"
+    }
   ]
 }
