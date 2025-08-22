@@ -33357,6 +33357,26 @@
       "suggested_by": "@dkhamsing",
       "license": "apache-2.0"
       
+    },
+{
+      "title": "Standard Notes",
+      "description": "Notes app with focus on longevity, portability & privacy",
+      "source": "https://github.com/standardnotes/app",
+      "itunes": "https://itunes.apple.com/app/standard-notes/id1285392450",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg"
+      ],
+      "license": "other",
+      "date_added": "Aug 22 2025",
+      "suggested_by": "@dkhamsing"
+       
+      
     }    
   ]
 }
