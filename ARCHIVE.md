@@ -90,6 +90,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Calculator by mukeshthawani](https://github.com/opensourceios/Calculator)
 - [Calculator by noodlewerk](https://github.com/noodlewerk/Apple_Watch_Calculator)
 - [CalendarKit](https://github.com/richardtop/CalendarKit)
+- [Californication](https://github.com/ivan-magda/Californication)
 - [Calvin and Hobbes Comic Viewer](https://github.com/sciencemanx/Calvin-and-Hobbes-Viewer)
 - [CamLingual](https://github.com/yoshiokatsuneo/camlingual_iphone)
 - [CamShift](https://github.com/shihongzhi/CamShift-on-iOS)
