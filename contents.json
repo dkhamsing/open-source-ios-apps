@@ -2599,8 +2599,7 @@
     {
       "title": "2048",
       "category-ids": [
-        "game",
-        "clone"
+        "game"
       ],
       "tags": [
         "objc"
