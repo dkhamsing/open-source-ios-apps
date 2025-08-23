@@ -1718,10 +1718,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'>`Screenshot 1`</a> 
   -  `2025` `1password` `fabric` `crashlytics` 
   -  ☆`2097` 
-- [Standard Notes](https://github.com/standardnotes/mobile): Notes app with focus on longevity, portability & privacy
+- [Standard Notes](https://github.com/standardnotes/app): Notes app with focus on longevity, portability & privacy
   - [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450) <a href='https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'>`Screenshot 1`</a> 
-  -  `2022` `react-native` 
-  -  ☆`824` 
+  - `react-native` 
 ## Timer 
  
 [back to top](#readme) 
