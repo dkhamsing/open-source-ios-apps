@@ -1549,11 +1549,11 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id766157276) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/89/b8/5b/89b85bf2-395f-6b30-a62b-48cfa15803ab/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/78/ae/8f78aefc-9fb3-ed73-d5d8-ee768073869d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/b0/11/2fb0114c-bce3-0122-9871-0bb88a95802d/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2024` `swift` `2fa` 
   -  ☆`858` 
-- [Bitwarden](https://github.com/bitwarden/mobile): An easy way for individuals, teams, and business organizations to store, share, and sync sensitive data
+- [Bitwarden](https://github.com/bitwarden/ios): Password Manager and Authenticator
   - <a href=https://bitwarden.com>`https://bitwarden.com`</a>
-  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2'>`Screenshot 1`</a> 
-  -  `2025` `csharp` 
-  -  ☆`210` 
+  - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://raw.githubusercontent.com/bitwarden/ios/main/.github/images/ios-dark.png'>`Screenshot 1`</a> 
+  - `swift` 
+  -  ☆`387` 
 - [Chronos Authenticator 2FA](https://github.com/joeldavidw/Chronos)
   - [` App Store`](https://apps.apple.com/app/chronos-authenticator/id6503929490) <a href='https://github.com/joeldavidw/Chronos/raw/main/.github/assets/previews/4.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `2fa` 
