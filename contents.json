@@ -32362,17 +32362,16 @@
     {
       "title": "Netflix UI",
       "category-ids": [
-        "clone",
-        "react-native"
+        "clone"
       ],
       "tags": [
         "react-native",
         "expo"
       ],
       "screenshots": [
-        "https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif"
+        "https://github.com/saulsharma/netflix-ui/raw/main/assets/gifs/demo.gif"
       ],
-      "source": "https://github.com/saulamsal/netflix-ui",
+      "source": "https://github.com/saulsharma/netflix-ui",
       "license": "other",
       "date_added": "Nov 9 2024",
       "suggested_by": "@dkhamsing",
