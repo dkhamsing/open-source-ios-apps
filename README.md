@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1618-green.svg) ![](https://img.shields.io/badge/Updated-August%2025,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1618-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -482,8 +482,8 @@ Jump to
   -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `firebase` `firestore` 
   -  ☆`783` 
-- [Netflix UI](https://github.com/saulamsal/netflix-ui)
-  -  <a href='https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
+- [Netflix UI](https://github.com/saulsharma/netflix-ui)
+  -  <a href='https://github.com/saulsharma/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
   -  `2024` `react-native` `expo` 
   -  ☆`1494` 
 - [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
@@ -4156,10 +4156,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 - [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings
   -  `2018` `react-native` 
   -  ☆`104` 
-- [Netflix UI](https://github.com/saulamsal/netflix-ui)
-  -  <a href='https://github.com/saulamsal/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
-  -  `2024` `react-native` `expo` 
-  -  ☆`1494` 
 - [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information
   -  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png'>`Screenshot 4`</a> 
   -  `2025` `react-native` `ipad` 
