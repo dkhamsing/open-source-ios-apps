@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1618-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1618-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2088,9 +2088,6 @@ Image, video, audio, reading — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Animoji Studio](https://github.com/insidegui/AnimojiStudio): Make Animoji videos with unlimited duration and share anywhere
-  -  `2020` `objc` `iphonex` 
-  -  ☆`1181` 
 - [SBSAnimoji](https://github.com/simonbs/SBSAnimoji): Uses Apple's private framework AvatarKit
   -  <a href='https://github.com/simonbs/SBSAnimoji/raw/main/screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `iphonex` 
