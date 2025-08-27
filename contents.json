@@ -33390,6 +33390,23 @@
       ],
       "date_added": "Aug 23 2025",
       "suggested_by": "@csprasad"
-    }
+    },
+ {
+      "title": "InvestIQ",
+      "description": "Smart stock monitoring",
+      "source": "https://github.com/ViniciusDeep/InvestIQ",
+      "category-ids": [
+        "finance"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://github.com/ViniciusDeep/InvestIQ/assets/32227073/5baff10f-a1d4-4f10-a0f3-ec54aaab6055"
+      ],
+      "license": "other",
+      "date_added": "Aug 27 2025",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
