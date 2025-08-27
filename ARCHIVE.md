@@ -32,6 +32,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Amaroq](https://github.com/ReticentJohn/Amaroq)
 - [American Chronicle](https://github.com/opensourceios/AmericanChronicle)
 - [Amplosion](https://github.com/christianselig/Amplosion)
+- [Animoji Studio](https://github.com/insidegui/AnimojiStudio)
 - [Antidote](https://github.com/Antidote-for-Tox/Antidote)
 - [AntiMap](https://github.com/trentbrooks/AntiMap)
 - [Anypic](https://github.com/opensourceios/Anypic)
