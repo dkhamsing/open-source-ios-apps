@@ -33390,6 +33390,21 @@
       ],
       "date_added": "Aug 23 2025",
       "suggested_by": "@csprasad"
-    }
+    },
+    {
+      "title": "Context Composer",
+      "category-ids": [
+        "communication"
+      ],
+      "description": "Context Composer is a cutting-edge app that leverages Apple's Foundation Models framework to generate contextually appropriate response variations.",
+      "source": "https://github.com/sahilsatralkar/ContextComposer",
+      "date_added": "Aug 27 2025",
+      "suggested_by": "@sahilsatralkar",
+      "tags": ["swift", "swifui"],
+      "screenshots": [
+        "https://github.com/sahilsatralkar/ContextComposer/blob/main/screenshot.png"
+      ],
+      "license": "apache-2.0"
+  }
   ]
 }
