@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1619-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1620-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1348,6 +1348,9 @@ File Management — [back to top](#readme)
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
   -  `2020` `swift` `swiftlint` `quick` `nimble` 
   -  ☆`5` 
+- [InvestIQ](https://github.com/ViniciusDeep/InvestIQ): Smart stock monitoring
+  -  <a href='https://github.com/ViniciusDeep/InvestIQ/assets/32227073/5baff10f-a1d4-4f10-a0f3-ec54aaab6055'>`Screenshot 1`</a> 
+  - `swift` 
 - [MoneyMate](https://github.com/tt1k/money-mate): Help you record income and expense
   -  <a href='https://github.com/tt1k/money-mate/blob/master/images/main.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2024` `swift` 
