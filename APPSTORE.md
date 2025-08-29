@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **329** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -472,10 +472,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/pocket-code/id1117935892)
   -  `2025` `swift` `objc` 
   -  ☆`92` 
-- [Population Clock](https://github.com/Netfilter-Com/PopulationClock): Learn about geography & demographics
-  - [` App Store`](https://apps.apple.com/app/population-clock-hd/id590689957) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/02/1e/b5/021eb54f-b928-319d-7272-047e1b91ac67/pr_source.png/626x0w.png'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`11` 
 - [Prayer in English](https://github.com/FlineDev/Prayer): Help understand the spoken text in Islamic prayers
   - [` App Store`](https://apps.apple.com/app/prayer-in-english/id1217136884) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple111/v4/2c/50/95/2c5095ff-6142-37cb-97db-a6421590bf02/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/9c/45/8b/9c458b9b-d316-27ec-51ab-6f530b78f2d0/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/0f/2c/22/0f2c227e-f348-1f32-5fa6-e2771c8f7b6d/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
