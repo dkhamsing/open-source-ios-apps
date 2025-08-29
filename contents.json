@@ -30770,7 +30770,7 @@
         "contact-tracing"
       ],
       "tags": [
-        "csharp"
+        "csharp", "archive"
       ],
       "source": "https://github.com/cocoa-mhlw/cocoa",
       "itunes": "https://apps.apple.com/app/id1503224314",
