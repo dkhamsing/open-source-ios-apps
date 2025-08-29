@@ -7634,7 +7634,7 @@
       "description": "A redesigned calendar",
       "source": "https://github.com/croossin/Malendar",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png"
