@@ -33422,6 +33422,24 @@
       "license": "other",
       "date_added": "Aug 27 2025",
       "suggested_by": "@dkhamsing"
-    }        
+    },
+ {
+      "title": "Readest",
+      "description": "Feature-rich ebook reader ",
+      "source": "https://github.com/readest/readest",
+   "itunes": "https://apps.apple.com/app/readest-ebook-reader/id6738622779",
+      "category-ids": [
+        "media"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917"
+      ],
+      "license": "agpl-3.0",
+      "date_added": "Aug 29 2025",
+      "suggested_by": "@UnifeGi"
+    }      
   ]
 }
