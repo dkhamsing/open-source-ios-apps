@@ -1650,7 +1650,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`782` 
 - [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
   - <a href=https://habo.space>`https://habo.space`</a>
-  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`657` 
 ## Text 
@@ -1894,7 +1894,7 @@ https://flutter.dev — [back to top](#readme)
   -  ☆`632` 
 - [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
   - <a href=https://habo.space>`https://habo.space`</a>
-  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`657` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
