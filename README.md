@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3234,7 +3234,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`782` 
 - [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
   - <a href=https://habo.space>`https://habo.space`</a>
-  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`657` 
 - [Planc](https://github.com/aerlinn13/planc): Minimalistic to-do list
@@ -3830,7 +3830,7 @@ https://flutter.dev — [back to top](#readme)
   -  ☆`15243` 
 - [Habo](https://github.com/xpavle00/Habo): Minimalistic habit tracker
   - <a href=https://habo.space>`https://habo.space`</a>
-  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/img/mockup/1.png'>`Screenshot 1`</a>  <a href='https://habo.space/img/mockup/2.png'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`657` 
 - [Hacki for Hacker News](https://github.com/Livinglist/Hacki)
