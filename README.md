@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202025-lightgrey.svg)
 
 Jump to
 
@@ -406,10 +406,6 @@ Jump to
   -  <a href='https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`3024` 
-- [Malendar](https://github.com/croossin/Malendar): A redesigned calendar
-  -  <a href='https://github.com/croossin/Malendar/raw/master/Images/MalendarStockPhoto.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`201` 
 ## Color 
  
 [back to top](#readme) 
