@@ -10473,9 +10473,9 @@
       "screenshots": [
         "https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg"
       ],
-      "description": "A popular media player & entertainment hub",
+      "description": "Media player & entertainment hub, includes a separate remote app",
       "source": "https://github.com/xbmc/xbmc",
-      "homepage": "https://kodi.wiki/view/IOS",
+      "homepage": "https://kodi.wiki",
       "license": "gpl-2.0",
       "stars": 19799,
       "date_added": "Wed Jun 1 23:25:53 2016 -0600",
@@ -10489,7 +10489,7 @@
         "official"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Official Kodi Remote",
       "source": "https://github.com/xbmc/xbmc",
