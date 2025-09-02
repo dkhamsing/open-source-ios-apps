@@ -301,6 +301,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Kiosk](https://github.com/artsy/eidolon)
 - [Knock](https://github.com/MatheusCavalca/Knock)
 - [Knuff](https://github.com/KnuffApp/Knuff-iOS)
+- [Kodi Remote](https://github.com/xbmc/xbmc)
 - [KonaBot](https://github.com/hkalexling/KonaBot-iOS)
 - [Krypton](https://github.com/kryptco/krypton-ios)
 - [KTPomodoro](https://github.com/kenshin03/KTPomodoro)
