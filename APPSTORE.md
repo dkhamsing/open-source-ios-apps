@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **329** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1084,11 +1084,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 Image, video, audio, reading — [back to top](#readme) 
  
 
-- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote
-  - <a href=https://kodi.tv/>`https://kodi.tv/`</a>
-  - [` App Store`](https://apps.apple.com/app/id520480364) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2025` `objc` 
-  -  ☆`19799` 
 - [MuPDF](https://github.com/ArtifexSoftware/mupdf): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer
   - <a href=https://mupdf.com/>`https://mupdf.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id482941798) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/c3/ac/f7/c3acf7d1-9fb6-a5bc-6e09-8ccc70bf3e97/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
@@ -1373,11 +1368,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/kickstarter/id596961532) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/75/69/8a/75698ab8-816c-5bfe-fb81-f99233bf3852/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/a1/50/38a1502f-672f-c6ad-e264-a82cd958bd2c/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `swift` `1password` `alamorefire` `stripe` `ios-snapshot-test-case` 
   -  ☆`8577` 
-- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote
-  - <a href=https://kodi.tv/>`https://kodi.tv/`</a>
-  - [` App Store`](https://apps.apple.com/app/id520480364) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2025` `objc` 
-  -  ☆`19799` 
 - [Kurozora](https://github.com/kurozora/kurozora-app): Official app for discovering and tracking anime, manga, game, music
   - [` App Store`](https://apps.apple.com/app/kurozora/id1476153872) <a href='https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/4.jpg'>`Screenshot 3`</a>  <a href='https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/5.jpg'>`Screenshot 4`</a>  <a href='https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/6.jpg'>`Screenshot 5`</a> 
   -  `2025` `swift` `tron` `ipad` `macos` `anime` `manga` `game` `music` `multilingual` `wiki` 
