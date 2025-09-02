@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2031,14 +2031,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Gradient.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Hue.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Layers.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Selection.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Swatches.png?raw=true'>`Screenshot 5`</a> 
   -  `2018` `objc` 
   -  ☆`2647` 
-- [Kodi](https://github.com/xbmc/xbmc): A popular media player & entertainment hub
-  - <a href=https://kodi.wiki/view/IOS>`https://kodi.wiki/view/IOS`</a>
+- [Kodi](https://github.com/xbmc/xbmc): Media player & entertainment hub, includes a separate remote app
+  - <a href=https://kodi.wiki>`https://kodi.wiki`</a>
   -  <a href='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'>`Screenshot 1`</a> 
-  -  `2025` `objc` 
-  -  ☆`19799` 
-- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote
-  - <a href=https://kodi.tv/>`https://kodi.tv/`</a>
-  - [` App Store`](https://apps.apple.com/app/id520480364) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `objc` 
   -  ☆`19799` 
 - [MuPDF](https://github.com/ArtifexSoftware/mupdf): A PDF, XPS/OpenXPS, CBZ & EPUB document viewer
@@ -2692,14 +2687,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/kickstarter/id596961532) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/75/69/8a/75698ab8-816c-5bfe-fb81-f99233bf3852/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/38/a1/50/38a1502f-672f-c6ad-e264-a82cd958bd2c/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `swift` `1password` `alamorefire` `stripe` `ios-snapshot-test-case` 
   -  ☆`8577` 
-- [Kodi](https://github.com/xbmc/xbmc): A popular media player & entertainment hub
-  - <a href=https://kodi.wiki/view/IOS>`https://kodi.wiki/view/IOS`</a>
+- [Kodi](https://github.com/xbmc/xbmc): Media player & entertainment hub, includes a separate remote app
+  - <a href=https://kodi.wiki>`https://kodi.wiki`</a>
   -  <a href='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'>`Screenshot 1`</a> 
-  -  `2025` `objc` 
-  -  ☆`19799` 
-- [Kodi Remote](https://github.com/xbmc/xbmc): Official Kodi Remote
-  - <a href=https://kodi.tv/>`https://kodi.tv/`</a>
-  - [` App Store`](https://apps.apple.com/app/id520480364) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/95/5b/f0/955bf0bb-c897-bf04-e91e-5872cd937762/mzl.ewoyekko.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple111/v4/77/09/18/770918b9-a6e0-c18b-d537-2e57539f9d90/mzl.ubgzfasc.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/82/41/e6/8241e63f-35b1-cbe9-6cd4-2cbdce9feb4b/mzl.ddodyqvp.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `objc` 
   -  ☆`19799` 
 - [Kurozora](https://github.com/kurozora/kurozora-app): Official app for discovering and tracking anime, manga, game, music
