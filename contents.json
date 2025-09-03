@@ -26305,7 +26305,7 @@
         "mastodon"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "An accessible Mastodon client",
       "source": "https://github.com/metabolist/metatext",
