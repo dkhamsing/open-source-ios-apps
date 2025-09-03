@@ -33485,6 +33485,23 @@
       "suggested_by": "@UnifeGi",
       "stars": 11908,
       "updated": "2025-08-29 17:10:09 UTC"
-    }
+    },
+ {
+      "title": "Goguma IRC",
+      "description": "Modern IRC experience with support for many IRCv3 extensions and IRC bouncers",
+      "category-ids": [
+        "communication"
+      ],
+      "source": "https://codeberg.org/emersion/goguma",
+      "license": "agpl-3.0",
+      "tags": [
+        "irc", "flutter"
+      ],
+      "date_added": "Jul 9 2020",
+      "suggested_by": "@ndrew222",
+      "screenshots": [
+        "https://fs.emersion.fr/protected/img/goguma/main.png"
+      ]
+    }    
   ]
 }
