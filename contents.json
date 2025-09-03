@@ -33493,6 +33493,7 @@
         "communication"
       ],
       "source": "https://codeberg.org/emersion/goguma",
+   "itunes": "https://apps.apple.com/app/goguma-irc/id6470394620",
       "license": "agpl-3.0",
       "tags": [
         "irc", "flutter"
