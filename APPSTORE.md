@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1620,10 +1620,6 @@ https://newsapi.org/ — [back to top](#readme)
 https://joinmastodon.org — [back to top](#readme) 
  
 
-- [Metatext](https://github.com/metabolist/metatext): An accessible Mastodon client
-  - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0e74587f-89b8-4d00-a2b8-dfffb421619f'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`730` 
 - [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
   - <a href=https://vaccor.space/tusker/>`https://vaccor.space/tusker/`</a>
   - [` App Store`](https://apps.apple.com/app/tusker/id1498334597) <a href='https://vaccor.space/tusker/img/tusker-light.png'>`Screenshot 1`</a> 
