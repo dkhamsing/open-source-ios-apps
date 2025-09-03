@@ -345,6 +345,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Megabite](https://github.com/AaronRandall/Megabite)
 - [Meme Maker](https://github.com/MemeMaker/Meme-Maker-iOS)
 - [Mergel](https://github.com/snazzware/Mergel)
+- [Metatext](https://github.com/metabolist/metatext)
 - [MetricTime](https://github.com/MoralCode/MetricTime)
 - [MeWeather](https://github.com/opensourceios/MeWeather)
 - [MiamiSunglasses](https://github.com/MoralCode/MiamiSunglasses)
