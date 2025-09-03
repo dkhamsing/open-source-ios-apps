@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3196,10 +3196,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
   -  `2025` `swift` `swiftlint` `alamofire` `grdb` 
   -  ☆`114` 
-- [Metatext](https://github.com/metabolist/metatext): An accessible Mastodon client
-  - [` App Store`](https://apps.apple.com/app/metatext/id1523996615) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0e74587f-89b8-4d00-a2b8-dfffb421619f'>`Screenshot 1`</a> 
-  -  `2022` `swift` 
-  -  ☆`730` 
 - [Tusker](https://git.shadowfacts.net/shadowfacts/Tusker)
   - <a href=https://vaccor.space/tusker/>`https://vaccor.space/tusker/`</a>
   - [` App Store`](https://apps.apple.com/app/tusker/id1498334597) <a href='https://vaccor.space/tusker/img/tusker-light.png'>`Screenshot 1`</a> 
