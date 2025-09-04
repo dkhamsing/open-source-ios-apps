@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -261,6 +261,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/element-x-secure-chat-call/id1631335820) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/5a/ff/0c5affe2-b3f0-e83e-a095-1aa4a34ac2a3/d0306b7e-aa04-4ef2-b56b-d4a097ef1677_12.9-inch-6th-gen-1.png/626x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/80/33/93803343-c529-20f5-cf80-ffbd7cb937b3/106a3d55-876d-4fb4-a37b-2d82cd9a6340_12.9-inch-6th-gen-2.png/626x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/36/2b/2c362b4d-5cf0-3eb5-6756-5185fa747439/5a643efe-d553-43df-bd67-2daee496b467_12.9-inch-6th-gen-3.png/626x0w.webp'>`Screenshot 3`</a> 
   -  `2025` `swift` `iphone` `ipad` `matrix` `rust` 
   -  ☆`604` 
+- [FluffyChat](https://github.com/krille-chan/fluffychat): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
+  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://github.com/krille-chan/fluffychat/raw/main/docs/screenshots/mobile.png?raw=true'>`Screenshot 1`</a> 
+  - `flutter` `ipad` 
 - [Goruma IRC](https://codeberg.org/emersion/goguma)
   - [` App Store`](https://apps.apple.com/app/goguma-irc/id6470394620) <a href='https://fs.emersion.fr/protected/img/goguma/main.png'>`Screenshot 1`</a> 
   -  `2025` `flutter` 
