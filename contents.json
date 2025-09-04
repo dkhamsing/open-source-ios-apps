@@ -33506,6 +33506,27 @@
       "suggested_by": "@ndrew222"
       
        
-    }    
+    },
+{
+      "title": "SimpleX Chat",
+      "description": "Privacy redefined (no user IDs)",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/simplex-chat/.github/master/profile/images/app2.png"
+      ],
+      "description": "Video game emulator for non-jailbroken devices (successor to GBA4iOS)",
+      "source": "https://github.com/simplex-chat/simplex-chat",
+      "itunes": "https://apps.apple.com/app/simplex-chat-secure-messenger/id1605771084",
+      "license": "agpl-3.0",
+      "date_added": "Sep 4 2025",
+      "suggested_by": "@ndrew222"
+      
+       
+    }        
   ]
 }
