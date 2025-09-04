@@ -33485,6 +33485,27 @@
       "suggested_by": "@UnifeGi",
       "stars": 11908,
       "updated": "2025-08-29 17:10:09 UTC"
-    }
+    },
+{
+      "title": "FluffyChat",
+      "description": "Cute matrix messenger, easy to use but secure and decentralized",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "flutter", "ipad"
+      ],
+      "screenshots": [
+        "https://github.com/krille-chan/fluffychat/raw/main/docs/screenshots/mobile.png?raw=true"
+      ],
+      "description": "Video game emulator for non-jailbroken devices (successor to GBA4iOS)",
+      "source": "https://github.com/krille-chan/fluffychat",
+      "itunes": "https://apps.apple.com/app/fluffychat/id1551469600",
+      "license": "agpl-3.0",
+      "date_added": "Sep 3 2025",
+      "suggested_by": "@ndrew222"
+      
+       
+    }    
   ]
 }
