@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1621-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1622-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202025-lightgrey.svg)
 
 Jump to
 
@@ -574,6 +574,9 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/netless-io/flat-ios/main/art/flat-showcase.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`55` 
+- [FluffyChat](https://github.com/krille-chan/fluffychat): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
+  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://github.com/krille-chan/fluffychat/raw/main/docs/screenshots/mobile.png?raw=true'>`Screenshot 1`</a> 
+  - `flutter` `ipad` 
 - [FoundationChat](https://github.com/Dimillian/FoundationChat): Chat using iOS 26 Foundation Models
   -  <a href='https://github.com/Dimillian/FoundationChat/blob/main/Images/image.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swiftui` `ios26` 
