@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1622-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%20%206,%202025-lightgrey.svg)
 
 Jump to
 
@@ -574,7 +574,7 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/netless-io/flat-ios/main/art/flat-showcase.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`55` 
-- [FluffyChat](https://github.com/krille-chan/fluffychat): Video game emulator for non-jailbroken devices (successor to GBA4iOS)
+- [FluffyChat](https://github.com/krille-chan/fluffychat): Cute matrix messenger, easy to use but secure and decentralized
   - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://github.com/krille-chan/fluffychat/raw/main/docs/screenshots/mobile.png?raw=true'>`Screenshot 1`</a> 
   - `flutter` `ipad` 
 - [FoundationChat](https://github.com/Dimillian/FoundationChat): Chat using iOS 26 Foundation Models
@@ -636,6 +636,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id874139669) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/62/68/576268bf-3474-99e7-2621-adbf2438b3ce/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/d3/7a/b8d37a2b-3ecc-8775-3ce1-534d0adc2904/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `objc` `iphone` `carthage` `socketrocket` `purelayout` `openssl` 
   -  ☆`11512` 
+- [SimpleX Chat](https://github.com/simplex-chat/simplex-chat): Privacy redefined (no user IDs)
+  - [` App Store`](https://apps.apple.com/app/simplex-chat-secure-messenger/id1605771084) <a href='https://raw.githubusercontent.com/simplex-chat/.github/master/profile/images/app2.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Spika](https://github.com/cloverstudio/Spika): Cross-platform messenger module
   - <a href=https://spika.business/>`https://spika.business/`</a>
   -  <a href='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'>`Screenshot 1`</a> 
@@ -2294,10 +2297,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `iphone` `ipad` `core-data` 
   -  ☆`303` 
-- [Revill](https://github.com/ViniciusDeep/Revill): Browse and search games
-  -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `combine` 
-  -  ☆`23` 
 - [Sora](https://github.com/cranci1/Sora): Modular web scraping
   - [` App Store`](https://apps.apple.com/app/sulfur/id6742741043) <a href='https://raw.githubusercontent.com/cranci1/Sora/refs/heads/main/assets/Sulfur.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
@@ -4645,10 +4644,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  ☆`94` 
 - [RevenueCat Paywall](https://gist.github.com/joshdholtz/48aa8be3d139381b5eee1c370f407fd8): Super basic SwiftUI with paywall using RevenueCat
   - `swift` `swiftui` 
-- [Revill](https://github.com/ViniciusDeep/Revill): Browse and search games
-  -  <a href='https://user-images.githubusercontent.com/32227073/65997616-0ef63f80-e470-11e9-8faa-d2d6728202a5.png'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `combine` 
-  -  ☆`23` 
 - [RicketyRick](https://github.com/hishd/RicketyRick-iOS): A Rick and Morty fan app that uses the Rick and Morty API
   -  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/3.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/6.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/7.png?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/hishd/RicketyRick-iOS/blob/master/Images/8.png?raw=true'>`Screenshot 6`</a> 
   -  `2024` `rickandmorty` `uikit` `clean-architecture` `mvvm-c` 
