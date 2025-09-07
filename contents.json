@@ -32806,7 +32806,8 @@
       "updated": "2025-08-28 17:00:34 UTC"
     },
     {
-      "title": "Goruma IRC",
+      "title": "Goguma IRC",
+        "description": "Modern IRC experience with support for many IRCv3 extensions and IRC bouncers",
       "category-ids": [
         "communication"
       ],
