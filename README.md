@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%20%207,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%20%208,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1838,10 +1838,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0d30d103-e7f2-4422-aef6-5fbd1c405e19'>`Screenshot 1`</a> 
   -  `2022` `swift` `alamofire` `katana` `tempura` `bonmot` 
   -  ☆`543` 
-- [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa): COVID-19 Contact-Confirming Application
-  - [` App Store`](https://apps.apple.com/app/id1503224314)
-  -  `2022` `csharp` 
-  -  ☆`987` 
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API
   - [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1e70f5e9-78a0-4d53-b176-03393309c91a'>`Screenshot 1`</a> 
   -  `2021` `swift` 
