@@ -415,6 +415,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App)
 - [ParseStore](https://github.com/opensourceios/ParseStore)
 - [pass](https://github.com/davidjb/pass-ios)
+- [PassDrop](https://github.com/chadaustin/passdrop)
 - [pathlogger](https://github.com/eugenpirogoff/pathlogger)
 - [Paws](https://www.appcoda.com/instagram-app-parse-swift/)
 - [PDF to Keynote](https://github.com/LumingYin/PDFToKeynote-iOS)
