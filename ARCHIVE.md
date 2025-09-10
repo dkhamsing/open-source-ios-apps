@@ -226,6 +226,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Frameless](https://github.com/stakes/Frameless)
 - [Free42](https://github.com/opensourceios/free42)
 - [Fresh-Food-Finder](https://github.com/triceam/Fresh-Food-Finder)
+- [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
 - [FS-Player](https://github.com/danylokos/FS-Player)
 - [fudge](https://github.com/FredericJacobs/fudge)
 - [Furni](https://github.com/opensourceios/furni-ios)
