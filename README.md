@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%20%209,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2831,9 +2831,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e0ac896-083f-417f-acf5-98db8a903bb9'>`Screenshot 1`</a> 
   -  `2018` `swift` `vision` 
   -  ☆`152` 
-- [FriendlyEats for Cloud Firestore](https://github.com/firebase/friendlyeats-ios)
-  -  `2024` `swift` `firebase` `firestore` 
-  -  ☆`131` 
 - [GRDBCombine](https://github.com/groue/GRDBCombine): Set of extensions for SQLite, GRDB.swift, and Combine
   -  <a href='https://raw.githubusercontent.com/groue/GRDBCombine/master/Documentation/Demo/Screenshots/Demo1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `combine` 
