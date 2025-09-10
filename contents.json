@@ -29614,7 +29614,7 @@
       "tags": [
         "swift",
         "firebase",
-        "firestore"
+        "firestore", "archive"
       ],
       "license": "apache-2.0",
       "source": "https://github.com/firebase/friendlyeats-ios",
