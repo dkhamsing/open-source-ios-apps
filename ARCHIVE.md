@@ -340,6 +340,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Mathee](https://github.com/opensourceios/mathee)
 - [mChat](https://github.com/opensourceios/Messenger)
 - [Means](https://github.com/opensourceios/Means)
+- [MechaHamster](https://github.com/google/mechahamster)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MedKeeper](https://github.com/jonrobinsdev/MedKeeper)
 - [MeetPoint](https://github.com/MeetPoint-App/meetpoint-ios)
