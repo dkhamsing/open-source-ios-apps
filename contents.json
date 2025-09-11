@@ -117,6 +117,12 @@
       "id": "game"
     },
     {
+      "title": "Axmol Engine",
+      "id": "axmol",
+      "parent": "game",
+      "description": "https://github.com/axmolengine/axmol/"
+    },
+    {
       "title": "Cocos2d",
       "id": "cocos2d",
       "parent": "game",
