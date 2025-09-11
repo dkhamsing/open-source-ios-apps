@@ -23946,7 +23946,7 @@
       "tags": [
         "swift",
         "swiftui",
-        "combine"
+        "combine", "archive"
       ],
       "source": "https://github.com/razeware/emitron-iOS",
       "license": "apache-2.0",
