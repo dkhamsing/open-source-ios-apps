@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2010,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1547,10 +1547,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1348821168) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/51/43/ef/5143ef6b-cb73-4c3f-32ad-619f15073704/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/be/49/b0/be49b0f5-9c45-34d1-a672-7d489b6a11a7/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/4a/02/ad/4a02ad71-965b-f094-1381-22054028ada4/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/50/57/c7/5057c7f3-0bfe-41f2-0760-fe1b261e27c3/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2024` `react-native` `ipad` 
   -  ☆`187` 
-- [MechaHamster](https://github.com/google/mechahamster): Roll through customizable environments that you can share with friends
-  -  <a href='https://google.github.io/mechahamster/gameplay1.png'>`Screenshot 1`</a> 
-  -  `2021` `unity3d` `csharp` `firebase` 
-  -  ☆`508` 
 - [Memory Game](https://github.com/matiasvillaverde/mobile-ios-vipergame): Uses VIPER with robust unit tests
   -  <a href='https://raw.githubusercontent.com/matiasvillaverde/mobile-ios-vipergame/master/header.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `fastlane` 
