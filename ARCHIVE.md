@@ -187,6 +187,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [EatNow](https://github.com/callzhang/Eat-Now)
 - [EconoApp](https://github.com/viniciusvieir/EconoApp)
 - [eCortex](https://github.com/whymani005/cortex)
+- [einmal](https://github.com/incipher/einmal)
 - [Eleven](https://github.com/opensourceios/Eleven)
 - [Ello](https://github.com/opensourceios/ello-ios)
 - [EMI Calculator](https://github.com/tirupati17/loan-emi-calculator-clean-swift)
