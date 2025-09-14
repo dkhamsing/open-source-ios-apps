@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3080,10 +3080,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/chronos-authenticator/id6503929490) <a href='https://github.com/joeldavidw/Chronos/raw/main/.github/assets/previews/4.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `2fa` 
   -  ☆`31` 
-- [einmal](https://github.com/incipher/einmal): Minimalistic and secure two-factor authentication
-  -  <a href='https://user-images.githubusercontent.com/11808903/80574717-a457b300-8a02-11ea-915e-db7cd98740f2.png'>`Screenshot 1`</a> 
-  -  `2022` `react-native` `2fa` 
-  -  ☆`80` 
 - [FreeOTP Authenticator](https://github.com/freeotp/freeotp-ios): Two-Factor Authentication
   - [` App Store`](https://apps.apple.com/app/freeotp/id872559395) <a href='https://user-images.githubusercontent.com/4723115/146823923-adf76295-18e8-43e5-8d75-27ef5a8c0822.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `2fa` `moa` 
