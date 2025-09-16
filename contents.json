@@ -19411,7 +19411,7 @@
       ],
       "tags": [
         "swift",
-        "combine"
+        "combine", "archive"
       ],
       "description": "Set of extensions for SQLite, GRDB.swift, and Combine",
       "source": "https://github.com/groue/GRDBCombine",
