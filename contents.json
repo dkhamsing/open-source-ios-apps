@@ -33526,6 +33526,22 @@
       "suggested_by": "@ndrew222"
       
        
-    }        
+    },
+{
+      "title": "SmartThing",
+      "description": "Remote control through Mqtt and ESP8266, combined with Homebridge",
+      "category-ids": [
+        "home"
+      ],
+      "tags": [
+        "swiftui", "siri"
+      ],
+      "source": "https://github.com/der1598c/SmartThing",
+      "license": "other",
+      "date_added": "Sep 16 2025",
+      "suggested_by": "@dkhamsing"
+      
+       
+    }     
   ]
 }
