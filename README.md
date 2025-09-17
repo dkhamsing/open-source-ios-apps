@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1623-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1624-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1927,6 +1927,8 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/openhab/id492054521) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/fd/ca/19/fdca1922-65a5-f0aa-a41b-fe66b35d0a92/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/2d/19/5a/2d195a15-ee66-1246-22d6-703df2993930/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/66/a5/ea66a51c-2c07-d944-8fb8-5cee014942f5/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/bd/e7/3a/bde73a86-3afd-d434-7353-22cbe70a742e/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2025` `swift` 
   -  ☆`201` 
+- [SmartThing](https://github.com/der1598c/SmartThing): Remote control through Mqtt and ESP8266, combined with Homebridge
+  - `swiftui` `siri` 
 ## Location 
  
 [back to top](#readme) 
