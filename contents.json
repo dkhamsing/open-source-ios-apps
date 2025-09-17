@@ -33551,10 +33551,10 @@
         "swift"
       ],
       "source": "https://github.com/guardianproject/orbot-apple",
-      "itunes": "https://apps.apple.com/app/orbot/id1609461599"
+      "itunes": "https://apps.apple.com/app/orbot/id1609461599",
       "license": "mit",
       "date_added": "Sep 18 2025",
-      "suggested_by": "@csprasad"
+      "suggested_by": "@csprasad",
       "stars": 255
     } 
   ]
