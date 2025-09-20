@@ -27791,7 +27791,7 @@
       "source": "https://github.com/mongodb-developer/BlackJackTrainer",
       "license": "other",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "date_added": "Dec 4 2021",
       "suggested_by": "@dkhamsing",
