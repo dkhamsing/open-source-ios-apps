@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1495,6 +1495,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG'>`Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a> 
   -  `2025` `swift` 
   -  ☆`6173` 
+- [Orbot VPN](https://github.com/guardianproject/orbot-apple)
+  - [` App Store`](https://apps.apple.com/app/orbot/id1609461599)
+  - `swift` 
+  -  ☆`255` 
 - [Passepartout](https://github.com/passepartoutvpn/passepartout): User-friendly OpenVPN app
   - [` App Store`](https://apps.apple.com/app/passepartout-openvpn-client/id1433648537) <a href='https://github.com/user-attachments/assets/c57fbc5f-07fa-418f-abdf-43befda35af2'>`Screenshot 1`</a> 
   -  `2025` `swift` 
