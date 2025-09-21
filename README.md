@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1624-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2276,10 +2276,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/62f3fdc5-dcc2-4038-8c87-f489ecc39628'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`19` 
-- [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com
-  -  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'>`Screenshot 2`</a> 
-  -  `2020` `swift` 
-  -  ☆`1144` 
 - [PHPHub](https://github.com/Aufree/phphub-ios): App for https://learnku.com/laravel
   -  `2018` `iphone` `ipad` 
   -  ☆`1237` 
@@ -3018,6 +3014,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/mullvad-vpn/id1488466513) <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-connected.PNG'>`Screenshot 1`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-login.PNG'>`Screenshot 2`</a>  <a href='https://mullvad.net/media/uploads/2020/04/08/mullvad-vpn-ios-location-server.PNG'>`Screenshot 3`</a> 
   -  `2025` `swift` 
   -  ☆`6173` 
+- [Orbot VPN](https://github.com/guardianproject/orbot-apple)
+  - [` App Store`](https://apps.apple.com/app/orbot/id1609461599)
+  - `swift` 
+  -  ☆`255` 
 - [Outline](https://github.com/Jigsaw-Code/outline-apps): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server
   - <a href=https://getoutline.org>`https://getoutline.org`</a>
   -  `2025` `cordova` 
@@ -4233,10 +4233,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Neko3000/resource-storage/master/projects/monotone/screens_en/screen-shot-4.png'>`Screenshot 4`</a> 
   -  `2022` `swift` 
   -  ☆`206` 
-- [Papr](https://github.com/jdisho/Papr): An unofficial client for https://unsplash.com
-  -  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jdisho/Papr/develop/Screenshots/photo_details.png'>`Screenshot 2`</a> 
-  -  `2020` `swift` 
-  -  ☆`1144` 
 - [RxMarbles](https://github.com/RxSwiftCommunity/RxMarbles): Interactive diagrams of Rx Observables
   - [` App Store`](https://apps.apple.com/app/rxmarbles/id1087272442) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/37/4c/aa/374caa6c-ef0a-b8b6-20a9-c8ca8920fe32/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1f/7c/40/1f7c4058-fae6-6de9-cdaf-d27f1cbd5afd/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8d/83/63/8d8363ff-0637-8a77-5dc3-19cab426a164/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
