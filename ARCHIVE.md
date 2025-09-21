@@ -415,6 +415,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Orbit7](https://github.com/Aaron-A/Orbit7)
 - [packlog](https://github.com/jdg/packlog)
 - [Pancake](https://github.com/Imaginea/pancake-ios)
+- [Papr](https://github.com/jdisho/Papr)
 - [Parse 2013 Developer Day](https://github.com/ParsePlatform/ParseDeveloperDay)
 - [Parse Dashboard](https://github.com/nathantannar4/Parse-Dashboard-for-iOS)
 - [Parse-Challenge-App](https://github.com/TomekB/Parse-Challenge-App)
