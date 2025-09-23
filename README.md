@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3415,9 +3415,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bean-juice/id1502380351) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/62/56/5a/62565a20-df0d-7619-ea80-4eaf183b32b4/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`28` 
-- [BlackJackTrainer](https://github.com/mongodb-developer/BlackJackTrainer)
-  -  `2024` `swift` 
-  -  ☆`7` 
 - [BlogQuest](https://github.com/irace/BlogQuest): Alternative Tumblr client
   -  <a href='https://64.media.tumblr.com/ceef33afa678fb12d6d257c75c1ca166/tumblr_n5dd14OiyH1qb1l2uo1_540.jpg'>`Screenshot 1`</a> 
   -  `2021` `objc` 
