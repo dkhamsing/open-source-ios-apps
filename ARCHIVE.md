@@ -78,6 +78,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bitrise](https://github.com/toshi0383/Bitrise-iOS)
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
 - [Bitwarden](https://github.com/bitwarden/mobile)
+- [BlackJackTrainer](https://github.com/mongodb-developer/BlackJackTrainer)
 - [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
 - [Boostnote](https://github.com/BoostIO/boostnote-mobile)
