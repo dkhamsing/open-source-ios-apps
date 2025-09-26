@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1613,10 +1613,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://www.criticalmaps.net/assets/images/app-ios-dark.jpg'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`307` 
-- [Micro.blog](https://github.com/microdotblog/microblog-ios): Fastest way to blog
-  - [` App Store`](https://apps.apple.com/app/micro-blog/id1253201335) <a href='https://user-images.githubusercontent.com/4723115/125169400-d1533a00-e15e-11eb-80f0-5264dd67ee5d.png'>`Screenshot 1`</a> 
-  -  `2022` `objc` `ipad` 
-  -  ☆`32` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 
