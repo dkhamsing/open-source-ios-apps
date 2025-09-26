@@ -23029,7 +23029,7 @@
         "alamofire",
         "katana",
         "tempura",
-        "bonmot"
+        "bonmot", "archive"
       ],
       "lang": "ita",
       "source": "https://github.com/immuni-app/immuni-app-ios",
