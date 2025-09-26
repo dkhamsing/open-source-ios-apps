@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3147,10 +3147,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
   -  `2019` `swift` `swiftui` `ios13` `ipad` `macos` 
   -  ☆`14` 
-- [Micro.blog](https://github.com/microdotblog/microblog-ios): Fastest way to blog
-  - [` App Store`](https://apps.apple.com/app/micro-blog/id1253201335) <a href='https://user-images.githubusercontent.com/4723115/125169400-d1533a00-e15e-11eb-80f0-5264dd67ee5d.png'>`Screenshot 1`</a> 
-  -  `2022` `objc` `ipad` 
-  -  ☆`32` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
   -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
