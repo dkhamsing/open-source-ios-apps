@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -934,11 +934,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1503224314) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16d7f998-d72f-453c-8048-79fb1328d278'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`508` 
-- [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
-  - <a href=https://www.immuni.italia.it/>`https://www.immuni.italia.it/`</a>
-  - [` App Store`](https://apps.apple.com/it/app/immuni/id1513940977) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0d30d103-e7f2-4422-aef6-5fbd1c405e19'>`Screenshot 1`</a> 
-  -  `2022` `swift` `alamofire` `katana` `tempura` `bonmot` 
-  -  ☆`543` 
 - [Poland - ProteGO Safe](https://github.com/ProteGO-Safe/ios): User daily triage and contact tracing using Exposure Notification API
   - [` App Store`](https://apps.apple.com/app/protego-safe/id1508481566) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1e70f5e9-78a0-4d53-b176-03393309c91a'>`Screenshot 1`</a> 
   -  `2021` `swift` 
