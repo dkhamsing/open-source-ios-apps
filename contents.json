@@ -31533,6 +31533,29 @@
       "updated": "2023-07-09 17:48:30 UTC"
     },
     {
+      "title": "pISSStream",
+      "description": "International Space Station's urine tank",
+      "category-ids": [
+        "apple-vision"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "vision",
+        "visionos",
+        "apple-watch"
+      ],
+      "screenshots": [
+        "https://github.com/Jaennaet/pISSStream/blob/main/pISSStream/Assets.xcassets/AppIcon.appiconset/icon_512x512.png"
+      ],
+      "source": "https://github.com/Jaennaet/pISSStream",
+      "license": "BSD 3-Clause License",
+      "date_added": "Sep 29 2025",
+      "suggested_by": "@durul",
+      "stars": 1880,
+      "updated": "2025-09-27 17:48:30 UTC"
+    },
+    {
       "title": "MultiBuddy",
       "description": "Learn math time tables while having fun",
       "category-ids": [
