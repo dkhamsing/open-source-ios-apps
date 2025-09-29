@@ -19629,14 +19629,14 @@
       ],
       "description": "User-friendly OpenVPN app",
       "license": "gpl-3.0",
-      "source": "https://github.com/passepartoutvpn/passepartout",
-      "itunes": "https://apps.apple.com/app/passepartout-openvpn-client/id1433648537",
+      "source": "https://github.com/partout-io/passepartout",
+      "itunes": "https://apps.apple.com/app/passepartout-vpn-client/id1433648537",
       "screenshots": [
         "https://github.com/user-attachments/assets/c57fbc5f-07fa-418f-abdf-43befda35af2"
       ],
       "date_added": "Sep 19 2019",
       "suggested_by": "@baenglund",
-      "stars": 1043,
+      "stars": 1056,
       "updated": "2025-08-28 15:16:07 UTC"
     },
     {
