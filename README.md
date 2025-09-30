@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1625-green.svg) ![](https://img.shields.io/badge/Updated-September%2029,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202025-lightgrey.svg)
 
 Jump to
 
@@ -165,6 +165,10 @@ Jump to
 - [Physics](https://developer.apple.com/documentation/realitykit/simulating-physics-with-collisions-in-your-visionos-app): Simulating physics with collisions
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/13448df3-073b-410e-b3a8-af9ea537018c'>`Screenshot 1`</a> 
   - `vision` `visionos` 
+- [pISSStream](https://github.com/Jaennaet/pISSStream): International Space Station's urine tank
+  -  <a href='https://github.com/user-attachments/assets/afad6330-498e-4fd8-bc22-ab9a4d5bbda9'>`Screenshot 1`</a> 
+  -  `2025` `swift` `swiftui` `vision` `visionos` `apple-watch` 
+  -  ☆`1880` 
 - [SpatialDock](https://github.com/kjwamlex/SpatialDock): Placing a dock at the bottom of your sight so that you do not have to awkwardly reach the Digital Crown
   -  <a href='https://raw.githubusercontent.com/kjwamlex/SpatialDock/main/simulator_screenshot_E092138F-E2EF-4EC7-9968-09DFE76D9440.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `visionos` `gpt` 
