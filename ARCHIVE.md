@@ -266,6 +266,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hacker News Client](https://github.com/bonzoq/hniosreader)
 - [HackerNews (Y)](https://github.com/vetri02/HackerNews)
 - [Hand-painted style tower defense game](https://github.com/gamechina/GoldenWar)
+- [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery)
 - [HausClock](https://github.com/nottombrown/HausClock)
 - [Hedgewars](https://hg.hedgewars.org/hedgewars/)
 - [Helio Workstation](https://github.com/helio-fm/helio-workstation)
