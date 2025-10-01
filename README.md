@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-October%20%201,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4437,10 +4437,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [Harbour](https://github.com/rrroyal/Harbour): Docker/Portainer app
   -  `2025` `swift` `docker` `swiftui` `ipad` 
   -  ☆`667` 
-- [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery): Example of Harvest (Elm Architecture + Optics)
-  -  <a href='https://user-images.githubusercontent.com/138476/67172750-84ae5500-f3f7-11e9-95b5-9ea054d784eb.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/138476/67172754-86781880-f3f7-11e9-85b1-621895dd1ce4.png'>`Screenshot 2`</a> 
-  -  `2022` `swift` `swiftui` `elm` `optics` `combine` 
-  -  ☆`161` 
 - [Hour Blocks](https://github.com/jtsaeed/Hour-Blocks): Day Planner
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021` `swift` `swiftui` `ipad` `macos` 
