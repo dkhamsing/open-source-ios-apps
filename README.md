@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202025-lightgrey.svg)
 
 Jump to
 
@@ -4215,9 +4215,6 @@ https://realm.io/ — [back to top](#readme)
 https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
  
 
-- [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
-  -  `2023` `swift` `swiftlint` `realm` `swiftybeaver` 
-  -  ☆`17` 
 - [CouchTracker](https://github.com/pietrocaselani/CouchTracker): Keep track of your favorite TV shows & movies using Trakt
   -  `2021` `swift` `trakt` `moya` `kingfisher` `mvvm` 
   -  ☆`50` 
