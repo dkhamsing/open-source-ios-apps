@@ -64,6 +64,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Avo Keepr](https://github.com/opensourceios/AvoKeepr)
 - [Awesome Mobile Conference](https://github.com/aweconf/iOS)
 - [Awesome Swift iOS App](https://github.com/matteocrippa/awesome-swift-ios)
+- [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
 - [Balloon Burst](https://github.com/jamiely/ios-balloon-burst)
 - [Bancha](https://github.com/squallstar/bancha-ios-app)
 - [bandit-hat-budget](https://github.com/opensourceios/bandit-hat-budget)
