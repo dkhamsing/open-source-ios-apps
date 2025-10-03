@@ -20714,7 +20714,7 @@
         "swift",
         "swiftlint",
         "realm",
-        "swiftybeaver"
+        "swiftybeaver", "archive"
       ],
       "license": "apache-2.0",
       "source": "https://github.com/netguru/baby-monitor-client-ios",
