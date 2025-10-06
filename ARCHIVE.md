@@ -478,6 +478,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [QiitaCollection](https://github.com/anzfactory/QiitaCollection)
 - [QR Blank](https://github.com/kahopoon/QR-Blank)
 - [QRGen](https://github.com/lojals/QRGen)
+- [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers)
 - [Queue'd Music](https://github.com/rldaulton/queued-music)
 - [Radio Paradise](https://github.com/ilTofa/rposx)
 - [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser)
