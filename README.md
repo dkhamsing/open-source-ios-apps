@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1626-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3560,10 +3560,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269'>`Screenshot 1`</a> 
   -  `2025` `swift` `neural-network` 
   -  ☆`3` 
-- [Question answering and text generation](https://github.com/huggingface/swift-coreml-transformers): Swift Core ML 3 implementations of GPT-2, DistilGPT-2, BERT, and DistilBERT
-  -  <a href='https://raw.githubusercontent.com/huggingface/swift-coreml-transformers/master/media/coreml-gpt2.gif'>`Screenshot 1`</a> 
-  -  `2023` `swift` `gpt2` 
-  -  ☆`1675` 
 - [Recipes](https://github.com/onmyway133/Recipes)
   -  <a href='https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
