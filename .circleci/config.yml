@@ -11,6 +11,7 @@ jobs:
     - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
     steps:
     - checkout
+      method: blobless
     - run: mkdir -p $CIRCLE_ARTIFACTS $CIRCLE_TEST_REPORTS
     - run:
         working_directory: ~/dkhamsing/open-source-ios-apps
@@ -49,6 +50,7 @@ jobs:
     - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
     steps:
     - checkout
+      method: blobless
     - run:
         working_directory: ~/dkhamsing/open-source-ios-apps
         command: rm -f dkhamsing/open-source-ios-apps/.rvmrc; echo 2.4.0 > dkhamsing/open-source-ios-apps/.ruby-version; rvm use 2.4.0 --default
