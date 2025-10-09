@@ -10,7 +10,7 @@ jobs:
     docker:
     - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
     steps:
-    - checkout
+    - checkout:
         method: blobless
     - run: mkdir -p $CIRCLE_ARTIFACTS $CIRCLE_TEST_REPORTS
     - run:
@@ -49,7 +49,7 @@ jobs:
     docker:
     - image: circleci/build-image:ubuntu-14.04-XXL-upstart-1189-5614f37
     steps:
-    - checkout
+    - checkout:
         method: blobless
     - run:
         working_directory: ~/dkhamsing/open-source-ios-apps
