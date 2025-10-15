@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1723,6 +1723,9 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [OSS Weather](https://github.com/Akylas/oss-weather)
+  - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252)
+  -  ☆`293` 
 - [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
   - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
