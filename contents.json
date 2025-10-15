@@ -33599,6 +33599,17 @@
       "suggested_by": "@csprasad",
       "stars": 259,
       "updated": "2025-10-01 16:15:14 UTC"
-    }
+    },
+    {
+  "title": "OSS Weather",
+  "category-ids": ["weather"],
+  "description": "An OSS weather app for iOS/Android",
+  "source": "https://github.com/Akylas/oss-weather",
+  "itunes": "https://apps.apple.com/fr/app/oss-weather/id1499117252",		
+  "license": "mit",     
+  "stars": 293,     
+  "date_added": "Aug 6 2016",
+}
+    
   ]
 }
