@@ -33603,12 +33603,11 @@
     {
   "title": "OSS Weather",
   "category-ids": ["weather"],
-  "description": "An OSS weather app for iOS/Android",
   "source": "https://github.com/Akylas/oss-weather",
-  "itunes": "https://apps.apple.com/fr/app/oss-weather/id1499117252",		
+  "itunes": "https://apps.apple.com/app/oss-weather/id1499117252",		
   "license": "mit",     
   "stars": 293,     
-  "date_added": "Aug 6 2016",
+  "date_added": "Aug 6 2016"
 }
     
   ]
