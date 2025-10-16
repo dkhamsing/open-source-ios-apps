@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1627-green.svg) ![](https://img.shields.io/badge/Updated-October%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1627-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3340,7 +3340,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`476` 
 - [OSS Weather](https://github.com/Akylas/oss-weather)
-  - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252)
+  - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/0_APP_IPHONE_67_0.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/1_APP_IPHONE_67_1.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/3_APP_IPHONE_67_3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/2_APP_IPHONE_67_2.jpg'>`Screenshot 4`</a> 
+  - `nativescript` 
   -  ☆`293` 
 - [Pixel Weather](https://github.com/YusuFKaan48/PixelWeather): Provides real-time weather and location information, complemented by AI-generated images that adapt to the current weather conditions
   -  <a href='https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601'>`Screenshot 1`</a> 
