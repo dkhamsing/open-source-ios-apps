@@ -1724,7 +1724,8 @@ https://joinmastodon.org — [back to top](#readme)
  
 
 - [OSS Weather](https://github.com/Akylas/oss-weather)
-  - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252)
+  - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/0_APP_IPHONE_67_0.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/1_APP_IPHONE_67_1.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/3_APP_IPHONE_67_3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/2_APP_IPHONE_67_2.jpg'>`Screenshot 4`</a> 
+  - `nativescript` 
   -  ☆`293` 
 - [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
   - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
