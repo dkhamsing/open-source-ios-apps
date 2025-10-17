@@ -33616,6 +33616,22 @@
       "suggested_by": "@joslajoko",
       "stars": 293,     
       "date_added": "Aug 6 2016"
+    },
+    {
+      "title": "Inpenso",
+      "description": "iOS expense tracker that helps you monitor spending habits with analytics and budget management.",
+      "category-ids": ["swiftui", "productivity", "finance"],
+      "tags": ["swiftui", "swiftdata", "analytics"],
+      "source": "https://github.com/VintusS/Inpenso",
+      "screenshots": [
+        "https://raw.githubusercontent.com/VintusS/Inpenso/refs/heads/main/.github/assets/dashboard-screenshot.png",
+        "https://raw.githubusercontent.com/VintusS/Inpenso/refs/heads/main/.github/assets/analytics-screenshot.png",
+        "https://raw.githubusercontent.com/VintusS/Inpenso/main/.github/assets/add-expense-screenshot.png"
+      ],
+      "license": "mit",
+      "suggested_by": "@VintusS",
+      "stars": 10,     
+      "date_added": "Oct 17 2025"
     }
   ]
 }
