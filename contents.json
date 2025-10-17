@@ -33619,7 +33619,7 @@
     },
     {
       "title": "Inpenso",
-      "description": "iOS expense tracker that helps you monitor spending habits with analytics and budget management.",
+      "description": "Expense tracker that helps you monitor spending habits with analytics and budget management.",
       "category-ids": ["swiftui", "productivity", "finance"],
       "tags": ["swiftui", "swiftdata", "analytics"],
       "source": "https://github.com/VintusS/Inpenso",
