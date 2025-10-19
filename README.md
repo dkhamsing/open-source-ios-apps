@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1627-green.svg) ![](https://img.shields.io/badge/Updated-October%2016,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1628-green.svg) ![](https://img.shields.io/badge/Updated-October%2019,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1353,6 +1353,10 @@ File Management — [back to top](#readme)
 - [Gasoline](https://github.com/Blackjacx/Gasoline): Track your gas expense
   -  `2020` `swift` `swiftlint` `quick` `nimble` 
   -  ☆`5` 
+- [Inpenso](https://github.com/VintusS/Inpenso): Expense tracker that helps you monitor spending habits with analytics and budget management
+  -  <a href='https://raw.githubusercontent.com/VintusS/Inpenso/refs/heads/main/.github/assets/dashboard-screenshot.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/VintusS/Inpenso/refs/heads/main/.github/assets/analytics-screenshot.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/VintusS/Inpenso/main/.github/assets/add-expense-screenshot.png'>`Screenshot 3`</a> 
+  - `swiftui` `swiftdata` `analytics` 
+  -  ☆`10` 
 - [InvestIQ](https://github.com/ViniciusDeep/InvestIQ): Smart stock monitoring
   -  <a href='https://github.com/ViniciusDeep/InvestIQ/assets/32227073/5baff10f-a1d4-4f10-a0f3-ec54aaab6055'>`Screenshot 1`</a> 
   -  `2024` `swift` 
