@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1628-green.svg) ![](https://img.shields.io/badge/Updated-October%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1628-green.svg) ![](https://img.shields.io/badge/Updated-October%2020,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1252,7 +1252,7 @@ Widget (iOS 14) — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d1e3d3e8-e09b-4bc3-a343-a104867c85f5'>`Screenshot 1`</a> 
   -  `2020` `swift` `macos` `widgetkit` 
   -  ☆`19` 
-- [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
+- [Fruta](https://developer.apple.com/documentation/appclip/fruta-building-a-feature-rich-app-with-swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
@@ -3953,7 +3953,7 @@ Cross platform projects — [back to top](#readme)
 - [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
   -  `2023` `swift` `macos` `swiftui` 
   -  ☆`1816` 
-- [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
+- [Fruta](https://developer.apple.com/documentation/appclip/fruta-building-a-feature-rich-app-with-swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Hacker News Multiplatform](https://github.com/rickwierenga/heartbeat-tutorials/tree/master/MultiplatformApp/)
   - `swift` `macos` 
@@ -4410,7 +4410,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/fromkk/FreeTimePicker/raw/master/images/search.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `combine` 
   -  ☆`48` 
-- [Fruta](https://developer.apple.com/documentation/swiftui/fruta_building_a_feature-rich_app_with_swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
+- [Fruta](https://developer.apple.com/documentation/appclip/fruta-building-a-feature-rich-app-with-swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [FTC Scorer - Skystone](https://github.com/Pondorasti/StonkScorer): Score practice matches
   -  <a href='https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.webp'>`Screenshot 1`</a> 
