@@ -33632,6 +33632,17 @@
       "suggested_by": "@VintusS",
       "stars": 10,     
       "date_added": "Oct 17 2025"
+    },
+    {
+      "title": "CosmicDaily",
+      "description": "Explore NASA Astronomy Picture of the Day imagery and expert explanations.",
+      "category-ids": [ "news", "photo"],
+      "tags": ["swiftui"],
+      "source": "https://github.com/emrepbu/CosmicDaily",
+      "homepage": "https://emrepbu.github.io/CosmicDaily/",
+      "license": "mit",
+      "suggested_by": "@csprasad",
+      "date_added": "Oct 24 2025"
     }
   ]
 }
