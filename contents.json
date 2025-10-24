@@ -33635,7 +33635,7 @@
     },
     {
       "title": "CosmicDaily",
-      "description": "Explore NASA Astronomy Picture of the Day imagery and expert explanations.",
+      "description": "Explore NASA astronomy picture of the day and explanations",
       "category-ids": [ "news", "photo"],
       "tags": ["swiftui"],
       "source": "https://github.com/emrepbu/CosmicDaily",
