@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1628-green.svg) ![](https://img.shields.io/badge/Updated-October%2020,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1629-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202025-lightgrey.svg)
 
 Jump to
 
@@ -2372,6 +2372,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Blurry](https://github.com/meteochu/Blurry)
   -  `2021` `swift` 
   -  ☆`21` 
+- [CosmicDaily](https://github.com/emrepbu/CosmicDaily): Explore NASA astronomy picture of the day and explanations
+  - <a href=https://emrepbu.github.io/CosmicDaily/>`https://emrepbu.github.io/CosmicDaily/`</a>
+  - `swiftui` 
 - [Find](https://github.com/aheze/OpenFind): Text search for images
   - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `realm` `camera` 
