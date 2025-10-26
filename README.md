@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1629-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1629-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202025-lightgrey.svg)
 
 Jump to
 
@@ -580,7 +580,7 @@ Jump to
   -  `2025` `swift` 
   -  ☆`55` 
 - [FluffyChat](https://github.com/krille-chan/fluffychat): Cute matrix messenger, easy to use but secure and decentralized
-  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://github.com/krille-chan/fluffychat/raw/main/docs/screenshots/mobile.png?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://raw.githubusercontent.com/krille-chan/fluffychat-website/refs/heads/main/src/assets/screenshots/mobile.png'>`Screenshot 1`</a> 
   -  `2025` `flutter` `ipad` 
   -  ☆`1916` 
 - [FoundationChat](https://github.com/Dimillian/FoundationChat): Chat using iOS 26 Foundation Models
