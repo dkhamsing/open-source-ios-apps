@@ -33664,6 +33664,22 @@
       "date_added": "Oct 24 2025",
       "stars": 0,
       "updated": "2025-06-19 18:01:05 UTC"
+    },
+    {
+      "title": "Thunderbird",
+      "description": "Thunderbird email client",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swiftui"
+      ],
+      "source": "https://github.com/thunderbird/thunderbird-ios",
+      "homepage": "https://thunderbird.net/mobile/",
+      "license": "mpl-2.0",
+      "suggested_by": "@csprasad",
+      "date_added": "Nov 10 2025",
+      "stars": 539
     }
   ]
 }
