@@ -2,7 +2,7 @@
 
 ## Lastest additions to the [main list](https://github.com/dkhamsing/open-source-ios-apps)
 
-1. [Thunderbird](https://github.com/thunderbird/thunderbird-ios)
+1. [Thunderbird Email](https://github.com/thunderbird/thunderbird-ios)
 2. [CosmicDaily](https://github.com/emrepbu/CosmicDaily)
 3. [Inpenso](https://github.com/VintusS/Inpenso)
 4. [pISSStream](https://github.com/Jaennaet/pISSStream)
