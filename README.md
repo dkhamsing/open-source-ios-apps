@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1630-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1630-green.svg) ![](https://img.shields.io/badge/Updated-November%2012,%202025-lightgrey.svg)
 
 Jump to
 
@@ -661,6 +661,7 @@ Jump to
   -  ☆`400` 
 - [Thunderbird Email](https://github.com/thunderbird/thunderbird-ios)
   - <a href=https://thunderbird.net/mobile/>`https://thunderbird.net/mobile/`</a>
+  -  <a href='https://blog.thunderbird.net/files/2025/10/Mobile-Progress-Report_-September_October4.jpg'>`Screenshot 1`</a> 
   - `swiftui` 
   -  ☆`539` 
 - [Tinode](https://github.com/tinode/ios): Cross platform messenger
