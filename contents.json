@@ -33673,6 +33673,9 @@
       "tags": [
         "swiftui"
       ],
+       "screenshots": [
+        "https://blog.thunderbird.net/files/2025/10/Mobile-Progress-Report_-September_October4.jpg"
+      ],
       "source": "https://github.com/thunderbird/thunderbird-ios",
       "homepage": "https://thunderbird.net/mobile/",
       "license": "mpl-2.0",
