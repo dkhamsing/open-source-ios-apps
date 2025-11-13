@@ -33682,6 +33682,25 @@
       "suggested_by": "@csprasad",
       "date_added": "Nov 10 2025",
       "stars": 539
+    },
+    {
+      "title": "BetterBlue",
+      "description":"Seamlessly connect and control your Hyundai or Kia vehicles",
+      "category-ids": [
+        "communication", "location"
+      ],
+      "tags": [
+        "swiftui"
+      ],
+       "screenshots": [
+        "https://raw.githubusercontent.com/schmidtwmark/BetterBlue/main/betterblue-phones.png"
+      ],
+      "source": "https://github.com/schmidtwmark/BetterBlue",
+      "homepage": "https://markschmidt.io/betterblue",
+      "license": "mit",
+      "suggested_by": "@csprasad",
+      "date_added": "Nov 13 2025",
+      "stars": 35
     }
   ]
 }
