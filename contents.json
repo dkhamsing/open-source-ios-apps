@@ -33687,7 +33687,7 @@
       "title": "BetterBlue",
       "description":"Seamlessly connect and control your Hyundai or Kia vehicles",
       "category-ids": [
-        "communication", "location"
+        "communication"
       ],
       "tags": [
         "swiftui"
