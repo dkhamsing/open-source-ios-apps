@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1630-green.svg) ![](https://img.shields.io/badge/Updated-November%2012,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1631-green.svg) ![](https://img.shields.io/badge/Updated-November%2014,%202025-lightgrey.svg)
 
 Jump to
 
@@ -538,6 +538,11 @@ Jump to
 - [Basic Chat (Bluetooth Low Energy)](https://github.com/adafruit/Basic-Chat)
   -  `2021` `swift` `bluetooth` 
   -  ☆`123` 
+- [BetterBlue](https://github.com/schmidtwmark/BetterBlue): Seamlessly connect and control your Hyundai or Kia vehicles
+  - <a href=https://markschmidt.io/betterblue>`https://markschmidt.io/betterblue`</a>
+  -  <a href='https://raw.githubusercontent.com/schmidtwmark/BetterBlue/main/betterblue-phones.png'>`Screenshot 1`</a> 
+  - `swiftui` 
+  -  ☆`35` 
 - [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat): Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)
   -  <a href='https://user-images.githubusercontent.com/4723115/236501293-3e613366-e186-4b94-a060-d8aae797b610.jpg'>`Screenshot 1`</a> 
   -  `2017` `objc` `yapdatabase` `purelayout` `mantle` `bluetooth` 
