@@ -23666,15 +23666,15 @@
       "updated": "2024-07-31 07:00:55 UTC"
     },
     {
-      "title": "Formant Plotter",
-      "description": "The user speaks and the formant is plotted on the screen",
+      "title": "Vowel Practice",
+      "description": "Find formants in spoken sounds",
       "category-ids": [
         "audio"
       ],
-      "source": "https://github.com/fulldecent/formant-analyzer",
+      "source": "https://github.com/fulldecent/vowel-practice",
       "license": "mit",
       "tags": [
-        "swift",
+        "swift", "macos"
         "ipad"
       ],
       "stars": 63,
