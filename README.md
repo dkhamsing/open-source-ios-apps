@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1631-green.svg) ![](https://img.shields.io/badge/Updated-November%2014,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1631-green.svg) ![](https://img.shields.io/badge/Updated-November%2017,%202025-lightgrey.svg)
 
 Jump to
 
@@ -96,7 +96,7 @@ Jump to
 [back to top](#readme) 
  
 
-- [BiliBili Demo](https://github.com/yichengchen/ATV-Bilibili-demo)
+- [BiliBili](https://github.com/yichengchen/ATV-Bilibili-demo)
   -  <a href='https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`2838` 
@@ -2139,10 +2139,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`7` 
-- [Formant Plotter](https://github.com/fulldecent/formant-analyzer): The user speaks and the formant is plotted on the screen
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
-  -  `2025` `swift` `ipad` 
-  -  ☆`63` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7d6171ac-a14c-497b-9208-a3dc2cd778ab'>`Screenshot 1`</a> 
   -  `2020` `swift` `alamofire` 
@@ -2164,6 +2160,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`336` 
+- [Vowel Practice](https://github.com/fulldecent/vowel-practice): Find formants in spoken sounds
+  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
+  -  `2025` `swift` `macos` `ipad` 
+  -  ☆`63` 
 - [Xylophone](https://github.com/appbrewery/Xylophone-iOS13): Play sounds
   -  `2023` `swift` `avfoundation` `avaudioplayer` 
   -  ☆`113` 
