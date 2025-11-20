@@ -8189,7 +8189,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d"
       ],
       "description": "Showcases React Native views & modules",
-      "source": "https://github.com/facebook/react-native/tree/master/packages/rn-tester",
+      "source": "https://github.com/facebook/react-native/tree/main/packages/rn-tester",
       "license": "other",
       "date_added": "Fri, 5 Feb 2016 07:55:10 -0800",
       "updated": "2023-12-07 14:49:36 UTC",
