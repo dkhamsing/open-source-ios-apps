@@ -33701,6 +33701,26 @@
       "suggested_by": "@csprasad",
       "date_added": "Nov 13 2025",
       "stars": 35
+    },
+    {
+      "title": "Ultralytics YOLO",
+      "description":"Ultralytics vision and AI",
+      "category-ids": [
+        "official"
+      ],
+      "tags": [
+        "swift"
+      ],
+       "screenshots": [
+        "https://github.com/user-attachments/assets/d5dab2e7-f473-47ce-bc63-69bef89ba52a"
+      ],
+      "source": "https://github.com/ultralytics/yolo-ios-app",
+      "homepage": "https://www.ultralytics.com/yolo",
+      "itunes": "https://apps.apple.com/app/ultralytics-yolo/id1452689527",
+      "license": "agpl-3.0",
+      "suggested_by": "@csprasad",
+      "date_added": "Nov 20 2025",
+      "stars": 374
     }
   ]
 }
