@@ -33721,6 +33721,25 @@
       "suggested_by": "@csprasad",
       "date_added": "Nov 20 2025",
       "stars": 374
+    },
+    {
+      "title": "Enchanted",
+      "description":"Developer tool for LLMs",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+       "screenshots": [
+        "https://github.com/user-attachments/assets/7dade8ec-e94d-4936-9237-f2f2bc1533f2"
+      ],
+      "source": "https://github.com/gluonfield/enchanted",
+      "itunes": "https://apps.apple.com/app/enchanted-llm/id6474268307",
+      "license": "apache-2.0",
+      "suggested_by": "@csprasad",
+      "date_added": "Nov 22 2025",
+      "stars": 5728
     }
   ]
 }
