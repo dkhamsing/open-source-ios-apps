@@ -153,6 +153,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Counter](https://github.com/mutualmobile/Counter)
 - [COVID Certificate](https://github.com/admin-ch/CovidCertificate-App-iOS)
 - [Covidcheck](https://github.com/julianschiavo/Covidcheck)
+- [Cozy Drive](https://github.com/linagora/twake-drive)
 - [CrimeMapper](https://github.com/swwol/CrimeMapper)
 - [Cryptose](https://github.com/insurgentgames/Cryptose)
 - [Crystal Clipboard](https://github.com/jzzocc/crystal-clipboard-ios)
