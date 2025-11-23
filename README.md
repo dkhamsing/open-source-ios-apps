@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1633-green.svg) ![](https://img.shields.io/badge/Updated-November%2022,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1633-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1300,11 +1300,6 @@ File Management — [back to top](#readme)
 - [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and other data you have stored in your Amahi server, securely, from anywhere
   -  `2020` `swift` `ipad` 
   -  ☆`48` 
-- [Cozy Drive](https://github.com/cozy/cozy-drive): Store, manage, share all your files, photos and documents securely in the cloud (5GB free storage)
-  - <a href=https://cozy.io/en/>`https://cozy.io/en/`</a>
-  - [` App Store`](https://apps.apple.com/app/cozy-drive/id1224102389) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/3d/a3/a4/3da3a42f-9ebf-a80f-4930-dee1dc0f24ef/mzl.zejyzppj.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/86/98/fc/8698fcbe-6761-7bf8-a86f-053ebe1848db/mzl.yqxbksxf.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2025` `javascript` `cordova` 
-  -  ☆`181` 
 - [File Browser](https://github.com/steventroughtonsmith/files-ios)
   -  <a href='https://lh3.googleusercontent.com/-bPGPJDM78p0/V13sA3epxEI/AAAAAAAACNs/McPEkTL1mZY9pYrZxmZzsFibBwDoDz_ugCCo/s800/A1.jpg'>`Screenshot 1`</a> 
   -  `2018` `objc` 
