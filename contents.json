@@ -33746,6 +33746,24 @@
       "date_added": "Nov 22 2025",
       "stars": 5728,
       "updated": "2025-03-19 20:19:21 UTC"
-    }
+    },
+     {
+      "title": "Inferra",
+      "description": "On-device local AI",
+      "source": "https://github.com/sbhjt-gr/inferra",
+       "itunes": "https://apps.apple.com/app/inferra/id6754396856"
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "react-native"
+      ],
+      "screenshots": [
+        "https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Nov 25 2025",
+      "suggested_by": "@dkhamsing" 
+     }  
   ]
 }
