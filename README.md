@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1634-green.svg) ![](https://img.shields.io/badge/Updated-December%20%202,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1635-green.svg) ![](https://img.shields.io/badge/Updated-December%20%204,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3231,6 +3231,11 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`817` 
+- [Table Habit](https://github.com/FriesI23/mhabit): Offline-first micro-habit tracker
+  - <a href=https://testflight.apple.com/join/aJ5PWqaR>`https://testflight.apple.com/join/aJ5PWqaR`</a>
+  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/74fee58e-823c-4795-9789-5f2cd5bdf6ad'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/acf01ace-1b2c-4e15-a491-53eb2bd34e63'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/a6e52f3f-7809-4a07-a471-805f2a3ac65f'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
+  -  ☆`1077` 
 ## Text 
  
 [back to top](#readme) 
@@ -3885,6 +3890,11 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/jesusrp98/spacex-go/master/screenshots/0.jpg'>`Screenshot 1`</a> 
   -  `2024` `flutter` `dart` 
   -  ☆`920` 
+- [Table Habit](https://github.com/FriesI23/mhabit): Offline-first micro-habit tracker
+  - <a href=https://testflight.apple.com/join/aJ5PWqaR>`https://testflight.apple.com/join/aJ5PWqaR`</a>
+  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/74fee58e-823c-4795-9789-5f2cd5bdf6ad'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/acf01ace-1b2c-4e15-a491-53eb2bd34e63'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/a6e52f3f-7809-4a07-a471-805f2a3ac65f'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
+  -  ☆`1077` 
 - [TailorMade](https://github.com/jogboms/tailor_made): Manage a fashion designer's daily routine
   -  `2023` `flutter` `dart` 
   -  ☆`336` 
