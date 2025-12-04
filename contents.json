@@ -33747,11 +33747,11 @@
       "stars": 5728,
       "updated": "2025-03-19 20:19:21 UTC"
     },
-     {
+    {
       "title": "Inferra",
       "description": "On-device local AI",
       "source": "https://github.com/sbhjt-gr/inferra",
-       "itunes": "https://apps.apple.com/app/inferra/id6754396856",
+      "itunes": "https://apps.apple.com/app/inferra/id6754396856",
       "category-ids": [
         "misc"
       ],
@@ -33763,7 +33763,31 @@
       ],
       "license": "gpl-3.0",
       "date_added": "Nov 25 2025",
-      "suggested_by": "@dkhamsing" 
-     }  
+      "suggested_by": "@dkhamsing"
+    },
+    {
+      "title": "Table Habit",
+      "description": "Offline-first micro-habit tracker",
+      "category-ids": [
+        "tasks",
+        "flutter"
+      ],
+      "homepage": "https://testflight.apple.com/join/aJ5PWqaR",
+      "source": "https://github.com/FriesI23/mhabit",
+      "itunes": "https://apps.apple.com/app/table-habit/id6744886469",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/74fee58e-823c-4795-9789-5f2cd5bdf6ad",
+        "https://github.com/user-attachments/assets/acf01ace-1b2c-4e15-a491-53eb2bd34e63",
+        "https://github.com/user-attachments/assets/a6e52f3f-7809-4a07-a471-805f2a3ac65f"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "stars": 1077,
+      "license": "apache-2.0",
+      "date_added": "Dec 4 2025",
+      "suggested_by": "@friesi23"
+    }
   ]
 }
