@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1635-green.svg) ![](https://img.shields.io/badge/Updated-December%20%204,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1635-green.svg) ![](https://img.shields.io/badge/Updated-December%2010,%202025-lightgrey.svg)
 
 Jump to
 
@@ -372,7 +372,7 @@ Jump to
   -  `2025` `swift` `core-data` 
   -  ☆`52` 
 - [Mr.Tip](https://github.com/csprasad/Mr-Tip): Designed to easily calculate tips and split bills with a simple, intuitive interface
-  -  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Light.png'>`Screenshot 1`</a>  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/Dark.png'>`Screenshot 2`</a> 
+  -  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/light.png'>`Screenshot 1`</a>  <a href='https://github.com/csprasad/Mr-Tip/raw/main/Mr.%20Tip/screenshots/dark.png'>`Screenshot 2`</a> 
   -  `2025` `swift` 
   -  ☆`1` 
 - [NeuCalc](https://github.com/YusuFKaan48/NeuCalc): Embraces the neumorphism design language to deliver a modern, soft and intuitive user experience
