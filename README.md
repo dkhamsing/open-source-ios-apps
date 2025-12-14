@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1635-green.svg) ![](https://img.shields.io/badge/Updated-December%2010,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1600,6 +1600,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pizza-man/id931174800) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c68b4414-07a0-445f-a3e0-eaa69a32a180'>`Screenshot 1`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`11` 
+- [Potato Game](https://github.com/mick-schroeder/PotatoGame): Relaxing physics-based puzzle game where players tilt the board to move emojis and merge matching ones until they create a potato
+  - <a href=https://potatogame.mickschroeder.com>`https://potatogame.mickschroeder.com`</a>
+  - [` App Store`](https://apps.apple.com/app/potato-game/id6477922776) <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot4.png'>`Screenshot 4`</a> 
+  - `swift` 
 - [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game for folks learning Swift
   -  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png'>`Screenshot 3`</a> 
   -  `2018` `swift` 
@@ -1679,6 +1683,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple30/v4/75/09/3a/75093af9-f01e-4eaa-58a7-a3ae8facfbbd/pr_source.png/314x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple30/v4/8e/9e/6b/8e9e6b52-0fb7-930a-4e2c-61101528f416/mzl.kmlrojad.png/314x0w.jpg'>`Screenshot 2`</a> 
   -  `2018` `swift` `spritekit` `gameplaykit` 
   -  ☆`23` 
+- [Potato Game](https://github.com/mick-schroeder/PotatoGame): Relaxing physics-based puzzle game where players tilt the board to move emojis and merge matching ones until they create a potato
+  - <a href=https://potatogame.mickschroeder.com>`https://potatogame.mickschroeder.com`</a>
+  - [` App Store`](https://apps.apple.com/app/potato-game/id6477922776) <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot4.png'>`Screenshot 4`</a> 
+  - `swift` 
 - [Sakura Fly](https://github.com/cl7/Sakura-Fly)
   - [` App Store`](https://apps.apple.com/app/sakura-fly/id1019023051) <a href='https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif'>`Screenshot 1`</a> 
   -  `2019` `objc` 
