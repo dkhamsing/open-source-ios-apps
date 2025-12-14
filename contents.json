@@ -33788,6 +33788,24 @@
       "license": "apache-2.0",
       "date_added": "Dec 4 2025",
       "suggested_by": "@friesi23"
+    },
+    {
+      "title": "Potato Game",
+      "category-ids": ["game", "spritekit"],
+      "description": "A relaxing physics-based puzzle game where players tilt the board to move emojis and merge matching ones until they create a potato.",
+      "source": "https://github.com/mick-schroeder/PotatoGame",
+      "homepage": "https://potatogame.mickschroeder.com",
+      "itunes": "https://apps.apple.com/us/app/potato-game/id6477922776",
+      "license": "mit",
+      "tags": ["swift"],
+      "screenshots": [
+        "https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot1.png",
+        "https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot2.png",
+        "https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot3.png",
+        "https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot4.png"
+      ],
+      "date_added": "Dec 14 2025",
+      "suggested_by": "@mick-schroeder"
     }
   ]
 }
