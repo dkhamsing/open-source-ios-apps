@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2014,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202025-lightgrey.svg)
 
 Jump to
 
@@ -1444,11 +1444,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
   -  `2025` `reactnative` `typescript` 
   -  ☆`4237` 
-- [Status](https://github.com/status-im/status-mobile): Mobile OS for Ethereum
-  - <a href=https://status.im/>`https://status.im/`</a>
-  - [` App Store`](https://apps.apple.com/app/status-private-communication/id1178893006) <a href='https://status.im/img/teaser-image.png'>`Screenshot 1`</a> 
-  -  `2025` `swift` `reactnative` 
-  -  ☆`4004` 
 - [Unstoppable Wallet](https://github.com/horizontalsystems/unstoppable-wallet-ios): A fully decentralized Bitcoin, Ethereum, EOS, Binance Chain, Bitcoin Cash and DASH currency wallet
   - [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)
   -  `2025` `swift` 
