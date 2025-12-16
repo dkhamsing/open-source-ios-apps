@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2015,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2016,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3533,7 +3533,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `stable-diffusion` 
   -  ☆`502` 
-- [Inferra](https://github.com/sbhjt-gr/inferra): On-device local AI
+- [InferrLM](https://github.com/sbhjt-gr/InferrLM): On-device local AI
   - [` App Store`](https://apps.apple.com/app/inferra/id6754396856) <a href='https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875'>`Screenshot 1`</a> 
   - `react-native` 
 - [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
