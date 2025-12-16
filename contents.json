@@ -33748,9 +33748,9 @@
       "updated": "2025-03-19 20:19:21 UTC"
     },
     {
-      "title": "Inferra",
+      "title": "InferrLM",
       "description": "On-device local AI",
-      "source": "https://github.com/sbhjt-gr/inferra",
+      "source": "https://github.com/sbhjt-gr/InferrLM",
       "itunes": "https://apps.apple.com/app/inferra/id6754396856",
       "category-ids": [
         "misc"
