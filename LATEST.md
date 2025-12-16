@@ -4,7 +4,7 @@
 
 1. [Potato Game](https://github.com/mick-schroeder/PotatoGame)
 2. [Table Habit](https://github.com/FriesI23/mhabit)
-3. [Inferra](https://github.com/sbhjt-gr/inferra)
+3. [InferrLM](https://github.com/sbhjt-gr/InferrLM)
 4. [Enchanted](https://github.com/gluonfield/enchanted)
 5. [Ultralytics YOLO](https://github.com/ultralytics/yolo-ios-app)
 6. [BetterBlue](https://github.com/schmidtwmark/BetterBlue)
