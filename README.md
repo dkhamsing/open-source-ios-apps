@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1636-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3381,6 +3381,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/YusuFKaan48/PixelWeather/assets/111217286/b2d03a5a-ee9b-4ee6-8275-f3e7c26b7601'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`18` 
+- [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` 
 - [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
   - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
@@ -3878,6 +3881,9 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
   -  ☆`190` 
+- [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` 
 - [Sandwhich](https://github.com/MotionMobs/Sandwhich): Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning
   -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
   -  `2019` `flutter` `dart` `python` 
