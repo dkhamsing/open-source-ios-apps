@@ -33817,6 +33817,27 @@
       "suggested_by": "@mick-schroeder",
       "stars": 1,
       "updated": "2025-12-18 15:03:19 UTC"
+    },
+    {
+      "title": "RainVu",
+      "category-ids": [
+        "weather",
+        "flutter"
+      ],
+      "description": "Log rainfall from custom gauges and visualize historical data with charts",
+      "source": "https://github.com/astraen-dev/RainVu",
+      "itunes": "https://apps.apple.com/app/rainvu/id6754812264",
+      "license": "mit",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "screenshots": [
+        "https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png",
+        "https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png"
+      ],
+      "date_added": "Jan 26 2025",
+      "suggested_by": "@the-user-created"
     }
   ]
 }
