@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2018,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3238,7 +3238,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`816` 
 - [Table Habit](https://github.com/FriesI23/mhabit): Offline-first micro-habit tracker
   - <a href=https://testflight.apple.com/join/aJ5PWqaR>`https://testflight.apple.com/join/aJ5PWqaR`</a>
-  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/74fee58e-823c-4795-9789-5f2cd5bdf6ad'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/acf01ace-1b2c-4e15-a491-53eb2bd34e63'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/a6e52f3f-7809-4a07-a471-805f2a3ac65f'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/4e5d2110-52fa-430d-a956-1027c98cd5e9'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`1109` 
 ## Text 
@@ -3904,7 +3904,7 @@ https://flutter.dev — [back to top](#readme)
   -  ☆`920` 
 - [Table Habit](https://github.com/FriesI23/mhabit): Offline-first micro-habit tracker
   - <a href=https://testflight.apple.com/join/aJ5PWqaR>`https://testflight.apple.com/join/aJ5PWqaR`</a>
-  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/74fee58e-823c-4795-9789-5f2cd5bdf6ad'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/acf01ace-1b2c-4e15-a491-53eb2bd34e63'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/a6e52f3f-7809-4a07-a471-805f2a3ac65f'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/table-habit/id6744886469) <a href='https://github.com/user-attachments/assets/4e5d2110-52fa-430d-a956-1027c98cd5e9'>`Screenshot 1`</a> 
   -  `2025` `flutter` `dart` 
   -  ☆`1109` 
 - [TailorMade](https://github.com/jogboms/tailor_made): Manage a fashion designer's daily routine
