@@ -9900,7 +9900,7 @@
       "tags": [
         "openstreetmap api"
       ],
-      "description": "Offline maps with navigation",
+      "description": "Privacy-focused, free offline maps & GPS app with navigation for hiking, cycling, biking, and driving",
       "license": "apache-2.0",
       "source": "https://github.com/organicmaps/organicmaps",
       "homepage": "https://organicmaps.app/",
