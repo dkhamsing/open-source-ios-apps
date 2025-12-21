@@ -20499,8 +20499,8 @@
       "category-ids": [
         "security"
       ],
-      "description": "VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server",
-      "source": "https://github.com/Jigsaw-Code/outline-apps",
+      "description": "VPN designed for use with Outline Server, compatible Shadowsocks",
+      "source": "https://github.com/OutlineFoundation/outline-apps",
       "homepage": "https://getoutline.org",
       "license": "apache-2.0",
       "tags": [
