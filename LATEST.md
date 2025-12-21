@@ -61,7 +61,7 @@
 24. [Home Assistant Companion](https://github.com/home-assistant/iOS)
 25. [openHAB](https://github.com/openhab/openhab-ios)
 26. [Pocket Casts](https://github.com/Automattic/pocket-casts-ios)
-27. [Outline](https://github.com/Jigsaw-Code/outline-apps)
+27. [Outline](https://github.com/OutlineFoundation/outline-apps)
 28. [Logseq](https://github.com/logseq/logseq)
 29. [WordPress](https://github.com/wordpress-mobile/WordPress-iOS)
 30. [FeedFlow](https://github.com/prof18/feed-flow)
