@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2019,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202025-lightgrey.svg)
 
 Jump to
 
@@ -3050,7 +3050,7 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/orbot/id1609461599)
   -  `2025` `swift` 
   -  ☆`273` 
-- [Outline](https://github.com/Jigsaw-Code/outline-apps): VPN designed for use with the Outline Server software, but fully compatible with any Shadowsocks server
+- [Outline](https://github.com/OutlineFoundation/outline-apps): VPN designed for use with Outline Server, compatible Shadowsocks
   - <a href=https://getoutline.org>`https://getoutline.org`</a>
   -  `2025` `cordova` 
   -  ☆`9014` 
