@@ -9893,7 +9893,7 @@
       "updated": "2016-10-07 13:32:53 UTC"
     },
     {
-      "title": "MAPS.ME",
+      "title": "Organic Maps",
       "category-ids": [
         "location"
       ],
@@ -9902,20 +9902,19 @@
       ],
       "description": "Offline maps with navigation",
       "license": "apache-2.0",
-      "source": "https://github.com/mapsme/omim",
-      "homepage": "https://maps.me/",
-      "itunes": "https://apps.apple.com/app/id510623322",
-      "stars": 4601,
-      "date_added": "Tue May 31 22:24:50 2016 -0600",
-      "suggested_by": "@scribblemaniac",
+      "source": "https://github.com/organicmaps/organicmaps",
+      "homepage": "https://organicmaps.app/",
+      "itunes": "https://apps.apple.com/app/organic-maps/id1567437057",
+      "stars": 12352,
+      "date_added": "Sun Dec 21 22:06:50 2025 +0100",
+      "suggested_by": "@biodranik",
       "screenshots": [
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/85/64/7c/85647c5e-1c4d-f8f4-6413-e9f641eb07bf/pr_source.png/460x0w.jpg",
-        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/70/fd/9970fdf6-5d94-2792-ebfa-55b3b4c95470/mzl.baklobvl.png/460x0w.jpg",
-        "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/47/be/f7/47bef70a-fdb2-a694-a20c-2dadadd3db64/mzl.nguxiret.png/460x0w.jpg",
-        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/dc/74/eddc74d6-8734-04a0-ddf6-30cc8b6baa97/mzl.jnhpyhtf.png/460x0w.jpg",
-        "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/10/fb/5b/10fb5be5-23e8-7788-eb83-1168e3b2585d/mzl.oukftvjn.jpg/460x0w.jpg"
+        "https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg",
+        "https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/2.jpg",
+        "https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/3.jpg",
+        "https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/4.jpg"
       ],
-      "updated": "2022-10-05 00:36:11 UTC"
+      "updated": "2025-12-21 22:06:50 UTC"
     },
     {
       "title": "Molecules",
