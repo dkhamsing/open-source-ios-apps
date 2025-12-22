@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1637-green.svg) ![](https://img.shields.io/badge/Updated-December%2021,%202025-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1638-green.svg) ![](https://img.shields.io/badge/Updated-December%2022,%202025-lightgrey.svg)
 
 Jump to
 
@@ -657,6 +657,11 @@ Jump to
   -  <a href='https://github.com/cloverstudio/Spika/raw/master/spika_demo_new.gif'>`Screenshot 1`</a> 
   -  `2018` `afnetworking` `sdwebimage` 
   -  ☆`611` 
+- [Swiftgram](https://source.swiftgram.app/): Supercharged Telegram experience. Feature-rich, unlocked and secure fork with 50+ settings.
+  - <a href=https://swiftgram.app/>`https://swiftgram.app/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6471879502) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2b/f6/e6/2bf6e6f6-cf6c-7732-a16c-553da0f0ceb2/19196428-c297-4771-b0c9-a977a6271a85_1.png/460x998bb-60.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d3/b3/92/d3b392dc-5a28-1b8e-f132-a010b6289de1/8b573941-0a41-40f9-b72c-27d03bafa8c4_2.jpg/460x998bb-60.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d1/10/81/d11081df-c27f-7e3f-641e-f20ee4fba2f0/742216e5-1312-4da0-ada5-50f709410a96_5.png/460x998bb-60.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a1/62/88/a16288b8-a49d-f5b6-e39d-eb8033ba2d64/199ca24d-ce35-4b33-b8cd-fca59124556f_4.jpg/460x998bb-60.jpg'>`Screenshot 4`</a> 
+  - `swift` `c` `objc` 
+  -  ☆`395` 
 - [Telegram](https://github.com/TelegramMessenger/Telegram-iOS): Send messages with a focus on speed & security
   - [` App Store`](https://apps.apple.com/app/telegram-messenger/id686449807) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/72/35/fb/7235fb9a-07fd-97f1-31f1-b4810f7cd1ca/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a2/e3/b4/a2e3b456-fdbc-77e6-d3f4-21e3d5998a79/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/78/8d/f5/788df564-08d5-40fc-b18c-d153de535b35/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/89/cf/cd/89cfcd2f-98dd-cbc0-e730-c7cb1854928c/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/6b/23/8e6b239b-28b1-bbe2-f89c-f9e6ea9969b1/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `swift` `c` `objc` 
