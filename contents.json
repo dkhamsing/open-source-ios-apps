@@ -33840,8 +33840,8 @@
       "title": "Swiftgram",
       "category-ids": ["communication"],
       "description": "Supercharged Telegram experience. Feature-rich, unlocked and secure fork with 50+ settings.",
-      "source": "https://source.swiftgram.app/",
-      "homepage": "https://swiftgram.app/",
+      "source": "https://github.com/Swiftgram/Telegram-iOS",
+      
       "itunes": "https://apps.apple.com/app/id6471879502",
       "license": "gpl-2.0",   
       "stars": 395,     
