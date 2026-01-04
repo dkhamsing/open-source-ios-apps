@@ -10634,9 +10634,8 @@
     {
       "title": "Organic Maps",
       "category-ids": [
-        "location",
-        "travel",
-        "macos"
+        "location"
+        
       ],
       "tags": [
         "openstreetmap api",
