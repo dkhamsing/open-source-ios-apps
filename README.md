@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%205,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3356,11 +3356,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Flight Search](https://github.com/MarcinusX/flutter_ui_challenge_flight_search)
   -  `2021` `flutter` `dart` 
   -  ☆`997` 
-- [Organic Maps](https://github.com/organicmaps/organicmaps): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
-  - <a href=https://organicmaps.app/>`https://organicmaps.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/4.jpg'>`Screenshot 4`</a> 
-  - `swift` `openstreetmap api` `c++` `objective-c++` 
-  -  ☆`12352` 
 - [Themoji](https://github.com/themoji/ios): Use Emojis to communicate while traveling
   - <a href=https://themoji.me/>`https://themoji.me/`</a>
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
@@ -4042,11 +4037,6 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
   -  ☆`6524` 
-- [Organic Maps](https://github.com/organicmaps/organicmaps): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
-  - <a href=https://organicmaps.app/>`https://organicmaps.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/4.jpg'>`Screenshot 4`</a> 
-  - `swift` `openstreetmap api` `c++` `objective-c++` 
-  -  ☆`12352` 
 - [ProtonVPN](https://github.com/ProtonVPN/ios-mac-app)
   - <a href=https://protonvpn.com/>`https://protonvpn.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
