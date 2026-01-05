@@ -9898,7 +9898,7 @@
         "location"
       ],
       "tags": [
-        "openstreetmap api"
+        "openstreetmap api", "archive"
       ],
       "description": "Offline maps with navigation",
       "license": "apache-2.0",
