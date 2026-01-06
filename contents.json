@@ -7155,7 +7155,7 @@
         "misc"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "HP-41C/CV/CX Microcode emulator",
       "source": "https://github.com/mperovic/my41",
