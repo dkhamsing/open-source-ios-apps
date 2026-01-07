@@ -1625,7 +1625,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`17408` 
 - [Critical Maps](https://github.com/criticalmaps/criticalmaps-ios): Organise the monthly critical mass movement around the world
   - <a href=https://www.criticalmaps.net>`https://www.criticalmaps.net`</a>
-  - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://www.criticalmaps.net/assets/images/app-ios-dark.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`309` 
 ### Mastodon 
