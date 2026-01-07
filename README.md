@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3182,7 +3182,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`17408` 
 - [Critical Maps](https://github.com/criticalmaps/criticalmaps-ios): Organise the monthly critical mass movement around the world
   - <a href=https://www.criticalmaps.net>`https://www.criticalmaps.net`</a>
-  - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://www.criticalmaps.net/assets/images/app-ios-dark.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`309` 
 - [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
