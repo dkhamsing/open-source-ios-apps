@@ -1057,7 +1057,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  ☆`17` 
 - [Organic Maps](https://github.com/organicmaps/organicmaps): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
   - <a href=https://organicmaps.app/>`https://organicmaps.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/4.jpg'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/user-attachments/assets/e276770c-1a13-4185-8bd2-a0946f4926ac'>`Screenshot 1`</a> 
   - `swift` `openstreetmap api` `c++` `objective-c++` 
   -  ☆`12352` 
 - [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps
