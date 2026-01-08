@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -480,7 +480,7 @@ Jump to
   -  `2025` `swift` `swiftui` `firebase` 
   -  ☆`523` 
 - [Messenger Clone](https://github.com/dopebase/messenger-iOS-chat-swift-firestore): Real-time chat
-  -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/dopebase/assets/refs/heads/main/apps/swift/swift-ios-chat-firebase-realtime/swift-ios-chat-firebase-realtime-app-chat-screen.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `firebase` `firestore` 
   -  ☆`790` 
 - [Netflix UI](https://github.com/saulsharma/netflix-ui)
@@ -617,7 +617,7 @@ Jump to
   -  `2024` `swift` `graphql` 
   -  ☆`4800` 
 - [Messenger Clone](https://github.com/dopebase/messenger-iOS-chat-swift-firestore): Real-time chat
-  -  <a href='https://iosapptemplates.com/wp-content/uploads/2018/09/swift-ios-chat-app-threads.png'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/dopebase/assets/refs/heads/main/apps/swift/swift-ios-chat-firebase-realtime/swift-ios-chat-firebase-realtime-app-chat-screen.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `firebase` `firestore` 
   -  ☆`790` 
 - [Monal](https://github.com/monal-im/Monal): Connect to your chat server without having to give a third party access to your password or messages
@@ -2008,7 +2008,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  ☆`17` 
 - [Organic Maps](https://github.com/organicmaps/organicmaps): Privacy-focused, ads-free, donation-based offline maps & GPS app with navigation for hiking, cycling, biking, and driving
   - <a href=https://organicmaps.app/>`https://organicmaps.app/`</a>
-  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/organicmaps/organicmaps/blob/master/android/app/src/fdroid/play/listings/en-US/graphics/phone-screenshots/4.jpg'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/organic-maps/id1567437057) <a href='https://github.com/user-attachments/assets/e276770c-1a13-4185-8bd2-a0946f4926ac'>`Screenshot 1`</a> 
   - `swift` `openstreetmap api` `c++` `objective-c++` 
   -  ☆`12352` 
 - [OsmAnd Maps](https://github.com/osmandapp/Osmand): Map with access to OpenStreetMaps
