@@ -342,6 +342,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Major Input](https://github.com/rlwimi/major-input)
 - [Malendar](https://github.com/croossin/Malendar)
 - [MapBox Earth](https://github.com/mapbox/mapbox-earth)
+- [MAPS.ME](https://github.com/mapsme/omim)
 - [Mast](https://github.com/ShihabMe/Mast2)
 - [Master](https://github.com/Kjuly/iPokeMon)
 - [Math Quest](https://github.com/AdnanZahid/Math-Quest-iOS)
