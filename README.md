@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1996,11 +1996,6 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - [Landmarks](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views): Discover and share places you love
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b86fb1dd-b11d-4254-bed7-cd6a81545710'>`Screenshot 1`</a> 
   - `swift` `swiftui` `mapkit` 
-- [MAPS.ME](https://github.com/mapsme/omim): Offline maps with navigation
-  - <a href=https://maps.me/>`https://maps.me/`</a>
-  - [` App Store`](https://apps.apple.com/app/id510623322) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/85/64/7c/85647c5e-1c4d-f8f4-6413-e9f641eb07bf/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/99/70/fd/9970fdf6-5d94-2792-ebfa-55b3b4c95470/mzl.baklobvl.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/47/be/f7/47bef70a-fdb2-a694-a20c-2dadadd3db64/mzl.nguxiret.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ed/dc/74/eddc74d6-8734-04a0-ddf6-30cc8b6baa97/mzl.jnhpyhtf.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/10/fb/5b/10fb5be5-23e8-7788-eb83-1168e3b2585d/mzl.oukftvjn.jpg/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2022` `openstreetmap api` 
-  -  ☆`4601` 
 - [Miataru](https://github.com/miataru/miataru-ios-client): Location tracking where data can be shared over public or private servers
   - <a href=https://miataru.com/ios/>`https://miataru.com/ios/`</a>
   - [` App Store`](https://apps.apple.com/app/id717539389) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/6a/b0/f6/6ab0f684-a286-16d9-199d-89b4307590ac/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/64/49/47/64494743-7090-202f-344d-4d1750755ac4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/1d/31/e6/1d31e607-ebbc-8dda-7b48-d4361667e152/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/85/f6/a1/85f6a122-2962-a4be-126e-f2c97804caaf/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -2538,7 +2533,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  `2024` `swift` 
   -  ☆`8` 
 - [Pushpin for Pinboard](https://github.com/lionheart/Pushpin): A client for the Pinboard.in bookmarking service
-  - [` App Store`](https://apps.apple.com/app/pushpin-for-pinboard/id548052590) <a href='https://camo.githubusercontent.com/ee9665d8adf0fb6007d274f58bc8ad6fb96e5781b1e5e0f92eb75924e0f7fb1c/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d312e706e67'>`Screenshot 1`</a>  <a href='https://camo.githubusercontent.com/f201929ac7e7faff2a9dc6138d4006e9cb818030896d90862e827042511c58ec/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d322e706e67'>`Screenshot 2`</a>  <a href='https://camo.githubusercontent.com/e6abdd17ee52245c1e7d6e91bf9437d0534699b5ce148b9c41f707d07299b84d/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d332e706e67'>`Screenshot 3`</a>  <a href='https://camo.githubusercontent.com/a53adf40cb03fb25a7a9bb4d401061593fc2554ccd944c1ffbe8379eee3acdc4/68747470733a2f2f323031372e6c696f6e686561727473772e636f6d2f7374617469632f696d616765732f7075736870696e2d342e706e67'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/pushpin-for-pinboard/id548052590) <a href='https://2017.lionheartsw.com/static/images/pushpin-1.png'>`Screenshot 1`</a>  <a href='https://2017.lionheartsw.com/static/images/pushpin-2.png'>`Screenshot 2`</a>  <a href='https://2017.lionheartsw.com/static/images/pushpin-3.png'>`Screenshot 3`</a>  <a href='https://2017.lionheartsw.com/static/images/pushpin-4.png'>`Screenshot 4`</a> 
   -  `2025` `objc` 
   -  ☆`48` 
 - [reddit-swiftui](https://github.com/carson-katri/reddit-swiftui): Cross-platform Reddit client
