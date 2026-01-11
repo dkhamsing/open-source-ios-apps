@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3884,10 +3884,6 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
   -  `2019` `flutter` `dart` `python` 
   -  ☆`153` 
-- [ShortenMyURL](https://github.com/ritwiktakkar/shorten_my_URL): Elegant URL shortener
-  - [` App Store`](https://apps.apple.com/app/shortenmyurl/id1525888533) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/94/9b/c8/949bc8bc-f8fb-af21-8bcb-1f596fdce4f7/aca0b7be-ac6b-40f2-8ac4-19ead656befd_screenshots-6.5.001.jpeg/600x0w.webp'>`Screenshot 1`</a> 
-  -  `2025` `flutter` `dart` 
-  -  ☆`7` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
   -  `2022` `flutter` `dart` 
   -  ☆`179` 
