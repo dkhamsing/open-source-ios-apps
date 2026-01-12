@@ -14736,7 +14736,7 @@
         "apple-watch"
       ],
       "screenshots": [
-        "https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true"
+        "https://raw.githubusercontent.com/gabrieloc/GIOVANNI/refs/heads/master/gameplay.gif"
       ],
       "tags": [
         "swift"
