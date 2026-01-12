@@ -385,6 +385,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [My First Memory](https://github.com/Sajjon/SwiftIntro)
 - [my41](https://github.com/mperovic/my41)
 - [MyAwesomeChecklist](https://github.com/imod/MyAwesomeChecklist)
+- [MyWeight History](https://github.com/diogot/MyWeight)
 - [NatsuLion](https://github.com/takuma104/ntlniph)
 - [Natural Language Clock](https://github.com/chadkeck/Natural-Language-Clock)
 - [NaughtyKeyboard](https://github.com/Palleas/NaughtyKeyboard)
