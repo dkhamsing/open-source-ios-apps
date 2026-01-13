@@ -698,8 +698,8 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/betbudd/id1661151432) <a href='https://github.com/bigjermaine/SwiftTracker/assets/113020989/8cd7016f-3dcf-48ff-bde4-272264f486c5'>`Screenshot 1`</a>  <a href='https://github.com/bigjermaine/SwiftTracker/assets/113020989/03516bb2-1217-4557-a3d7-37b95e4bda30'>`Screenshot 2`</a> 
   -  `2025` `swift` 
   -  ☆`100` 
-- [Dime](https://github.com/rarfell/dimeApp): Beautiful expense tracker built with Apple design guidelines in mind
-  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rarfell/dimeApp/blob/main/docs/assets/hero.png?raw=true'>`Screenshot 1`</a> 
+- [Dime](https://github.com/rafsoh/dimeApp): Beautiful expense tracker built with Apple design guidelines in mind
+  - [` App Store`](https://apps.apple.com/app/dime-budget-expense-tracker/id1635280255) <a href='https://github.com/rafsoh/dimeApp/blob/main/docs/assets/hero.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`1276` 
 - [My Assets](https://github.com/256Arts/My-Assets): Track your money going in and out, with this simple birds-eye-view of your finances
