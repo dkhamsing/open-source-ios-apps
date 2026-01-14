@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202026-lightgrey.svg)
 
 Jump to
 
@@ -231,7 +231,7 @@ Jump to
   -  `2019` `objc` 
   -  ☆`171` 
 - [Giovanni](https://github.com/gabrieloc/GIOVANNI): Gameboy emulator for the Apple Watch
-  -  <a href='https://github.com/gabrieloc/GIOVANNI/blob/master/gameplay.gif?raw=true'>`Screenshot 1`</a> 
+  -  <a href='https://raw.githubusercontent.com/gabrieloc/GIOVANNI/refs/heads/master/gameplay.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`958` 
 - [GitHub Contributions](https://github.com/remirobert/Github-contributions)
