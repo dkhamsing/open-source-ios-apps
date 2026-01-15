@@ -12649,7 +12649,7 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "source": "https://github.com/fangwei716/30-days-of-react-native",
       "license": "mit",
