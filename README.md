@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -429,7 +429,7 @@ Jump to
   -  `2022` `objc` 
   -  ☆`17` 
 - [Off-Day](https://github.com/zizicici/Off-Day): Holiday alarm clock
-  - [` App Store`](https://apps.apple.com/app/off-day/id6501973975) <a href='https://camo.githubusercontent.com/0f5409278cbafb73c16f0ac3a76d2d8d7ebeb93bbc00a7f638c7fab648f59380/68747470733a2f2f692e763265782e636f2f30534c37356256642e706e67'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/off-day/id6501973975) <a href='https://i.v2ex.co/0SL75bVd.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`313` 
 ## Clone 
