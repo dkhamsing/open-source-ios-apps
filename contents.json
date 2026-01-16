@@ -33882,6 +33882,18 @@
       ],
       "date_added": "Dec 21 2025",
       "suggested_by": "@Kylmakalle"
+    },
+    {
+      "title": "Atwy",
+      "category-ids": ["video", "media", "clone"],
+      "description": "An App to Watch YouTube, with no ads and a lot of features",
+      "source": "https://github.com/b5i/Atwy",
+      "lang": "en",     
+      "stars": 41,     
+      "tags": ["swift", "youtube"],
+      "screenshots": ["https://pbs.twimg.com/media/F8Bb6h9XAAE05jU?format=jpg"],
+      "date_added": "Jan 15 2026",
+      "suggested_by": "@b5i"
     }
   ]
 }
