@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1639-green.svg) ![](https://img.shields.io/badge/Updated-January%2015,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2017,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2455,6 +2455,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/hanton/Fisheye/master/Screenshot/PlayDemo.gif'>`Screenshot 1`</a> 
   -  `2023` `iphone` `ipad` 
   -  ☆`2189` 
+- [Atwy](https://github.com/b5i/Atwy): Watch YouTube with no ads and a lot of features
+  -  <a href='https://pbs.twimg.com/media/F8Bb6h9XAAE05jU?format=jpg'>`Screenshot 1`</a> 
+  - `swift` `youtube` 
+  -  ☆`41` 
 - [DownTube](https://github.com/MrAdamBoyd/DownTube): Download videos from YouTube for offline use
   -  <a href='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot2.png'>`Screenshot 2`</a> 
   -  `2019` `swift` 
