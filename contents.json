@@ -33641,10 +33641,7 @@
       "source": "https://github.com/Akylas/oss-weather",
       "itunes": "https://apps.apple.com/app/oss-weather/id1499117252",
       "screenshots": [
-        "https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/0_APP_IPHONE_67_0.jpg",
-        "https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/1_APP_IPHONE_67_1.jpg",
-        "https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/3_APP_IPHONE_67_3.jpg",
-        "https://raw.githubusercontent.com/Akylas/oss-weather/refs/heads/master/fastlane/metadata/ios/screenshots/en-US/2_APP_IPHONE_67_2.jpg"
+        "https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b"
       ],
       "license": "mit",
       "suggested_by": "@joslajoko",
