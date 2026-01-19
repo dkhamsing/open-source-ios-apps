@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2018,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2794,10 +2794,6 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [30 days of React Native demos](https://github.com/fangwei716/30-days-of-react-native)
-  -  <a href='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'>`Screenshot 1`</a> 
-  -  `2018` `react-native` 
-  -  ☆`6890` 
 - [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
   -  `2023` `swift` 
   -  ☆`8293` 
@@ -4042,10 +4038,6 @@ Cross platform projects — [back to top](#readme)
 https://facebook.github.io/react-native/ — [back to top](#readme) 
  
 
-- [30 days of React Native demos](https://github.com/fangwei716/30-days-of-react-native)
-  -  <a href='https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif'>`Screenshot 1`</a> 
-  -  `2018` `react-native` 
-  -  ☆`6890` 
 - [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste): Cut and paste your surroundings using AR
   -  `2023` `react-native` `arkit` 
   -  ☆`14631` 
