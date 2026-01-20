@@ -4514,7 +4514,7 @@
         "media"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Sync 2 devices & use one as a remote control for the other's camera",
       "license": "mpl-2.0",
