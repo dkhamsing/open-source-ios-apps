@@ -534,6 +534,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Scratch](https://github.com/johnmci/Scratch.app.for.iOS)
 - [Screenshotter](https://github.com/rsattar/screenshotter)
 - [SeeFood](https://github.com/kingreza/SeeFood)
+- [Selfie Stick](https://github.com/RF-Nelson/open-source-selfie-stick)
 - [SelfieAssist](https://github.com/mxcl/SelfieAssist)
 - [Send To Me](https://github.com/PiXeL16/SendToMe)
 - [Sentiments](https://github.com/kyleweiner/Sentiments)
