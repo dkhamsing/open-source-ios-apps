@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2080,10 +2080,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2025` `react-native` 
   -  ☆`15668` 
-- [Selfie Stick](https://github.com/RF-Nelson/open-source-selfie-stick): Sync 2 devices & use one as a remote control for the other's camera
-  - [` App Store`](https://apps.apple.com/app/id1084487132) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/ad/60/9bad60df-6399-bac0-b8c3-83bce2072273/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/56/f2/0e/56f20eb8-420b-eaff-bf6a-99eaf4b1b05a/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
-  -  `2017` `objc` 
-  -  ☆`53` 
 - [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
   - <a href=https://novinfard.com>`https://novinfard.com`</a>
   - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
