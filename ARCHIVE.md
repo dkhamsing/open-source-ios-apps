@@ -568,6 +568,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Spare Parts](https://github.com/adamwulf/spare-parts-app)
 - [SparkleShare](https://github.com/darvin/SparkleShare-iOS)
 - [Speak](https://github.com/opensourceios/speakability)
+- [Spika](https://github.com/cloverstudio/Spika)
 - [Spontaneous - Random quotes](https://github.com/opensourceios/DiscoverRandomQuotes)
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts)
 - [Standard Notes](https://github.com/standardnotes/mobile)
