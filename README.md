@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2021,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202026-lightgrey.svg)
 
 Jump to
 
@@ -294,10 +294,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/kuglee/TermiWatch/master/Screenshots/44mm.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`2213` 
-- [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
-  -  `2018` `swift` `toucan` `realm` 
-  -  ☆`138` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
   -  <a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -1125,10 +1121,6 @@ Jump to
   -  <a href='https://github.com/jogendra/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'>`Screenshot 1`</a> 
   -  `2018` `swift` 
   -  ☆`12` 
-- [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
-  -  `2018` `swift` `toucan` `realm` 
-  -  ☆`138` 
 - [try! Swift Tokyo](https://github.com/tryswift/trySwiftAppFinal)
   -  <a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `timepiece` `realm` `kingfisher` `acknowlist` 
@@ -4214,10 +4206,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `parse` 
   -  ☆`616` 
-- [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f0740ff3-b5e2-4ee7-8cab-9f1310af829f'>`Screenshot 1`</a> 
-  -  `2018` `swift` `toucan` `realm` 
-  -  ☆`138` 
 - [try! Swift Tokyo](https://github.com/tryswift/trySwiftAppFinal)
   -  <a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `timepiece` `realm` `kingfisher` `acknowlist` 
