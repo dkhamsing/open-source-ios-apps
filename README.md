@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2022,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2023,%202026-lightgrey.svg)
 
 Jump to
 
@@ -286,10 +286,6 @@ Jump to
   -  <a href='https://hccdata.s3.amazonaws.com/gh_spritekitwatchface.jpg'>`Screenshot 1`</a> 
   -  `2019` `objc` `spritekit` 
   -  ☆`1146` 
-- [Summon](https://github.com/eonist/summon): Summon another person to an exact location within a building with an Apple Watch
-  -  <a href='https://raw.githubusercontent.com/stylekit/img/master/summon_deck_dark_5.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`274` 
 - [TermiWatch](https://github.com/kuglee/TermiWatch): A terminal face for Apple Watch
   -  <a href='https://raw.githubusercontent.com/kuglee/TermiWatch/master/Screenshots/44mm.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
