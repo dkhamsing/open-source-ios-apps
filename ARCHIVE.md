@@ -584,6 +584,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Sudoku](https://github.com/christopherdro/react-native-sudoku)
 - [SudokuBreaker](https://github.com/popei69/SudokuBreaker)
 - [SudokuResolv](https://github.com/Haoest/SudokuResolv)
+- [Summon](https://github.com/eonist/summon)
 - [Superday](https://github.com/opensourceios/superday)
 - [surespot](https://github.com/opensourceios/surespot-ios)
 - [Swab](https://github.com/pkamb/swab)
