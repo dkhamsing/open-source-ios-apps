@@ -527,6 +527,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SafeTimer](https://github.com/Chubby-Apps/SafeTimer)
 - [Sansumoku](https://github.com/opensourceios/sansumoku)
 - [Santa Tracker](https://github.com/keitaito/RealmSantaTracker)
+- [Savanna](https://github.com/louisdh/savanna)
 - [Savings Assistant](https://github.com/chrisamanse/savings-assistant)
 - [SceneKitFrogger](https://github.com/devindazzle/SceneKitFrogger)
 - [Science Journal](https://github.com/googlearchive/science-journal-ios)
