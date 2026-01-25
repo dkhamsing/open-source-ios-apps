@@ -375,6 +375,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Moves](https://github.com/neonichu/Places)
 - [Movies](https://github.com/facebook/react-native/tree/d2fc08d33b2c89812d1871f8b786d666207ed362/Examples/Movies)
 - [mPower](https://github.com/ResearchKit/mPower)
+- [MrCode](https://github.com/haolloyin/MrCode)
 - [Mugician](https://github.com/rfielding/Mugician)
 - [MultiBuddy](https://github.com/opensourceios/multi)
 - [Mume](https://github.com/opensourceios/Mume)
