@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -898,10 +898,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2024` `swift` `ipad` 
   -  ☆`673` 
-- [MobileTerminal](https://github.com/steventroughtonsmith/MobileTerminal): Proof-of-concept for sandboxed Terminal environment
-  -  <a href='https://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg'>`Screenshot 1`</a> 
-  -  `2018` `c` `dlopen` 
-  -  ☆`197` 
 - [SwiftTerm](https://github.com/migueldeicaza/SwiftTerm): VT100/Xterm Terminal emulator
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
