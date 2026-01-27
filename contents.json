@@ -14304,7 +14304,7 @@
       ],
       "tags": [
         "c",
-        "dlopen"
+        "dlopen", "archive"
       ],
       "screenshots": [
         "https://hccdata.s3.amazonaws.com/gh_mobileterm_1.jpg"
