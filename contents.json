@@ -4970,7 +4970,7 @@
         "content"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "An xkcd comic reader",
       "source": "https://github.com/mamaral/xkcd-Open-Source",
