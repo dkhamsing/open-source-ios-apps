@@ -706,6 +706,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Wunderschnell](https://github.com/contentful-graveyard/Wunderschnell)
 - [WWDC Family](https://github.com/Foreverland/ios)
 - [WWDCTV](https://github.com/azzoor/WWDCTV)
+- [xkcd Open Source](https://github.com/mamaral/xkcd-Open-Source)
 - [XPilot](https://7b5labs.com/xpilot.git/)
 - [YaleMobile](https://github.com/kiokoo/YaleMobile)
 - [Yep](https://github.com/CatchChat/Yep)
