@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2029,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1640-green.svg) ![](https://img.shields.io/badge/Updated-January%2031,%202026-lightgrey.svg)
 
 Jump to
 
@@ -943,10 +943,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/flippy-learn-word-flashcards/id1479486387) <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy1.png'>`Screenshot 1`</a>  <a href='https://github.com/misteu/VocabularyTraining/raw/master/screenshots/flippy7.png'>`Screenshot 2`</a> 
   -  `2025` `swift` 
   -  ☆`28` 
-- [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards): Create stacks of flashcards and review them on their iPad, iPhone, or Apple Watch
-  -  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple82/v4/c7/52/24/c7522479-fb2a-3667-7d62-5351dc064423/mzl.swmmmbqv.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/2e/ce/1c/2ece1c19-0322-4855-495f-bf6d330e85d5/mzl.vusqxtss.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c9/15/e2/c915e243-0276-f089-195d-f9bb0647025e/mzl.rvnqhird.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/dd/2d/bb/dd2dbb29-2c60-e6cd-9a4d-e90781d04382/mzl.hrjdrozv.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple111/v4/58/c6/e0/58c6e0ed-5be7-6320-ce72-084232f6a29f/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2018` `swift` `realm` `watchos` `cloudkit` `spotlight` 
-  -  ☆`73` 
 - [GradeCalc - GPA Calculator](https://github.com/marlon360/grade-calc): Keep track of your GPA
   - [` App Store`](https://apps.apple.com/app/gradecalc-gpa-calculator/id1502912052) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/61/9f/db/619fdbda-62aa-375b-0439-ae7b4d78e772/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9b/8e/39/9b8e3998-3d53-0879-8862-416b6e29dea1/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/42/36/b3/4236b384-f641-3934-6272-a7fb3c61463c/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
