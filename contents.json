@@ -10612,6 +10612,28 @@
       ],
       "updated": "2025-05-20 11:11:59 UTC"
     },
+      {
+        "title": "CoreMLHelpers",
+        "category-ids": [
+          "education",
+          "developer"
+        ],
+        "description": "Swift helper library that simplifies working with Core ML models in iOS apps.",
+        "source": "https://github.com/hollance/CoreMLHelpers",
+        "itunes": "",
+        "stars": 1400,
+        "license": "mit",
+        "tags": [
+          "swift",
+          "coreml",
+          "machine-learning",
+          "ios"
+        ],
+        "screenshots": [],
+        "date_added": "Feb 01 2026",
+        "suggested_by": "@ANU5565",
+        "updated": "2026-02-01 12:00:00 UTC"
+      },
     {
       "title": "Seafile Pro",
       "category-ids": [
@@ -33920,4 +33942,5 @@
       "updated": "2026-01-18 12:28:07 UTC"
     }
   ]
+  
 }
