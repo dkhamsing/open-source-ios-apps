@@ -12095,6 +12095,16 @@
       "stars": 11,
       "updated": "2013-02-03 10:19:26 UTC"
     },
+      {
+        "title": "ObjectDetection-CoreML",
+        "category-ids": ["machine-learning", "camera"],
+        "tags": ["swift", "coreml", "vision"],
+        "description": "Real-time object detection iOS app using Core ML and Vision",
+        "source": "https://github.com/tucan9389/ObjectDetection-CoreML",
+        "license": "mit",
+        "date_added": "2026-02-02",
+        "suggested_by": "@ANU5565"
+      },
     {
       "title": "Element",
       "category-ids": [
