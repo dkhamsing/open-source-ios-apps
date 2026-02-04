@@ -301,6 +301,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOS 8 Sampler](https://github.com/shu223/iOS8-Sampler)
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler)
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo)
+- [iOSDCRC](https://github.com/fromkk/iOSDCRC)
 - [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera)
 - [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
