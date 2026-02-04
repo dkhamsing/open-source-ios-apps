@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1079,9 +1079,6 @@ Jump to
 - [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits & regular meetups
   -  `2020` `swift` 
   -  ☆`1581` 
-- [iOSDCRC](https://github.com/fromkk/iOSDCRC): iOSDC Reject Conference
-  -  `2018` `swift` `twitter` 
-  -  ☆`16` 
 - [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios): Event management app for organizers using Open Event Platform
   -  `2023` `swift` `alamofire` `swiftlint` `objectmapper` 
   -  ☆`1506` 
