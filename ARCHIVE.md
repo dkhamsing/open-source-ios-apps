@@ -229,6 +229,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Forecast](https://github.com/richardxyx/Forecast)
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
 - [fosdem](https://github.com/leonhandreke/fosdem)
+- [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios)
 - [Frame Grabber](https://github.com/arthurhammer/FrameGrabber)
 - [Frameless](https://github.com/stakes/Frameless)
 - [Free42](https://github.com/opensourceios/free42)
