@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%205,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1076,9 +1076,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/droidcon-nyc-2019/id1477469914) <a href='https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg'>`Screenshot 1`</a> 
   -  `2026` `kotlin` 
   -  ☆`1128` 
-- [FOSSASIA](https://github.com/fossasia/open-event-attendee-ios): Organize concerts, conferences, summits & regular meetups
-  -  `2020` `swift` 
-  -  ☆`1581` 
 - [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios): Event management app for organizers using Open Event Platform
   -  `2023` `swift` `alamofire` `swiftlint` `objectmapper` 
   -  ☆`1506` 
