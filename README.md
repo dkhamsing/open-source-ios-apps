@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1087,10 +1087,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen2.png'>`Screenshot 2`</a> 
   -  `2019` `swift` `cloudkit` 
   -  ☆`386` 
-- [RWDevCon](https://github.com/kodecocodes/RWDevCon-App)
-  - [` App Store`](https://apps.apple.com/app/rwdevcon-tutorial-conference/id958625272) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/5c/4c/2d/5c4c2da8-6986-3bdc-25e5-a919fe3f7b9a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/d5/f0/f2/d5f0f223-3291-b773-dedf-57e887e89174/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/3d/0e/6c/3d0e6c28-bdd6-fde7-b3b0-089370738ffe/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2018` `swift` 
-  -  ☆`29` 
 - [Technex, IIT(BHU) Varanasi](https://github.com/jogendra/technex-ios)
   -  <a href='https://github.com/jogendra/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'>`Screenshot 1`</a> 
   -  `2018` `swift` 
