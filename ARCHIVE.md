@@ -419,6 +419,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [OneBusAway](https://github.com/OneBusAway/onebusaway-iphone)
 - [Onions](https://github.com/onionsapp/Onions-iOS)
 - [OnTime](https://github.com/D-32/OnTime)
+- [Open Event Organizer](https://github.com/fossasia/open-event-organizer-ios)
 - [Open Food Facts](https://github.com/openfoodfacts/openfoodfacts-ios)
 - [Open States](https://github.com/openstates/legacy-openstates-ios)
 - [OpenCB](https://github.com/opensourceios/OpenCB)
