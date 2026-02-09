@@ -20804,7 +20804,7 @@
         "swift",
         "alamofire",
         "swiftlint",
-        "objectmapper"
+        "objectmapper", "archive"
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing",
