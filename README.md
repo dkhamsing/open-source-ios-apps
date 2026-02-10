@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%20%209,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1025,10 +1025,6 @@ Jump to
 - [GBA4iOS](https://bitbucket.org/rileytestut/gba4ios/): Gameboy, Gameboy Color & Gameboy Advance emulator
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/cb26c188-371e-42b4-ba96-7cb7d79b5c6d'>`Screenshot 1`</a> 
   - `objc` 
-- [iAmiga (iUAE)](https://github.com/emufreak/iAmiga): Commodore Amiga emulator, based on UAE
-  -  <a href='https://github.com/user-attachments/assets/71c86e15-7050-4a11-9393-ac8ea5d340c6'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/c4b6e324-0071-4d2f-a4fb-52c814b953c4'>`Screenshot 2`</a> 
-  -  `2018` `objc` 
-  -  ☆`49` 
 - [iSH](https://github.com/ish-app/ish): Linux shell
   - <a href=https://ish.app>`https://ish.app`</a>
   - [` App Store`](https://apps.apple.com/app/ish-shell/id1436902243) <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/E0617EC4-E004-4DD0-B642-52BA4A189468.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PseudonymPatel/images/master/13DA476F-FF82-45F9-8820-710D34711ADC.jpeg'>`Screenshot 2`</a> 
