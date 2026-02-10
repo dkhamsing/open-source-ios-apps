@@ -288,6 +288,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [HopperBus](https://github.com/TosinAF/HopperBus-iOS)
 - [Hostile Takeover](https://github.com/spiffcode/hostile-takeover)
 - [hoxChess](https://github.com/huygithub/hoxChess)
+- [iAmiga (iUAE)](https://github.com/emufreak/iAmiga)
 - [IBCalculator](https://github.com/JakeLin/IBCalculator)
 - [iBeaconTasks](https://github.com/TomekB/iBeaconTasks)
 - [Iceland Earthquakes](https://github.com/paranoida/IcelandEarthquakes)
