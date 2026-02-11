@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1080,10 +1080,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/genadyo/WWDC/master/Assets/iPhone/screen2.png'>`Screenshot 2`</a> 
   -  `2019` `swift` `cloudkit` 
   -  ☆`386` 
-- [Technex, IIT(BHU) Varanasi](https://github.com/jogendra/technex-ios)
-  -  <a href='https://github.com/jogendra/technex-ios/raw/master/Technex18/gifs/gif-technex-ios-1.gif'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`12` 
 - [try! Swift Tokyo](https://github.com/tryswift/trySwiftAppFinal)
   -  <a href='https://cloud.githubusercontent.com/assets/4190298/23140345/534ae20c-f7b1-11e6-8584-b65aded1f59e.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/4190298/23140344/53463e82-f7b1-11e6-8d84-c0cedcc930b1.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `timepiece` `realm` `kingfisher` `acknowlist` 
