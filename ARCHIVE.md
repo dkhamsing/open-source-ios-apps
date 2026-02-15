@@ -698,6 +698,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [WatchStocks](https://github.com/G2Jose/WatchStocks)
 - [Weather by JakeLin](https://github.com/JakeLin/ReactNativeWeather)
 - [WeatherMap](https://github.com/TakefiveInteractive/WeatherMap)
+- [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS)
 - [Whatsapp clone](https://github.com/opensourceios/whatsapp)
 - [WhatsUp Chat](https://github.com/satishbabariya/WhatsUp)
 - [Wheelmap](https://github.com/sozialhelden/wheelmap-iphone2)
