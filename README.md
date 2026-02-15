@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2011,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1390,10 +1390,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907)
   -  `2026` `swift` 
   -  ☆`851` 
-- [Wei Wallet](https://github.com/popshootjapan/WeiWallet-iOS): Ethereum wallet
-  -  <a href='https://raw.githubusercontent.com/popshootjapan/WeiWallet-iOS/master/resources/cover_img.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` `swinject` 
-  -  ☆`280` 
 ## Game 
  
 [back to top](#readme) 
