@@ -416,6 +416,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [OCiney](https://github.com/florent37/OCiney-iOS)
 - [OctoPodium](https://github.com/opensourceios/iOS-OctoPodium)
 - [Octopus](https://github.com/roger-wetzel/Octopus)
+- [Oh My Plane](https://github.com/softdevstory/OhMyPlane)
 - [OMDB](https://github.com/gnithin/appceleratorOMDB)
 - [OneBusAway](https://github.com/OneBusAway/onebusaway-iphone)
 - [Onions](https://github.com/onionsapp/Onions-iOS)
