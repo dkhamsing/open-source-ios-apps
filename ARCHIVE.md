@@ -562,6 +562,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SimpleAuth](https://github.com/calebd/SimpleAuth)
 - [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
+- [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
 - [Skiff Mail](https://github.com/skiff-org/skiff-apps)
 - [Slide for Reddit](https://github.com/Haptic-Apps/Slide-iOS)
