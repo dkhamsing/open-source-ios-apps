@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2016,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1552,9 +1552,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631) <a href='https://hewgill.com/puzzles/screenshot-iphone4-1-200.png'>`Screenshot 1`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-2-200.png'>`Screenshot 2`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-3-200.png'>`Screenshot 3`</a>  <a href='https://hewgill.com/puzzles/screenshot-iphone4-4-200.png'>`Screenshot 4`</a> 
   -  `2024` `objc` 
   -  ☆`197` 
-- [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS): A puzzle game where you must shift keys around a board to unlock treasure chests
-  -  `2018` `objc` 
-  -  ☆`117` 
 - [Swune](https://github.com/nicklockwood/Swune): Reimplementation of the Dune II RTS game
   -  <a href='https://github.com/nicklockwood/Swune/raw/main/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
