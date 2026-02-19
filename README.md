@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2019,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2107,11 +2107,6 @@ Image, video, audio, reading — [back to top](#readme)
 - [Alamofire Star Wars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample)
   -  `2019` `swift` 
   -  ☆`2` 
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder
-  - <a href=https://marty-suzuki.github.io/ArtShredder/>`https://marty-suzuki.github.io/ArtShredder/`</a>
-  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a> 
-  -  `2018` `swift` `arkit` `banksy` 
-  -  ☆`44` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2026` `iphone` `ipad` `reactnative` `typescript` 
@@ -2291,11 +2286,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [ArtShredder](https://github.com/marty-suzuki/ArtShredder): Banksy Shredder
-  - <a href=https://marty-suzuki.github.io/ArtShredder/>`https://marty-suzuki.github.io/ArtShredder/`</a>
-  -  <a href='https://raw.githubusercontent.com/marty-suzuki/ArtShredder/master/Images/anim.gif'>`Screenshot 1`</a> 
-  -  `2018` `swift` `arkit` `banksy` 
-  -  ☆`44` 
 - [Blear](https://github.com/sindresorhus/blear): Transform your photos into stunning blurry wallpapers for your device
   - [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2025` `objc` 
