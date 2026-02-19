@@ -57,6 +57,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Around Me](https://github.com/bgryszko/react-native-example)
 - [ARStickers](https://github.com/opensourceios/ARStickers)
 - [Articles](https://github.com/pedrohperalta/Articles-iOS-VIPER)
+- [ArtShredder](https://github.com/marty-suzuki/ArtShredder)
 - [Artsy Folio](https://github.com/artsy/energy-legacy)
 - [Artsy Shows](https://github.com/artsy/Emergence)
 - [Assemblies](https://github.com/buildreactnative/assemblies)
