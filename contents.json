@@ -23510,7 +23510,7 @@
       "source": "https://github.com/chris-swift-dev/Beers",
       "license": "mit",
       "tags": [
-        "swiftui"
+        "swiftui", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/chris-swift-dev/Beers/refs/heads/master/screenshots/phone1.png"
