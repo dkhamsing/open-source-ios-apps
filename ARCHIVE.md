@@ -76,6 +76,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bat Loves Bugs](https://github.com/xyclos/BatLovesBugs)
 - [Battle for Wesnoth](https://github.com/dailin/wesnoth_ios)
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
+- [Beers](https://github.com/chris-swift-dev/Beers)
 - [Bequest](https://github.com/splinesoft/Bequest)
 - [Bike Compass](https://github.com/raulriera/Bike-Compass)
 - [BitPrice](https://github.com/opensourceios/bitprice-ios)
