@@ -33191,7 +33191,7 @@
         "developer"
       ],
       "description": "On-device application manager/installer, uses certificates part of the Apple Developer Program",
-      "source": "https://github.com/khcrysalis/Feather",
+      "source": "https://github.com/claration/Feather",
       "license": "gpl-3.0",
       "stars": 3496,
       "tags": [
