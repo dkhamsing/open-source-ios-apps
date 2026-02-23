@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2022,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2023,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4041,7 +4041,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  `2026` `react-native` 
   -  ☆`2593` 
 - [Moonwalk](https://github.com/illu/moonwalk): A simple way to stay up to date with upcoming space launches
-  - [` App Store`](https://apps.apple.com/app/moonwalk-rocket-launches/id1439376174) <a href='https://maximenory.com/public/mwpreview2.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/moonwalk-rocket-launches/id1439376174)
   -  `2023` `react-native` 
   -  ☆`294` 
 - [movieapp](https://github.com/JuneDomingo/movieapp): Discover movies & tv shows
