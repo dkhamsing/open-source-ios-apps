@@ -498,6 +498,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Queue'd Music](https://github.com/rldaulton/queued-music)
 - [Radio Paradise](https://github.com/ilTofa/rposx)
 - [Radium Web Browser](https://github.com/SlayterDev/RadiumBrowser)
+- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance)
 - [RailsCasts](https://github.com/spritlesoftware/railscasts-on-appletv)
 - [RainMan](https://github.com/Aaron-A/Project-RainMan)
 - [Raivo OTP](https://github.com/raivo-otp/ios-application)
