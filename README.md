@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1534,10 +1534,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/potato-game/id6477922776) <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot4.png'>`Screenshot 4`</a> 
   -  `2025` `swift` 
   -  ☆`4` 
-- [Ragnarok](https://github.com/riley-usagi/SwiftAdvance): Simple game for folks learning Swift
-  -  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/riley-usagi/SwiftAdvance/master/Screenshots/3.png'>`Screenshot 3`</a> 
-  -  `2018` `swift` 
-  -  ☆`8` 
 - [SaveTheDot](https://github.com/JakeLin/SaveTheDot): Escape from the squares
   -  <a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `uiviewpropertyanimator` 
