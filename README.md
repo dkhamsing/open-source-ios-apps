@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2076,10 +2076,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`2915` 
-- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos): Audio recorder
-  -  <a href='https://raw.githubusercontent.com/MoZhouqi/VoiceMemos/master/Screenshots/recording.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`340` 
 - [Vowel Practice](https://github.com/fulldecent/vowel-practice): Find formants in spoken sounds
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2025` `swift` `macos` `ipad` 
