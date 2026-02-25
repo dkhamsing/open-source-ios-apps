@@ -692,6 +692,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT)
 - [VisitBCN](https://github.com/opensourceios/visitBCN)
 - [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
+- [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos)
 - [VPN On](https://github.com/lexrus/VPNOn)
 - [WaniKani](https://github.com/haawa799/-WaniKani2)
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
