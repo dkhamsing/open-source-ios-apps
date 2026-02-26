@@ -33947,6 +33947,24 @@
       "date_added": "Jan 15 2026",
       "suggested_by": "@b5i",
       "updated": "2026-02-16 19:08:44 UTC"
-    }
+    },
+{
+      "title": "Echo",
+      "description": "Best way to practice speaking English or Spanish",
+      "category-ids": [
+        "education"
+      ],
+      "source": "https://github.com/fulldecent/echo",
+  "itunes": "https://apps.apple.com/app/echo-speech-therapy/id558585608",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Feb 25 2026",
+      "suggested_by": "@fulldecent",
+      "screenshots": [
+        "https://learnwithecho.com/assets/images/ss1.png"
+      ]
+    }    
   ]
 }
