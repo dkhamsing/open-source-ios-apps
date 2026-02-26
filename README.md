@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1641-green.svg) ![](https://img.shields.io/badge/Updated-February%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1642-green.svg) ![](https://img.shields.io/badge/Updated-February%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -927,6 +927,9 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ebc1598e-6d19-42a0-845e-cc4d73b0d1d0'>`Screenshot 1`</a> 
   -  `2020` `swift` `firebase` `swiftyjson` 
   -  ☆`15` 
+- [Echo](https://github.com/fulldecent/echo): Best way to practice speaking English or Spanish
+  - [` App Store`](https://apps.apple.com/app/echo-speech-therapy/id558585608) <a href='https://learnwithecho.com/assets/images/ss1.png'>`Screenshot 1`</a> 
+  - `swift` 
 - [Exercism](https://github.com/apps-fab/exercism-app): Choose an exercism.org track, join it and code
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fb34cb66-1364-4887-87b9-b23283bd132f'>`Screenshot 1`</a> 
   -  `2025` `swift` 
