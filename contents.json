@@ -33965,6 +33965,24 @@
       "screenshots": [
         "https://learnwithecho.com/assets/images/ss1.png"
       ]
-    }    
+    },
+{
+      "title": "Impostor",
+      "description": "Word game for groups",
+      "category-ids": [
+        "game"
+      ],
+      "source": "https://github.com/fulldecent/impostor",
+  "itunes": "https://apps.apple.com/app/whos-the-impostor/id784258202",
+      "license": "other",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Feb 26 2026",
+      "suggested_by": "@fulldecent",
+      "screenshots": [
+        "https://github.com/user-attachments/assets/98a0f456-ca55-4667-9cb4-86f88feaf81a"
+      ]
+    }          
   ]
 }
