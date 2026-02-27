@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1642-green.svg) ![](https://img.shields.io/badge/Updated-February%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1643-green.svg) ![](https://img.shields.io/badge/Updated-February%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1494,6 +1494,9 @@ File Management — [back to top](#readme)
 - [Gravity Blocks](https://github.com/jogendra/gravityBlocks): Basic physics concept of gravity and elasticity
   -  `2020` `swift` 
   -  ☆`11` 
+- [Impostor](https://github.com/fulldecent/impostor): Word game for groups
+  - [` App Store`](https://apps.apple.com/app/whos-the-impostor/id784258202) <a href='https://github.com/user-attachments/assets/98a0f456-ca55-4667-9cb4-86f88feaf81a'>`Screenshot 1`</a> 
+  - `swift` 
 - [littlego](https://github.com/herzbube/littlego): Game of Go
   - [` App Store`](https://apps.apple.com/app/little-go/id490753989) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/af/a9/34/afa934c6-45c5-c194-d179-f34520fe8b1c/mzl.jfnjvioh.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2026` `iphone` `ipad` 
