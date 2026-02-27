@@ -33983,6 +33983,20 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/98a0f456-ca55-4667-9cb4-86f88feaf81a"
       ]
-    }          
+    },
+{
+      "title": "openclaw",
+      "description": "Your own personal AI assistant",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/openclaw/openclaw",
+      "license": "mit",
+      "tags": [
+        "swift"
+      ],
+      "date_added": "Feb 27 2026",
+      "suggested_by": "@dkhamsing"
+    }      
   ]
 }
