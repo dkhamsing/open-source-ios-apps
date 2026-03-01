@@ -33997,6 +33997,21 @@
       ],
       "date_added": "Feb 27 2026",
       "suggested_by": "@dkhamsing"
-    }      
+    }      ,
+    {
+      "title": "iNaturalist",
+      "category-ids": [
+        "location"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "description": "Record observations of plants, animals, fungi, and other organisms with GPS coordinates for submission to iNaturalist.org",
+      "source": "https://github.com/inaturalist/INaturalistIOS",
+      "itunes": "https://apps.apple.com/app/inaturalist-classic/id421397028",
+      "license": "mit",
+      "date_added": "Mar 1 2026",
+      "suggested_by": "@stuckvgn"
+    }
   ]
 }
