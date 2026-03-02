@@ -3880,6 +3880,10 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `macos` `mvvm` 
   -  ☆`6497` 
+- [ClearDisk](https://github.com/bysiber/cleardisk): Menu bar app to visualize and clean developer caches (Xcode, npm, Docker, pip, Cargo and more)
+  -  <a href='https://raw.githubusercontent.com/bysiber/cleardisk/main/assets/showcase.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` `macos` 
+  -  ☆`4` 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts
   - <a href=https://coronatracker.samabox.com/>`https://coronatracker.samabox.com/`</a>
   -  <a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'>`Screenshot 1`</a> 
