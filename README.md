@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-February%2028,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1684,10 +1684,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `mapkit` `core-data` 
-  -  ☆`184` 
-- [Good Spirits](https://github.com/archagon/good-spirits): Drink tracker with weekly limits (supports Untappd support and HealthKit)
-  - [` App Store`](https://apps.apple.com/app/good-spirits/id1434237439) <a href='https://github.com/archagon/good-spirits/raw/master/screen1.png'>`Screenshot 1`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen2.png'>`Screenshot 2`</a>  <a href='https://github.com/archagon/good-spirits/raw/master/screen3.png'>`Screenshot 3`</a> 
-  -  `2018` `swift` `healthkit` 
   -  ☆`184` 
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
