@@ -746,7 +746,7 @@
         "apple-watch"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Track your caffeine consumption habits",
       "license": "mit",
