@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%203,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3284,10 +3284,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`7` 
-- [SimpleWeather](https://github.com/rnystrom/SimpleWeather)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3cdb6944-0019-4d4f-a68b-4b7bf7da01bb'>`Screenshot 1`</a>  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/38da29d2-cb53-46c3-85b1-78ee86a3c223'>`Screenshot 2`</a> 
-  -  `2017` `swift` `iglistkit` `openweathermap` 
-  -  ☆`83` 
 - [Sky Wizard](https://github.com/hishd/SkyWizard-SwiftUI): Interactive 3D models, animated forecasts and a wizard guide for real-time updates
   - <a href=https://hishd.github.io/SkyWizard/>`https://hishd.github.io/SkyWizard/`</a>
   - [` App Store`](https://apps.apple.com/app/sky-wizard/id6738307790) <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone1.jpg'>`Screenshot 1`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone2.jpg'>`Screenshot 2`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone3.jpg'>`Screenshot 3`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone4.jpg'>`Screenshot 4`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone5.jpg'>`Screenshot 5`</a>  <a href='https://github.com/hishd/SkyWizard-SwiftUI/blob/master/banners/iphone6.jpg'>`Screenshot 6`</a> 
