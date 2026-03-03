@@ -565,6 +565,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Siesta GitHub Browser](https://github.com/bustoutsolutions/siesta/tree/master/Examples/GithubBrowser)
 - [SimpleAuth](https://github.com/calebd/SimpleAuth)
 - [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
+- [SimpleWeather](https://github.com/rnystrom/SimpleWeather)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
 - [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
