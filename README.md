@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -226,10 +226,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/clendar-a-calendar-app/id1548102041) <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `iphone` `ipad` 
   -  ☆`701` 
-- [Cortado](https://github.com/lazerwalker/cortado): Track your caffeine consumption habits
-  -  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-6.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lazerwalker/cortado/master/screenshots/notif-swipe-6.png'>`Screenshot 2`</a> 
-  -  `2019` `objc` 
-  -  ☆`172` 
 - [Giovanni](https://github.com/gabrieloc/GIOVANNI): Gameboy emulator for the Apple Watch
   -  <a href='https://raw.githubusercontent.com/gabrieloc/GIOVANNI/refs/heads/master/gameplay.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
