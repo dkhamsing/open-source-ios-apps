@@ -33997,6 +33997,25 @@
       ],
       "date_added": "Feb 27 2026",
       "suggested_by": "@dkhamsing"
-    }      
+    },
+    {
+      "title": "VPN Bypass",
+      "category-ids": [
+        "security",
+        "macos"
+      ],
+      "description": "Menu bar app to route specific domains and services around your VPN.",
+      "source": "https://github.com/GeiserX/VPN-Bypass",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/GeiserX/VPN-Bypass/main/assets/screenshot-dropdown.png"
+      ],
+      "date_added": "Mar 4 2026",
+      "suggested_by": "@GeiserX"
+    }
   ]
 }
