@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%205,%202026-lightgrey.svg)
 
 Jump to
 
@@ -230,10 +230,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/gabrieloc/GIOVANNI/refs/heads/master/gameplay.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`960` 
-- [GitHub Contributions](https://github.com/remirobert/Github-contributions)
-  -  <a href='https://cloud.githubusercontent.com/assets/3276768/19214602/f39af4c0-8d87-11e6-8b3d-3d9c7b94d57c.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`81` 
 - [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
