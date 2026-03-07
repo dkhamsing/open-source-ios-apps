@@ -411,6 +411,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [News](https://github.com/ivan-magda/News)
 - [News](https://github.com/YusuFKaan48/News)
 - [News/YC](https://github.com/bennyguitar/News-YC---iPhone)
+- [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
 - [newswatch](https://github.com/bradoyler/newswatch-react-native)
 - [NirZhihuDaily2.0](https://github.com/zpz1237/NirZhihuDaily2.0)
 - [Nortal TechDay 2015](https://github.com/mikkoj/NortalTechDay)
