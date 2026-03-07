@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2521,10 +2521,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/99e25cd1-ebe3-4541-aaf8-734f389b1a36'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`37` 
-- [NewsAPISwift](https://github.com/lucaslimapoa/NewsAPISwift)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b9fb3358-9ce1-45ee-a35e-c37c3c330d41'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`26` 
 - [NewsApp-With-SwiftUI-And-Combine](https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
