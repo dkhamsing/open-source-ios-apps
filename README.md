@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3827,10 +3827,6 @@ https://flutter.dev — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API
-  -  <a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `react-native` 
-  -  ☆`23` 
 - [CovidUI](https://github.com/nerdsupremacist/CovidUI): Track the status of COVID-19 around the world
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -3935,10 +3931,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 - [AR Cut & Paste](https://github.com/cyrildiagne/ar-cutpaste): Cut and paste your surroundings using AR
   -  `2023` `react-native` `arkit` 
   -  ☆`14624` 
-- [Artist](https://github.com/orta/Relay-Artist-Example): Use Relay to access the Artsy GraphQL API
-  -  <a href='https://github.com/orta/Relay-Artist-Example/raw/master/screenshots/workshop.png?raw=true'>`Screenshot 1`</a> 
-  -  `2017` `react-native` 
-  -  ☆`23` 
 - [Artsy](https://github.com/artsy/eigen): The art world in your pocket
   - [` App Store`](https://apps.apple.com/app/artsy-art-world-in-your-pocket/id703796080) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5'>`Screenshot 1`</a> 
   -  `2026` `iphone` `ipad` `reactnative` `typescript` 
