@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1644-green.svg) ![](https://img.shields.io/badge/Updated-March%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1963,10 +1963,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2020` `swift` `coreimage` 
   -  ☆`2321` 
-- [Inkpad](https://github.com/sprang/Inkpad): Vector illustration
-  -  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Gradient.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Hue.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Layers.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Selection.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/sprang/Inkpad/blob/develop/Screenshots/Swatches.png?raw=true'>`Screenshot 5`</a> 
-  -  `2018` `objc` 
-  -  ☆`2647` 
 - [Kodi](https://github.com/xbmc/xbmc): Media player & entertainment hub, includes a separate remote app
   - <a href=https://kodi.wiki>`https://kodi.wiki`</a>
   -  <a href='https://kodi.wiki/images/9/99/Kodi_on_ipad_in_hand.jpg'>`Screenshot 1`</a> 
