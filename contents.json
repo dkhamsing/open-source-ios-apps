@@ -33997,6 +33997,21 @@
       ],
       "date_added": "Feb 27 2026",
       "suggested_by": "@dkhamsing"
+    },
+{
+      "title": "Red Grid MGRS",
+      "description": "DAGR-class military GPS navigator with live MGRS coordinates, magnetic declination, waypoints, tactical tools & report templates",
+      "category-ids": [
+        "misc"
+      ],
+      "source": "https://github.com/RedGridTactical/RedGridMGRS",
+  "itunes": "https://apps.apple.com/app/id6759629554",
+      "license": "mit",
+      "tags": [
+        "javascript", "react-native", "expo"
+      ],
+      "date_added": "Mar 11 2026",
+      "suggested_by": "@RedGridTactical"
     }      
   ]
 }
