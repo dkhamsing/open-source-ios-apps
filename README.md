@@ -1887,6 +1887,9 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/emission/id1084198445) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3518c87d-e95d-43d3-b4ff-29aafc615c84'>`Screenshot 1`</a> 
   -  `2026` `javascript` `phonegap` `cordova` `ionic` 
   -  ☆`29` 
+- [Red Grid MGRS](https://github.com/RedGridTactical/RedGridMGRS): DAGR-class military GPS navigator with live MGRS coordinates, magnetic declination, waypoints, tactical tools & report templates. Zero tracking.
+  - [` App Store`](https://apps.apple.com/app/id6759629554)
+  -  `2026` `javascript` `react-native` `expo`
 - [GeoLicious](https://github.com/da3x/GeoLicious): Location tracking made easy
   - [` App Store`](https://apps.apple.com/app/geolicious/id637366170) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021` `objc` 
