@@ -313,6 +313,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOSDCRC](https://github.com/fromkk/iOSDCRC)
 - [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera)
 - [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
+- [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
 - [Japan - COCOA](https://github.com/cocoa-mhlw/cocoa)
