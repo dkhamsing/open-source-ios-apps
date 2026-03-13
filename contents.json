@@ -1075,7 +1075,7 @@
       ],
       "tags": [
         "swift",
-        "cloudkit"
+        "cloudkit", "archive"
       ],
       "source": "https://github.com/genadyo/WWDC",
       "license": "mit",
