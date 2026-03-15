@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1645-green.svg) ![](https://img.shields.io/badge/Updated-March%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3966,6 +3966,9 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rakning-c-19/id1504655876) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c1db03e9-fb0e-4aae-9273-018ae8b50bea'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`239` 
+- [iNaturalist](https://github.com/inaturalist/INaturalistIOS): Discover nature around you
+  - [` App Store`](https://apps.apple.com/app/inaturalist/id6475737561) <a href='https://static.inaturalist.org/wiki_page_attachments/4405-original.png'>`Screenshot 1`</a> 
+  - `react-native` 
 - [Israel - Hamagen](https://github.com/MohGovIL/hamagen-react-native): COVID-19 exposure prevention app
   - [` App Store`](https://apps.apple.com/app/id1503224314) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16d7f998-d72f-453c-8048-79fb1328d278'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
