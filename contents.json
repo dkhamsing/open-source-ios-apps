@@ -34012,6 +34012,22 @@
       ],
       "date_added": "Mar 11 2026",
       "suggested_by": "@RedGridTactical"
-    }      
+    },
+{
+      "title": "iNaturalist",
+      "description": "Discover nature around you",
+      "category-ids": [
+        "react-native" 
+      ],
+      "source": "https://github.com/inaturalist/INaturalistIOS",
+  "itunes": "https://apps.apple.com/app/inaturalist/id6475737561",
+      "license": "mit",
+  "screenshots": ["https://static.inaturalist.org/wiki_page_attachments/4405-original.png"],
+      "tags": [
+        "react-native" 
+      ],
+      "date_added": "Mar 15 2026",
+      "suggested_by": "@stuckvgn"
+    }       
   ]
 }
