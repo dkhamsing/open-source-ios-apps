@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -148,10 +148,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`63` 
-- [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch
-  - [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019) <a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`165` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2024` `watchos` `swiftui` `alamofire` 
