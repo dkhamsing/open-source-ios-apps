@@ -2604,7 +2604,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/austinzheng/iOS-2048",
