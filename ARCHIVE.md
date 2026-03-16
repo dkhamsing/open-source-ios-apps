@@ -706,6 +706,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [VPN On](https://github.com/lexrus/VPNOn)
 - [WaniKani](https://github.com/haawa799/-WaniKani2)
 - [warpedAR](https://github.com/Trevorrwarduk/warpedAR-Open-Source)
+- [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter)
 - [WatchKit tutorials](https://github.com/kostiakoval/WatchKit-Apps)
 - [Watchman](https://github.com/DanToml/Watchman)
 - [WatchNotes](https://github.com/azamsharp/WatchNotes)
