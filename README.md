@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2015,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2016,%202026-lightgrey.svg)
 
 Jump to
 
@@ -282,10 +282,6 @@ Jump to
   -  <a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`15` 
-- [Watch Clicker Presentation](https://github.com/ezefranca/watchpresenter): Control your Keynote using Apple Watch
-  - [` App Store`](https://apps.apple.com/app/watchnotes/id1213397019) <a href='https://github.com/ezefranca/watchpresenter/blob/master/print.png?raw=true'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`165` 
 - [WatchPics](https://github.com/D-32/WatchPics): For Instagram
   -  <a href='https://user-images.githubusercontent.com/4723115/235376637-429750ad-f3cf-4600-8684-8028e78572af.jpg'>`Screenshot 1`</a> 
   -  `2021` `objc` 
