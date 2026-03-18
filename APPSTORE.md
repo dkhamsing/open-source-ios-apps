@@ -1372,7 +1372,7 @@ https://newsapi.org/ — [back to top](#readme)
   -  ☆`11861` 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration
   - <a href=https://simplenote.com/>`https://simplenote.com/`</a>
-  - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://github.com/user-attachments/assets/ff7d9e88-4bd3-4810-aa9e-52c94414cf16'>`Screenshot 1`</a> 
   -  `2026` `1password` `fabric` `crashlytics` 
   -  ☆`2127` 
 - [Threema](https://github.com/threema-ch/threema-ios): Secure, Anonymous and Private Messenger
@@ -1683,7 +1683,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`4175` 
 - [Simplenote](https://github.com/automattic/simplenote-ios): Keep notes, lists, ideas & more (sync in the cloud) — includes sharing notes, collaboration
   - <a href=https://simplenote.com/>`https://simplenote.com/`</a>
-  - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://cdn.pastemagazine.com/www/articles/simplenoteapp.jpg'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/simplenote/id289429962) <a href='https://github.com/user-attachments/assets/ff7d9e88-4bd3-4810-aa9e-52c94414cf16'>`Screenshot 1`</a> 
   -  `2026` `1password` `fabric` `crashlytics` 
   -  ☆`2127` 
 - [Standard Notes](https://github.com/standardnotes/app): Notes app with focus on longevity, portability & privacy
