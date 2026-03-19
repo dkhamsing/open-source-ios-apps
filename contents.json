@@ -4884,7 +4884,7 @@
       ],
       "tags": [
         "webdav",
-        "dropbox"
+        "dropbox", "archive"
       ],
       "description": "Simple camera that can backup pictures",
       "license": "apache-2.0",
