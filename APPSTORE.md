@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **325** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -499,11 +499,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2025` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
   -  ☆`168` 
-- [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
-  - <a href=https://novinfard.com>`https://novinfard.com`</a>
-  - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
-  -  `2018` `objc` 
-  -  ☆`8` 
 ## Emulator 
  
 [back to top](#readme) 
@@ -1096,11 +1091,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`17743` 
-- [Transcription Helper](https://github.com/novinfard/TranscriptionHelper): Player for assisting in transcription
-  - <a href=https://novinfard.com>`https://novinfard.com`</a>
-  - [` App Store`](https://apps.apple.com/app/transcription-helper/id1157585714) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/df/ca/54/dfca5417-f1d7-3c7f-675a-9bd3e7c1b082/source/460x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/27/9e/83/279e8336-a1e4-3bbe-4162-4fce7651b2bf/source/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/62/1c/7d/621c7db7-8259-dad3-247c-850b50a76797/source/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/1d/f8/2f/1df82ff0-2f41-c97e-c5dd-a9418323804c/source/460x0w.png'>`Screenshot 4`</a> 
-  -  `2018` `objc` 
-  -  ☆`8` 
 - [Wallabag](https://github.com/wallabag/ios-app): A self-hosted read-it-later app
   - [` App Store`](https://apps.apple.com/app/wallabag-2-official/id1170800946) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ee36d3c-1dbd-4b1d-9a39-0070fd5e0681'>`Screenshot 1`</a> 
   -  `2026` `swift` 
