@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1369,10 +1369,6 @@ File Management — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [2048](https://github.com/austinzheng/iOS-2048)
-  -  <a href='https://github.com/austinzheng/iOS-2048/raw/master/screenshots/ss1.png?raw=true'>`Screenshot 1`</a> 
-  -  `2015` `objc` 
-  -  ☆`336` 
 - [2048](https://github.com/austinzheng/swift-2048)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*Lzt_Wm8hbVUEptBW-vhhMg.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
