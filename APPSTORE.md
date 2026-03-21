@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1216,10 +1216,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952)
   -  `2025` `swift` 
   -  ☆`21` 
-- [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures
-  - [` App Store`](https://apps.apple.com/app/upupu/id508401854) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2018` `webdav` `dropbox` 
-  -  ☆`74` 
 - [WeAre](https://github.com/SherlockQi/HeavenMemoirs): Augmented reality album
   - [` App Store`](https://apps.apple.com/app/weare/id1304227680) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/39/ae/1a/39ae1aa9-e91a-3cac-15b1-c19ee9c55001/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/08/ed/70/08ed70e4-49fe-bf83-ca97-c118a8148fb8/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cc/89/c0/cc89c006-3110-42a5-5eab-a9c04176e774/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/66/83/e2/6683e207-07ca-7d2c-290f-11c1f1d55d71/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2020` `swift` `arkit` 
