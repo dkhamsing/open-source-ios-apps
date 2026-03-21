@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2020,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2294,10 +2294,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/sprite-pencil/id1437835952)
   -  `2025` `swift` 
   -  ☆`21` 
-- [Upupu](https://github.com/xcoo/upupu): Simple camera that can backup pictures
-  - [` App Store`](https://apps.apple.com/app/upupu/id508401854) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/cb/0d/a3/cb0da3c2-ceb8-2756-ce8f-4fdae819a49b/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/25/29/90/252990fa-4332-32cb-25bb-023a9e09ccf2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/bf/7d/b9/bf7db949-e1c5-5d5d-733a-b1e09b5b9065/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2018` `webdav` `dropbox` 
-  -  ☆`74` 
 - [VK Photos](https://github.com/Stmol/vkphotos): Image gallery for social network VK.com
   -  <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen2.jpg?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/Stmol/vkphotos/blob/master/.readme/screen3.jpg?raw=true'>`Screenshot 3`</a> 
   -  `2019` `swift` `flux` `rxswift` 
