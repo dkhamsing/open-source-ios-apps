@@ -1655,6 +1655,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
   -  ☆`119` 
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox): Free AI voice diary with on-device transcription, mood tracking, Digital Twin, and knowledge graph
+  - <a href=https://getdailyvox.com>`https://getdailyvox.com`</a>
+  - [` App Store`](https://apps.apple.com/us/app/dailyvox-ai-voice-diary/id6760454642)
+  -  `2026` `swift` `swiftui` `core-data` `cloudkit` `speech` `naturallanguage`
 - [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users
   - <a href=https://kfinderapp.com>`https://kfinderapp.com`</a>
   - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
