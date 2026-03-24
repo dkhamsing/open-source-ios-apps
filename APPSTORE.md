@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -835,6 +835,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox): AI Voice Diary
+  - <a href=https://getdailyvox.com>`https://getdailyvox.com`</a>
+  - [` App Store`](https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642) <a href='https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c'>`Screenshot 1`</a> 
+  - `swift` 
 - [Depressed](https://github.com/DerLobi/Depressed): Test if you are depressed
   - [` App Store`](https://apps.apple.com/app/depressed/id1062594092) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` 
