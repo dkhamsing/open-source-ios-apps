@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1646-green.svg) ![](https://img.shields.io/badge/Updated-March%2021,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1633,6 +1633,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`76` 
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox): AI Voice Diary
+  - <a href=https://getdailyvox.com>`https://getdailyvox.com`</a>
+  - [` App Store`](https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642) <a href='https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c'>`Screenshot 1`</a> 
+  - `swift` 
 - [Das E-Rezept](https://github.com/gematik/E-Rezept-App-iOS): Electronic prescription
   -  <a href='https://user-images.githubusercontent.com/4723115/154331528-8cf655bc-dac4-433d-a521-9179324f9188.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `tca` `combine` 
