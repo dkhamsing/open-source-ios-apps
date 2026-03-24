@@ -34028,6 +34028,23 @@
       ],
       "date_added": "Mar 15 2026",
       "suggested_by": "@stuckvgn"
-    }       
+    } ,
+{
+      "title": "DailyVox",
+      "description": "AI Voice Diary",
+      "category-ids": [
+        "health" 
+      ],
+      "source": "https://github.com/intrepidkarthi/dailyvox",
+  "itunes": "https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642",
+  "homepage": "https://getdailyvox.com",
+      "license": "mit",
+  "screenshots": ["https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c"],
+      "tags": [
+        "swift" 
+      ],
+      "date_added": "Mar 23 2026",
+      "suggested_by": "@intrepidkarthi"
+    }      
   ]
 }
