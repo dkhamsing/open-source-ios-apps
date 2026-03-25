@@ -703,6 +703,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Vegan Lists UK](https://github.com/dsgriffin/vegan-lists-uk)
 - [Vesper](https://github.com/brentsimmons/Vesper)
 - [Vim](https://github.com/applidium/Vim)
+- [violet](https://github.com/project-violet/violet)
 - [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT)
 - [VisitBCN](https://github.com/opensourceios/visitBCN)
 - [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
