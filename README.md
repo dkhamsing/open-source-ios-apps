@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3771,9 +3771,6 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1313765714)
   -  `2024` `swift` `ipad` `dart` 
   -  ☆`58` 
-- [violet](https://github.com/project-violet/violet): E-Hentai viewer
-  -  `2026` `flutter` `dart` `adult` 
-  -  ☆`477` 
 - [Wallpaper](https://github.com/bimsina/wallpaper)
   -  `2021` `flutter` `dart` 
   -  ☆`288` 
