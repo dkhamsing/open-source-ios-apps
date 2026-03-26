@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2330,10 +2330,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/moblin/id6466745933) <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`539` 
-- [Playerly](https://github.com/julianschiavo/Playerly): Play videos from the Files app in a better and darker interface
-  -  <a href='https://raw.githubusercontent.com/justJS/Playerly/master/Playerly/Other/Screenshot.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` 
-  -  ☆`32` 
 - [Swift Community](https://github.com/superarcswift/SwiftCommunity): Cocoa/Swift-related videos
   -  <a href='https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `superarc` `markdownview` 
