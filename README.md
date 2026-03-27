@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2727,10 +2727,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [Learning Metal with metal-cpp](https://github.com/metal-by-example/learn-metal-cpp-ios)
   -  `2025` `cpp` `metal` 
   -  ☆`196` 
-- [Live](https://github.com/ltebean/Live): Live broadcasting
-  -  <a href='https://cloud.githubusercontent.com/assets/1646564/16943747/de7a0c36-4dcf-11e6-913f-103301ef8fda.png'>`Screenshot 1`</a>  <a href='https://cloud.githubusercontent.com/assets/1646564/16943754/e1d036ee-4dcf-11e6-8994-cc2cf1709bb8.png'>`Screenshot 2`</a> 
-  -  `2018` `swift` 
-  -  ☆`2415` 
 - [MarkyMarkdown](https://github.com/MatthewWaller/MarkyMarkdown): An entire markdown app in a single line of Swift code
   -  `2022` `swift` `ipad` `mac` 
   -  ☆`7` 
