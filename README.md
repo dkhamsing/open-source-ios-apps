@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2028,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1647-green.svg) ![](https://img.shields.io/badge/Updated-March%2029,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2399,10 +2399,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c0dfe6db-3ba9-422a-a7ff-3c221ca3ddd4'>`Screenshot 1`</a> 
   -  `2018` `objc` 
   -  ☆`1959` 
-- [ZeitSuche](https://github.com/niftycode/ZeitSuche_iOS): Search for articles published by Germany's 'Zeit' newspaper
-  -  <a href='https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png'>`Screenshot 1`</a> 
-  -  `2018` `swift` `iphone` 
-  -  ☆`3` 
 ### Hacker News 
  
 https://news.ycombinator.com/ — [back to top](#readme) 
