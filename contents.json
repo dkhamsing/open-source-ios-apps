@@ -34082,6 +34082,23 @@
       "suggested_by": "@intrepidkarthi",
       "stars": 0,
       "updated": "2026-03-26 18:41:29 UTC"
+    },
+    {
+      "title": "Pilgrim",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Mindful walking companion with on-device voice transcription, meditation mode, and digital goshuin seals. No accounts, no cloud — everything stays on your device.",
+      "source": "https://github.com/walktalkmeditate/pilgrim-ios",
+      "itunes": "https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056",
+      "homepage": "https://pilgrimapp.org",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Mar 30 2026",
+      "suggested_by": "@momentmaker"
     }
   ]
 }
