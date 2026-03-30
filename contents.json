@@ -1398,9 +1398,7 @@
       "license": "mit",
       "date_added": "Fri Jul 31 10:48:33 2015 -0400",
       "suggested_by": "@Jay Hickey",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2017-02-07 15:11:31 UTC"
     },
     {
@@ -2041,9 +2039,7 @@
       "stars": 53,
       "date_added": "Sat May 7 21:01:14 2016 -0500",
       "suggested_by": "@Kevin Bautista",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-09-19 00:08:20 UTC"
     },
     {
@@ -2189,9 +2185,7 @@
       "license": "other",
       "date_added": "Tue May 3 06:36:59 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2025-02-12 00:36:46 UTC"
     },
     {
@@ -2373,9 +2367,7 @@
       "license": "other",
       "date_added": "Mon Nov 16 22:20:44 2015 -0800",
       "suggested_by": "@ReadmeCritic",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-05-07 18:49:24 UTC"
     },
     {
@@ -2747,9 +2739,7 @@
       "license": "apache-2.0",
       "date_added": "Fri May 15 12:23:53 2015 -0400",
       "suggested_by": "@Sanket",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2023-11-22 20:24:52 UTC"
     },
     {
@@ -2834,9 +2824,7 @@
         "objc",
         "archive"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "description": "Multiplayer programming game for learning how to code",
       "license": "mit",
       "source": "https://github.com/codecombat/codecombat-ios",
@@ -3479,9 +3467,7 @@
       "stars": 77,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-01-08 23:05:53 UTC"
     },
     {
@@ -3498,9 +3484,7 @@
       "license": "mit",
       "date_added": "Mon Apr 6 11:49:54 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-03-09 13:07:50 UTC"
     },
     {
@@ -5192,9 +5176,7 @@
       ],
       "date_added": "Wed Mar 18 11:12:08 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-04-29 23:18:57 UTC"
     },
     {
@@ -5317,9 +5299,7 @@
       "license": "mit",
       "date_added": "Wed Jan 13 08:29:59 2016 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-04-08 03:56:21 UTC"
     },
     {
@@ -5360,9 +5340,7 @@
       "stars": 1113,
       "date_added": "Thu Mar 19 07:22:04 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-09-29 07:31:26 UTC"
     },
     {
@@ -5887,9 +5865,7 @@
       "category-ids": [
         "sample"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "description": "Demo of how to auto-login users using Safari cookies",
       "source": "https://github.com/mackuba/SafariAutoLoginTest",
       "homepage": "https://vimeo.com/136968596",
@@ -6117,9 +6093,7 @@
       "license": "mit",
       "date_added": "Mon Feb 8 06:15:08 2016 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-02-06 22:00:56 UTC"
     },
     {
@@ -6162,9 +6136,7 @@
       "license": "other",
       "date_added": "Tue Mar 17 07:22:10 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-11-26 17:55:58 UTC"
     },
     {
@@ -6395,9 +6367,7 @@
       "stars": 32,
       "date_added": "Tue Jan 26 17:23:50 2016 +0200",
       "suggested_by": "@Spiros Gerokostas",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-03-22 15:51:47 UTC"
     },
     {
@@ -7346,9 +7316,7 @@
       "stars": 46,
       "date_added": "Mon Oct 12 09:06:52 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-05-15 15:34:31 UTC"
     },
     {
@@ -7760,9 +7728,7 @@
       "stars": 264,
       "date_added": "Thu Aug 27 07:22:13 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "SwiftNote",
@@ -8026,9 +7992,7 @@
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "stars": 0,
       "updated": "2016-01-05 07:07:44 UTC"
     },
@@ -8091,9 +8055,7 @@
       "license": "cc0-1.0",
       "date_added": "Tue, 17 Mar 2015 14:51:44 -0400",
       "suggested_by": "@jeffreyjackson",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "stars": 0,
       "updated": "2015-12-16 01:35:10 UTC"
     },
@@ -8764,9 +8726,7 @@
       "stars": 2053,
       "date_added": "Mon Jan 26 15:48:19 2015 -0800",
       "suggested_by": "@dkhamsing",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2021-04-27 02:03:11 UTC"
     },
     {
@@ -9890,9 +9850,7 @@
         "swift",
         "archive"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "description": "An experimental prototype calculator",
       "source": "https://github.com/bridger/NumberPad",
       "homepage": "https://bridgermaxwell.com/blog/numberpad-notation/",
@@ -9988,9 +9946,7 @@
       "stars": 116,
       "date_added": "Tue May 31 23:42:32 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2015-09-01 04:22:31 UTC"
     },
     {
@@ -10214,9 +10170,7 @@
       ],
       "date_added": "Wed Jun 1 22:18:46 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "AppSlate",
@@ -10310,9 +10264,7 @@
       "stars": 19,
       "date_added": "Wed Jun 1 22:36:19 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2023-01-26 13:02:57 UTC"
     },
     {
@@ -10404,9 +10356,7 @@
       "license": "lgpl-2.1",
       "date_added": "Wed Jun 1 22:58:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "screenshots": [
-
-      ]
+      "screenshots": []
     },
     {
       "title": "Prey",
@@ -12254,9 +12204,7 @@
       "date_added": "Fri May 15 12:15:50 2015 -0400",
       "suggested_by": "@Sanket",
       "stars": 427,
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "updated": "2016-08-26 17:07:19 UTC"
     },
     {
@@ -12973,9 +12921,7 @@
         "react-native",
         "archive"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "license": "mit",
       "date_added": "Sep 14 2016",
       "suggested_by": "@dkhamsing",
@@ -15822,7 +15768,8 @@
       ],
       "tags": [
         "swift",
-        "iphone", "archive"
+        "iphone",
+        "archive"
       ],
       "screenshots": [
         "https://bodo-schoenfeld.de/wp-content/uploads/2016/07/ZeitSuche-Screenshot.png"
@@ -18610,9 +18557,7 @@
         "swift",
         "archive"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "date_added": "Sep 2 2018",
       "suggested_by": "@vpeschenkov",
       "updated": "2020-11-03 22:55:45 UTC"
@@ -29803,9 +29748,7 @@
       "category-ids": [
         "photo"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "source": "https://github.com/256Arts/Sprite-Cutter",
       "homepage": "https://www.256arts.com/spritecutter/",
       "itunes": "https://apps.apple.com/app/sprite-cutter/id1562779425",
@@ -29825,9 +29768,7 @@
       "category-ids": [
         "photo"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "license": "other",
       "source": "https://github.com/256Arts/Sprite-Pencil",
       "homepage": "https://www.256arts.com/spritepencil/",
@@ -29846,9 +29787,7 @@
       "category-ids": [
         "photo"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "source": "https://github.com/256Arts/Sprite-Catalog",
       "homepage": "https://www.256arts.com/spritecatalog/",
       "itunes": "https://apps.apple.com/app/sprite-catalog/id1560692872",
@@ -29868,9 +29807,7 @@
       "category-ids": [
         "text"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "source": "https://github.com/256Arts/Sprite-Fonts",
       "homepage": "https://www.256arts.com/",
       "itunes": "https://apps.apple.com/app/sprite-fonts/id1554027877",
@@ -29891,9 +29828,7 @@
       "category-ids": [
         "finance"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "source": "https://github.com/256Arts/My-Assets",
       "homepage": "https://www.256arts.com/myassets/",
       "itunes": "https://apps.apple.com/app/my-assets/id1592367070",
@@ -29913,9 +29848,7 @@
       "category-ids": [
         "misc"
       ],
-      "screenshots": [
-
-      ],
+      "screenshots": [],
       "source": "https://github.com/256Arts/Symbol-Code",
       "homepage": "https://www.256arts.com/",
       "itunes": "https://apps.apple.com/app/sf-code/id1568916751",
@@ -34082,6 +34015,27 @@
       "suggested_by": "@intrepidkarthi",
       "stars": 0,
       "updated": "2026-03-26 18:41:29 UTC"
+    },
+    {
+      "title": "Pilgrim",
+      "description": "Mindful walking companion with on-device voice transcription, meditation mode, and digital goshuin seals. No accounts, no cloud — everything stays on your device.",
+      "category-ids": [
+        "health",
+        "fitness"
+      ],
+      "source": "https://github.com/walktalkmeditate/pilgrim-ios",
+      "itunes": "https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056",
+      "homepage": "https://pilgrimapp.org",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "combine",
+        "coredata"
+      ],
+      "date_added": "Mar 29 2026",
+      "suggested_by": "@momentmaker",
+      "stars": 0
     }
   ]
 }
