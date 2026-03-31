@@ -860,7 +860,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - `flutter` `dart` 
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
   - <a href=https://moodsnap.app/>`https://moodsnap.app/`</a>
-  - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://i0.wp.com/moodsnap.app/wp-content/uploads/2022/04/6D23AD28-AA53-47EE-B01F-81637A23FEF2.jpeg?resize=947%2C2048&ssl=1'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212)'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`62` 
 - [Open Food Facts](https://github.com/openfoodfacts/smooth-app): Scan food products barcode to see if they are good for you and the planet
