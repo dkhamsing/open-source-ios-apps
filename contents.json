@@ -34099,6 +34099,23 @@
       ],
       "date_added": "Mar 30 2026",
       "suggested_by": "@momentmaker"
+    },
+    {
+      "title": "Super Productivity",
+      "category-ids": [
+        "productivity"
+      ],
+      "description": "Todo list and time tracker with timeboxing, Jira/GitHub/GitLab integration",
+      "source": "https://github.com/johannesjo/super-productivity",
+      "itunes": "https://apps.apple.com/us/app/super-productivity/id6587185806",
+      "homepage": "https://super-productivity.com",
+      "license": "mit",
+      "tags": [
+        "typescript",
+        "angular"
+      ],
+      "date_added": "Mar 31 2026",
+      "suggested_by": "@johannesjo"
     }
   ]
 }
