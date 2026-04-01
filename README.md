@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-March%2031,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1648-green.svg) ![](https://img.shields.io/badge/Updated-April%20%201,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2399,10 +2399,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png'>`Screenshot 1`</a> 
   -  `2017` `afnetworking` 
   -  ☆`98` 
-- [v2ex](https://github.com/singro/v2ex): Browse the https://www.v2ex.com/ startup, designer & developer site
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c0dfe6db-3ba9-422a-a7ff-3c221ca3ddd4'>`Screenshot 1`</a> 
-  -  `2018` `objc` 
-  -  ☆`1959` 
 ### Hacker News 
  
 https://news.ycombinator.com/ — [back to top](#readme) 
