@@ -88,6 +88,7 @@ Jump to
 - [Bonus](#bonus) 
 - [Thanks](#thanks)
 - [Contact](#contact)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for iOS app development orchestration, automated code review, and multi-agent coordination. MIT licensed.
 
 
 
