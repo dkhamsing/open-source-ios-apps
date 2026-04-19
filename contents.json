@@ -28804,7 +28804,7 @@
         "terminal"
       ],
       "tags": [
-        "swiftui"
+        "swiftui", "archive"
       ],
       "license": "mit",
       "description": "Terminal emulator and SSH client",
