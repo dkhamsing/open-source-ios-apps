@@ -34117,6 +34117,25 @@
       "license": "gpl-3.0",
       "date_added": "Apr 19 2026",
       "suggested_by": "@ccleberg"
+    },
+    {
+      "title": "Domain Dig",
+      "category-ids": ["developer"],
+      "description": "Perform quick DNS lookups, SSL/TLS checks, and more on any domain",
+      "source": "https://github.com/zerolabsco/domain-dig",
+      "itunes": "https://apps.apple.com/us/app/domaindig/id6760368004",
+      "screenshots": [
+        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png",
+        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png",
+        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "gpl-3.0",
+      "date_added": "Apr 20 2026",
+      "suggested_by": "@ccleberg"
     }
   ]
 }
