@@ -34098,6 +34098,20 @@
       ],
       "date_added": "Mar 30 2026",
       "suggested_by": "@momentmaker"
-    }
+    },
+    {
+      "title": "Hutch",
+      "category-ids": ["developer"],
+      "description": "A native SourceHut client for browsing repositories, issues, mailing lists, and patches",
+      "source": "https://github.com/zerolabsco/hutch",
+      "itunes": "https://apps.apple.com/us/app/hutch-for-sourcehut/id6760742299",
+      "screenshots": [
+        "https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg",
+        "https://img.cleberg.net/apps/hutch/screenshots/iphone/05_repo.jpg",
+        "https://img.cleberg.net/apps/hutch/screenshots/iphone/04_tickets.jpg"
+      ],
+      "date_added": "Apr 19 2026",
+      "suggested_by": "@ccleberg"
+    },
   ]
 }
