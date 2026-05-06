@@ -34152,6 +34152,26 @@
       "suggested_by": "@ccleberg",
       "stars": 1,
       "updated": "2026-04-22 19:12:01 UTC"
+    },
+    {
+      "title": "BeeCount",
+      "category-ids": [
+        "finance"
+      ],
+      "description": "Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3)",
+      "source": "https://github.com/TNT-Likely/BeeCount",
+      "itunes": "https://apps.apple.com/app/id6754611670",
+      "screenshots": [
+        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/demo/preview/en/01-home.png",
+        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/demo/preview/en/04-chart-analysis.png",
+        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/demo/preview/en/06-profile.png"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "date_added": "May 6 2026",
+      "suggested_by": "@TNT-Likely"
     }
   ]
 }
