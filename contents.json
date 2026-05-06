@@ -34172,6 +34172,27 @@
       ],
       "date_added": "May 6 2026",
       "suggested_by": "@TNT-Likely"
+    },
+    {
+      "title": "Rushi",
+      "category-ids": [
+        "productivity"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "ipad",
+        "multilingual"
+      ],
+      "description": "Buddhist toolkit — Diamond/Heart Sutra reader (9 languages), 108-bead mala counter, sutra calligraphy. Scriptures CC0 public domain.",
+      "source": "https://github.com/hooosberg/Rushi",
+      "itunes": "https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713",
+      "screenshots": [
+        "https://raw.githubusercontent.com/hooosberg/Rushi/main/posters/sheet-en.webp"
+      ],
+      "date_added": "May 7 2026",
+      "suggested_by": "@hooosberg"
     }
   ]
 }
