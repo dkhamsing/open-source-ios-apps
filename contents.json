@@ -8698,7 +8698,7 @@
         "react-native"
       ],
       "tags": [
-        "react-native"
+        "react-native", "archive"
       ],
       "screenshots": [
         "https://github.com/IFours/react-native-twitch/raw/rn0.15/assets/twitch.gif"
