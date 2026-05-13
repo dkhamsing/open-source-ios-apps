@@ -33705,14 +33705,14 @@
       "tags": [
         "nativeScript"
       ],
-      "source": "https://github.com/Akylas/oss-weather",
+      "source": "https://github.com/ossappscollective/oss-weather",
       "itunes": "https://apps.apple.com/app/oss-weather/id1499117252",
       "screenshots": [
         "https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b"
       ],
       "license": "mit",
       "suggested_by": "@joslajoko",
-      "stars": 403,
+      "stars": 410,
       "date_added": "Aug 6 2016",
       "updated": "2026-04-21 13:47:55 UTC"
     },
