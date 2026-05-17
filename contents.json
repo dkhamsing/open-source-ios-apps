@@ -34203,7 +34203,7 @@
         "swiftui",
         "swiftdata",
         "cloudkit"
-      ]
+      ],
       "description": "Pulse is your minimalist micro-journaling companion designed to make reflection as effortless as possible. No long entries, no pressure. Just you, a brief thought, and your current level on a scale from -2 to 2.",
       "source": "https://github.com/marcusraitner/pulse",
       "itunes": "https://apps.apple.com/app/pulse-your-micro-journal/id6759242390",
