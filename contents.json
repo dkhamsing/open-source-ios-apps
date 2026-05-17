@@ -860,7 +860,7 @@
       "stars": 342,
       "tags": [
         "swift",
-        "watchos2"
+        "watchos2", "archive"
       ],
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/235365559-7c45b4e0-6b56-4d51-9a00-e4acd3a0fdd7.png"
@@ -5167,7 +5167,7 @@
         "https://github.com/dkhamsing/TabDump/raw/master/assets/screenshots/screenshot.png"
       ],
       "tags": [
-        "afnetworking"
+        "afnetworking", "archive"
       ],
       "description": "TabDump news",
       "license": "mit",
@@ -33705,14 +33705,14 @@
       "tags": [
         "nativeScript"
       ],
-      "source": "https://github.com/Akylas/oss-weather",
+      "source": "https://github.com/ossappscollective/oss-weather",
       "itunes": "https://apps.apple.com/app/oss-weather/id1499117252",
       "screenshots": [
         "https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b"
       ],
       "license": "mit",
       "suggested_by": "@joslajoko",
-      "stars": 403,
+      "stars": 410,
       "date_added": "Aug 6 2016",
       "updated": "2026-04-21 13:47:55 UTC"
     },
