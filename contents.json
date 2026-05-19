@@ -34202,13 +34202,18 @@
       "description": "Minimalist micro-journaling companion designed to make reflection as effortless as possible",
       "source": "https://github.com/marcusraitner/pulse",
       "itunes": "https://apps.apple.com/app/pulse-your-micro-journal/id6759242390",
+      "homepage": "https://raitner.de/pulse",
       "screenshots": ["https://raitner.de/pulse/screenshot-timeline-de.png"],
       "date_added": "May 14, 2026",
       "license": "mit",
         "tags": [
-        "swift"
+        "swift",
+        "swiftdata",
+        "cloudkit"
         ],
-      "suggested_by": "@marcusraitner"
+      "suggested_by": "@marcusraitner",
+      "stars": 8,
+      "updated": "2026-05-19 05:23"
     }
   ]
 }
