@@ -884,8 +884,11 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056)
   -  `2026` `swift` `swiftui` 
   -  ☆`2` 
-- [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Pulse is your minimalist micro-journaling companion designed to make reflection as effortless as possible. No long entries, no pressure. Just you, a brief thought, and your current level on a scale from -2 to 2.
+- [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
+  - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
   - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390) <a href='https://raitner.de/pulse/screenshot-timeline-de.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftdata` `cloudkit` 
+  -  ☆`8` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
   - <a href=http://rise.vladimirbrejcha.com>`http://rise.vladimirbrejcha.com`</a>
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
