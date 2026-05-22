@@ -80,6 +80,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Be my eyes](https://github.com/opensourceios/bemyeyes-ios)
 - [Beers](https://github.com/chris-swift-dev/Beers)
 - [Bequest](https://github.com/splinesoft/Bequest)
+- [Betcalsa](https://github.com/emredurukn/betcalsa)
 - [Bike Compass](https://github.com/raulriera/Bike-Compass)
 - [BitPrice](https://github.com/opensourceios/bitprice-ios)
 - [Bitrise](https://github.com/toshi0383/Bitrise-iOS)
