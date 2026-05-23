@@ -3426,7 +3426,7 @@
         "researchkit"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Personalized tool that can help you measure daily activity, fitness, & cardiovascular risk",
       "license": "bsd-3-clause",
