@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1000,10 +1000,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 https://www.apple.com/researchkit/ — [back to top](#readme) 
  
 
-- [MyHeartCounts](https://github.com/ResearchKit/MyHeartCounts): Personalized tool that can help you measure daily activity, fitness, & cardiovascular risk
-  - [` App Store`](https://apps.apple.com/app/id972189947) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/c0/c5/b0/c0c5b015-3205-5091-278f-40538b84db43/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/d4/7c/39/d47c390a-fd83-fe45-f5c7-df80bb857a50/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/01/85/2f/01852f0e-05c6-ec67-5572-e9660a53ed8b/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/37/5b/6e/375b6ed7-68fb-5ec8-d034-068cb48628ac/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
-  -  `2015` `objc` 
-  -  ☆`68` 
 ## Home 
  
 [back to top](#readme) 
