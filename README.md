@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1687,9 +1687,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`2` 
 - [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
   - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
-  - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390) <a href='https://raitner.de/pulse/screenshot-timeline-de.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390) <a href='https://raitner.de/pulse/screenshot-timeline-de.png'>`Screenshot 1`</a>  <a href='https://raitner.de/pulse/screenshot-moment-en.png'>`Screenshot 2`</a>  <a href='https://raitner.de/pulse/screenshot-metrics-en.png'>`Screenshot 3`</a>  <a href='https://raitner.de/pulse/screenshot-aicoach-en.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftdata` `cloudkit` 
-  -  ☆`8` 
+  -  ☆`12` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
   - <a href=http://rise.vladimirbrejcha.com>`http://rise.vladimirbrejcha.com`</a>
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
