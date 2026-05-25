@@ -34204,7 +34204,12 @@
       "source": "https://github.com/marcusraitner/pulse",
       "itunes": "https://apps.apple.com/app/pulse-your-micro-journal/id6759242390",
       "homepage": "https://raitner.de/pulse",
-      "screenshots": ["https://raitner.de/pulse/screenshot-timeline-de.png"],
+      "screenshots": [
+        "https://raitner.de/pulse/screenshot-timeline-de.png",
+        "https://raitner.de/pulse/screenshot-moment-en.png",
+        "https://raitner.de/pulse/screenshot-metrics-en.png",
+        "https://raitner.de/pulse/screenshot-aicoach-en.png"
+      ],
       "date_added": "May 14, 2026",
       "license": "mit",
         "tags": [
@@ -34213,8 +34218,8 @@
         "cloudkit"
         ],
       "suggested_by": "@marcusraitner",
-      "stars": 8,
-      "updated": "2026-05-19 05:23"
+      "stars": 12,
+      "updated": "2026-05-21 16:11"
     }
   ]
 }
