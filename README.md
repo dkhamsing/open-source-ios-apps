@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4205,9 +4205,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/ImageFilterSwiftUICompleted/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` `macos` 
   -  ☆`98` 
-- [IndieApps](https://github.com/antranapp/IndieApps): Showcase your side projects/apps
-  -  `2026` `swift` 
-  -  ☆`35` 
 - [InfiniteListSwiftUI](https://github.com/V8tr/InfiniteListSwiftUI): Paginated endless scroll
   -  <a href='https://github.com/V8tr/InfiniteListSwiftUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `combine` `github` 
