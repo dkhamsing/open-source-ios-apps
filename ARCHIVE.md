@@ -315,6 +315,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iGrades](https://github.com/opensourceios/iGrades)
 - [iLabyrinth](https://github.com/RolandasRazma/iLabyrinth)
 - [Impulse](https://github.com/Jasdev/Impulse)
+- [IndieApps](https://github.com/antranapp/IndieApps)
 - [Inkpad](https://github.com/sprang/Inkpad)
 - [iOctocat](https://github.com/dennisreimann/ioctocat)
 - [iOS 10 Day by Day](https://github.com/ShinobiControls/iOS10-day-by-day)
