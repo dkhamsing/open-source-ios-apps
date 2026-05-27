@@ -636,6 +636,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Summon](https://github.com/eonist/summon)
 - [Superday](https://github.com/opensourceios/superday)
 - [surespot](https://github.com/opensourceios/surespot-ios)
+- [SUSI AI](https://github.com/fossasia/susi_iOS)
 - [Swab](https://github.com/pkamb/swab)
 - [Swiflytics](https://github.com/aciidb0mb3r/Swiflytics)
 - [Swift Off](https://github.com/opensourceios/swift-off-todo)
