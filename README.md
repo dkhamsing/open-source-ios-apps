@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3409,10 +3409,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [StoicQuotes](https://github.com/il1ane/StoicQuotes)
   -  `2021` `swift` 
   -  ☆`1` 
-- [SUSI AI](https://github.com/fossasia/susi_iOS): Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots
-  -  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/fossasia/susi_iOS/master/docs/_static/Screen5.png'>`Screenshot 3`</a> 
-  -  `2022` `swift` 
-  -  ☆`1901` 
 - [Swordfish](https://github.com/kevinyou77/Swordfish): See upcoming schedules, GPAs, and billing information for Binus University
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3a3ee691-e5e3-4c73-9924-a67a80c3a13b'>`Screenshot 1`</a> 
   -  `2021` `swift` `realm` `rxswift` 
