@@ -238,6 +238,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Flickr-Search](https://github.com/alikaragoz/Flickr-Search)
 - [FlickrWatch](https://github.com/jazzychad/FlickrWatch)
 - [FlightUtilities](https://github.com/BalestraPatrick/FlightUtilities)
+- [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
 - [FMobile](https://github.com/GroupeMINASTE/FMobile-iOS)
 - [For Hacker News by iSimar](https://github.com/iSimar/HackerNews-React-Native)
 - [Forecast](https://github.com/richardxyx/Forecast)
