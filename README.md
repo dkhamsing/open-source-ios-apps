@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2028,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2447,10 +2447,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/latifatcii/DailyNews/raw/master/DailyNewsScreenShots/dailyNewsScreenshot.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `mvvm` `rxswift` `sdwebimage` 
   -  ☆`50` 
-- [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
-  -  <a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'>`Screenshot 1`</a> 
-  -  `2026` `flutter` `dart` 
-  -  ☆`556` 
 - [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
@@ -3544,10 +3540,6 @@ https://flutter.dev — [back to top](#readme)
 - [Flutter Games](https://github.com/rayliverified/FlutterGames): Purchase and rent games
   -  `2026` `flutter` `dart` 
   -  ☆`336` 
-- [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
-  -  <a href='https://user-images.githubusercontent.com/55942632/77102533-00600c80-6a3f-11ea-8212-3735eeb35a90.png'>`Screenshot 1`</a> 
-  -  `2026` `flutter` `dart` 
-  -  ☆`556` 
 - [Flutter Pokedex](https://github.com/hungps/flutter_pokedex)
   -  <a href='https://raw.githubusercontent.com/hungps/flutter_pokedex/master/screenshots/home.png'>`Screenshot 1`</a> 
   -  `2026` `flutter` `dart` 
