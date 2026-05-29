@@ -2760,7 +2760,7 @@
         "game"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Infinite runner",
       "source": "https://github.com/ericjohnson/canabalt-ios",
