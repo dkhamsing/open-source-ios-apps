@@ -13427,7 +13427,7 @@
         "cocos2d"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png"
