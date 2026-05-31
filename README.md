@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2029,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2031,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1386,10 +1386,6 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/pedrommcarrasco/ARbusters/blob/master/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`109` 
-- [Canabalt](https://github.com/ericjohnson/canabalt-ios): Infinite runner
-  - [` App Store`](https://apps.apple.com/app/canabalt/id333180061) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/78/82/60/7882603c-0d25-3271-d06a-57dc1e530022/mzl.jftzbyvq.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/54/77/7c/54777cc6-b75c-0b28-7d85-f65058d25d7b/mzl.zsmgxukm.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple118/v4/c0/0a/a1/c00aa1ce-5094-844c-c25d-cad116ac87e0/mzl.hiakjhrh.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/98/3f/8c/983f8ceb-23d9-c814-df66-7559d660ccb7/mzl.cwuvjojf.png/626x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a4/22/6b/a4226b93-fd23-b8a1-4eb6-713625f9bb25/mzl.tincqlgv.png/626x0w.jpg'>`Screenshot 5`</a> 
-  -  `2011` `objc` 
-  -  ☆`1586` 
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): For Cards Against Humanity
   -  <a href='https://user-images.githubusercontent.com/4723115/122964516-33790600-d33c-11eb-8b2d-0ceb2cee906e.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
@@ -1528,10 +1524,6 @@ File Management — [back to top](#readme)
 https://cocos2d.org/ — [back to top](#readme) 
  
 
-- [Lumio](https://github.com/sephine/lumio): Puzzle game
-  -  <a href='https://raw.githubusercontent.com/sephine/lumio/master/Lumio/Resources/Screenshots/ScreenShot1.png'>`Screenshot 1`</a> 
-  -  `2016` `objc` 
-  -  ☆`175` 
 ### SpriteKit 
  
 https://developer.apple.com/reference/spritekit — [back to top](#readme) 
