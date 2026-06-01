@@ -51,6 +51,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AppLove](https://github.com/snowpunch/AppLove)
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile)
 - [AppSlate](https://github.com/Taehan-Kim/AppSlate)
+- [appstore](https://github.com/phillfarrugia/appstore-clone)
 - [AR Art Attractors](https://github.com/opensourceios/ARArtAttractors)
 - [AR Plastic Ocean](https://github.com/opensourceios/ARPlasticOcean)
 - [Arex](https://github.com/a2/arex)
