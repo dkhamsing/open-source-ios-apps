@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-May%2031,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%201,%202026-lightgrey.svg)
 
 Jump to
 
@@ -416,10 +416,6 @@ Jump to
 - [Apple Pay Cash Animation](https://github.com/jtrivedi/Apple-Cash-Animation)
   -  `2022` `swift` 
   -  ☆`448` 
-- [appstore](https://github.com/phillfarrugia/appstore-clone)
-  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*tQ0-dhZvBH3O0h9GTScihA.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`510` 
 - [DesignRemakes](https://github.com/FloWritesCode/DesignRemakes): Dribbble designs, speed-coded in SwiftUI
   -  `2023` `swift` `swiftui` 
   -  ☆`71` 
