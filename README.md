@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%201,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%202,%202026-lightgrey.svg)
 
 Jump to
 
@@ -789,10 +789,6 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/utmapp/UTM/main/screen.png'>`Screenshot 1`</a> 
   -  `2026` `objc` 
   -  ☆`34208` 
-- [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
-  -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
-  -  `2019` `swift` `rxswift` `mvvm` 
-  -  ☆`27` 
 - [Zeitgeist](https://github.com/daneden/Zeitgeist): Keep an eye on your Vercel deployments
   -  <a href='https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -965,10 +961,6 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3d7acd3a-fcf5-4c72-b3ae-f14a397eab8f'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `chatgpt` 
   -  ☆`66` 
-- [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
-  -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
-  -  `2019` `swift` `rxswift` `mvvm` 
-  -  ☆`27` 
 ## Emulator 
  
 [back to top](#readme) 
@@ -3973,10 +3965,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/01_search_repository_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/02_repository_details_screen.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/khoren93/SwiftHub/blob/master/screenshots/03_settings_screen.png?raw=true'>`Screenshot 3`</a> 
   -  `2026` `swift` `rxswift` `mvvm` `moya` `fastlane` 
   -  ☆`3111` 
-- [WWDCast](https://github.com/sgl0v/WWDCast): The unofficial WWDC application to watch WWDC videos and sessions on your ChromeCast
-  -  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/sgl0v/WWDCast/master/.github/screen3.png'>`Screenshot 3`</a> 
-  -  `2019` `swift` `rxswift` `mvvm` 
-  -  ☆`27` 
 ### SwiftUI 
  
 [back to top](#readme) 
