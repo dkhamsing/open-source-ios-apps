@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **323** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -543,10 +543,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`37` 
-- [try! Swift Tokyo](https://github.com/tryswift/try-swift-tokyo)
-  - [` App Store`](https://apps.apple.com/app/try-tokyo-2026/id6479317240) <a href='https://github.com/user-attachments/assets/b74ae3cc-48e3-40a4-beea-fbb118dca413'>`Screenshot 1`</a> 
-  -  `2026` `swift` `swiftui` `skip` 
-  -  ☆`195` 
 ## Extension 
  
 [back to top](#readme) 
