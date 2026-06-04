@@ -34252,6 +34252,28 @@
       "suggested_by": "@marcusraitner",
       "stars": 12,
       "updated": "2026-05-21 14:35:28 UTC"
+    },
+    {
+      "title": "DumpertTV",
+      "description": "Unofficial Dumpert.nl client for Apple TV: browse, search and stream Dumpert videos, with Top Shelf, CloudKit sync and SharePlay",
+      "category-ids": [
+        "video",
+        "apple-tv"
+      ],
+      "source": "https://github.com/rm335/dumpert-apple-tv",
+      "tags": [
+        "swift",
+        "swiftui",
+        "tvos",
+        "cloudkit"
+      ],
+      "license": "mit",
+      "screenshots": [
+        "https://github.com/rm335/dumpert-apple-tv/raw/main/assets/screenshot-toppers.png",
+        "https://github.com/rm335/dumpert-apple-tv/raw/main/assets/screenshot-search.png"
+      ],
+      "date_added": "Jun 4 2026",
+      "suggested_by": "@rm335"
     }
   ]
 }
