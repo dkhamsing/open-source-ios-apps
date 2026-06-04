@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1031,10 +1031,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/openstack-foundation-summit/id1071261846) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple122/v4/7d/ff/a9/7dffa970-0332-eb92-b625-601e1130da99/pr_source.png/460x0w.png'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`37` 
-- [try! Swift Tokyo](https://github.com/tryswift/try-swift-tokyo)
-  - [` App Store`](https://apps.apple.com/app/try-tokyo-2026/id6479317240) <a href='https://github.com/user-attachments/assets/b74ae3cc-48e3-40a4-beea-fbb118dca413'>`Screenshot 1`</a> 
-  -  `2026` `swift` `swiftui` `skip` 
-  -  ☆`195` 
 - [WWDC Family](https://github.com/wwdc-family/app): Easily connect with fellow developers during WWDC
   -  <a href='https://raw.githubusercontent.com/wwdc-family/app/master/design/Screenshot1.png'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
