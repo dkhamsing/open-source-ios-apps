@@ -3359,8 +3359,7 @@
     {
       "title": "HealthSync",
       "category-ids": [
-        "health",
-        "swiftui"
+        "health"
       ],
       "description": "Sync selected Apple Health data to a private backend API",
       "source": "https://github.com/megabyte0x/healthykit",
