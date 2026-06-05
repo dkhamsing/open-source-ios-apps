@@ -3365,6 +3365,9 @@
       "description": "Sync selected Apple Health data to a private backend API",
       "source": "https://github.com/megabyte0x/healthykit",
       "homepage": "https://web-megabytes-projects.vercel.app/apple-health-app-sync",
+      "screenshots": [
+        "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
+      ],
       "tags": [
         "swift",
         "swiftui",
