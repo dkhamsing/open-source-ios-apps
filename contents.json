@@ -7272,7 +7272,9 @@
       "date_added": "Mon May 18 11:52:02 2015 -0700",
       "suggested_by": "@Mike",
       "screenshots": [
-        "https://owncloud.com/wp-content/uploads/2019/05/ownCloud-iOS-app-store-parent-file-listing.png"
+        "https://raw.githubusercontent.com/owncloud/ios-app/master/doc/images/en-US/iPhone%2011%20Pro%20Max-11_ios_accounts_list_demo.png",
+        "https://raw.githubusercontent.com/owncloud/ios-app/master/doc/images/en-US/iPhone%2011%20Pro%20Max-20_ios_files_list_demo.png",
+        "https://raw.githubusercontent.com/owncloud/ios-app/master/doc/images/en-US/iPhone%2011%20Pro%20Max-21_ios_files_actions_demo.png"
       ],
       "updated": "2026-05-28 07:10:22 UTC"
     },
