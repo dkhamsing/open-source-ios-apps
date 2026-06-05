@@ -3357,6 +3357,29 @@
       "updated": "2020-03-02 15:11:52 UTC"
     },
     {
+      "title": "HealthSync",
+      "category-ids": [
+        "health",
+        "swiftui"
+      ],
+      "description": "Sync selected Apple Health data to a private backend API",
+      "source": "https://github.com/megabyte0x/healthykit",
+      "homepage": "https://healthsync.megabyte.sh/apple-health-app-sync",
+      "screenshots": [
+        "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit"
+      ],
+      "stars": 0,
+      "license": "other",
+      "date_added": "Jun 5 2026",
+      "suggested_by": "@megabyte0x",
+      "updated": "2026-06-05 00:03:48 UTC"
+    },
+    {
       "title": "Jim",
       "category-ids": [
         "fitness"
