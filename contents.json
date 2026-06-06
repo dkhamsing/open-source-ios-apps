@@ -34277,9 +34277,8 @@
     },
     {
       "title": "DumpertTV",
-      "description": "Unofficial Dumpert.nl client for Apple TV: browse, search and stream Dumpert videos, with Top Shelf, CloudKit sync and SharePlay",
+      "description": "Browse, search and stream Dumpert videos",
       "category-ids": [
-        "video",
         "apple-tv"
       ],
       "source": "https://github.com/rm335/dumpert-apple-tv",
@@ -34287,7 +34286,7 @@
         "swift",
         "swiftui",
         "tvos",
-        "cloudkit"
+        "cloudkit", "top shelf", "cloudkit", "shareplay"
       ],
       "license": "mit",
       "screenshots": [
