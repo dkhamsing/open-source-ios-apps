@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1653-green.svg) ![](https://img.shields.io/badge/Updated-June%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1654-green.svg) ![](https://img.shields.io/badge/Updated-June%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1626,6 +1626,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
   -  ☆`119` 
+- [HealthSync](https://github.com/megabyte0x/healthykit): Sync selected Apple Health data to a private backend API
+  - <a href=https://healthsync.megabyte.sh/apple-health-app-sync>`https://healthsync.megabyte.sh/apple-health-app-sync`</a>
+  -  <a href='https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` `healthkit` 
 - [KFinder](https://github.com/robertwtucker/kfinderapp-ios): Promotes consistent Vitamin K intake and regular blood testing for warfarin users
   - <a href=https://kfinderapp.com>`https://kfinderapp.com`</a>
   - [` App Store`](https://apps.apple.com/app/kfinder/id6738031531) <a href='https://raw.githubusercontent.com/robertwtucker/kfinderapp-ios/master/assets/kfinder-home.png'>`Screenshot 1`</a> 
