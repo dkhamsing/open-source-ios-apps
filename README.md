@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1654-green.svg) ![](https://img.shields.io/badge/Updated-June%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -100,6 +100,9 @@ Jump to
   -  <a href='https://github.com/yichengchen/ATV-Bilibili-demo/raw/main/imgs/1.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`3053` 
+- [DumpertTV](https://github.com/rm335/dumpert-apple-tv): Browse, search and stream Dumpert videos
+  -  <a href='https://github.com/rm335/dumpert-apple-tv/raw/main/assets/screenshot-toppers.png'>`Screenshot 1`</a>  <a href='https://github.com/rm335/dumpert-apple-tv/raw/main/assets/screenshot-search.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `tvos` `cloudkit` `top shelf` `cloudkit` `shareplay` 
 - [iCook TV](https://github.com/polydice/iCook-tvOS): Taiwanese cuisine cooking videos
   - [` App Store`](https://apps.apple.com/app/ai-liao-li/id554065086) <a href='https://polydice.com/iCook-tvOS/images/Screenshot.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
