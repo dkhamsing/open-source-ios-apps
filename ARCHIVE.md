@@ -187,6 +187,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
 - [Done](https://github.com/FancyPixel/done-swift)
 - [Dono](https://github.com/opensourceios/dono-ios)
+- [DOOM Classic 2](https://github.com/id-Software/DOOM-IOS2)
 - [Doppio](https://github.com/christianroman/Doppio)
 - [DoubanFM](https://github.com/XVXVXXX/DoubanFM)
 - [doughwallet](https://github.com/peritus/doughwallet)
