@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3875,7 +3875,7 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://github.com/vadymmarkov/reviewery-mobile/raw/master/reviewery.gif'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
   -  ☆`16` 
-- [RNTester](https://github.com/facebook/react-native/tree/main/packages/rn-tester): Showcases React Native views & modules
+- [RNTester](https://github.com/react/react-native/tree/main/packages/rn-tester): Showcases React Native views & modules
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
 - [Royal News](https://github.com/msal4/royal_news)
