@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **322** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **321** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1282,10 +1282,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741) <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`1742` 
-- [Simple Reader](https://github.com/rnystrom/HackerNewsReader)
-  - [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/31/95/c7319576-6210-9a93-8c03-5a84bc4626f3/mzl.unluhpnm.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/1b/56/b21b5672-08df-a48b-5c4b-43df00cabd08/mzl.dfznlxwe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5d/ee/b8/5deeb8e3-0c14-793e-ba28-7a7591cb1a0f/mzl.okdygwvb.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2018` `objc` 
-  -  ☆`258` 
 ### News API 
  
 https://newsapi.org/ — [back to top](#readme) 
