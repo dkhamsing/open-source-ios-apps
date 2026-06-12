@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2011,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2398,10 +2398,6 @@ https://news.ycombinator.com/ — [back to top](#readme)
 - [React Native Hacker News](https://github.com/G2Jose/ReactNative-HackerNews)
   -  `2026` `react-native` 
   -  ☆`73` 
-- [Simple Reader](https://github.com/rnystrom/HackerNewsReader)
-  - [` App Store`](https://apps.apple.com/app/simple-reader-free-open-source/id1000995253) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/c7/31/95/c7319576-6210-9a93-8c03-5a84bc4626f3/mzl.unluhpnm.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/b2/1b/56/b21b5672-08df-a48b-5c4b-43df00cabd08/mzl.dfznlxwe.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/5d/ee/b8/5deeb8e3-0c14-793e-ba28-7a7591cb1a0f/mzl.okdygwvb.png/460x0w.jpg'>`Screenshot 3`</a> 
-  -  `2018` `objc` 
-  -  ☆`258` 
 ### News API 
  
 https://newsapi.org/ — [back to top](#readme) 
