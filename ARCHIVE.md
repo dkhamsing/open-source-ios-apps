@@ -309,6 +309,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo)
 - [HopperBus](https://github.com/TosinAF/HopperBus-iOS)
 - [Hostile Takeover](https://github.com/spiffcode/hostile-takeover)
+- [how-much](https://github.com/dkhamsing/how-much)
 - [hoxChess](https://github.com/huygithub/hoxChess)
 - [iAmiga (iUAE)](https://github.com/emufreak/iAmiga)
 - [IBCalculator](https://github.com/JakeLin/IBCalculator)
