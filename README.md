@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2012,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2013,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3452,10 +3452,6 @@ https://joinmastodon.org — [back to top](#readme)
 https://firebase.google.com/ — [back to top](#readme) 
  
 
-- [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
-  -  <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'>`Screenshot 1`</a> 
-  -  `2017` `parse` `firebase` `realm` 
-  -  ☆`21` 
 - [Messenger](https://github.com/relatedcode/Messenger): Audio/video calls, realtime chat & full offline support
   -  <a href='https://user-images.githubusercontent.com/4723115/183111668-70d3f114-bd84-4af7-9633-9e5fc09f1188.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `graphql` 
@@ -3912,10 +3908,6 @@ https://github.com/ReactiveCocoa/ReactiveCocoa — [back to top](#readme)
 https://realm.io/ — [back to top](#readme) 
  
 
-- [how-much](https://github.com/dkhamsing/how-much): Record how much things cost
-  -  <a href='https://github.com/dkhamsing/how-much/raw/master/Assets/screens.png'>`Screenshot 1`</a> 
-  -  `2017` `parse` `firebase` `realm` 
-  -  ☆`21` 
 - [Model2App Test App](https://github.com/Q-Mobile/Model2App): Simple CRM app built using Model2App library, lets you quickly generate a CRUD iOS app based on just a data model
   -  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png'>`Screenshot 6`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png'>`Screenshot 7`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png'>`Screenshot 8`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png'>`Screenshot 9`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png'>`Screenshot 10`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png'>`Screenshot 11`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png'>`Screenshot 12`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png'>`Screenshot 13`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png'>`Screenshot 14`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png'>`Screenshot 15`</a> 
   -  `2019` `swift` `realm` 
