@@ -8072,7 +8072,7 @@
       "tags": [
         "parse",
         "firebase",
-        "realm"
+        "realm", "archive"
       ],
       "license": "mit",
       "description": "Record how much things cost",
