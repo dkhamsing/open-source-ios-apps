@@ -33504,13 +33504,12 @@
     },
     {
       "title": "Foundation Models Framework Example",
-      "description": "Example for Foundation Models Framework in iOS 26",
       "category-ids": [
         "developer"
       ],
-      "source": "https://github.com/rudrankriyam/Foundation-Models-Framework-Example",
+      "source": "https://github.com/rudrankriyam/Foundation-Models-Framework-Lab",
       "tags": [
-        "ios26"
+        "ios26", "xcode27"
       ],
       "license": "mit",
       "date_added": "Jul 27 2025",
