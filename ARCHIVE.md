@@ -731,6 +731,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Tweetometer](https://github.com/BalestraPatrick/Tweetometer)
 - [Twitch](https://github.com/IFours/react-native-twitch)
 - [Twitter clone](https://github.com/opensourceios/Twitter)
+- [UitzendingGemist](https://github.com/4np/UitzendingGemist)
 - [UitzendingGemist by jeffkreeftmeijer](https://github.com/jeffkreeftmeijer/UitzendingGemist)
 - [UK](https://github.com/nhsx/COVID-19-app-iOS-BETA)
 - [UK - NHS COVID-19](https://github.com/ukhsa-collaboration/covid-19-app-ios-ag-public)
