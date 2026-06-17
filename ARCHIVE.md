@@ -68,6 +68,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AsthmaHealth](https://github.com/ResearchKit/AsthmaHealth)
 - [audiograph](https://github.com/tkzic/audiograph)
 - [Avo Keepr](https://github.com/opensourceios/AvoKeepr)
+- [Awesome ML](https://github.com/eugenebokhan/Awesome-ML)
 - [Awesome Mobile Conference](https://github.com/aweconf/iOS)
 - [Awesome Swift iOS App](https://github.com/matteocrippa/awesome-swift-ios)
 - [Baby Monitor](https://github.com/netguru/baby-monitor-client-ios)
