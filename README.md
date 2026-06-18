@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -628,8 +628,8 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/tinode/id1483763538) <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`285` 
-- [TSWeChat](https://github.com/hilen/TSWeChat): A WeChat alternative
-  -  <a href='https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif'>`Screenshot 1`</a> 
+- [TSWeChat](https://github.com/lanceylai/TSWeChat): A WeChat alternative
+  -  <a href='https://github.com/lanceylai/TSWeChat/raw/master/images/preview1.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
   -  ☆`3752` 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email
