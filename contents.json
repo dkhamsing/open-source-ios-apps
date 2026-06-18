@@ -9710,9 +9710,9 @@
       ],
       "description": "A WeChat alternative",
       "license": "mit",
-      "source": "https://github.com/hilen/TSWeChat",
+      "source": "https://github.com/lanceylai/TSWeChat",
       "screenshots": [
-        "https://github.com/hilen/TSWeChat/raw/master/images/preview1.gif"
+        "https://github.com/lanceylai/TSWeChat/raw/master/images/preview1.gif"
       ],
       "tags": [
         "swift"
