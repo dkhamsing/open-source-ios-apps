@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **321** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1111,11 +1111,6 @@ Image, video, audio, reading — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [AudioKit ROM Player](https://github.com/AudioKit/ROMPlayer): Make your own sample music instrument
-  - <a href=https://audiokitpro.com/rom-player-code/>`https://audiokitpro.com/rom-player-code/`</a>
-  - [` App Store`](https://apps.apple.com/app/fm-player-classic-dx-synths/id1307785646) <a href='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `swift4` `ipad` 
-  -  ☆`549` 
 - [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): Free synthesizer https://audiokitpro.com/synth/
   - <a href=https://audiokitpro.com/synth/>`https://audiokitpro.com/synth/`</a>
   - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://audiokitpro.com/images/ak2.gif'>`Screenshot 1`</a> 
