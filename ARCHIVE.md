@@ -67,6 +67,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AssociationBot](https://github.com/alexsosn/AssociationBot)
 - [AsthmaHealth](https://github.com/ResearchKit/AsthmaHealth)
 - [audiograph](https://github.com/tkzic/audiograph)
+- [AudioKit ROM Player](https://github.com/AudioKit/ROMPlayer)
 - [Avo Keepr](https://github.com/opensourceios/AvoKeepr)
 - [Awesome ML](https://github.com/eugenebokhan/Awesome-ML)
 - [Awesome Mobile Conference](https://github.com/aweconf/iOS)
