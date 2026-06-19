@@ -34295,6 +34295,22 @@
       ],
       "date_added": "Jun 4 2026",
       "suggested_by": "@rm335"
-    }
+    },
+ {
+      "title": "YTLite",
+      "category-ids": [
+        "video"
+      ],
+      "description": "Lightweight, privacy-focused YouTube client",
+      "source": "https://github.com/verback2308/YTLite",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "uikit"
+        "youtube" 
+      ],
+      "date_added": "Jun 19 2026",
+      "suggested_by": "@SimonArs"       
+    }    
   ]
 }
