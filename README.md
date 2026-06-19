@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2018,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1960,11 +1960,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*hj0rxmPvapxpY1URdvw97A.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`11365` 
-- [AudioKit ROM Player](https://github.com/AudioKit/ROMPlayer): Make your own sample music instrument
-  - <a href=https://audiokitpro.com/rom-player-code/>`https://audiokitpro.com/rom-player-code/`</a>
-  - [` App Store`](https://apps.apple.com/app/fm-player-classic-dx-synths/id1307785646) <a href='https://audiokitpro.com/wp-content/uploads/2017/11/romplayer.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `swift4` `ipad` 
-  -  ☆`549` 
 - [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): Free synthesizer https://audiokitpro.com/synth/
   - <a href=https://audiokitpro.com/synth/>`https://audiokitpro.com/synth/`</a>
   - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://audiokitpro.com/images/ak2.gif'>`Screenshot 1`</a> 
