@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1655-green.svg) ![](https://img.shields.io/badge/Updated-June%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1656-green.svg) ![](https://img.shields.io/badge/Updated-June%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2299,6 +2299,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
   -  `2026` `swift` `tvos` 
   -  ☆`3497` 
+- [YTLite](https://github.com/verback2308/YTLite): Lightweight, privacy-focused YouTube client
+  - `swift` `uikit` `youtube` 
 ## News 
  
 [back to top](#readme) 
