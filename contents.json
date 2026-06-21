@@ -34311,6 +34311,21 @@
       ],
       "date_added": "Jun 19 2026",
       "suggested_by": "@SimonArs"       
-    }    
+    },
+{
+      "title": "Reynard Browser",
+      "category-ids": [
+        "browser"
+      ],
+      "description": "Experimental Gecko-based web browser",
+      "source": "https://github.com/minh-ton/reynard-browser",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift"      
+      ],
+  "screenshots": ["https://github.com/user-attachments/assets/d89f4385-c478-4aea-aa9d-6c9fca72252b"],
+      "date_added": "Jun 20 2026",
+      "suggested_by": "@SimonArs"       
+    }        
   ]
 }
