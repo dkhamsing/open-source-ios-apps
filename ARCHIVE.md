@@ -468,6 +468,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [OpenIt](https://github.com/BalestraPatrick/OpenIt)
 - [OpenPics](https://github.com/pj4533/OpenPics)
 - [OpenSesame](https://github.com/OpenSesameManager/OpenSesame)
+- [OpenStack Foundation Summit](https://github.com/OpenStack-mobile/summit-app-ios)
 - [OpenTerm](https://github.com/louisdh/openterm)
 - [Orbit7](https://github.com/Aaron-A/Orbit7)
 - [packlog](https://github.com/jdg/packlog)
