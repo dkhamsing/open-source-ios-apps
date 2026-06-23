@@ -335,6 +335,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera)
 - [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
 - [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
+- [Iris.iOS](https://github.com/Neko3000/Iris.iOS)
 - [iStockcheck](https://github.com/AndrewBennet/iStockcheck)
 - [Italy - Immuni](https://github.com/immuni-app/immuni-app-ios)
 - [iTunes Catalog Search](https://github.com/alexissan/ReactNativeWorkshop)
