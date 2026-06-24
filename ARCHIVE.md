@@ -259,6 +259,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [fudge](https://github.com/FredericJacobs/fudge)
 - [Furni](https://github.com/opensourceios/furni-ios)
 - [FuseCloud](https://github.com/fusetools/FuseCloud)
+- [Game of War clone](https://github.com/shankqr/4xMobileGame)
 - [GameJam](https://github.com/TheSwiftAlps/GameJam)
 - [gbible](https://github.com/photokandyStudios/gbible)
 - [GeoTappy](https://github.com/GeoTappy/GeoTappy-iOS)
