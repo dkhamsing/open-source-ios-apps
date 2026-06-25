@@ -17160,7 +17160,7 @@
         "swift",
         "objc",
         "healthkit",
-        "realm"
+        "realm", "archive"
       ],
       "description": "Diabetes management and research",
       "source": "https://github.com/Glucosio/glucosio-ios",
