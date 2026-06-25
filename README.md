@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-June%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-June%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3820,9 +3820,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
   -  <a href='https://cloud.githubusercontent.com/assets/5305874/12059257/dacf1ad0-af92-11e5-920c-ba4818d8dc1d.png'>`Screenshot 1`</a> 
   -  `2019` `react-native` 
   -  ☆`2216` 
-- [NBAreact](https://github.com/jbkuczma/NBAreact): NBA stats & standings
-  -  `2018` `react-native` 
-  -  ☆`104` 
 - [OpenNutriTracker](https://github.com/simonoppowa/OpenNutriTracker): Easily log your meals, snacks and access a vast database of food items and ingredients to get detailed nutritional information
   -  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png'>`Screenshot 4`</a> 
   -  `2026` `react-native` `ipad` 
