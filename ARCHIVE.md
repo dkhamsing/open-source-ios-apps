@@ -266,6 +266,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Germany - Corona Warn App](https://github.com/corona-warn-app/cwa-app-ios)
 - [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios)
 - [Gifzat](https://github.com/remirobert/Gifzat)
+- [Giovanni](https://github.com/gabrieloc/GIOVANNI)
 - [Giraffe](https://github.com/evgeniyd/Giraffe)
 - [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
 - [GitHawk](https://github.com/GitHawkApp/GitHawk)
