@@ -637,6 +637,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Spika](https://github.com/cloverstudio/Spika)
 - [Spontaneous - Random quotes](https://github.com/opensourceios/DiscoverRandomQuotes)
 - [Sprite Fonts](https://github.com/256Arts/Sprite-Fonts)
+- [SpriteKitWatchFace](https://github.com/steventroughtonsmith/SpriteKitWatchFace)
 - [Standard Notes](https://github.com/standardnotes/mobile)
 - [Starship](https://github.com/kylef-archive/Starship)
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael)
