@@ -33905,7 +33905,7 @@
     {
       "title": "InferrLM",
       "description": "On-device local AI",
-      "source": "https://github.com/sbhjt-gr/InferrLM",
+      "source": "https://github.com/loomax-labs/InferrLM",
       "itunes": "https://apps.apple.com/app/inferra/id6754396856",
       "category-ids": [
         "misc"
