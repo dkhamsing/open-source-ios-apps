@@ -24,7 +24,7 @@
 20. [Swiftgram](https://github.com/Swiftgram/Telegram-iOS)
 21. [Potato Game](https://github.com/mick-schroeder/PotatoGame)
 22. [Table Habit](https://github.com/FriesI23/mhabit)
-23. [InferrLM](https://github.com/sbhjt-gr/InferrLM)
+23. [InferrLM](https://github.com/loomax-labs/InferrLM)
 24. [Enchanted](https://github.com/gluonfield/enchanted)
 25. [Ultralytics YOLO](https://github.com/ultralytics/yolo-ios-app)
 26. [BetterBlue](https://github.com/schmidtwmark/BetterBlue)
