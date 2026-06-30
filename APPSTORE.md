@@ -1761,7 +1761,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hackfoldr/id919010837) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/15/1a/32151a02-4fb8-70e2-8d43-e361bee0722a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/62/14/16621422-f94c-a589-e5c6-3696177647a2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2019` `objc` 
   -  ☆`27` 
-- [InferrLM](https://github.com/sbhjt-gr/InferrLM): On-device local AI
+- [InferrLM](https://github.com/loomax-labs/InferrLM): On-device local AI
   - [` App Store`](https://apps.apple.com/app/inferra/id6754396856) <a href='https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`100` 
