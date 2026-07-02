@@ -217,6 +217,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Endless Browser](https://github.com/jcs/endless)
 - [Eros-FE](https://github.com/3003h/Eros-FE)
 - [ESCapey](https://github.com/brianmichel/ESCapey)
+- [Essentia](https://github.com/essentiaone/Essentia-iOS)
 - [EU VAT Number - VIES Freelance](https://github.com/opensourceios/VIES)
 - [EventBlankApp](https://github.com/icanzilb/EventBlankApp)
 - [Everest](https://github.com/EverestOpenSource/Everest-iOS)
