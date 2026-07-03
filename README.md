@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%203,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1132,10 +1132,6 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`382` 
-- [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d1e3d3e8-e09b-4bc3-a343-a104867c85f5'>`Screenshot 1`</a> 
-  -  `2020` `swift` `macos` `widgetkit` 
-  -  ☆`19` 
 - [Fruta](https://developer.apple.com/documentation/appclip/fruta-building-a-feature-rich-app-with-swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
