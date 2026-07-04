@@ -185,6 +185,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Dicershaker](https://github.com/millenomi/diceshaker)
 - [Dictum](https://github.com/matthewpalmer/Dictum)
 - [DinnerRoll](https://github.com/DinnerRollApp/iOS)
+- [Directory](https://github.com/hbmartin/Directory-SwiftUI)
 - [DoctorNearby](https://github.com/vincezzh/doctornearby-ios)
 - [Dollar Bets](https://github.com/Rich86man/Dollar-Bets)
 - [Done](https://github.com/FancyPixel/done-swift)
