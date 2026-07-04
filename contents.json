@@ -25283,7 +25283,8 @@
         "swiftui",
         "core-data",
         "alamofire",
-        "kingfisher"
+        "kingfisher",
+        "archive"
       ],
       "date_added": "Sep 20 2020",
       "suggested_by": "dkhamsing",
