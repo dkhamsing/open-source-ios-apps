@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **318** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **317** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -713,11 +713,6 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/breadwallet/id885251393) <a href='https://is2.mzstatic.com/image/thumb/Purple118/v4/5d/97/3b/5d973bb2-2e40-428e-bc10-ee4eb11ecc0d/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`638` 
-- [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet
-  - <a href=https://wallet.exan.tech/>`https://wallet.exan.tech/`</a>
-  - [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
-  -  `2019` `swift` 
-  -  ☆`6` 
 - [Fearless Wallet](https://github.com/soramitsu/fearless-iOS): Supports the Kusama and Polkadot networks
   - <a href=https://fearlesswallet.io/>`https://fearlesswallet.io/`</a>
   - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
