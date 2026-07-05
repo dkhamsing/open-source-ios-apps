@@ -1458,7 +1458,8 @@
         "yapdatabase",
         "purelayout",
         "mantle",
-        "bluetooth"
+        "bluetooth",
+        "archive"
       ],
       "description": "Chat using Bluetooth 4.0 Low Energy API (Bluetooth LE)",
       "license": "mpl-2.0",
