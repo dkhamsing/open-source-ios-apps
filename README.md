@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%205,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1572,10 +1572,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/depressed/id1062594092) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` 
   -  ☆`100` 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help diagnose melanoma early, get the necessary treatment
-  -  <a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `coreml` `avkit` `viper` 
-  -  ☆`39` 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `mapkit` `core-data` 
@@ -4433,10 +4429,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
  
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help diagnose melanoma early, get the necessary treatment
-  -  <a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `coreml` `avkit` `viper` 
-  -  ☆`39` 
 - [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
