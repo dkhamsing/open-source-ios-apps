@@ -281,6 +281,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Gitify](https://github.com/manosim/gitify-mobile)
 - [GiTiny](https://github.com/k-lpmg/GiTiny)
 - [GitTime](https://github.com/87kangsw/GitTime)
+- [Gleam](https://github.com/akarataev/gleam-ios)
 - [Glucosio](https://github.com/Glucosio/glucosio-ios)
 - [GlucoSuccess](https://github.com/ResearchKit/GlucoSuccess)
 - [Go Flashcards](https://github.com/roymckenzie/Go-Flashcards)
