@@ -18973,7 +18973,7 @@
         "swift",
         "coreml",
         "avkit",
-        "viper"
+        "viper", "archive"
       ],
       "description": "Use machine learning to help diagnose melanoma early, get the necessary treatment",
       "source": "https://github.com/akarataev/gleam-ios",
