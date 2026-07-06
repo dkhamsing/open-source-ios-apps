@@ -7194,6 +7194,31 @@
       "updated": "2018-09-18 04:22:26 UTC"
     },
     {
+      "title": "MirrorNotes",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Private AI journaling app: daily reflection prompts, mood timeline, and natural-language questions over your own entries, with all AI running on-device",
+      "license": "agpl-3.0",
+      "source": "https://github.com/lokii49/mirror",
+      "itunes": "https://apps.apple.com/app/id6769007201",
+      "homepage": "https://mirrornotes.org",
+      "screenshots": [
+        "https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide1-entries.png",
+        "https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide2-insights.png",
+        "https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide3-ask.png",
+        "https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide4-mood-timeline.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "cloudkit"
+      ],
+      "date_added": "Jul 6, 2026",
+      "suggested_by": "@lokii49"
+    },
+    {
       "title": "my41",
       "category-ids": [
         "misc"
