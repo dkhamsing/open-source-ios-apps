@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1593,6 +1593,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - <a href=https://migrainelog.zerodogg.org>`https://migrainelog.zerodogg.org`</a>
   - [` App Store`](https://apps.apple.com/app/migraine-log/id1636946550) <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/1-iPhone%2013%20Pro%20Max.png'>`Screenshot 1`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/2-iPhone%2013%20Pro%20Max.png'>`Screenshot 2`</a>  <a href='https://gitlab.com/zerodogg/migraine-log-ios-screenshots/-/blob/main/en-GB/3-iPhone%2013%20Pro%20Max.png'>`Screenshot 3`</a> 
   - `flutter` `dart` 
+- [MirrorNotes](https://github.com/lokii49/mirror): Private AI journaling with daily reflection prompts, mood timeline, and more
+  - <a href=https://mirrornotes.org>`https://mirrornotes.org`</a>
+  - [` App Store`](https://apps.apple.com/app/id6769007201) <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide1-entries.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide2-insights.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide3-ask.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide4-mood-timeline.png'>`Screenshot 4`</a> 
+  - `swift` `swiftui` `swiftdata` `cloudkit` 
 - [MoodSnap](https://github.com/drpeterrohde/MoodSnap): Mood diary
   - <a href=https://moodsnap.app/>`https://moodsnap.app/`</a>
   - [` App Store`](https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944) <a href='https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212)'>`Screenshot 1`</a> 
