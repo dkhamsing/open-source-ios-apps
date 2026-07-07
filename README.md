@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-June%2029,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1657-green.svg) ![](https://img.shields.io/badge/Updated-July%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -57,6 +57,7 @@ Jump to
   - [RSS](#rss) 
 - [Official](#official) 
 - [Productivity](#productivity) 
+- [ConvertTool](https://converttool.org) - Free online file converter with 300+ tools for PDF, images, audio, and video. Convert instantly in your browser — no ...
 - [Sample](#sample) 
 - [Scan](#scan) 
 - [Security](#security) 
@@ -728,10 +729,6 @@ Jump to
   -  <a href='https://github.com/Jasonette/Instagram-UI-example/raw/master/images/instagram.gif'>`Screenshot 1`</a> 
   -  `2022` `json` `javascript` 
   -  ☆`5226` 
-- [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
-  - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
-  -  `2019` `swift` 
-  -  ☆`160` 
 - [Matomo](https://github.com/matomo-org/matomo-mobile-2): Access analytics on the go (formerly Piwik)
   - [` App Store`](https://apps.apple.com/app/id737216887) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/74/06/aa/7406aaa2-1913-c66a-3896-b1bcc6f48f23/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/15/71/51/1571512a-a119-11e5-e5c5-7ddc15528ec9/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/1b/5f/7e/1b5f7e20-5478-6d36-a8e9-6353a37d94e9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/0b/99/a00b99a7-cb8c-2e54-802b-e828743e22bb/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/85/3b/b4/853bb4b2-3317-17b1-5ed5-7a12a5be6ca6/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2026` `objc` 
@@ -1136,10 +1133,6 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`382` 
-- [Fivey](https://github.com/CastIrony/Fivey): iOS 14 widget to show FiveThirtyEight's 2020 election model results
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d1e3d3e8-e09b-4bc3-a343-a104867c85f5'>`Screenshot 1`</a> 
-  -  `2020` `swift` `macos` `widgetkit` 
-  -  ☆`19` 
 - [Fruta](https://developer.apple.com/documentation/appclip/fruta-building-a-feature-rich-app-with-swiftui): Create a shared codebase to build a multiplatform app that offers widgets and an App Clip - WWDC 2020 and WWDC 2021 sample code by Apple
   - `swift` `ios14` `ios15` `widgetkit` `macos` `app-clip` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
@@ -1296,14 +1289,6 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/1_Cryptocurrency-Info.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/2_Cryptocurrency-Info.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/3_Cryptocurrency-Info.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denissimon/Cryptocurrency-Info/master/Screenshots/4_Cryptocurrency-Info.png'>`Screenshot 4`</a> 
   -  `2025` `swift` 
   -  ☆`7` 
-- [Essentia](https://github.com/essentiaone/Essentia-iOS): Multi wallet, All in one Blockchain solution
-  -  `2019` `swift` `ipad` 
-  -  ☆`62` 
-- [Exa Wallet Monero](https://github.com/exantech/exa-wallet-ios): Receive, spend and store your Monero with a multisignature wallet
-  - <a href=https://wallet.exan.tech/>`https://wallet.exan.tech/`</a>
-  - [` App Store`](https://apps.apple.com/app/exa-wallet-monero/id1457024905) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/7c/61/61/7c6161bf-70b8-95e9-824d-cff92d5960fb/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/16/ca/e116ca96-5c51-7cc0-f2aa-72e80447e7b0/pr_source.png/460x0w.png'>`Screenshot 2`</a> 
-  -  `2019` `swift` 
-  -  ☆`6` 
 - [Fearless Wallet](https://github.com/soramitsu/fearless-iOS): Supports the Kusama and Polkadot networks
   - <a href=https://fearlesswallet.io/>`https://fearlesswallet.io/`</a>
   - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
@@ -1588,10 +1573,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/depressed/id1062594092) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple114/v4/e4/14/90/e414906d-dff4-4f65-05c3-86fcbc65d25d/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/48/d3/b0/48d3b059-01d3-be32-eeac-09c65fd4b2f5/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` 
   -  ☆`100` 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help diagnose melanoma early, get the necessary treatment
-  -  <a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `coreml` `avkit` `viper` 
-  -  ☆`39` 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `mapkit` `core-data` 
@@ -3263,14 +3244,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/ynagatomo/ImgGenSD2/raw/main/images/ss_4_imgs.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `stable-diffusion` 
   -  ☆`501` 
-- [InferrLM](https://github.com/sbhjt-gr/InferrLM): On-device local AI
+- [InferrLM](https://github.com/loomax-labs/InferrLM): On-device local AI
   - [` App Store`](https://apps.apple.com/app/inferra/id6754396856) <a href='https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`100` 
-- [Ladybug](https://github.com/ethanhuang13/ladybug): Handle rdar:// links gracefully
-  - [` App Store`](https://apps.apple.com/app/ladybug-handles-radar-links/id1402968134) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple125/v4/4a/b6/98/4ab6985f-3ac7-21cd-76d3-8479091bad07/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/c2/c3/14/c2c31427-d01d-dccd-5c16-4d7334377d7a/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/41/f3/c9/41f3c908-bd31-1297-cf88-15b66d28ce4e/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
-  -  `2019` `swift` 
-  -  ☆`160` 
 - [Learning](https://github.com/almormd/Learning): Different projects to test and learn
   -  `2022` `swift` `alamofire` `core-data` 
   -  ☆`10` 
@@ -4018,10 +3995,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`172` 
-- [Directory](https://github.com/hbmartin/Directory-SwiftUI)
-  -  <a href='https://github.com/hbmartin/Directory-SwiftUI/raw/master/docs/screenshots/light.png'>`Screenshot 1`</a> 
-  -  `2020` `swift` `swiftui` `core-data` `alamofire` `kingfisher` 
-  -  ☆`16` 
 - [DivRise](https://github.com/ThasianX/DivRise): Elegant dividend yield and income tracker
   -  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/portfolio.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/details.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/ThasianX/DivRise/blob/develop/AppPhotos/income.png?raw=true'>`Screenshot 3`</a> 
   -  `2020` `swiftui` `dividend` `income tracker` 
@@ -4457,10 +4430,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 https://www.objc.io/issues/13-architecture/viper/ — [back to top](#readme) 
  
 
-- [Gleam](https://github.com/akarataev/gleam-ios): Use machine learning to help diagnose melanoma early, get the necessary treatment
-  -  <a href='https://raw.githubusercontent.com/akarataev/gleam-ios/master/Docs/Mockup-small.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `coreml` `avkit` `viper` 
-  -  ☆`39` 
 - [live-news-viper](https://github.com/smalam119/live-news-viper): News app using VIPER
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2faf5a74-74b0-48d4-82d7-0a0975e826b2'>`Screenshot 1`</a> 
   -  `2020` `swift` 
