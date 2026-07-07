@@ -7198,7 +7198,7 @@
       "category-ids": [
         "health"
       ],
-      "description": "Private AI journaling app: daily reflection prompts, mood timeline, and natural-language questions over your own entries, with all AI running on-device",
+      "description": "Private AI journaling with daily reflection prompts, mood timeline, and more",
       "license": "agpl-3.0",
       "source": "https://github.com/lokii49/mirror",
       "itunes": "https://apps.apple.com/app/id6769007201",
