@@ -90,6 +90,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [BitStore](https://github.com/BitStore/BitStore-iOS)
 - [Bitwarden](https://github.com/bitwarden/mobile)
 - [BlackJackTrainer](https://github.com/mongodb-developer/BlackJackTrainer)
+- [BLEMeshChat](https://github.com/chrisballinger/BLEMeshChat)
 - [BoardBank](https://github.com/richardneitzke/BoardBank)
 - [Bombus Pomodoro](https://github.com/opensourceios/Bombus)
 - [BookSearch](https://github.com/Norbert515/BookSearch)
