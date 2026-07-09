@@ -63,6 +63,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [ArtShredder](https://github.com/marty-suzuki/ArtShredder)
 - [Artsy Folio](https://github.com/artsy/energy-legacy)
 - [Artsy Shows](https://github.com/artsy/Emergence)
+- [ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art)
 - [Assemblies](https://github.com/buildreactnative/assemblies)
 - [AssociationBot](https://github.com/alexsosn/AssociationBot)
 - [AsthmaHealth](https://github.com/ResearchKit/AsthmaHealth)
