@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1864,10 +1864,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/225442464-d2c22add-0525-436e-9d01-9d24d1d5d8d3.png'>`Screenshot 1`</a> 
   -  `2023` `objc` 
   -  ☆`32` 
-- [ASCII Art Generator](https://github.com/ijoshsmith/swift-ascii-art)
-  -  <a href='https://ijoshsmith.files.wordpress.com/2015/04/ascii_kermit.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`309` 
 - [Filterpedia](https://github.com/FlexMonkey/Filterpedia): Core Image Filter explorer
   -  <a href='https://github.com/FlexMonkey/Filterpedia/raw/master/Filterpedia/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2020` `swift` `coreimage` 
