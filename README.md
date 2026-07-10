@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%20%209,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -974,10 +974,6 @@ Jump to
   -  <a href='https://namedfork.net/images/minivmac4ios/keyboard.png'>`Screenshot 1`</a> 
   -  `2025` `objc` 
   -  ☆`595` 
-- [nds4ios](https://github.com/raaxis/nds4ios): Nintendo DS emulator, port of DeSmuME
-  -  <a href='https://cdn.redmondpie.com/wp-content/uploads/2015/11/ROM-List_.jpg'>`Screenshot 1`</a> 
-  -  `2017` `objc` 
-  -  ☆`187` 
 - [Pomelo](https://gitlab.com/pomelo-emu/Pomelo): Nintendo Switch emulator
   -  <a href='https://gitlab.com/pomelo-emu/Pomelo/-/raw/main/images/IMG_1807.png'>`Screenshot 1`</a> 
   -  `2024` 
