@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2053,10 +2053,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f4ee6d90-2fa7-42ad-93f5-8da9d6e5fd09'>`Screenshot 1`</a> 
   -  `2019` `wikipedia` 
   -  ☆`9` 
-- [movies](https://github.com/KMindeguia/movies)
-  -  <a href='https://raw.githubusercontent.com/KMindeguia/movies/master/Gif%20Demo/demo.gif'>`Screenshot 1`</a> 
-  -  `2019` `afnetworking` `sdwebimage` `themoviedb` 
-  -  ☆`851` 
 - [MovieSwiftUI](https://github.com/Dimillian/MovieSwiftUI): Browse movies, made with SwiftUI, Combine & MovieDB
   -  <a href='https://raw.githubusercontent.com/Dimillian/MovieSwiftUI/master/images/MovieSwiftUI_promo_new.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `themoviedb` `combine` `ipad` `macos` 
