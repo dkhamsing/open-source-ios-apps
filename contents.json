@@ -34383,6 +34383,16 @@
       "suggested_by": "@SimonArs",
       "stars": 860,
       "updated": "2026-06-20 14:34:00 UTC"
+    },
+    {
+      "title": "Oscar Weather",
+      "category-ids": ["weather"],
+      "description": "SwiftUI weather app with global forecasts and enhanced regional coverage for Europe, using Open-Meteo",
+      "source": "https://github.com/strumswell/oscar-weather",
+      "tags": ["swift", "swiftui"],
+      "license": "other",
+      "date_added": "Jul 13 2026",
+      "suggested_by": "@GlowOnyx-d"
     }
   ]
 }
