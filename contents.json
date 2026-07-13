@@ -34387,7 +34387,7 @@
     {
       "title": "Oscar Weather",
       "category-ids": ["weather"],
-      "description": "SwiftUI weather app with global forecasts and enhanced regional coverage for Europe, using Open-Meteo",
+      "description": "Weather with global forecasts and enhanced regional coverage for Europe using Open-Meteo",
       "source": "https://github.com/strumswell/oscar-weather",
       "tags": ["swift", "swiftui"],
       "license": "other",
