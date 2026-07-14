@@ -13834,7 +13834,7 @@
         "swiftyjson",
         "keychainaccess",
         "realm",
-        "1password"
+        "1password", "archive"
       ],
       "license": "gpl-3.0",
       "date_added": "Nov 16 2016",
