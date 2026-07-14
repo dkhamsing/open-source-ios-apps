@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1658-green.svg) ![](https://img.shields.io/badge/Updated-July%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1727,10 +1727,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1543684531) <a href='https://github.com/cagnulein/qdomyos-zwift/raw/master/icons/AppScreen/iOS%20Phones%20-%206.5_/screenshot2.jpeg'>`Screenshot 1`</a> 
   -  `2026` `cpp` 
   -  ☆`809` 
-- [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting
-  -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
-  -  `2021` `swift` `parse` 
-  -  ☆`614` 
 - [RaceRunner](https://github.com/vermont42/RaceRunner): A Run-Tracking App for Runners Who Race
   - [` App Store`](https://apps.apple.com/app/racerunner-run-tracking-app/id1065017082) <a href='https://raw.githubusercontent.com/vermont42/RaceRunner/master/RaceRunner/RaceRunner1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner2-1.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner8.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner3.png?raw=true'>`Screenshot 5`</a>  <a href='https://github.com/vermont42/RaceRunner/blob/master/RaceRunner/RaceRunner4.png?raw=true'>`Screenshot 6`</a> 
   -  `2024` `swift` 
@@ -3070,6 +3066,8 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/AlexeyVoronov96/NewsApp-With-SwiftUI-And-Combine/raw/master/NewsApp%20With%20SwiftUI%20Framework/ScreenShots/OverviewTab.png'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` `combine` 
   -  ☆`475` 
+- [Oscar Weather](https://github.com/strumswell/oscar-weather): Weather with global forecasts and enhanced regional coverage for Europe using Open-Meteo
+  - `swift` `swiftui` 
 - [OSS Weather](https://github.com/ossappscollective/oss-weather)
   - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b'>`Screenshot 1`</a> 
   -  `2026` `nativescript` 
@@ -3835,10 +3833,6 @@ https://realm.io/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/AppMenu.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_People.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Companies.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Products.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Activities.png'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ListView_Deals.png'>`Screenshot 6`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/NewObjectView_Person.png'>`Screenshot 7`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company.png'>`Screenshot 8`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person.png'>`Screenshot 9`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Product.png'>`Screenshot 10`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Activity_CreateNewRelatedObject.png'>`Screenshot 11`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Company_CreateNewRelatedObject.png'>`Screenshot 12`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Person_DateEdit.png'>`Screenshot 13`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_PersonPhotoEdit.png'>`Screenshot 14`</a>  <a href='https://raw.githubusercontent.com/Q-Mobile/Model2App/master/Model2AppTestApp/Screenshots/ObjectView_Deal_PriceEdit.png'>`Screenshot 15`</a> 
   -  `2019` `swift` `realm` 
   -  ☆`139` 
-- [RaceMe](https://github.com/enochng1/RaceMe): Run tracking & ghosting
-  -  <a href='https://raw.githubusercontent.com/enochng1/RaceMe/master/raceMeGitImage.png'>`Screenshot 1`</a> 
-  -  `2021` `swift` `parse` 
-  -  ☆`614` 
 ### RxSwift 
  
 https://github.com/ReactiveX/RxSwift — [back to top](#readme) 
