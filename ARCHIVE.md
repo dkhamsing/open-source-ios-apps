@@ -273,6 +273,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Ghostery Dawn Privacy Browser](https://github.com/ghostery/user-agent-ios)
 - [Gifzat](https://github.com/remirobert/Gifzat)
 - [Giovanni](https://github.com/gabrieloc/GIOVANNI)
+- [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift)
 - [Giraffe](https://github.com/evgeniyd/Giraffe)
 - [GitBucket](https://github.com/leichunfeng/MVVMReactiveCocoa)
 - [GitHawk](https://github.com/GitHawkApp/GitHawk)
