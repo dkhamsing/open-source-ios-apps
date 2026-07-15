@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2116,10 +2116,6 @@ Image, video, audio, reading — [back to top](#readme)
 Mostly using https://giphy.com/ — [back to top](#readme) 
  
 
-- [giphy-mvvm-swift](https://github.com/tirupati17/giphy-mvvm-swift): Uses the MVVM (Model–view–viewmodel) pattern
-  -  <a href='https://github.com/tirupati17/giphy-mvvm-swift/blob/master/screenshots/giphy.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `mvvm` 
-  -  ☆`8` 
 - [LivelyGIFs](https://github.com/KrisYu/LivelyGIFs): Show your Live Photos & export as GIF
   -  <a href='https://github.com/KrisYu/LivelyGIFs/blob/master/demo.gif?raw=true'>`Screenshot 1`</a> 
   -  `2019` `objc` 
