@@ -24,6 +24,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AfishaLviv](https://github.com/danylokos/AfishaLviv-iOS)
 - [AirBnb clone](https://github.com/opensourceios/AirBnb)
 - [AirCheck](https://github.com/lojals/AirCheck)
+- [Alamofire Star Wars](https://github.com/camiloibarrayepes/AlamofireStarWarsExample)
 - [Alarm](https://github.com/ChrisChares/swift-alarm)
 - [AlarmClock](https://github.com/robbiehanson/AlarmClock)
 - [AlcatrazTour](https://github.com/haranicle/AlcatrazTour)
