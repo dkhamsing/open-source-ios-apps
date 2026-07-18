@@ -240,6 +240,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [FancyNews](https://github.com/aliumujib/FancyNews)
 - [FC Barcelona clone](https://github.com/opensourceios/FCBarca)
 - [Federal Data SDK](https://github.com/USDepartmentofLabor/Swift-Sample-App)
+- [Fetch](https://github.com/TryFetch/Fetch)
 - [File Browser](https://github.com/steventroughtonsmith/files-ios)
 - [FinalFighter](https://github.com/sebcode/FinalFighter-iphone)
 - [Find My Bus NJ](https://github.com/findmybusnj/findmybusnj-swift)
