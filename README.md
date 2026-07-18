@@ -1339,7 +1339,7 @@ File Management — [back to top](#readme)
   -  `2020` `objc` 
   -  ☆`8` 
 - [Domination](https://sourceforge.net/projects/domination/): Clone of the classic board game Risk using MOE https://multi-os-engine.org
-  - <a href=http://risk.sf.net>`http://risk.sf.net`</a>
+  - <a href=https://risk.sf.net>`https://risk.sf.net`</a>
   - [` App Store`](https://apps.apple.com/app/id1602913079) <a href='https://domination.sourceforge.io/screenshots/ss_tegmap.png'>`Screenshot 1`</a> 
   - `java` 
 - [Doom Classic](https://github.com/id-Software/DOOM-iOS)
@@ -1618,7 +1618,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  `2026` `swift` `swiftdata` `cloudkit` 
   -  ☆`12` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
-  - <a href=http://rise.vladimirbrejcha.com>`http://rise.vladimirbrejcha.com`</a>
+  - <a href=https://rise.vladimirbrejcha.com>`https://rise.vladimirbrejcha.com`</a>
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`46` 
