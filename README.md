@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2204,10 +2204,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/MrAdamBoyd/DownTube/master/Screenshots/screenshot2.png'>`Screenshot 2`</a> 
   -  `2019` `swift` 
   -  ☆`175` 
-- [Fetch](https://github.com/TryFetch/Fetch): The best way to watch Put.io
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/8fd90e75-1d57-495f-920b-766e8f00b79e'>`Screenshot 1`</a> 
-  -  `2019` `iphone` `ipad` `alamofire` `swiftyjson` `keychainaccess` `realm` `1password` 
-  -  ☆`90` 
 - [Loadify](https://github.com/VishwaiOSDev/Loadify-iOS): Instant YouTube video downloader
   -  `2026` `swift` `swift5` `download` `youtube` `downloader` 
   -  ☆`142` 
