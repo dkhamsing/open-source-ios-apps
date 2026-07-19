@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2018,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2019,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1339,7 +1339,7 @@ File Management — [back to top](#readme)
   -  `2020` `objc` 
   -  ☆`8` 
 - [Domination](https://sourceforge.net/projects/domination/): Clone of the classic board game Risk using MOE https://multi-os-engine.org
-  - <a href=http://risk.sf.net>`http://risk.sf.net`</a>
+  - <a href=https://domination.sourceforge.io/>`https://domination.sourceforge.io/`</a>
   - [` App Store`](https://apps.apple.com/app/id1602913079) <a href='https://domination.sourceforge.io/screenshots/ss_tegmap.png'>`Screenshot 1`</a> 
   - `java` 
 - [Doom Classic](https://github.com/id-Software/DOOM-iOS)
