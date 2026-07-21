@@ -23774,7 +23774,7 @@
         "swiftui",
         "ios13",
         "ipad",
-        "macos"
+        "macos", "archive"
       ],
       "date_added": "Jul 3 2020",
       "suggested_by": "@dkhamsing",
