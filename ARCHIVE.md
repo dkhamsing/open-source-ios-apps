@@ -631,6 +631,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SimpleMemo](https://github.com/lijuncode/SimpleMemo)
 - [SimpleWeather](https://github.com/rnystrom/SimpleWeather)
 - [Simplistic](https://github.com/e7711bbear/Simplistic)
+- [Siri Shortcut Example](https://github.com/CoyoteLab/Studies-Siri-Shortcut-iOS-13)
 - [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
 - [Skiff Mail](https://github.com/skiff-org/skiff-apps)
