@@ -395,6 +395,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [M](https://github.com/Mynigma/M)
 - [Major Input](https://github.com/rlwimi/major-input)
 - [Malendar](https://github.com/croossin/Malendar)
+- [Mamoot!](https://github.com/Benetos/Mamoot)
 - [MapBox Earth](https://github.com/mapbox/mapbox-earth)
 - [MAPS.ME](https://github.com/mapsme/omim)
 - [Marvel Comics](https://github.com/thiagolioy/marvelapp)
