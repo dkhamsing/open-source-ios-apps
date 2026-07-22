@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2021,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2022,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2858,9 +2858,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`315` 
-- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
-  -  `2019` `swift` `swiftui` `ios13` `ipad` `macos` 
-  -  ☆`14` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
   -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
@@ -3618,9 +3615,6 @@ Cross platform projects — [back to top](#readme)
 - [iMast for Mastodon](https://github.com/cinderella-project/iMast)
   -  `2026` `swift` `swiftlint` `alamofire` `grdb` 
   -  ☆`120` 
-- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
-  -  `2019` `swift` `swiftui` `ios13` `ipad` `macos` 
-  -  ☆`14` 
 - [Milestones](https://github.com/jpsim/Milestones): Count down the days until upcoming milestones
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/fc649fcc-e716-46ab-9f04-b77b5bfd8872'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` `macos` 
@@ -4086,9 +4080,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/149539522-01ae6d20-e365-40bc-aaf0-c1f357321878.gif'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `firebase` 
   -  ☆`525` 
-- [Mamoot!](https://github.com/Benetos/Mamoot): For Mastodon and Twitter
-  -  `2019` `swift` `swiftui` `ios13` `ipad` `macos` 
-  -  ☆`14` 
 - [MemeMaker](https://github.com/dempseyatgithub/MemeMaker)
   -  `2019` `swift` `swiftui` 
   -  ☆`101` 
