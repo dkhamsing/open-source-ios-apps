@@ -55,6 +55,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [appstore](https://github.com/phillfarrugia/appstore-clone)
 - [AR Art Attractors](https://github.com/opensourceios/ARArtAttractors)
 - [AR Plastic Ocean](https://github.com/opensourceios/ARPlasticOcean)
+- [Area51 for Reddit](https://github.com/kgellci/Area51)
 - [Arex](https://github.com/a2/arex)
 - [Argent](https://github.com/argent-os/argent-ios)
 - [Around Me](https://github.com/bgryszko/react-native-example)
