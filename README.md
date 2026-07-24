@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2346,10 +2346,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3122442c-d888-4062-9d51-5be9f074fa75'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
   -  ☆`20` 
-- [Royal News](https://github.com/msal4/royal_news)
-  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
-  -  `2019` `react-native` 
-  -  ☆`100` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
   -  <a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -3763,10 +3759,6 @@ https://facebook.github.io/react-native/ — [back to top](#readme)
 - [RNTester](https://github.com/react/react-native/tree/main/packages/rn-tester): Showcases React Native views & modules
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6ef0b930-4ab0-4c65-a70e-9a58bbc24c6d'>`Screenshot 1`</a> 
   -  `2023` `react-native` 
-- [Royal News](https://github.com/msal4/royal_news)
-  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*8ONZhhGqrQ6OCagY6ZHjbQ.jpeg'>`Screenshot 1`</a> 
-  -  `2019` `react-native` 
-  -  ☆`100` 
 - [Strata](https://github.com/microdotblog/strata):  Notes for Micro.blog
   - [` App Store`](https://apps.apple.com/app/strata-for-micro-blog/id6474192080)
   -  `2026` `react-native` 
