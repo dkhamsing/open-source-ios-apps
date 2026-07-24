@@ -592,6 +592,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [RKGist](https://github.com/RestKit/RKGist)
 - [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat.iOS)
 - [Round & Split](https://github.com/lukhnos/roundandsplit)
+- [Royal News](https://github.com/msal4/royal_news)
 - [RSS Reader](https://github.com/christopherdro/react-native-rss-reader)
 - [RSSRead](https://github.com/ming1016/RSSRead)
 - [RSToDoList](https://github.com/rursache/ToDoList)
