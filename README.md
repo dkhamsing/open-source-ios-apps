@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1659-green.svg) ![](https://img.shields.io/badge/Updated-July%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2527,10 +2527,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/eleev/compositional-layouts-kit/raw/main/cover-composlayouts.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`459` 
-- [contacts-mvp-swift](https://github.com/tirupati17/contacts-mvp-swift): Uses the MVP (Model View Presenter) pattern
-  -  <a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot1.png'>`Screenshot 1`</a>  <a href='https://github.com/tirupati17/contacts-mvp-swift/blob/master/screenshots/screenshot2.png'>`Screenshot 2`</a> 
-  -  `2019` `swift` `mvp` `contacts` 
-  -  ☆`5` 
 - [Custom View Controller Transitions](https://github.com/DreamingInBinary/Custom-ViewController-Transitions): Make custom view controller transitions in the most simple way possible
   -  `2021` `swift` 
   -  ☆`102` 
