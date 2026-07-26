@@ -34418,6 +34418,7 @@
       "suggested_by": "@GlowOnyx-d",
       "stars": 47,
       "updated": "2026-07-19 14:39:42 UTC"
-    }
+    },
+    {"title": "Dredfit", "description": "Adaptive bodyweight workout trainer that adjusts to how your last session went", "source": "https://github.com/dredfort42/dredfit", "itunes": "https://apps.apple.com/app/id6791739610", "category-ids": ["fitness"], "tags": ["swift", "swiftui"], "license": "gpl-3.0", "date_added": "Jul 26 2026", "suggested_by": "@dredfort42"}
   ]
 }
