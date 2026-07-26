@@ -118,6 +118,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Canada - COVID Shield](https://github.com/CovidShield/mobile)
 - [Cannonball](https://github.com/crashlytics/cannonball-ios)
 - [Canvas](https://github.com/usecanvas/ios-v1)
+- [Cardiorespiratory Fitness](https://github.com/Sage-Bionetworks/CardiorespiratoryFitness-iOS)
 - [CaseAssistant](https://github.com/herrkaefer/CaseAssistant)
 - [Castle Hassle](https://github.com/bryceredd/CastleHassle)
 - [CastVideos](https://github.com/googlecast/CastVideos-ios)
