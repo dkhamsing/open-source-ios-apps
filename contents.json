@@ -34437,6 +34437,22 @@
       ],
       "date_added": "Jul 26 2026",
       "suggested_by": "@dredfort42"
+    },
+    {
+      "title": "iBurn",
+      "description": "Offline map and guide for the Burning Man art festival",
+      "source": "https://github.com/iBurnApp/iBurn-iOS",
+      "itunes": "https://apps.apple.com/app/iburn-2025/id388169740",
+      "category-ids": [
+        "location"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "stars": 77,
+      "license": "mpl-2.0",
+      "date_added": "Jul 28 2026",
+      "suggested_by": "@csprasad"
     }
   ]
 }
