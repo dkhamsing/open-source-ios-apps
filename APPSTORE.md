@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **318** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -943,6 +943,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Dredfit](https://github.com/dredfort42/dredfit): Adaptive bodyweight workout trainer that adjusts to how your last session went
+  - [` App Store`](https://apps.apple.com/app/id6791739610) <a href='https://raw.githubusercontent.com/dredfort42/dredfit/main/appstore/screenshots/en/s1.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
