@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1660-green.svg) ![](https://img.shields.io/badge/Updated-July%2028,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1661-green.svg) ![](https://img.shields.io/badge/Updated-July%2030,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1788,6 +1788,10 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
 - [GPS Stone](https://github.com/frostland/GPS-Stone): Record your position and export your trip in GPX with GPS Stone
   -  `2026` `swift` 
   -  ☆`12` 
+- [iBurn](https://github.com/iBurnApp/iBurn-iOS): Offline map and guide for the Burning Man art festival
+  - [` App Store`](https://apps.apple.com/app/iburn-2025/id388169740)
+  - `swift` 
+  -  ☆`77` 
 - [iPokeGo](https://github.com/istornz/iPokeGo): Map Pokemon around you!
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9813a1f5-527d-4cba-b674-8d2fb6038ab7'>`Screenshot 1`</a> 
   -  `2022` `objc` `ipad` 
