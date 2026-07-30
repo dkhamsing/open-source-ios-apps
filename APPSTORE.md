@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **319** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **320** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1012,6 +1012,10 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/geolicious/id637366170) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/25/08/18/250818d7-a6b1-0af4-0efb-cb977f7c5c93/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/bc/ce/5f/bcce5fcd-b809-72d6-63f8-aff380326149/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/60/da/8c/60da8cfc-c0c4-56d2-aedb-e97cfe1be461/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple62/v4/13/f0/80/13f08044-d8bc-03cd-341e-aed485137a8f/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2021` `objc` 
   -  ☆`36` 
+- [iBurn](https://github.com/iBurnApp/iBurn-iOS): Offline map and guide for the Burning Man art festival
+  - [` App Store`](https://apps.apple.com/app/iburn-2025/id388169740)
+  - `swift` 
+  -  ☆`77` 
 - [KartaView](https://github.com/kartaview/ios): Collect OpenStreetView data
   - [` App Store`](https://apps.apple.com/app/openstreetview/id1089548849) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/3f/3c/aa/3f3caa9b-98b1-4aa5-5c8c-bed8f892b88b/pr_source.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/02/2d/b7/022db748-a04b-8efa-fc39-b99ebb04aa4d/pr_source.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8e/30/8a/8e308ad5-1942-e3ce-c2c9-0b695f850a94/pr_source.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/9f/00/22/9f00227d-7f69-d30f-ccaa-99a5ea9f3ef8/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/6e/5f/11/6e5f11b8-fbb6-3ee6-59c0-75fd793e426e/pr_source.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021` `objc` 
