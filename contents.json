@@ -34453,6 +34453,25 @@
       "license": "mpl-2.0",
       "date_added": "Jul 28 2026",
       "suggested_by": "@csprasad"
+    },
+    {
+      "title": "NoteGen",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "typescript",
+        "rust"
+      ],
+      "description": "Capture scattered information and organize it into Markdown notes with AI",
+      "source": "https://github.com/codexu/note-gen",
+      "homepage": "https://notegen.top/",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://s2.loli.net/2025/12/22/jlpEP2c6ogwHhIA.png"
+      ],
+      "date_added": "Jul 31 2026",
+      "suggested_by": "@codexu"
     }
   ]
 }
