@@ -34472,6 +34472,26 @@
       ],
       "date_added": "Jul 31 2026",
       "suggested_by": "@codexu"
+    },
+    {
+      "title": "AI Dictation",
+      "category-ids": [
+        "productivity"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Voice-to-text keyboard with offline recognition on supported devices and optional cloud transcription and cleanup",
+      "source": "https://github.com/writingmate/aidictation",
+      "homepage": "https://aidictation.com",
+      "itunes": "https://apps.apple.com/app/id6754910103",
+      "license": "mit",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/9a/31/729a31f0-ad06-f50a-438a-0219998c38ad/4__U00283_U0029.png/600x1300bb-60.jpg"
+      ],
+      "date_added": "Aug 2 2026",
+      "suggested_by": "@vood"
     }
   ]
 }
