@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1662-green.svg) ![](https://img.shields.io/badge/Updated-August%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1663-green.svg) ![](https://img.shields.io/badge/Updated-August%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2482,6 +2482,10 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [AI Dictation](https://github.com/writingmate/aidictation): Voice-to-text keyboard with offline recognition on supported devices and optional cloud transcription and cleanup
+  - <a href=https://aidictation.com>`https://aidictation.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6754910103) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/9a/31/729a31f0-ad06-f50a-438a-0219998c38ad/4__U00283_U0029.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Clip](https://github.com/rileytestut/Clip): Clipboard manager that can monitor your clipboard indefinitely in the background
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
