@@ -34492,6 +34492,27 @@
       ],
       "date_added": "Aug 2 2026",
       "suggested_by": "@vood"
+    },
+    {
+      "title": "Scowld",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "description": "AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers",
+      "source": "https://github.com/apoorvdarshan/scowld",
+      "homepage": "https://scowld.xyz",
+      "itunes": "https://apps.apple.com/app/id6760672848",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@apoorvdarshan"
     }
   ]
 }
