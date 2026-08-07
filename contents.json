@@ -34492,6 +34492,24 @@
       ],
       "date_added": "Aug 2 2026",
       "suggested_by": "@vood"
+    },
+    {
+      "title": "Symptile",
+      "category-ids": ["health"],
+      "tags": ["swift"],
+      "description": "A private symptom tracker with one-tap logging, trends, reminders and Apple Health integration.",
+      "source": "https://github.com/Loriage/Symptile",
+      "homepage": "https://symptile.nohit.dev",
+      "itunes": "https://apps.apple.com/us/app/symptile-symptom-tracker/id6783853981",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensLaunchpad.jpg",
+        "https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensHistory.jpg",
+        "https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensAnalytics.jpg"
+      ],
+      "date_added": "Aug 7 2026",
+      "updated": "2026",
+      "suggested_by": "@Loriage"
     }
   ]
 }
