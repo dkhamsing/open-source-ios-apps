@@ -34492,6 +34492,24 @@
       ],
       "date_added": "Aug 2 2026",
       "suggested_by": "@vood"
+    },
+    {
+      "title": "Pocket for Mealie",
+      "category-ids": ["misc"],
+      "tags": ["swift"],
+      "description": "A native companion for Mealie with recipe browsing, meal planning and synchronized shopping lists.",
+      "source": "https://github.com/Loriage/Mealie-Swift-App",
+      "homepage": "https://pocket.nohit.dev",
+      "itunes": "https://apps.apple.com/us/app/pocket-for-mealie/id6758108960",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Home.png",
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Recipes.png",
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png"
+      ],
+      "date_added": "Aug 7 2026",
+      "updated": "2026",
+      "suggested_by": "@Loriage"
     }
   ]
 }
