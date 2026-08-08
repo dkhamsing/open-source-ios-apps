@@ -17856,7 +17856,7 @@
         "developer"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
       "source": "https://github.com/jonluca/PasteBinApp",
