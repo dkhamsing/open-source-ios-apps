@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1663-green.svg) ![](https://img.shields.io/badge/Updated-August%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1664-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -592,6 +592,10 @@ Jump to
 - [Real-time Chat](https://www.kodeco.com/22067733-firebase-tutorial-real-time-chat)
   -  <a href='https://koenig-media.raywenderlich.com/uploads/2016/08/RoadCyclingChatThread.jpg'>`Screenshot 1`</a> 
   - `firebase` 
+- [Scowld](https://github.com/apoorvdarshan/scowld): AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers
+  - <a href=https://scowld.xyz>`https://scowld.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `ipad` 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls
   - [` App Store`](https://apps.apple.com/app/id874139669) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/62/68/576268bf-3474-99e7-2621-adbf2438b3ce/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/d3/7a/b8d37a2b-3ecc-8775-3ce1-534d0adc2904/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `objc` `iphone` `carthage` `socketrocket` `purelayout` `openssl` 
