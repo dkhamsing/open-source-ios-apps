@@ -1909,7 +1909,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`1010` 
 ### Audio 
  
-[back to top](#readme) 
+[back to top](#readme)
+
+- [VoxFlow](https://github.com/ameerhmz/VoxFlow): Native 100% on-device AI voice dictation app for macOS built with Apple Speech & FoundationModels
+  - `2026` `swift` 
  
 
 - [Analog Synth X](https://github.com/audiokit/AudioKit): Simple analog synthesizer music keyboard example
