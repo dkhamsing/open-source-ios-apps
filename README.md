@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1664-green.svg) ![](https://img.shields.io/badge/Updated-August%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1665-green.svg) ![](https://img.shields.io/badge/Updated-August%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -497,7 +497,7 @@ Jump to
   -  ☆`126` 
 - [BetterBlue](https://github.com/schmidtwmark/BetterBlue): Seamlessly connect and control your Hyundai or Kia vehicles
   - <a href=https://markschmidt.io/betterblue>`https://markschmidt.io/betterblue`</a>
-  -  <a href='https://raw.githubusercontent.com/schmidtwmark/BetterBlue/main/betterblue-phones.png'>`Screenshot 1`</a> 
+  -  <a href='https://github.com/schmidtwmark/BetterBlue/blob/main/betterblue-app.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swiftui` 
   -  ☆`115` 
 - [ChatSecure](https://github.com/ChatSecure/ChatSecure-iOS): Send messages with OTR encryption
@@ -740,10 +740,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`86` 
-- [Pastebin Mobile](https://github.com/jonluca/PasteBinApp): Quickly and easily uploads text or code to https://pastebin.com
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/94807f11-7942-403f-94b9-0ea9df01969b'>`Screenshot 1`</a> 
-  -  `2020` `swift` 
-  -  ☆`35` 
 - [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client
   - <a href=https://pisth.github.io>`https://pisth.github.io`</a>
   -  <a href='https://pisth.github.io/apt/screenshots.png'>`Screenshot 1`</a> 
@@ -1937,6 +1933,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`11` 
+- [Minidisc](https://github.com/Loriage/Minidisc): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.
+  - <a href=https://minidisc.dev>`https://minidisc.dev`</a>
+  -  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
+  - `swift` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/7d6171ac-a14c-497b-9208-a3dc2cd778ab'>`Screenshot 1`</a> 
   -  `2020` `swift` `alamofire` 
