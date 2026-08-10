@@ -34533,6 +34533,27 @@
       ],
       "date_added": "Aug 7 2026",
       "suggested_by": "@Loriage"
+    },
+    {
+      "title": "Beszel Companion",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A native companion for monitoring Beszel servers and containers, with widgets, alerts and multi-hub support.",
+      "source": "https://github.com/Loriage/Beszel-Swift-App",
+      "homepage": "https://beszel.nohit.dev",
+      "itunes": "https://apps.apple.com/us/app/beszel/id6747600765",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/home.jpg",
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/system.jpg",
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/containers.jpg"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@Loriage"
     }
   ]
 }
