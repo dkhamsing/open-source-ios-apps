@@ -17753,8 +17753,7 @@
     {
       "title": "Conjugar",
       "category-ids": [
-        "education",
-        "travel"
+        "education"
       ],
       "description": "Learn and Practice All the Spanish Verb Tenses",
       "source": "https://github.com/vermont42/Conjugar",
@@ -17765,11 +17764,7 @@
       "stars": 50,
       "itunes": "https://apps.apple.com/app/conjugar/id1236500467",
       "screenshots": [
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true"
+        "https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true"
       ],
       "date_added": "Mar 31 2018",
       "suggested_by": "@vermont42",
