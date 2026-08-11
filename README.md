@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1666-green.svg) ![](https://img.shields.io/badge/Updated-August%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1667-green.svg) ![](https://img.shields.io/badge/Updated-August%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2223,6 +2223,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/moblin/id6466745933) <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/iphone15-pro-max-screenshot.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eerimoq/moblin/main/docs/watch-series-9-screenshot-chat.png'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`697` 
+- [Opaline](https://github.com/verback2308/Opaline): Lightweight, privacy-focused YouTube client
+  -  `2026` `swift` `uikit` `youtube` 
+  -  ☆`145` 
 - [Swift Community](https://github.com/superarcswift/SwiftCommunity): Cocoa/Swift-related videos
   -  <a href='https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `superarc` `markdownview` 
@@ -2236,9 +2239,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
   -  `2026` `swift` `tvos` 
   -  ☆`3572` 
-- [YTLite](https://github.com/verback2308/YTLite): Lightweight, privacy-focused YouTube client
-  -  `2026` `swift` `uikit` `youtube` 
-  -  ☆`145` 
 ## News 
  
 [back to top](#readme) 
@@ -3259,6 +3259,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/1d2ecfbd-ef48-4dd7-9866-a938e8128aad'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`526` 
+- [Pocket for Mealie](https://github.com/Loriage/Mealie-Swift-App): A native companion for Mealie with recipe browsing, meal planning and synchronized shopping lists.
+  - <a href=https://pocket.nohit.dev>`https://pocket.nohit.dev`</a>
+  - [` App Store`](https://apps.apple.com/us/app/pocket-for-mealie/id6758108960) <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Recipes.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png'>`Screenshot 3`</a> 
+  - `swift` 
 - [PokePal](https://github.com/wvabrinskas/PokePal): AI Pokedex using Neuron
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269'>`Screenshot 1`</a> 
   -  `2026` `swift` `neural-network` 
