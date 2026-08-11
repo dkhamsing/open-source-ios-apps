@@ -34361,12 +34361,12 @@
       "updated": "2026-07-09 07:23:06 UTC"
     },
     {
-      "title": "YTLite",
+      "title": "Opaline",
       "category-ids": [
         "video"
       ],
       "description": "Lightweight, privacy-focused YouTube client",
-      "source": "https://github.com/verback2308/YTLite",
+      "source": "https://github.com/verback2308/Opaline",
       "license": "mit",
       "tags": [
         "swift",
