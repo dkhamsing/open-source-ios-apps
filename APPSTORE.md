@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **321** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -285,6 +285,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id979659905) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/1d/c0/ba/1dc0bacb-bd7e-bfb3-4a14-ab9cdfd6336d/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/9c/e3/23/9ce32347-1f99-dfa0-2434-c032e6264eda/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/11/33/5c/11335cff-69e3-6a55-3248-ebe2e98c4e87/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bc/08/4b/bc084bb4-d8d1-26aa-606f-03de254a345d/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `iphone` `ipad` `dompurify` `afnetworking` `flanimatedimage` 
   -  ☆`1607` 
+- [Scowld](https://github.com/apoorvdarshan/scowld): AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers
+  - <a href=https://scowld.xyz>`https://scowld.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `ipad` 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls
   - [` App Store`](https://apps.apple.com/app/id874139669) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/57/62/68/576268bf-3474-99e7-2621-adbf2438b3ce/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/d3/7a/b8d37a2b-3ecc-8775-3ce1-534d0adc2904/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `objc` `iphone` `carthage` `socketrocket` `purelayout` `openssl` 
@@ -333,11 +337,15 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/bark-custom-notifications/id1403753865) <a href='https://github.com/user-attachments/assets/0425d8ed-0c2a-49ea-92f8-b5062c91e411'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`8738` 
+- [Beszel Companion](https://github.com/Loriage/Beszel-Swift-App): A native companion for monitoring Beszel servers and containers, with widgets, alerts and multi-hub support.
+  - <a href=https://beszel.nohit.dev>`https://beszel.nohit.dev`</a>
+  - [` App Store`](https://apps.apple.com/us/app/beszel/id6747600765) <a href='https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/home.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/system.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/containers.jpg'>`Screenshot 3`</a> 
+  - `swift` 
 - [CI2Go](https://github.com/ngs/ci2go): For https://circleci.com/
   - [` App Store`](https://apps.apple.com/app/ci2go-the-circleci-client/id940028427) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/a8/7b/8fa87bff-369c-f556-19be-04f9d64aafe5/mzl.cbjemxao.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/32/ba/3e/32ba3e1c-2ca3-9acb-6edb-837d9813d42f/mzl.fnosaifu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/75/b1/c3/75b1c366-26f2-3468-88cb-a5576b72ee38/mzl.fdapyomc.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2022` `swift` 
   -  ☆`92` 
-- [Domain Dig](https://github.com/zerolabsco/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
+- [Domain Dig](https://github.com/krazywarez/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
   - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004) <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`5` 
@@ -363,7 +371,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1580906147) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`17` 
-- [Hutch](https://github.com/zerolabsco/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
+- [Hutch](https://github.com/krazywarez/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
   - [` App Store`](https://apps.apple.com/app/hutch-for-sourcehut/id6760742299) <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/05_repo.jpg'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/04_tickets.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`5` 
@@ -448,7 +456,7 @@ Jump to
   -  `2026` `swift` 
   -  ☆`27` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
-  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'>`Screenshot 5`</a> 
+  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`50` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
@@ -769,7 +777,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple5/v4/33/ac/f5/33acf597-adf3-bf10-befe-99e8f25208a9/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/f2/a4/c5/f2a4c547-e2bc-0d1d-7830-7f0a776c047a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple3/v4/44/56/df/4456df32-e876-d053-23c0-cfaf686fc7a9/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2025` `objc` `iphone` `ipad` 
   -  ☆`85` 
-- [Neocom for EVE Online](https://github.com/mrdepth/Neocom): EveOnline MMORG character management tool
+- [Neocom for EVE Online](https://github.com/artem-shimanski/Neocom): EveOnline MMORG character management tool
   - [` App Store`](https://apps.apple.com/app/eveuniverse/id418895101) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/04/8d/f4/048df460-8415-913d-cea4-9adce71370cf/mzm.lddloznb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/e7/b4/b0e7b405-69c8-560b-72dd-7e779081adc0/mzm.laponjby.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/ba/07/feba07fb-c2d7-6bc4-eca7-c1a32c6827f4/mzm.dfjfwhds.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/31/21/25/312125a3-e312-f009-115d-8023635314fc/mzm.evrsahoz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/63/91/58/639158b3-23b1-71ca-de67-f3fa8eabf256/mzm.pxsjydzt.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2021` `objc` 
   -  ☆`114` 
@@ -1689,10 +1697,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
-  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true'>`Screenshot 3`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true'>`Screenshot 4`</a>  <a href='https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true'>`Screenshot 5`</a> 
-  -  `2026` `swift` 
-  -  ☆`50` 
 ## Weather 
  
 [back to top](#readme) 
@@ -1789,6 +1793,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1199566366) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/88/8f/c3/888fc31d-7ad9-c6ce-6d80-b081151b3600/mzl.vupiryaa.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/e4/f1/e4/e4f1e4ab-d623-d3c4-3a4d-5770de1a6fb4/mzl.suvrwweg.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/67/f8/d6/67f8d6bc-1c11-8164-634e-050953b73439/mzl.tpujfkus.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/a6/a0/14/a6a01466-204c-be56-11aa-9953a6913af0/mzl.qhffrqig.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/23/41/00/2341001e-05ef-e1f1-6b0a-86b4146f6c18/mzl.phvtiqbd.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2026` `toast` 
   -  ☆`77` 
+- [Pocket for Mealie](https://github.com/Loriage/Mealie-Swift-App): A native companion for Mealie with recipe browsing, meal planning and synchronized shopping lists.
+  - <a href=https://pocket.nohit.dev>`https://pocket.nohit.dev`</a>
+  - [` App Store`](https://apps.apple.com/us/app/pocket-for-mealie/id6758108960) <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Recipes.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png'>`Screenshot 3`</a> 
+  - `swift` 
 - [Say Their Names](https://github.com/Say-Their-Name/say-their-names-ios): Raises awareness of the injustice and often forgotten names of racial inequality, includes a catalog of verified donation and petition links
   - [` App Store`](https://apps.apple.com/app/say-their-names/id1517599626) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a71406d7-15d2-4519-8ebb-f8c51c51c187'>`Screenshot 1`</a> 
   -  `2026` `swift` 

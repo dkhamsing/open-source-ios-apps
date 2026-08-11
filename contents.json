@@ -10237,7 +10237,7 @@
       ],
       "description": "EveOnline MMORG character management tool",
       "license": "lgpl-2.1",
-      "source": "https://github.com/mrdepth/Neocom",
+      "source": "https://github.com/artem-shimanski/Neocom",
       "itunes": "https://apps.apple.com/app/eveuniverse/id418895101",
       "stars": 114,
       "date_added": "Wed Jun 1 17:32:57 2016 +0300",
@@ -17753,8 +17753,7 @@
     {
       "title": "Conjugar",
       "category-ids": [
-        "education",
-        "travel"
+        "education"
       ],
       "description": "Learn and Practice All the Spanish Verb Tenses",
       "source": "https://github.com/vermont42/Conjugar",
@@ -17765,11 +17764,7 @@
       "stars": 50,
       "itunes": "https://apps.apple.com/app/conjugar/id1236500467",
       "screenshots": [
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browse.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/verb.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/quiz.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/browseInfo.png?raw=true",
-        "https://github.com/vermont42/Conjugar/blob/master/Conjugar/info.png?raw=true"
+        "https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true"
       ],
       "date_added": "Mar 31 2018",
       "suggested_by": "@vermont42",
@@ -17856,7 +17851,7 @@
         "developer"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
       "source": "https://github.com/jonluca/PasteBinApp",
@@ -33898,7 +33893,7 @@
         "swiftui"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/schmidtwmark/BetterBlue/main/betterblue-phones.png"
+        "https://github.com/schmidtwmark/BetterBlue/blob/main/betterblue-app.png?raw=true"
       ],
       "source": "https://github.com/schmidtwmark/BetterBlue",
       "homepage": "https://markschmidt.io/betterblue",
@@ -34226,7 +34221,7 @@
         "developer"
       ],
       "description": "Browse SourceHut repositories, issues, mailing lists, and patches",
-      "source": "https://github.com/zerolabsco/hutch",
+      "source": "https://github.com/krazywarez/hutch",
       "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",
       "screenshots": [
         "https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg",
@@ -34249,7 +34244,7 @@
         "developer"
       ],
       "description": "Perform quick DNS lookups, SSL/TLS checks, and more on any domain",
-      "source": "https://github.com/zerolabsco/domain-dig",
+      "source": "https://github.com/krazywarez/domain-dig",
       "itunes": "https://apps.apple.com/app/domaindig/id6760368004",
       "screenshots": [
         "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png",
@@ -34366,12 +34361,12 @@
       "updated": "2026-07-09 07:23:06 UTC"
     },
     {
-      "title": "YTLite",
+      "title": "Opaline",
       "category-ids": [
         "video"
       ],
       "description": "Lightweight, privacy-focused YouTube client",
-      "source": "https://github.com/verback2308/YTLite",
+      "source": "https://github.com/verback2308/Opaline",
       "license": "mit",
       "tags": [
         "swift",
@@ -34494,9 +34489,96 @@
       "suggested_by": "@vood"
     },
     {
+      "title": "Scowld",
+      "category-ids": [
+        "communication"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "description": "AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers",
+      "source": "https://github.com/apoorvdarshan/scowld",
+      "homepage": "https://scowld.xyz",
+      "itunes": "https://apps.apple.com/app/id6760672848",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@apoorvdarshan"
+    },
+    {
+      "title": "Minidisc",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.",
+      "source": "https://github.com/Loriage/Minidisc",
+      "homepage": "https://minidisc.dev",
+      "license": "mpl-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg",
+        "https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg",
+        "https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@Loriage"
+    },
+    {
+      "title": "Beszel Companion",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A native companion for monitoring Beszel servers and containers, with widgets, alerts and multi-hub support.",
+      "source": "https://github.com/Loriage/Beszel-Swift-App",
+      "homepage": "https://beszel.nohit.dev",
+      "itunes": "https://apps.apple.com/us/app/beszel/id6747600765",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/home.jpg",
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/system.jpg",
+        "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/containers.jpg"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@Loriage"
+    },
+    {
+      "title": "Pocket for Mealie",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "A native companion for Mealie with recipe browsing, meal planning and synchronized shopping lists.",
+      "source": "https://github.com/Loriage/Mealie-Swift-App",
+      "homepage": "https://pocket.nohit.dev",
+      "itunes": "https://apps.apple.com/us/app/pocket-for-mealie/id6758108960",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Home.png",
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Recipes.png",
+        "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png"
+      ],
+      "date_added": "Aug 7 2026",
+      "suggested_by": "@Loriage"
+    },
+    {
       "title": "Symptile",
-      "category-ids": ["health"],
-      "tags": ["swift"],
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift"
+      ],
       "description": "A private symptom tracker with one-tap logging, trends, reminders and Apple Health integration.",
       "source": "https://github.com/Loriage/Symptile",
       "homepage": "https://symptile.nohit.dev",
@@ -34508,7 +34590,6 @@
         "https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensAnalytics.jpg"
       ],
       "date_added": "Aug 7 2026",
-      "updated": "2026",
       "suggested_by": "@Loriage"
     }
   ]
