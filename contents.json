@@ -34605,6 +34605,20 @@
         "react-native"
       ],
 "suggested_by": "@diogopessoa"
-}
+},
+ {
+      "title": "Kotoba",
+      "category-ids": [
+        "misc"
+      ],
+      "tags": [
+        "swift"
+      ],
+      "description": "Quickly search the built-in iOS dictionary to see definitions of words",
+      "source": "https://github.com/willhains/Kotoba",
+      "license": "mit",
+      "date_added": "Aug 12 2026",
+      "suggested_by": "@dkhamsing"
+    }    
   ]
 }
