@@ -34591,6 +34591,20 @@
       ],
       "date_added": "Aug 7 2026",
       "suggested_by": "@Loriage"
-    }
+    },
+    {
+"title": "AliasVault",
+"category-ids": ["password"],
+"description": "Privacy-first password manager with built-in email aliasing",
+"source": "https://github.com/aliasvault/aliasvault",
+"itunes": "https://apps.apple.com/app/aliasvault/id6745490915#productRatings",
+"screenshots": ["https://raw.githubusercontent.com/aliasvault/aliasvault/main/docs/static/assets/img/screenshot.png"],
+"date_added": "Jul 23 2026",
+      "license": "agpl-3.0",
+        "tags": [
+        "react-native"
+      ],
+"suggested_by": "@diogopessoa"
+}
   ]
 }
