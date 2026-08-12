@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **324** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **325** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -882,6 +882,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1003891579) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/93d87e60-c5e3-467a-a7df-d724c3e5d4fb'>`Screenshot 1`</a> 
   -  `2024` `objc` 
   -  ☆`27` 
+- [Symptile](https://github.com/Loriage/Symptile): A private symptom tracker with one-tap logging, trends, reminders and Apple Health integration.
+  - <a href=https://symptile.nohit.dev>`https://symptile.nohit.dev`</a>
+  - [` App Store`](https://apps.apple.com/us/app/symptile-symptom-tracker/id6783853981) <a href='https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensLaunchpad.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensHistory.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensAnalytics.jpg'>`Screenshot 3`</a> 
+  - `swift` 
 - [Vite Ma Dose de Vaccin !](https://github.com/CovidTrackerFr/vitemadose-ios): Quicky find a COVID-19 vaccine in France
   - [` App Store`](https://apps.apple.com/fr/app/vite-ma-dose/id1563630754) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/bd/45/d5/bd45d5dd-4168-d2f5-ae62-448ea5cfc435/5635e2d4-0e69-45cb-8bf1-6779b7585c02_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.23.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a0/73/70/a0737094-f8da-eb35-a2ce-a828b9a420c4/41353d0c-d4c4-402c-b31f-a5391db4c6a9_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.27.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/d6/94/81d69467-242b-cf3d-30d7-6222b9b0eddf/467635c0-5acc-40d8-8d7e-0728ef287724_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-04-20_at_13.21.32.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2022` `swift` 
