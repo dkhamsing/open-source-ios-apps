@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1669-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3216,8 +3216,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/inferra/id6754396856) <a href='https://github.com/user-attachments/assets/82f09209-51af-49f1-b6b0-a5824c8ed875'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`104` 
-- [Kotoba](https://github.com/willhains/Kotoba): Quickly search the built-in iOS dictionary to see definitions of words
-  - `swift` 
 - [Learning](https://github.com/almormd/Learning): Different projects to test and learn
   -  `2022` `swift` `alamofire` `core-data` 
   -  ☆`10` 
