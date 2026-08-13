@@ -34222,12 +34222,7 @@
       ],
       "description": "Browse SourceHut repositories, issues, mailing lists, and patches",
       "source": "https://github.com/krazywarez/hutch",
-      "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",
-      "screenshots": [
-        "https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg",
-        "https://img.cleberg.net/apps/hutch/screenshots/iphone/05_repo.jpg",
-        "https://img.cleberg.net/apps/hutch/screenshots/iphone/04_tickets.jpg"
-      ],
+      "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",    
       "tags": [
         "swift",
         "swiftui"
