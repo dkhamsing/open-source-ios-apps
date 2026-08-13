@@ -34605,6 +34605,21 @@
         "react-native"
       ],
 "suggested_by": "@diogopessoa"
-}
+},
+{
+"title": "BoxHelper",
+"category-ids": ["scan"],
+"description": "Organize boxes, items, and storage locations with photos, QR codes, backups, CSV import/export and Shortcuts automation",
+"source": "https://github.com/HOCKULUS/BoxHelper",
+"itunes": "https://apps.apple.com/app/boxhelper/id6737223705",
+"license": "agpl-3.0",
+"tags": ["swift"],
+"screenshots": [
+"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1d/ff/4b1dffea-e377-7498-77fc-75b51194b487/Mockup_BoxHelper_DE5_6.png/460x996bb.webp", "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/a0/37/55a037b0-c84c-b2f7-0041-78aed9518ee8/Mockup_BoxHelper_DE1_2.png/460x996bb.webp", 
+"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/af/83/caaf8345-8fd0-eede-ca66-911489831946/Mockup_BoxHelper_EN2.png/460x996bb.webp"  
+],
+"date_added": "Aug 13 2026",
+"suggested_by": "@HOCKULUS"
+}    
   ]
 }
