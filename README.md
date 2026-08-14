@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1669-green.svg) ![](https://img.shields.io/badge/Updated-August%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2014,%202026-lightgrey.svg)
 
 Jump to
 
@@ -675,7 +675,7 @@ Jump to
   -  `2026` `ai` `claude-code` 
   -  ☆`144` 
 - [Domain Dig](https://github.com/krazywarez/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
-  - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004) <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004)
   -  `2026` `swift` `swiftui` 
   -  ☆`5` 
 - [Enchanted](https://github.com/gluonfield/enchanted): Developer tool for LLMs
@@ -711,7 +711,7 @@ Jump to
   -  `2026` `swift` `swiftui` 
   -  ☆`17` 
 - [Hutch](https://github.com/krazywarez/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
-  - [` App Store`](https://apps.apple.com/app/hutch-for-sourcehut/id6760742299) <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/01_patch.jpg'>`Screenshot 1`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/05_repo.jpg'>`Screenshot 2`</a>  <a href='https://img.cleberg.net/apps/hutch/screenshots/iphone/04_tickets.jpg'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/hutch-for-sourcehut/id6760742299)
   -  `2026` `swift` `swiftui` 
   -  ☆`5` 
 - [iperf](https://github.com/ndfred/iperf-ios): Run an iperf3 client, including reverse mode & multiple streams selection
@@ -2688,6 +2688,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/onl1ner/onl1ner/blob/master/Resources/BarcodeScanner/Header.png?raw=true'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`23` 
+- [BoxHelper](https://github.com/HOCKULUS/BoxHelper): Organize boxes, items, and storage locations with photos, QR codes, backups, CSV import/export and Shortcuts automation
+  - [` App Store`](https://apps.apple.com/app/boxhelper/id6737223705) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1d/ff/4b1dffea-e377-7498-77fc-75b51194b487/Mockup_BoxHelper_DE5_6.png/460x996bb.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/a0/37/55a037b0-c84c-b2f7-0041-78aed9518ee8/Mockup_BoxHelper_DE1_2.png/460x996bb.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/af/83/caaf8345-8fd0-eede-ca66-911489831946/Mockup_BoxHelper_EN2.png/460x996bb.webp'>`Screenshot 3`</a> 
+  - `swift` 
 - [QR Share Pro](https://github.com/Visual-Studio-Coder/QR-Share-Pro): Privacy-focused, allows you to scan, generate, and share QR codes effortlessly
   - [` App Store`](https://apps.apple.com/app/qr-share-pro/id6479589995) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp'>`Screenshot 4`</a> 
   -  `2025` `swift` 
