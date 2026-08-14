@@ -34241,11 +34241,6 @@
       "description": "Perform quick DNS lookups, SSL/TLS checks, and more on any domain",
       "source": "https://github.com/krazywarez/domain-dig",
       "itunes": "https://apps.apple.com/app/domaindig/id6760368004",
-      "screenshots": [
-        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/01.png",
-        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/03.png",
-        "https://img.cleberg.net/apps/domaindig/screenshots/iPhone/04.png"
-      ],
       "tags": [
         "swift",
         "swiftui"
