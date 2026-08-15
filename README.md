@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1615,7 +1615,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  ☆`11` 
 - [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
   - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
-  - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390) <a href='https://raitner.de/pulse/screenshot-timeline-de.png'>`Screenshot 1`</a>  <a href='https://raitner.de/pulse/screenshot-moment-en.png'>`Screenshot 2`</a>  <a href='https://raitner.de/pulse/screenshot-metrics-en.png'>`Screenshot 3`</a>  <a href='https://raitner.de/pulse/screenshot-aicoach-en.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390)
   -  `2026` `swift` `swiftdata` `cloudkit` 
   -  ☆`14` 
 - [Rise — Sleep Companion](https://github.com/VladimirBrejcha/Rise): Smart Personal Sleep Schedule App. Reimagine your mornings with Rise, your personal smart sleep companion! Tailor your own sleep schedule, wake up serenely to gentle nature sounds, and track your progress seamlessly.
