@@ -29494,7 +29494,7 @@
       ],
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui", "archive"
       ],
       "license": "other",
       "source": "https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app",
