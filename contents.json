@@ -534,6 +534,26 @@
       "updated": "2016-07-12 05:53:50 UTC"
     },
     {
+      "title": "RAYN Weather",
+      "category-ids": [
+        "apple-tv",
+        "weather"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "tvos"
+      ],
+      "description": "Live weather, radar, air quality, astronomy, and marine conditions for Apple TV",
+      "license": "mit",
+      "source": "https://github.com/qh-work/RAYN",
+      "screenshots": [
+        "https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png"
+      ],
+      "date_added": "Aug 17, 2026",
+      "suggested_by": "@qh-work"
+    },
+    {
       "title": "BaiduFM",
       "category-ids": [
         "apple-watch"
