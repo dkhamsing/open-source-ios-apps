@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2015,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4334,8 +4334,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [The Roundtable](https://github.com/Dimillian/The-Roundtable): Elden Ring companion
   -  `2022` `swift` `swiftui` `graphql` 
   -  ☆`49` 
-- [The SwiftUI cookbook for navigation](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app)
-  - `swift` `swiftui` 
 - [Translate](https://github.com/vijaywargiya/Translate-SwiftUI): Recreate iOS 14's Translate App
   -  <a href='https://github.com/vijaywargiya/Translate-SwiftUI/raw/main/Translate.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `swiftui` 
