@@ -718,6 +718,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [That Movie With](https://github.com/jayhickey/thatmoviewith)
 - [The Oakland Post](https://github.com/aclissold/the-oakland-post)
 - [The Spin Zone](https://github.com/opensourceios/Spin-Zone)
+- [The SwiftUI cookbook for navigation](https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app)
 - [The Wave - A Jeep Marketplace](https://github.com/xYello/ThePost)
 - [theNews](https://github.com/TosinAF/thenews-objc)
 - [TheReservist](https://github.com/kimar/TheReservist)
