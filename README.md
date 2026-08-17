@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1670-green.svg) ![](https://img.shields.io/badge/Updated-August%2016,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1671-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202026-lightgrey.svg)
 
 Jump to
 
@@ -120,6 +120,9 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png'>`Screenshot 1`</a> 
   -  `2026` `realm` 
   -  ☆`6345` 
+- [RAYN Weather](https://github.com/qh-work/RAYN): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
+  -  <a href='https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `tvos` 
 - [Stepik](https://github.com/StepicOrg/stepik-ios): Take open courses on https://stepik.org/
   - [` App Store`](https://apps.apple.com/app/stepik-best-online-courses/id1064581926) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/6bbc0c9b-3c2c-4f2a-b8c6-10805eefd664'>`Screenshot 1`</a> 
   -  `2025` `swift` `ipad` `alamofire` `swiftyjson` `sdwebimage` `devicekit` `promisekit` `swiftlint` 
@@ -3073,6 +3076,9 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
+- [RAYN Weather](https://github.com/qh-work/RAYN): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
+  -  <a href='https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `tvos` 
 - [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
   - [` App Store`](https://apps.apple.com/app/saxweather/id6742063425) <a href='https://is2-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/e7/a9/8be7a9fa-d6ce-5e5b-27cd-dee72af11cc0/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-03-02_at_17.57.19.png/0x0ss.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
