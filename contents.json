@@ -12378,7 +12378,7 @@
         "content"
       ],
       "tags": [
-        "wikipedia"
+        "wikipedia", "archive"
       ],
       "description": "Offline dictionary for international movie titles",
       "source": "https://github.com/lurado/MovieDict",
