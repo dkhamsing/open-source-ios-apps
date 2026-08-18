@@ -759,6 +759,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [try! Swift](https://github.com/opensourceios/trySwiftApp)
 - [try! Swift NYC](https://github.com/tryswift/trySwiftNYC)
 - [try! Swift Tokyo](https://github.com/tryswift/try-swift-tokyo)
+- [TSWeChat](https://github.com/lanceylai/TSWeChat)
 - [TUM Campus](https://github.com/TUM-Dev/Campus-iOS)
 - [tweedie](https://github.com/aanon4/tweedie)
 - [tweejump](https://github.com/haqu/tweejump)
