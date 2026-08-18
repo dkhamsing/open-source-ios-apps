@@ -18043,6 +18043,57 @@
       "updated": "2026-07-01 15:39:55 UTC"
     },
     {
+    	"title": "wBlock",
+    	"category-ids": [
+        "content-blocking"
+      ],
+    	"tags": [
+        "swift",
+        "javascript"
+      ],
+    	"description": "A Safari content blocker for macOS, iOS, iPadOS",
+      "license": "gpl-3.0",
+    	"source": "https://github.com/0xCUB3/wBlock",
+      "itunes": "https://apps.apple.com/app/wblock/id6746388723",
+      "stars": 2800,
+      "screenshots": [
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/ios/filters_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/ios/filters_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/macos/settings_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/macos/settings_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/macos/userscripts_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/macos/userscripts_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/apply_changes_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/apply_changes_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/background_gradient.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_ios_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_ios_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_ipados_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_ipados_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_macos_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/filters_macos_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/hero_image.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/settings_ipados_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/settings_ipados_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/settings_macos_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/settings_macos_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/tube_cleaner_dearrow.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/tube_cleaner_sponsorblock.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/update_status_wording.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/updates_breakdown.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/userscripts_ipados_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/userscripts_ipados_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/userscripts_macos_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/userscripts_macos_light.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/wblock_logo.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/zapper_dark.png",
+        "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/zapper_light.png"
+      ],
+    	"license": "mit",
+    	"date_added": "Aug 17 2026",
+    	"suggested_by": "@affan2021shaikh"
+    },
+    {
       "title": "MetaX",
       "category-ids": [
         "photo"
