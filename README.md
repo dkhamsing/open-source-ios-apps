@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1671-green.svg) ![](https://img.shields.io/badge/Updated-August%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1671-green.svg) ![](https://img.shields.io/badge/Updated-August%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -628,10 +628,6 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/tinode/id1483763538) <a href='https://raw.githubusercontent.com/tinode/ios/master/ios-chat.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`289` 
-- [TSWeChat](https://github.com/lanceylai/TSWeChat): A WeChat alternative
-  -  <a href='https://github.com/lanceylai/TSWeChat/raw/master/images/preview1.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`3747` 
 - [Tutanota](https://github.com/tutao/tutanota): End-to-end encrypted email
   - <a href=https://tutanota.com/>`https://tutanota.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id922429609) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/10/b6/9e10b656-8e6e-b4b8-bdce-5f787f12d25e/mzl.utcbsrcn.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/40/cc/5f/40cc5f60-4d7a-cb19-ddb5-fb9e92de9205/mzl.xpwjvrke.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg'>`Screenshot 4`</a> 
