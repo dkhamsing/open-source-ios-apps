@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **328** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1161,11 +1161,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id997079563) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/c9/62/b5/c962b556-d941-76a6-1bf9-365b817c8539/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/6e/0b/8f/6e0b8fb9-99ec-7490-b13b-48972561f4a4/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/bf/82/f8/bf82f8db-130e-c6bf-cd08-b273679747f1/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2026` `swift` 
   -  ☆`754` 
-- [MovieDict](https://github.com/lurado/MovieDict): Offline dictionary for international movie titles
-  - <a href=https://moviedict.info>`https://moviedict.info`</a>
-  - [` App Store`](https://apps.apple.com/app/movieglot-what-do-they-call-it/id710587066) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f4ee6d90-2fa7-42ad-93f5-8da9d6e5fd09'>`Screenshot 1`</a> 
-  -  `2019` `wikipedia` 
-  -  ☆`9` 
 - [Reading List](https://github.com/AndrewBennet/ReadingListV1): Track personal reading lists
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `iphone` `ipad` `core-data` 
