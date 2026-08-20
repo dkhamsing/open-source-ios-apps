@@ -18049,9 +18049,9 @@
       ],
     	"tags": [
         "swift",
-        "javascript"
+        "javascript", "macos", "ipados", "ipad"
       ],
-    	"description": "A Safari content blocker for macOS, iOS, iPadOS",
+    	"description": "Safari content blocker",
       "license": "gpl-3.0",
     	"source": "https://github.com/0xCUB3/wBlock",
       "itunes": "https://apps.apple.com/app/wblock/id6746388723",
