@@ -785,6 +785,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [violet](https://github.com/project-violet/violet)
 - [VIPER-SWIFT](https://github.com/mutualmobile/VIPER-SWIFT)
 - [VisitBCN](https://github.com/opensourceios/visitBCN)
+- [VK Photos](https://github.com/Stmol/vkphotos)
 - [Voice Memo](https://github.com/HassanElDesouky/VoiceMemosClone)
 - [VoiceMemos](https://github.com/MoZhouqi/VoiceMemos)
 - [VPN On](https://github.com/lexrus/VPNOn)
