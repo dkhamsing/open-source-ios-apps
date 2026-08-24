@@ -824,6 +824,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [YaleMobile](https://github.com/kiokoo/YaleMobile)
 - [Yep](https://github.com/CatchChat/Yep)
 - [Yorkie](https://github.com/opensourceios/YorkieApp)
+- [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS)
 - [ZeitSuche](https://github.com/niftycode/ZeitSuche_iOS)
 - [Zeplin](https://github.com/anonrig/zeplin-ios)
 - [ZeroStore](https://github.com/kylebshr/zerostore-ios)
