@@ -402,8 +402,8 @@
       "date_added": "June 11, 2023",
       "license": "gpl-3.0",
       "suggested_by": "@kiritokatklian",
-      "stars": 69,
-      "updated": "2026-06-07 19:39:36 UTC"
+      "stars": 70,
+      "updated": "2026-08-04 20:55:53 UTC"
     },
     {
       "title": "iSH",
@@ -426,8 +426,8 @@
       "date_added": "Mar 21, 2019",
       "license": "gpl-3.0",
       "suggested_by": "@PseudonymPatel",
-      "stars": 20162,
-      "updated": "2026-07-18 06:54:56 UTC"
+      "stars": 20363,
+      "updated": "2026-08-22 06:20:13 UTC"
     },
     {
       "title": "Artsy Shows",
@@ -483,14 +483,14 @@
       ],
       "description": "Emulators frontend for Sega Genesis, SNES, NES, GB/GBC & more",
       "source": "https://github.com/Provenance-Emu/Provenance",
-      "stars": 6345,
+      "stars": 6358,
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/132869460-db573d22-8474-47bb-9c31-db727821b879.png"
       ],
       "license": "bsd-3-clause",
       "date_added": "Mon Apr 27 13:06:49 2015 -0700",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-13 03:50:21 UTC"
+      "updated": "2026-08-24 08:11:10 UTC"
     },
     {
       "title": "UitzendingGemist by jeffkreeftmeijer",
@@ -524,7 +524,7 @@
       ],
       "description": "Watch WWDC Videos",
       "source": "https://github.com/azzoor/WWDCTV",
-      "stars": 416,
+      "stars": 415,
       "screenshots": [
         "https://github.com/azzoor/WWDCTV/blob/master/WWDC/screen01.png?raw=true"
       ],
@@ -551,7 +551,9 @@
         "https://raw.githubusercontent.com/qh-work/RAYN/main/docs/media/screenshots/01-current-weather.png"
       ],
       "date_added": "Aug 17, 2026",
-      "suggested_by": "@qh-work"
+      "suggested_by": "@qh-work",
+      "stars": 3,
+      "updated": "2026-08-24 14:25:35 UTC"
     },
     {
       "title": "BaiduFM",
@@ -560,7 +562,7 @@
       ],
       "description": "For Baidu Music",
       "source": "https://github.com/belm/BaiduFM-Swift",
-      "stars": 579,
+      "stars": 578,
       "lang": "zho",
       "screenshots": [
         "https://github.com/belm/BaiduFM-Swift/raw/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png?raw=true"
@@ -571,7 +573,7 @@
       "license": "other",
       "date_added": "Thu Aug 6 15:40:46 2015 +0800",
       "suggested_by": "@xubinggui",
-      "updated": "2025-07-09 05:48:10 UTC"
+      "updated": "2026-08-11 11:06:17 UTC"
     },
     {
       "title": "RedditWatch",
@@ -650,7 +652,7 @@
       "description": "Track bus line on your wrist, includes Today Extension",
       "lang": "zho",
       "source": "https://github.com/JohnWong/bus-today",
-      "stars": 78,
+      "stars": 77,
       "license": "other",
       "date_added": "Wed Feb 17 10:44:11 2016 +0800",
       "suggested_by": "@John Wong",
@@ -708,7 +710,7 @@
       "description": "Mini Pomodoro Timer",
       "license": "mit",
       "source": "https://github.com/kenshin03/Cherry",
-      "stars": 390,
+      "stars": 389,
       "screenshots": [
         "https://raw.githubusercontent.com/kenshin03/Cherry/master/screenshot_1.png"
       ],
@@ -936,7 +938,7 @@
       "description": "Hacker News Reader",
       "source": "https://github.com/Dimillian/SwiftHN",
       "itunes": "https://apps.apple.com/app/hn-reader-hacker-news-reader/id919243741",
-      "stars": 1742,
+      "stars": 1740,
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*6Bey3OUZ2Xhuk-ZXCB-gOg.png"
       ],
@@ -1043,7 +1045,7 @@
       ],
       "date_added": "Dec 17 2022",
       "suggested_by": "@VishwaiOSDev",
-      "stars": 143,
+      "stars": 145,
       "updated": "2026-07-02 18:57:49 UTC"
     },
     {
@@ -1179,7 +1181,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/kostiakoval/WatchKit-Apps",
-      "stars": 1137,
+      "stars": 1136,
       "tags": [
         "swift",
         "archive"
@@ -1238,7 +1240,7 @@
       "description": "watchOS 2 new features example code",
       "license": "mit",
       "source": "https://github.com/shu223/watchOS-2-Sampler",
-      "stars": 1076,
+      "stars": 1075,
       "tags": [
         "swift",
         "watchos2",
@@ -1265,7 +1267,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/235376637-429750ad-f3cf-4600-8684-8028e78572af.jpg"
       ],
-      "stars": 95,
+      "stars": 96,
       "date_added": "Fri Apr 10 15:25:20 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2021-01-24 11:09:09 UTC"
@@ -1366,7 +1368,7 @@
       ],
       "description": "Web browser built with privacy & security in mind",
       "source": "https://github.com/jcs/endless",
-      "stars": 271,
+      "stars": 270,
       "license": "other",
       "date_added": "Tue Dec 22 07:04:44 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -1385,7 +1387,7 @@
       "license": "mpl-2.0",
       "source": "https://github.com/mozilla-mobile/firefox-ios",
       "itunes": "https://apps.apple.com/app/firefox-web-browser/id989804926",
-      "stars": 13008,
+      "stars": 13032,
       "tags": [
         "swift",
         "carthage",
@@ -1402,7 +1404,7 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/89/17/58/89175888-9e1e-3fcf-ce42-9dd347327298/pr_source.png/460x0w.jpg",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/9f/36/dc/9f36dc54-b99b-fd5c-0076-0cdb1d4bc53e/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 15:01:51 UTC"
+      "updated": "2026-08-24 20:50:43 UTC"
     },
     {
       "title": "Frameless",
@@ -1460,7 +1462,7 @@
       "description": "Cross-platform instant messaging",
       "license": "agpl-3.0",
       "source": "https://github.com/actorapp/actor-platform",
-      "stars": 3260,
+      "stars": 3256,
       "date_added": "Mon Apr 11 07:56:04 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -1487,7 +1489,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/236501293-3e613366-e186-4b94-a060-d8aae797b610.jpg"
       ],
-      "stars": 502,
+      "stars": 504,
       "date_added": "Mon Jan 11 09:02:54 2016 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2017-05-25 11:34:08 UTC"
@@ -1511,7 +1513,7 @@
       ],
       "date_added": "Jan 06 2017",
       "suggested_by": "@aslanyanhaik",
-      "stars": 1824,
+      "stars": 1822,
       "license": "mit",
       "updated": "2019-11-15 12:45:38 UTC"
     },
@@ -1586,7 +1588,7 @@
       ],
       "date_added": "Jan 15 2017",
       "suggested_by": "@surayashivji",
-      "stars": 151,
+      "stars": 150,
       "updated": "2017-06-08 05:02:33 UTC"
     },
     {
@@ -1595,7 +1597,7 @@
         "communication"
       ],
       "source": "https://github.com/acani/Chats",
-      "stars": 2046,
+      "stars": 2045,
       "tags": [
         "swift",
         "archive"
@@ -1621,7 +1623,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/ChatSecure/ChatSecure-iOS",
       "itunes": "https://apps.apple.com/app/chatsecure-encrypted-messenger/id464200063",
-      "stars": 3157,
+      "stars": 3155,
       "date_added": "Thu Mar 26 08:56:25 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -1649,7 +1651,7 @@
       "description": "IRC client",
       "source": "https://github.com/colloquy/colloquy",
       "itunes": "https://apps.apple.com/app/colloquy-irc-client/id302000478",
-      "stars": 258,
+      "stars": 261,
       "license": "other",
       "date_added": "Wed Jan 27 07:15:24 2016 -0800",
       "suggested_by": "@dkhamsing",
@@ -1667,7 +1669,7 @@
       "description": "IRC client/service",
       "source": "https://github.com/irccloud/ios",
       "itunes": "https://apps.apple.com/app/irccloud/id672699103",
-      "stars": 299,
+      "stars": 300,
       "license": "apache-2.0",
       "date_added": "Thu Jan 29 09:14:33 2015 -0500",
       "suggested_by": "@aaroncrespo",
@@ -1718,7 +1720,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/9f/34/7b/9f347b9a-15f9-bd4f-f020-02f633967c9f/pr_source.png/460x0w.png",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple128/v4/16/e3/cc/16e3cc1a-e13a-d7f1-cf4a-f3a658828d10/pr_source.png/460x0w.png"
       ],
-      "stars": 226,
+      "stars": 228,
       "date_added": "Thu Sep 10 13:23:03 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2026-06-14 13:11:56 UTC"
@@ -1743,7 +1745,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/c7/e0/2fc7e09b-5620-035b-1316-089d9805a3d5/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/03/e8/b0/03e8b0a0-cc5d-08d3-70c6-8dd817439f6a/pr_source.png/460x0w.jpg"
       ],
-      "stars": 1038,
+      "stars": 1040,
       "date_added": "Fri Jan 29 07:26:28 2016 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2020-04-17 20:24:40 UTC"
@@ -1765,7 +1767,7 @@
       "description": "Free, world-wide, private messaging & phone calls",
       "source": "https://github.com/signalapp/Signal-iOS",
       "itunes": "https://apps.apple.com/app/id874139669",
-      "stars": 12157,
+      "stars": 12210,
       "license": "gpl-3.0",
       "date_added": "Fri Feb 27 07:36:14 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -1775,7 +1777,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/11/82/fc/1182fc57-5a43-4403-1048-47735d0a75f7/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/65/78/39/6578398d-7204-d380-cf59-783acd3fa859/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-16 16:45:44 UTC"
+      "updated": "2026-08-20 19:32:18 UTC"
     },
     {
       "title": "surespot",
@@ -1813,7 +1815,7 @@
       "description": "Send messages with a focus on speed & security",
       "source": "https://github.com/TelegramMessenger/Telegram-iOS",
       "itunes": "https://apps.apple.com/app/telegram-messenger/id686449807",
-      "stars": 8749,
+      "stars": 8888,
       "license": "gpl-2.0",
       "date_added": "Mon Apr 6 07:16:32 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -1824,7 +1826,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/89/cf/cd/89cfcd2f-98dd-cbc0-e730-c7cb1854928c/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/8e/6b/23/8e6b239b-28b1-bbe2-f89c-f9e6ea9969b1/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-06-09 14:27:05 UTC"
+      "updated": "2026-07-21 04:34:53 UTC"
     },
     {
       "title": "TextEthan",
@@ -1973,7 +1975,7 @@
         "objc"
       ],
       "source": "https://github.com/rocketshipapps/adblockfast",
-      "stars": 776,
+      "stars": 780,
       "license": "gpl-3.0",
       "date_added": "Fri Sep 25 08:41:14 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -1982,7 +1984,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/37/6b/3f/376b3f54-9362-75e5-a484-ebcc314efc8e/mzl.wsjuxftd.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/4a/84/98/4a849841-ec59-e945-d290-8245f500b93c/mzl.nnbdchrh.png/460x0w.jpg"
       ],
-      "updated": "2026-06-21 13:21:00 UTC"
+      "updated": "2026-08-20 20:13:44 UTC"
     },
     {
       "title": "Adblock Plus",
@@ -2020,7 +2022,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/425580/202258987-80ad7bb6-f943-44ff-8512-a11c3c5c8415.png"
       ],
-      "stars": 795,
+      "stars": 796,
       "date_added": "Mon Jun 29 09:00:59 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2022-11-16 18:14:57 UTC"
@@ -2208,7 +2210,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 74,
+      "stars": 75,
       "license": "other",
       "date_added": "Tue May 3 06:36:59 2016 -0700",
       "suggested_by": "@dkhamsing",
@@ -2243,7 +2245,7 @@
       ],
       "description": "Browse top GitHub coders & repositories",
       "source": "https://github.com/coderyi/Monkey",
-      "stars": 1772,
+      "stars": 1773,
       "license": "mit",
       "date_added": "Fri Aug 28 14:25:44 2015 +0800",
       "suggested_by": "@xubinggui",
@@ -2332,7 +2334,7 @@
       "description": "Bitcoin wallet",
       "license": "mit",
       "source": "https://github.com/BitStore/BitStore-iOS",
-      "stars": 107,
+      "stars": 106,
       "date_added": "Sat Apr 11 06:07:19 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -2374,7 +2376,7 @@
       "license": "mit",
       "source": "https://github.com/breadwallet/breadwallet-ios",
       "itunes": "https://apps.apple.com/app/breadwallet/id885251393",
-      "stars": 639,
+      "stars": 640,
       "date_added": "Wed Jul 8 06:45:27 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -2611,7 +2613,7 @@
       ],
       "lang": "zho",
       "source": "https://github.com/duquewu/FanFanSwift",
-      "stars": 210,
+      "stars": 209,
       "tags": [
         "swift",
         "archive"
@@ -2788,7 +2790,7 @@
       "description": "Infinite runner",
       "source": "https://github.com/ericjohnson/canabalt-ios",
       "itunes": "https://apps.apple.com/app/canabalt/id333180061",
-      "stars": 1586,
+      "stars": 1587,
       "license": "other",
       "date_added": "Thu Mar 26 09:02:54 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -2824,7 +2826,7 @@
       "description": "For Cards Against Humanity",
       "license": "mit",
       "source": "https://github.com/jpsim/CardsAgainst",
-      "stars": 591,
+      "stars": 590,
       "tags": [
         "swift"
       ],
@@ -2903,7 +2905,7 @@
         "objc"
       ],
       "source": "https://github.com/id-Software/DOOM-iOS",
-      "stars": 831,
+      "stars": 833,
       "license": "gpl-2.0",
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
       "suggested_by": "@dkhamsing",
@@ -2925,7 +2927,7 @@
       ],
       "source": "https://github.com/id-Software/DOOM-IOS2",
       "itunes": "https://apps.apple.com/app/doom-ii-rpg/id354051766",
-      "stars": 336,
+      "stars": 338,
       "license": "gpl-2.0",
       "date_added": "Tue, 19 May 2015 07:30:30 -0700",
       "suggested_by": "@dkhamsing",
@@ -2986,7 +2988,7 @@
       ],
       "description": "Flappy Bird clone",
       "source": "https://github.com/newlinedotco/FlappySwift",
-      "stars": 9691,
+      "stars": 9683,
       "tags": [
         "swift"
       ],
@@ -3117,7 +3119,7 @@
       "license": "mit",
       "source": "https://github.com/splinesoft/MUDRammer",
       "itunes": "https://apps.apple.com/app/mudrammer-a-modern-mud-client/id597157072",
-      "stars": 85,
+      "stars": 86,
       "date_added": "Sun Jun 28 12:27:07 2015 -0700",
       "suggested_by": "@Jonathan Hersh",
       "screenshots": [
@@ -3179,7 +3181,7 @@
       ],
       "source": "https://github.com/cl7/Sakura-Fly",
       "itunes": "https://apps.apple.com/app/sakura-fly/id1019023051",
-      "stars": 111,
+      "stars": 112,
       "license": "mit",
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/6619146/13731560/965791fe-e942-11e5-9a11-f66f404fa18c.gif"
@@ -3302,7 +3304,7 @@
       "description": "Asthma study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/AsthmaHealth",
-      "stars": 97,
+      "stars": 96,
       "date_added": "Tue Apr 14 11:14:52 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -3336,7 +3338,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/56/f5/83/56f583a3-acdf-f48a-f739-2d3f0a6ef876/pr_source.png/230x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple114/v4/3a/c0/7a/3ac07ae6-fecb-c139-6645-532e5c24fa3a/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2022-10-05 19:11:39 UTC"
+      "updated": "2026-08-04 10:58:44 UTC"
     },
     {
       "title": "GlucoSuccess",
@@ -3400,7 +3402,7 @@
       "license": "other",
       "date_added": "Jun 5 2026",
       "suggested_by": "@megabyte0x",
-      "updated": "2026-07-19 02:04:43 UTC"
+      "updated": "2026-08-05 12:22:58 UTC"
     },
     {
       "title": "Jim",
@@ -3481,7 +3483,7 @@
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/MyHeartCounts",
       "itunes": "https://apps.apple.com/app/id972189947",
-      "stars": 66,
+      "stars": 65,
       "date_added": "Tue Oct 27 21:12:53 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -3525,7 +3527,7 @@
       "description": "Breast cancer study",
       "license": "bsd-3-clause",
       "source": "https://github.com/ResearchKit/ShareTheJourney",
-      "stars": 75,
+      "stars": 74,
       "date_added": "Wed, 15 Apr 2015 06:59:02 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -3658,7 +3660,7 @@
       ],
       "date_added": "Aug 31 2017",
       "suggested_by": "@pixel16",
-      "stars": 80,
+      "stars": 81,
       "updated": "2023-04-21 10:54:07 UTC"
     },
     {
@@ -3975,11 +3977,11 @@
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c0/2f/b2/c02fb296-8abc-ca24-c7a4-05c852f22733/pr_source.png/460x0w.jpg"
       ],
-      "stars": 427,
+      "stars": 437,
       "license": "other",
       "date_added": "Sun Apr 3 10:09:54 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 15:38:27 UTC"
+      "updated": "2026-08-19 08:22:49 UTC"
     },
     {
       "title": "ParkenDD",
@@ -4142,7 +4144,7 @@
       "description": "360 video player",
       "license": "mit",
       "source": "https://github.com/hanton/Fisheye",
-      "stars": 2147,
+      "stars": 2144,
       "date_added": "Wed Dec 2 22:17:02 2015 +0800",
       "suggested_by": "@Hanton",
       "screenshots": [
@@ -4166,8 +4168,8 @@
       "license": "mit",
       "date_added": "Mon Feb 1 09:01:56 2016 -0800",
       "suggested_by": "@dkhamsing",
-      "stars": 11411,
-      "updated": "2026-07-18 06:27:23 UTC"
+      "stars": 11440,
+      "updated": "2026-07-26 06:33:02 UTC"
     },
     {
       "title": "Controllers",
@@ -4234,7 +4236,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e40b21e-59fa-4026-ad3c-07e2a08bf4f5"
       ],
-      "updated": "2026-07-20 15:40:56 UTC"
+      "updated": "2026-08-24 19:31:37 UTC"
     },
     {
       "title": "Artsy Folio",
@@ -4316,7 +4318,7 @@
       "source": "https://github.com/swisspol/ComicFlow",
       "license": "gpl-3.0",
       "itunes": "https://apps.apple.com/app/comicflow/id409290355",
-      "stars": 362,
+      "stars": 363,
       "date_added": "Thu Aug 13 13:56:05 2015 -0400",
       "suggested_by": "@Jay Hickey",
       "updated": "2019-01-04 13:01:07 UTC"
@@ -4350,7 +4352,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/naoyashiga/Dunk",
-      "stars": 937,
+      "stars": 936,
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*0TkH9-Guo_A_hdlI9UEnvQ.png"
       ],
@@ -4511,7 +4513,7 @@
         "archive"
       ],
       "source": "https://github.com/KMindeguia/movies",
-      "stars": 851,
+      "stars": 853,
       "license": "mit",
       "date_added": "Fri Feb 20 07:10:55 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -4585,7 +4587,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple69/v4/9b/ad/60/9bad60df-6399-bac0-b8c3-83bce2072273/pr_source.png/460x0w.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/56/f2/0e/56f20eb8-420b-eaff-bf6a-99eaf4b1b05a/pr_source.png/460x0w.png"
       ],
-      "updated": "2017-04-07 15:04:56 UTC"
+      "updated": "2026-08-24 16:06:31 UTC"
     },
     {
       "title": "PhotoBrowser",
@@ -4711,7 +4713,7 @@
       "screenshots": [
         "https://github.com/soffes/Pugs/raw/master/Screenshot@2x.png"
       ],
-      "stars": 51,
+      "stars": 50,
       "license": "other",
       "date_added": "Mon Jan 25 14:34:13 2016 -0800",
       "suggested_by": "@dkhamsing",
@@ -4764,7 +4766,7 @@
       ],
       "source": "https://github.com/ijoshsmith/swift-ascii-art",
       "license": "mit",
-      "stars": 310,
+      "stars": 311,
       "tags": [
         "swift",
         "archive"
@@ -4826,7 +4828,7 @@
       "description": "Professional radio station",
       "license": "mit",
       "source": "https://github.com/analogcode/Swift-Radio-Pro",
-      "stars": 2933,
+      "stars": 2936,
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png"
       ],
@@ -4971,14 +4973,14 @@
       "source": "https://github.com/videolan/vlc",
       "homepage": "https://www.videolan.org/",
       "itunes": "https://apps.apple.com/app/vlc-for-ios/id650377962",
-      "stars": 19061,
+      "stars": 19425,
       "license": "gpl-2.0",
       "date_added": "Sun Mar 22 17:42:59 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png"
       ],
-      "updated": "2026-07-20 14:32:44 UTC"
+      "updated": "2026-08-24 16:43:46 UTC"
     },
     {
       "title": "VoiceMemos",
@@ -5034,7 +5036,7 @@
       "description": "An xkcd comic reader",
       "source": "https://github.com/mamaral/xkcd-Open-Source",
       "itunes": "https://apps.apple.com/app/xkcd-open-source/id995811425",
-      "stars": 266,
+      "stars": 265,
       "license": "mit",
       "date_added": "Fri Jun 5 19:29:14 2015 -0400",
       "suggested_by": "@mamaral",
@@ -5053,7 +5055,7 @@
         "news"
       ],
       "source": "https://github.com/MengTo/DesignerNewsApp",
-      "stars": 2419,
+      "stars": 2421,
       "tags": [
         "swift"
       ],
@@ -5161,7 +5163,7 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/zpz1237/NirZhihuDaily2.0",
-      "stars": 1388,
+      "stars": 1387,
       "date_added": "Wed Nov 4 07:39:50 2015 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2015-12-22 01:15:41 UTC"
@@ -5327,7 +5329,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/amitburst/HackerNews",
-      "stars": 1307,
+      "stars": 1305,
       "tags": [
         "swift"
       ],
@@ -5345,7 +5347,7 @@
       ],
       "source": "https://github.com/weiran/Hackers",
       "itunes": "https://apps.apple.com/app/hackers-hacker-news-reading/id603503901",
-      "stars": 760,
+      "stars": 763,
       "tags": [
         "swift"
       ],
@@ -5355,7 +5357,7 @@
       "license": "mit",
       "date_added": "Tue Dec 15 07:58:17 2015 -0800",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-16 11:31:30 UTC"
+      "updated": "2026-08-22 16:33:28 UTC"
     },
     {
       "title": "HN-App",
@@ -5481,7 +5483,7 @@
       "source": "https://github.com/duckduckgo/ios",
       "itunes": "https://apps.apple.com/app/duckduckgo-search-stories/id663592361",
       "license": "apache-2.0",
-      "stars": 1949,
+      "stars": 1954,
       "date_added": "Thu Mar 17 07:41:42 2016 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -5528,7 +5530,7 @@
       "description": "Official Wikipedia app",
       "source": "https://github.com/wikimedia/wikipedia-ios",
       "itunes": "https://apps.apple.com/app/wikipedia-mobile/id324715238",
-      "stars": 3417,
+      "stars": 3439,
       "license": "mit",
       "date_added": "Mon Jan 26 15:39:34 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -5540,7 +5542,7 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/3b/61/e4/3b61e4cc-e063-519b-82de-cafa39650512/pr_source.png/460x0w.jpg",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/19/c2/3e/19c23e96-1498-893f-7112-672201f2610e/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 14:43:20 UTC"
+      "updated": "2026-08-24 20:18:04 UTC"
     },
     {
       "title": "WordPress",
@@ -5560,7 +5562,7 @@
       "license": "gpl-2.0",
       "date_added": "Tue Mar 17 11:03:45 2015 +0100",
       "suggested_by": "@hatemalimam",
-      "updated": "2026-07-20 14:22:20 UTC"
+      "updated": "2026-08-24 20:45:59 UTC"
     },
     {
       "title": "Cannonball",
@@ -5695,7 +5697,7 @@
         "sample"
       ],
       "source": "https://github.com/KhaosT/HomeKit-Demo",
-      "stars": 314,
+      "stars": 311,
       "tags": [
         "swift",
         "archive"
@@ -5720,7 +5722,7 @@
       "description": "Code examples for the new functions in iOS 8",
       "license": "mit",
       "source": "https://github.com/shu223/iOS8-Sampler",
-      "stars": 3115,
+      "stars": 3113,
       "date_added": "Thu Apr 30 16:57:24 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2020-03-28 22:36:14 UTC"
@@ -5781,7 +5783,7 @@
         "atlas",
         "archive"
       ],
-      "stars": 115,
+      "stars": 116,
       "date_added": "Mon Jan 25 08:14:18 2016 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2016-01-25 14:54:21 UTC"
@@ -5794,7 +5796,7 @@
       "description": "Explore the capabilities of Apple's Core Animation API",
       "license": "mit",
       "source": "https://github.com/scotteg/LayerPlayer",
-      "stars": 1084,
+      "stars": 1085,
       "tags": [
         "swift"
       ],
@@ -6006,7 +6008,7 @@
       ],
       "lang": "zho",
       "source": "https://github.com/Lax/Learn-iOS-Swift-by-Examples",
-      "stars": 3777,
+      "stars": 3776,
       "tags": [
         "swift"
       ],
@@ -6049,7 +6051,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/Lyndir/MasterPassword",
       "itunes": "https://apps.apple.com/app/id510296984",
-      "stars": 1131,
+      "stars": 1128,
       "date_added": "Fri May 15 12:15:50 2015 -0400",
       "suggested_by": "@Sanket",
       "screenshots": [
@@ -6187,7 +6189,7 @@
       "homepage": "https://www.criticalmaps.net",
       "itunes": "https://apps.apple.com/app/critical-maps/id918669647",
       "license": "mit",
-      "stars": 315,
+      "stars": 318,
       "tags": [
         "swift",
         "swiftui",
@@ -6200,7 +6202,7 @@
       ],
       "date_added": "May 25 2022",
       "suggested_by": "@mltbnz",
-      "updated": "2026-07-04 05:34:26 UTC"
+      "updated": "2026-08-08 08:13:28 UTC"
     },
     {
       "title": "Peggsite",
@@ -6253,7 +6255,7 @@
       "description": "Discover talent & build something together",
       "license": "mit",
       "source": "https://github.com/CatchChat/Yep",
-      "stars": 5874,
+      "stars": 5871,
       "tags": [
         "swift",
         "archive"
@@ -6492,7 +6494,7 @@
       "date_added": "Mar 8 2025",
       "suggested_by": "@saxobroko",
       "stars": 8,
-      "updated": "2026-07-20 06:22:42 UTC"
+      "updated": "2026-08-24 03:59:03 UTC"
     },
     {
       "title": "Lucid Weather Clock",
@@ -6538,7 +6540,7 @@
         "weather"
       ],
       "source": "https://github.com/Aaron-A/Project-RainMan",
-      "stars": 661,
+      "stars": 660,
       "tags": [
         "swift",
         "dark sky api (forecast api)",
@@ -6563,7 +6565,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/comyar/Sol",
-      "stars": 1474,
+      "stars": 1473,
       "screenshots": [
         "https://github.com/comyar/Sol/raw/master/Screenshots/1.png",
         "https://github.com/comyar/Sol/raw/master/Screenshots/2.png"
@@ -6599,7 +6601,7 @@
       ],
       "license": "mit",
       "source": "https://github.com/JakeLin/SwiftLanguageWeather",
-      "stars": 5244,
+      "stars": 5246,
       "tags": [
         "swift"
       ],
@@ -6662,7 +6664,7 @@
       "description": "Weather around you in a glance",
       "source": "https://github.com/TakefiveInteractive/WeatherMap",
       "itunes": "https://apps.apple.com/app/weather-map-take-five-interactive/id990141529",
-      "stars": 286,
+      "stars": 285,
       "tags": [
         "swift",
         "openweathermap api",
@@ -6689,7 +6691,7 @@
         "objc"
       ],
       "source": "https://github.com/YouXianMing/YoCelsius",
-      "stars": 2857,
+      "stars": 2854,
       "license": "other",
       "date_added": "Wed Jun 3 06:05:45 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -6712,7 +6714,7 @@
       "lang": "zho",
       "license": "mit",
       "source": "https://github.com/Aufree/phphub-ios",
-      "stars": 1237,
+      "stars": 1236,
       "date_added": "Fri Dec 4 08:01:50 2015 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2018-11-15 13:30:19 UTC"
@@ -6934,7 +6936,7 @@
       "description": "For Deckset presentations",
       "license": "mit",
       "source": "https://github.com/jpsim/DeckRocket",
-      "stars": 396,
+      "stars": 397,
       "tags": [
         "swift",
         "iphone"
@@ -7242,7 +7244,7 @@
       "date_added": "Jul 6, 2026",
       "suggested_by": "@lokii49",
       "stars": 0,
-      "updated": "2026-07-20 12:07:14 UTC"
+      "updated": "2026-08-24 12:57:26 UTC"
     },
     {
       "title": "my41",
@@ -7344,7 +7346,7 @@
       "description": "File browser & sync for ownCloud file hosting service",
       "source": "https://github.com/owncloud/ios-app",
       "itunes": "https://apps.apple.com/app/owncloud/id1359583808",
-      "stars": 250,
+      "stars": 251,
       "license": "gpl-3.0",
       "date_added": "Mon May 18 11:52:02 2015 -0700",
       "suggested_by": "@Mike",
@@ -7353,7 +7355,7 @@
         "https://raw.githubusercontent.com/owncloud/ios-app/master/doc/images/en-US/iPhone%2011%20Pro%20Max-20_ios_files_list_demo.png",
         "https://raw.githubusercontent.com/owncloud/ios-app/master/doc/images/en-US/iPhone%2011%20Pro%20Max-21_ios_files_actions_demo.png"
       ],
-      "updated": "2026-07-19 22:08:15 UTC"
+      "updated": "2026-08-20 07:10:43 UTC"
     },
     {
       "title": "Phonetic",
@@ -7369,7 +7371,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/iAugux/ProjectScreenshots/master/Phonetic/nickname.gif"
       ],
-      "stars": 606,
+      "stars": 605,
       "date_added": "Sat Feb 27 06:13:06 2016 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2023-05-04 16:48:36 UTC"
@@ -7495,7 +7497,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/lazerwalker/Theseus/master/ReadmeImages/triptych.png"
       ],
-      "stars": 696,
+      "stars": 695,
       "date_added": "Wed, 1 Apr 2015 09:30:22 -0400",
       "suggested_by": "@jeffreyjackson",
       "updated": "2014-09-24 20:17:19 UTC"
@@ -7552,7 +7554,7 @@
       "license": "mit",
       "source": "https://github.com/lexrus/VPNOn",
       "itunes": "https://apps.apple.com/app/vpn-on/id951344279",
-      "stars": 4517,
+      "stars": 4512,
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*9qSbd77zijp5UPODaWM9CQ.png"
       ],
@@ -7573,7 +7575,7 @@
       "license": "mit",
       "source": "https://github.com/WireGuard/wireguard-apple",
       "itunes": "https://apps.apple.com/app/wireguard/id1441195209",
-      "stars": 1369,
+      "stars": 1389,
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63"
       ],
@@ -7604,7 +7606,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/c4/7c/15/c47c15e3-1cad-e572-9583-137114cd94a6/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/0b/4f/72/0b4f72ec-9fa5-55ed-a719-3d8208af890c/mzl.ewtijcyp.png/460x0w.jpg"
       ],
-      "updated": "2025-12-31 03:09:55 UTC"
+      "updated": "2026-08-24 11:59:18 UTC"
     },
     {
       "title": "WaniKani",
@@ -7859,7 +7861,7 @@
       "description": "Simple note taking with Today Extension & iCloud sync",
       "license": "mit",
       "source": "https://github.com/mslathrop/SwiftNote",
-      "stars": 200,
+      "stars": 201,
       "tags": [
         "swift",
         "archive"
@@ -8153,7 +8155,7 @@
       "description": "App with likes, comments, posting images/videos",
       "source": "https://github.com/TomekB/Parse-Challenge-App",
       "itunes": "https://apps.apple.com/app/lets-challenge-me/id944004497",
-      "stars": 124,
+      "stars": 123,
       "license": "other",
       "date_added": "Thu Mar 5 07:45:57 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -8217,7 +8219,7 @@
       "description": "NBA game scores",
       "license": "mit",
       "source": "https://github.com/wwayne/react-native-nba-app",
-      "stars": 2214,
+      "stars": 2213,
       "date_added": "Wed, 6 Jan 2016 11:37:19 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2019-10-20 03:53:38 UTC"
@@ -8351,7 +8353,7 @@
       "description": "React Native calculator",
       "license": "mit",
       "source": "https://github.com/benoitvallon/react-native-nw-react-calculator",
-      "stars": 5214,
+      "stars": 5206,
       "date_added": "Mon Mar 23 13:37:57 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2021-10-03 16:47:54 UTC"
@@ -8406,7 +8408,7 @@
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg"
       ],
-      "stars": 2062,
+      "stars": 2060,
       "date_added": "Sat Jun 13 07:33:39 2015 -0700",
       "suggested_by": "@xu6148152",
       "updated": "2023-10-13 02:00:42 UTC"
@@ -8424,7 +8426,7 @@
       ],
       "description": "Official F8 app",
       "source": "https://github.com/fbsamples/f8app",
-      "stars": 13898,
+      "stars": 13891,
       "license": "other",
       "screenshots": [
         "https://raw.githubusercontent.com/fbsamples/f8app/main/.github/screenshot-app%402x.png"
@@ -8446,7 +8448,7 @@
         "https://github.com/brentvatne/react-native-login/raw/master/demo!!!.gif"
       ],
       "source": "https://github.com/brentvatne/react-native-login",
-      "stars": 845,
+      "stars": 844,
       "license": "other",
       "date_added": "Tue Apr 14 07:22:46 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -8503,7 +8505,7 @@
       "license": "mit",
       "source": "https://github.com/iSimar/HackerNews-React-Native",
       "itunes": "https://apps.apple.com/app/hacker-news-reader-react-native/id1067161633",
-      "stars": 3713,
+      "stars": 3708,
       "date_added": "Fri Jul 10 08:02:09 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -8850,7 +8852,7 @@
       "description": "Simple timer to make developing film easier & more reliable",
       "license": "mit",
       "source": "https://github.com/ashfurrow/C-41",
-      "stars": 2045,
+      "stars": 2044,
       "date_added": "Mon Jan 26 15:48:19 2015 -0800",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -8874,7 +8876,7 @@
       "license": "mit",
       "source": "https://github.com/leichunfeng/MVVMReactiveCocoa",
       "itunes": "https://apps.apple.com/app/id961330940",
-      "stars": 3692,
+      "stars": 3688,
       "date_added": "Mon Oct 12 08:00:52 2015 -0700",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -8898,7 +8900,7 @@
       ],
       "description": "Grocery list, synchronized with GitHub",
       "source": "https://github.com/jspahrsummers/GroceryList",
-      "stars": 861,
+      "stars": 859,
       "license": "mit",
       "date_added": "Mon Jan 26 19:10:00 2015 -0800",
       "suggested_by": "@dkhamsing",
@@ -8984,7 +8986,7 @@
       "description": "Simple authentication (OAuth for Twitter, Facebook, Instagram, Tumblr & more)",
       "license": "mit",
       "source": "https://github.com/calebd/SimpleAuth",
-      "stars": 1141,
+      "stars": 1139,
       "date_added": "Fri Apr 10 08:17:21 2015 -0700",
       "suggested_by": "@dkhamsing",
       "updated": "2018-04-24 13:44:21 UTC"
@@ -9037,7 +9039,7 @@
       "description": "Artsy auctions",
       "license": "mit",
       "source": "https://github.com/artsy/eidolon",
-      "stars": 2696,
+      "stars": 2692,
       "tags": [
         "swift",
         "rxswift",
@@ -9166,7 +9168,7 @@
       "screenshots": [
         "https://github.com/BalestraPatrick/RealmVideo/raw/master/Resources/demo.gif"
       ],
-      "stars": 322,
+      "stars": 321,
       "tags": [
         "swift",
         "iphone",
@@ -9249,7 +9251,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/omz/AppSales-Mobile/51aa7b090567f8ca4d7e9bdf5221d16c65cef7f3/Screenshot.png"
       ],
-      "stars": 1885,
+      "stars": 1886,
       "license": "bsd-2-clause",
       "date_added": "Mon Oct 26 07:38:58 2015 -0700",
       "suggested_by": "@dkhamsing",
@@ -9291,7 +9293,7 @@
         "https://a4.mzstatic.com/us/r30/Purple4/v4/ff/da/47/ffda478b-be96-75c3-e6cf-2fae62df7592/screen696x696.jpeg",
         "https://a2.mzstatic.com/us/r30/Purple4/v4/d9/23/46/d9234681-13ea-a11c-de7c-bd2cb05ae11a/screen696x696.jpeg"
       ],
-      "stars": 2964,
+      "stars": 2963,
       "date_added": "Mon Jan 26 19:23:07 2015 -0800",
       "suggested_by": "@dkhamsing",
       "updated": "2013-09-02 15:48:48 UTC"
@@ -9329,7 +9331,7 @@
         "https://a1808.phobos.apple.com/us/r1000/070/Purple/v4/c8/df/c2/c8dfc22a-9ef2-abc1-c8a6-55faab448440/mzl.qlhvmpoi.png",
         "https://a2.mzstatic.com/us/r1000/103/Purple2/v4/48/4c/e4/484ce4d9-7e47-b6d9-261b-d1270cd31c4d/mzl.jnoizpbg.1136x1136-75.jpg"
       ],
-      "stars": 1639,
+      "stars": 1637,
       "license": "other",
       "date_added": "Fri Mar 11 07:54:46 2016 -0800",
       "suggested_by": "@dkhamsing",
@@ -9486,7 +9488,7 @@
       ],
       "description": "Apple II/IIGS Emulator with in-app game browser, MFi & iCade controller support",
       "source": "https://github.com/ogoguel/activegs-ios",
-      "stars": 95,
+      "stars": 96,
       "license": "other",
       "date_added": "Fri, 13 May 2016 08:25:26 -1000",
       "suggested_by": "@yoshisuga",
@@ -9506,11 +9508,11 @@
       "description": "Comprehensive emulator frontend with support for NES, SNES, Gameboy, Sega Master System, Genesis, Playstation, N64, Atari Lynx & more",
       "source": "https://github.com/libretro/RetroArch",
       "itunes": "https://apps.apple.com/app/retroarch/id6499539433",
-      "stars": 13383,
+      "stars": 13563,
       "license": "gpl-3.0",
       "date_added": "Fri May 13 08:37:47 2016 -1000",
       "suggested_by": "@yoshisuga",
-      "updated": "2026-07-20 07:58:42 UTC"
+      "updated": "2026-08-24 02:11:33 UTC"
     },
     {
       "title": "MAME4iOS",
@@ -9525,11 +9527,11 @@
       ],
       "description": "MAME frontend",
       "source": "https://github.com/yoshisuga/MAME4iOS",
-      "stars": 771,
+      "stars": 773,
       "license": "gpl-2.0",
       "date_added": "Fri, 13 May 2016 08:25:26 -1000",
       "suggested_by": "@yoshisuga",
-      "updated": "2026-05-29 17:37:54 UTC"
+      "updated": "2026-08-07 22:09:46 UTC"
     },
     {
       "title": "DOSPad",
@@ -9559,11 +9561,11 @@
       "description": "PSP emulator",
       "source": "https://github.com/hrydgard/ppsspp",
       "itunes": "https://apps.apple.com/app/ppsspp-psp-emulator/id6496972903",
-      "stars": 14141,
+      "stars": 14298,
       "license": "gpl-2.0",
       "date_added": "Fri, 13 May 2016 08:25:26 -1000",
       "suggested_by": "@yoshisuga",
-      "updated": "2026-07-20 15:44:57 UTC"
+      "updated": "2026-08-24 16:26:10 UTC"
     },
     {
       "title": "Pomelo",
@@ -9772,9 +9774,10 @@
         "https://github.com/lanceylai/TSWeChat/raw/master/images/preview1.gif"
       ],
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
-      "stars": 3747,
+      "stars": 3743,
       "date_added": "Wed May 18 06:45:35 2016 -0700",
       "suggested_by": "@lfarah",
       "updated": "2019-07-28 08:57:46 UTC"
@@ -10008,7 +10011,7 @@
       "source": "https://github.com/mapsme/omim",
       "homepage": "https://maps.me/",
       "itunes": "https://apps.apple.com/app/id510623322",
-      "stars": 4600,
+      "stars": 4602,
       "date_added": "Tue May 31 22:24:50 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10196,7 +10199,7 @@
         "archive"
       ],
       "license": "other",
-      "stars": 186,
+      "stars": 187,
       "date_added": "Wed Jun 1 00:52:33 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "updated": "2012-10-21 11:57:19 UTC"
@@ -10286,7 +10289,7 @@
       "description": "A release of the real-time strategy game Warfare Incorporated",
       "source": "https://github.com/spiffcode/hostile-takeover",
       "license": "bsd-2-clause",
-      "stars": 208,
+      "stars": 210,
       "date_added": "Wed Jun 1 22:14:12 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "updated": "2017-10-22 05:19:53 UTC"
@@ -10358,7 +10361,7 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/78/ae/8f78aefc-9fb3-ed73-d5d8-ee768073869d/pr_source.png/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/b0/11/2fb0114c-bce3-0122-9871-0bb88a95802d/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-11 03:59:52 UTC"
+      "updated": "2026-07-27 04:24:05 UTC"
     },
     {
       "title": "CodeHub",
@@ -10375,7 +10378,7 @@
       "homepage": "https://codehub-app.com/",
       "itunes": "https://apps.apple.com/app/id707173885",
       "license": "other",
-      "stars": 22590,
+      "stars": 22572,
       "date_added": "Wed Jun 1 22:31:25 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10450,7 +10453,7 @@
       "description": "Vector illustration",
       "license": "mpl-2.0",
       "source": "https://github.com/sprang/Inkpad",
-      "stars": 2649,
+      "stars": 2647,
       "date_added": "Wed Jun 1 22:45:46 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "updated": "2018-07-30 04:46:29 UTC"
@@ -10478,7 +10481,7 @@
       "source": "https://github.com/seanhess/wizardwar",
       "itunes": "https://apps.apple.com/app/wizard-war/id702839715",
       "license": "mit",
-      "stars": 547,
+      "stars": 548,
       "date_added": "Wed Jun 1 22:55:28 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "updated": "2015-05-19 15:51:45 UTC"
@@ -10514,7 +10517,7 @@
       "source": "https://github.com/prey/prey-ios-client",
       "homepage": "https://preyproject.com/",
       "itunes": "https://apps.apple.com/app/id456755037",
-      "stars": 291,
+      "stars": 290,
       "date_added": "Wed Jun 1 23:03:39 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10583,10 +10586,10 @@
       "source": "https://github.com/xbmc/xbmc",
       "homepage": "https://kodi.wiki",
       "license": "gpl-2.0",
-      "stars": 20984,
+      "stars": 21129,
       "date_added": "Wed Jun 1 23:25:53 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "updated": "2026-07-20 14:10:03 UTC"
+      "updated": "2026-08-24 20:52:56 UTC"
     },
     {
       "title": "Kodi Remote",
@@ -10603,7 +10606,7 @@
       "homepage": "https://kodi.tv/",
       "itunes": "https://apps.apple.com/app/id520480364",
       "license": "gpl-2.0",
-      "stars": 20984,
+      "stars": 21129,
       "date_added": "Wed Jun 1 23:27:42 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10613,7 +10616,7 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/25/d9/ee/25d9eec0-30bb-54e6-4273-d9f29913ccde/mzl.jhwhiolh.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/f7/2e/46/f72e4657-9da9-930a-6f7e-8a636c28d5a5/mzl.kdweouvd.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 14:10:03 UTC"
+      "updated": "2026-08-24 20:52:56 UTC"
     },
     {
       "title": "Antidote",
@@ -10630,7 +10633,7 @@
       "source": "https://github.com/Antidote-for-Tox/Antidote",
       "itunes": "https://apps.apple.com/app/apple-store/id933117605",
       "license": "mpl-2.0",
-      "stars": 394,
+      "stars": 393,
       "screenshots": [
         "https://tox.chat/theme/img/client/antidote_1.png"
       ],
@@ -10655,7 +10658,7 @@
       "homepage": "https://tutanota.com/",
       "itunes": "https://apps.apple.com/app/id922429609",
       "license": "gpl-3.0",
-      "stars": 7785,
+      "stars": 7873,
       "date_added": "Wed Jun 1 23:37:45 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10664,7 +10667,7 @@
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/c5/a2/a8c5a2de-33fc-1fad-7f5d-3f1579bc3fc3/mzl.xvkhmgab.png/460x0w.jpg",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/be/32/0a/be320a6b-a860-a359-5c33-38bba742aef1/mzl.vgjqcasc.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 15:48:58 UTC"
+      "updated": "2026-08-24 16:22:24 UTC"
     },
     {
       "title": "Pisth",
@@ -10685,7 +10688,7 @@
       "date_added": "Jan 12 2018",
       "suggested_by": "@ColdGrub1384",
       "license": "apache-2.0",
-      "stars": 435,
+      "stars": 436,
       "updated": "2020-01-19 06:40:19 UTC"
     },
     {
@@ -10700,7 +10703,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/matomo-org/matomo-mobile-2",
       "itunes": "https://apps.apple.com/app/id737216887",
-      "stars": 111,
+      "stars": 112,
       "date_added": "Wed Jun 1 23:41:44 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10710,7 +10713,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/a0/0b/99/a00b99a7-cb8c-2e54-802b-e828743e22bb/pr_source.png/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/85/3b/b4/853bb4b2-3317-17b1-5ed5-7a12a5be6ca6/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-04-29 06:15:45 UTC"
+      "updated": "2026-07-25 10:23:54 UTC"
     },
     {
       "title": "Seafile Pro",
@@ -10734,7 +10737,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/97/06/a2/9706a2bd-d71e-6c9f-8250-354e33c134c4/pr_source.png/460x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/38/da/c3/38dac3d5-8c7f-5a76-4c34-e2825772bc73/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 03:34:54 UTC"
+      "updated": "2026-08-18 02:51:37 UTC"
     },
     {
       "title": "Organic Maps",
@@ -10752,13 +10755,13 @@
       "source": "https://github.com/organicmaps/organicmaps",
       "homepage": "https://organicmaps.app/",
       "itunes": "https://apps.apple.com/app/organic-maps/id1567437057",
-      "stars": 14789,
+      "stars": 15198,
       "date_added": "Sun Dec 21 23:16:50 2025 +0100",
       "suggested_by": "@biodranik",
       "screenshots": [
         "https://github.com/user-attachments/assets/e276770c-1a13-4185-8bd2-a0946f4926ac"
       ],
-      "updated": "2026-07-20 14:52:49 UTC"
+      "updated": "2026-08-24 17:10:11 UTC"
     },
     {
       "title": "OsmAnd Maps",
@@ -10773,7 +10776,7 @@
       "source": "https://github.com/osmandapp/Osmand",
       "homepage": "https://osmand.net/",
       "itunes": "https://apps.apple.com/app/id934850257",
-      "stars": 5855,
+      "stars": 5924,
       "date_added": "Wed Jun 1 23:52:25 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10781,7 +10784,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/cd/55/dc/cd55dc5f-143c-89a0-8239-426c195c6490/pr_source.png/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/86/9b/65/869b6564-776f-bed9-5896-2ec9c0fcb299/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 15:46:02 UTC"
+      "updated": "2026-08-24 18:08:08 UTC"
     },
     {
       "title": "Habitica",
@@ -10802,10 +10805,10 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg"
       ],
-      "stars": 844,
+      "stars": 850,
       "date_added": "Wed Jun 1 23:56:30 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "updated": "2026-07-18 13:42:39 UTC"
+      "updated": "2026-08-23 03:54:08 UTC"
     },
     {
       "title": "MuPDF",
@@ -10827,8 +10830,8 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/77/69/aa/7769aa4a-5e2f-f145-f89e-541c94ac74a7/pr_source.png/460x0w.jpg",
         "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/62/0b/52/620b5289-7cdb-fa7a-4883-0d3565d87690/pr_source.png/460x0w.jpg"
       ],
-      "stars": 2866,
-      "updated": "2026-07-20 15:46:45 UTC"
+      "stars": 2928,
+      "updated": "2026-08-22 17:01:43 UTC"
     },
     {
       "title": "Kiwix",
@@ -10843,7 +10846,7 @@
         "swift"
       ],
       "license": "other",
-      "stars": 754,
+      "stars": 772,
       "date_added": "Thu Jun 2 00:02:57 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10853,7 +10856,7 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/3e/a8/e6/3ea8e6c4-ca6a-b609-552e-6b46e218a0a1/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/58/b9/bf/58b9bf1a-6ae9-6336-a823-60479de91825/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 12:12:44 UTC"
+      "updated": "2026-08-24 12:56:12 UTC"
     },
     {
       "title": "Hedgewars",
@@ -10899,10 +10902,10 @@
       "source": "https://github.com/FreeRDP/FreeRDP",
       "homepage": "https://www.freerdp.com/",
       "itunes": "https://apps.apple.com/app/ifreerdp/id604813768",
-      "stars": 13463,
+      "stars": 13587,
       "date_added": "Thu Jun 2 00:11:21 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "updated": "2026-07-20 10:51:59 UTC"
+      "updated": "2026-08-24 17:40:31 UTC"
     },
     {
       "title": "Minds",
@@ -10919,7 +10922,7 @@
       "source": "https://github.com/Minds/mobile",
       "homepage": "https://www.minds.com/",
       "license": "agpl-3.0",
-      "stars": 190,
+      "stars": 189,
       "date_added": "Thu Jun 2 00:25:37 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -10952,7 +10955,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple2/v4/c7/b2/59/c7b2590b-cc11-0aea-c5dc-4263313fb97f/pr_source.png/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple49/v4/41/a3/dc/41a3dc56-02fe-83f8-6fe0-8813691868c3/pr_source.png/460x0w.jpg"
       ],
-      "stars": 1562,
+      "stars": 1559,
       "date_added": "Thu Jun 2 00:33:10 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "updated": "2017-11-29 20:57:45 UTC"
@@ -10998,10 +11001,10 @@
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/9e/b8/ab/9eb8abc1-cf22-9866-9521-88cb7772efa9/pr_source.png/460x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/02/2b/e0/022be068-3552-7b25-2bb5-675c7e878e5a/pr_source.png/460x0w.jpg"
       ],
-      "stars": 2627,
+      "stars": 2661,
       "date_added": "Thu Jun 2 00:42:49 2016 -0600",
       "suggested_by": "@scribblemaniac",
-      "updated": "2026-07-02 08:56:50 UTC"
+      "updated": "2026-08-11 16:26:21 UTC"
     },
     {
       "title": "projectM",
@@ -11039,7 +11042,7 @@
       "source": "https://github.com/openhab/openhab-ios",
       "homepage": "https://www.openhab.org/",
       "itunes": "https://apps.apple.com/app/openhab/id492054521",
-      "stars": 208,
+      "stars": 209,
       "date_added": "Thu Jun 2 00:57:16 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -11048,7 +11051,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ea/66/a5/ea66a51c-2c07-d944-8fb8-5cee014942f5/pr_source.png/460x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/bd/e7/3a/bde73a86-3afd-d434-7353-22cbe70a742e/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-20 09:22:15 UTC"
+      "updated": "2026-08-24 15:18:28 UTC"
     },
     {
       "title": "LibreOffice Remote for Impress",
@@ -11107,7 +11110,7 @@
       "source": "https://github.com/miataru/miataru-ios-client",
       "homepage": "https://miataru.com/ios/",
       "itunes": "https://apps.apple.com/app/id717539389",
-      "stars": 19,
+      "stars": 20,
       "date_added": "Thu Jun 2 01:14:28 2016 -0600",
       "suggested_by": "@scribblemaniac",
       "screenshots": [
@@ -11116,7 +11119,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/1d/31/e6/1d31e607-ebbc-8dda-7b48-d4361667e152/pr_source.png/460x0w.jpg",
         "https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/85/f6/a1/85f6a122-2962-a4be-126e-f2c97804caaf/pr_source.png/460x0w.jpg"
       ],
-      "updated": "2026-07-02 17:47:30 UTC"
+      "updated": "2026-08-12 16:08:43 UTC"
     },
     {
       "title": "Wheelmap",
@@ -11313,7 +11316,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 76,
+      "stars": 77,
       "date_added": "Tue Jun 14 20:38:40 2016 -0700",
       "suggested_by": "@Adam Boyd",
       "screenshots": [
@@ -11509,7 +11512,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 475,
+      "stars": 476,
       "date_added": "Wed Jun 29 18:25:57 2016 +0300",
       "suggested_by": "@Yury Korolev",
       "screenshots": [
@@ -11646,11 +11649,11 @@
       "description": "Early 68K Macintosh emulator",
       "source": "https://github.com/zydeco/minivmac4ios",
       "homepage": "https://namedfork.net/minivmac/",
-      "stars": 597,
+      "stars": 599,
       "license": "gpl-2.0",
       "date_added": "Mon Jul 11 22:07:44 2016 +0200",
       "suggested_by": "@Jesús A. Álvarez",
-      "updated": "2025-10-22 16:58:00 UTC"
+      "updated": "2026-08-09 13:28:07 UTC"
     },
     {
       "title": "Uncle Nagy's House",
@@ -11692,7 +11695,7 @@
       "source": "https://github.com/jc4p/abby-healthkit",
       "date_added": "Mon Jul 11 13:47:02 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "stars": 12,
+      "stars": 13,
       "updated": "2015-09-27 20:58:31 UTC"
     },
     {
@@ -11707,7 +11710,7 @@
       "license": "apache-2.0",
       "source": "https://github.com/traccar/traccar-client-ios",
       "itunes": "https://apps.apple.com/app/traccar-client/id843156974",
-      "stars": 252,
+      "stars": 253,
       "date_added": "Tue Jul 12 11:26:10 2016 +1200",
       "suggested_by": "@Anton Tananaev",
       "screenshots": [
@@ -11727,7 +11730,7 @@
       "license": "apache-2.0",
       "source": "https://github.com/traccar/traccar-manager-ios",
       "itunes": "https://apps.apple.com/app/traccar-manager/id1113966562",
-      "stars": 140,
+      "stars": 141,
       "date_added": "Tue Jul 12 11:26:10 2016 +1200",
       "suggested_by": "@Anton Tananaev",
       "screenshots": [
@@ -11816,7 +11819,7 @@
       "homepage": "https://fabiensanglard.net/shmup/",
       "source": "https://github.com/fabiensanglard/Shmup",
       "itunes": "https://apps.apple.com/app/shmup/id337663605",
-      "stars": 272,
+      "stars": 273,
       "date_added": "Tue Jul 12 15:39:38 2016 +0100",
       "suggested_by": "@Matthew Sanders",
       "screenshots": [
@@ -11868,7 +11871,7 @@
       ],
       "date_added": "Tue Jul 12 07:56:22 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "stars": 6861,
+      "stars": 6908,
       "updated": "2026-06-29 21:10:17 UTC"
     },
     {
@@ -12030,7 +12033,7 @@
       "license": "gpl-3.0",
       "date_added": "Wed, 13 Jul 2016 13:36:49 -0700",
       "suggested_by": "@Aghassi",
-      "stars": 45,
+      "stars": 46,
       "updated": "2017-11-11 01:33:23 UTC"
     },
     {
@@ -12110,7 +12113,7 @@
       ],
       "date_added": "Fri Jul 15 12:22:53 2016 +0200",
       "suggested_by": "@TomekB",
-      "stars": 83,
+      "stars": 82,
       "updated": "2016-07-15 06:33:29 UTC"
     },
     {
@@ -12212,7 +12215,7 @@
       "license": "mit",
       "date_added": "Feb 2 2026",
       "suggested_by": "@ANU5565",
-      "stars": 342,
+      "stars": 344,
       "updated": "2023-07-01 13:39:41 UTC"
     },
     {
@@ -12232,7 +12235,7 @@
       "homepage": "https://element.io",
       "itunes": "https://apps.apple.com/app/element/id1083446067",
       "license": "apache-2.0",
-      "stars": 1837,
+      "stars": 1840,
       "date_added": "Thu Jul 21 22:53:48 2016 -0700",
       "suggested_by": "@Aakash Kambuj",
       "screenshots": [
@@ -12262,10 +12265,10 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/80/33/93803343-c529-20f5-cf80-ffbd7cb937b3/106a3d55-876d-4fb4-a37b-2d82cd9a6340_12.9-inch-6th-gen-2.png/626x0w.webp",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2c/36/2b/2c362b4d-5cf0-3eb5-6756-5185fa747439/5a643efe-d553-43df-bd67-2daee496b467_12.9-inch-6th-gen-3.png/626x0w.webp"
       ],
-      "stars": 908,
+      "stars": 929,
       "date_added": "Dec 20 2024",
       "suggested_by": "@Velin92",
-      "updated": "2026-07-20 13:02:18 UTC"
+      "updated": "2026-08-24 16:18:37 UTC"
     },
     {
       "title": "Wire",
@@ -12283,13 +12286,13 @@
         "purelayout"
       ],
       "license": "gpl-3.0",
-      "stars": 163,
+      "stars": 166,
       "screenshots": [
         "https://cdn-images-1.medium.com/v2/resize:fit:800/1*CEtofzY1rIOKuGT7JO3VkA.png"
       ],
       "date_added": "Fri Jul 22 07:35:15 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 15:23:09 UTC"
+      "updated": "2026-08-24 15:29:20 UTC"
     },
     {
       "title": "Conway's Game of Life (Vie)",
@@ -12347,7 +12350,7 @@
       "source": "https://github.com/Kjuly/iPokeMon",
       "date_added": "Fri May 15 12:15:50 2015 -0400",
       "suggested_by": "@Sanket",
-      "stars": 423,
+      "stars": 422,
       "screenshots": [
 
       ],
@@ -12369,7 +12372,7 @@
       ],
       "date_added": "Mon Jul 25 11:17:52 2016 -0700",
       "suggested_by": "@dkhamsing",
-      "stars": 113,
+      "stars": 116,
       "updated": "2022-08-15 13:38:30 UTC"
     },
     {
@@ -12378,7 +12381,8 @@
         "content"
       ],
       "tags": [
-        "wikipedia", "archive"
+        "wikipedia",
+        "archive"
       ],
       "description": "Offline dictionary for international movie titles",
       "source": "https://github.com/lurado/MovieDict",
@@ -12457,9 +12461,9 @@
         "list"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 18921,
+      "stars": 19081,
       "license": "other",
-      "updated": "2026-07-19 18:42:31 UTC"
+      "updated": "2026-08-23 18:27:23 UTC"
     },
     {
       "title": "open-source-android-apps",
@@ -12471,9 +12475,9 @@
         "list"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 10422,
+      "stars": 10462,
       "license": "other",
-      "updated": "2026-07-20 00:52:25 UTC"
+      "updated": "2026-08-24 01:30:08 UTC"
     },
     {
       "title": "Munch",
@@ -12552,7 +12556,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 1377,
+      "stars": 1376,
       "date_added": "Jul 29 2016",
       "suggested_by": "@dkhamsing",
       "updated": "2020-04-20 07:31:01 UTC"
@@ -12740,13 +12744,13 @@
       "itunes": "https://apps.apple.com/app/simplenote/id289429962",
       "homepage": "https://simplenote.com/",
       "license": "gpl-2.0",
-      "stars": 2144,
+      "stars": 2150,
       "screenshots": [
         "https://github.com/user-attachments/assets/ff7d9e88-4bd3-4810-aa9e-52c94414cf16"
       ],
       "date_added": "Aug 11 2016",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 01:53:42 UTC"
+      "updated": "2026-08-17 19:47:38 UTC"
     },
     {
       "title": "youtube-iOS",
@@ -12757,10 +12761,11 @@
       "source": "https://github.com/aslanyanhaik/youtube-iOS",
       "tags": [
         "swift",
-        "swift3", "archive"
+        "swift3",
+        "archive"
       ],
       "license": "other",
-      "stars": 2537,
+      "stars": 2538,
       "screenshots": [
         "https://i.giphy.com/hwCahHAD1tNHa.gif"
       ],
@@ -12780,7 +12785,7 @@
       ],
       "source": "https://github.com/fangwei716/30-days-of-react-native",
       "license": "mit",
-      "stars": 6881,
+      "stars": 6877,
       "screenshots": [
         "https://raw.githubusercontent.com/fangwei716/ThirtyDaysOfReactNative/screenshots/screenshot/main.gif"
       ],
@@ -12803,7 +12808,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5df9d7bf-c8d6-4977-9692-98100471123d"
       ],
       "license": "other",
-      "stars": 201,
+      "stars": 200,
       "date_added": "Aug 16 2016",
       "suggested_by": "@dkhamsing",
       "updated": "2021-04-04 22:58:07 UTC"
@@ -12905,7 +12910,7 @@
         "swift",
         "archive"
       ],
-      "stars": 607,
+      "stars": 606,
       "screenshots": [
         "https://www.shinobicontrols.com/wp-content/uploads/2016/07/App_Demo.gif"
       ],
@@ -12929,7 +12934,7 @@
         "https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg"
       ],
       "license": "bsd-3-clause",
-      "stars": 1353,
+      "stars": 1352,
       "date_added": "Sep 6 2016",
       "suggested_by": "@dkhamsing",
       "updated": "2019-12-03 00:43:28 UTC"
@@ -12967,7 +12972,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 91,
+      "stars": 92,
       "updated": "2024-08-03 02:18:23 UTC"
     },
     {
@@ -13159,8 +13164,8 @@
       "license": "mit",
       "date_added": "Oct 4 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 1211,
-      "updated": "2026-06-14 19:35:40 UTC"
+      "stars": 1212,
+      "updated": "2026-08-22 18:16:10 UTC"
     },
     {
       "title": "Contributions for GitHub",
@@ -13180,7 +13185,7 @@
       "license": "other",
       "date_added": "Oct 6 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 542,
+      "stars": 543,
       "updated": "2024-02-05 10:00:36 UTC"
     },
     {
@@ -13223,7 +13228,7 @@
       "license": "mit",
       "date_added": "Oct 11 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 344,
+      "stars": 345,
       "updated": "2016-10-13 01:31:10 UTC"
     },
     {
@@ -13364,7 +13369,7 @@
       "license": "mit",
       "date_added": "Oct 26 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 257,
+      "stars": 256,
       "updated": "2016-11-13 00:06:51 UTC"
     },
     {
@@ -13462,8 +13467,8 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 693,
-      "updated": "2025-11-20 22:26:51 UTC"
+      "stars": 701,
+      "updated": "2026-08-24 18:19:27 UTC"
     },
     {
       "title": "Green Mahjong",
@@ -13522,7 +13527,7 @@
       "license": "other",
       "date_added": "Oct 27 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 176,
+      "stars": 177,
       "updated": "2016-06-07 00:19:04 UTC"
     },
     {
@@ -13602,7 +13607,7 @@
       "license": "mit",
       "date_added": "Nov 2 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 506,
+      "stars": 505,
       "updated": "2017-12-24 07:07:43 UTC"
     },
     {
@@ -13689,8 +13694,8 @@
       "license": "other",
       "date_added": "Nov 7 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 665,
-      "updated": "2026-07-20 01:53:36 UTC"
+      "stars": 666,
+      "updated": "2026-08-23 03:21:48 UTC"
     },
     {
       "title": "pass",
@@ -13812,7 +13817,7 @@
       "license": "other",
       "date_added": "Nov 14 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 225,
+      "stars": 224,
       "updated": "2025-11-08 18:22:00 UTC"
     },
     {
@@ -13837,7 +13842,7 @@
         "https://kapeli.com/img/dash_ios-s1.png",
         "https://kapeli.com/img/dash_ios-s2.png"
       ],
-      "stars": 7098,
+      "stars": 7095,
       "license": "gpl-3.0",
       "date_added": "Nov 14 2016",
       "suggested_by": "@dkhamsing",
@@ -13954,7 +13959,7 @@
         "apns"
       ],
       "source": "https://github.com/noodlewerk/NWPusher",
-      "stars": 6303,
+      "stars": 6302,
       "license": "bsd-2-clause",
       "date_added": "Nov 28 2016",
       "suggested_by": "@dkhamsing",
@@ -13975,7 +13980,7 @@
       "screenshots": [
         "https://cloud.githubusercontent.com/assets/5106887/20606597/f176b3e2-b2ac-11e6-9163-c9e625df7748.png"
       ],
-      "stars": 1827,
+      "stars": 1829,
       "license": "mit",
       "date_added": "Nov 28 2016",
       "suggested_by": "@dkhamsing",
@@ -14008,7 +14013,7 @@
       "license": "apache-2.0",
       "date_added": "Dec 1 2016",
       "suggested_by": "@dkhamsing",
-      "stars": 29,
+      "stars": 28,
       "updated": "2015-10-16 09:19:30 UTC"
     },
     {
@@ -14112,11 +14117,11 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/ca/cc/9c/cacc9cd5-ba08-7b72-2673-564b7ec281ef/pr_source.jpg/460x0w.jpg",
         "https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/cc/71/49/cc71496f-5d16-3b5e-a968-b34f2c802f89/pr_source.jpg/460x0w.jpg"
       ],
-      "stars": 8673,
+      "stars": 8667,
       "license": "apache-2.0",
       "date_added": "Dec 14 2016",
       "suggested_by": "@jafework",
-      "updated": "2026-07-20 15:32:45 UTC"
+      "updated": "2026-08-24 20:07:28 UTC"
     },
     {
       "title": "Monotone Delay",
@@ -14232,7 +14237,7 @@
       "license": "mit",
       "date_added": "Jan 11 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 666,
+      "stars": 669,
       "updated": "2023-08-12 21:41:34 UTC"
     },
     {
@@ -14253,7 +14258,7 @@
       "license": "other",
       "date_added": "Jan 18 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 822,
+      "stars": 823,
       "updated": "2022-06-10 14:11:49 UTC"
     },
     {
@@ -14354,8 +14359,8 @@
       "license": "bsd-2-clause",
       "date_added": "Feb 1 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 24291,
-      "updated": "2026-07-20 14:55:38 UTC"
+      "stars": 24605,
+      "updated": "2026-08-24 20:02:05 UTC"
     },
     {
       "title": "RealmTasks",
@@ -14425,7 +14430,7 @@
       "license": "other",
       "date_added": "Feb 3 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 22,
+      "stars": 23,
       "updated": "2017-08-28 18:03:43 UTC"
     },
     {
@@ -14499,11 +14504,11 @@
       "tags": [
         "react-native"
       ],
-      "stars": 9233,
+      "stars": 9240,
       "license": "bsd-3-clause",
       "date_added": "Feb 9 2017",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 15:41:52 UTC"
+      "updated": "2026-08-24 20:55:18 UTC"
     },
     {
       "title": "ooniprobe",
@@ -14526,8 +14531,8 @@
       "license": "bsd-2-clause",
       "date_added": "Feb 10 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 77,
-      "updated": "2026-07-20 14:40:19 UTC"
+      "stars": 88,
+      "updated": "2026-08-24 10:05:52 UTC"
     },
     {
       "title": "5 Calls",
@@ -14702,7 +14707,7 @@
       "license": "mit",
       "date_added": "Feb 23 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 294,
+      "stars": 295,
       "updated": "2018-09-17 05:35:18 UTC"
     },
     {
@@ -14724,7 +14729,7 @@
       "license": "mit",
       "date_added": "Feb 24 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 568,
+      "stars": 569,
       "updated": "2026-04-06 05:17:57 UTC"
     },
     {
@@ -14880,7 +14885,7 @@
       "license": "other",
       "date_added": "Mar 20 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 963,
+      "stars": 962,
       "updated": "2019-10-12 11:19:01 UTC"
     },
     {
@@ -14938,7 +14943,7 @@
       "license": "other",
       "date_added": "Mar 24 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 156,
+      "stars": 155,
       "updated": "2020-10-03 03:42:28 UTC"
     },
     {
@@ -14959,8 +14964,8 @@
       "license": "apache-2.0",
       "date_added": "Mar 28 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 165,
-      "updated": "2019-01-30 15:13:29 UTC"
+      "stars": 166,
+      "updated": "2026-07-26 22:01:20 UTC"
     },
     {
       "title": "Prayer in English",
@@ -15053,7 +15058,7 @@
       ],
       "date_added": "April 6 2017",
       "suggested_by": "@swwol",
-      "stars": 16,
+      "stars": 15,
       "updated": "2017-04-08 08:41:44 UTC"
     },
     {
@@ -15289,8 +15294,8 @@
       "license": "gpl-3.0",
       "date_added": "Apr 27 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 3507,
-      "updated": "2026-07-12 09:39:31 UTC"
+      "stars": 3528,
+      "updated": "2026-08-24 15:24:25 UTC"
     },
     {
       "title": "Reviewery",
@@ -15330,8 +15335,8 @@
       "license": "bsd-3-clause",
       "date_added": "Apr 28 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 50793,
-      "updated": "2026-07-20 15:40:51 UTC"
+      "stars": 51800,
+      "updated": "2026-08-24 20:13:53 UTC"
     },
     {
       "title": "Krypton",
@@ -15404,7 +15409,7 @@
       "license": "other",
       "date_added": "May 3 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 46,
+      "stars": 47,
       "updated": "2022-10-06 04:12:18 UTC"
     },
     {
@@ -15558,10 +15563,10 @@
         "objc"
       ],
       "license": "apache-2.0",
-      "stars": 3029,
+      "stars": 3030,
       "date_added": "May 17 2017",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-19 08:28:03 UTC"
+      "updated": "2026-08-13 04:57:55 UTC"
     },
     {
       "title": "4Pets",
@@ -15645,7 +15650,7 @@
       "license": "apache-2.0",
       "date_added": "May 19 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 512,
+      "stars": 511,
       "updated": "2021-11-30 22:48:54 UTC"
     },
     {
@@ -15798,7 +15803,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg"
       ],
-      "stars": 210,
+      "stars": 211,
       "license": "other",
       "date_added": "Mon Sep 14 11:13:58 2016 -0800",
       "suggested_by": "@vitorebatista",
@@ -15825,11 +15830,11 @@
         "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot3.png",
         "https://raw.githubusercontent.com/mssun/passforios/master/img/screenshot4.png"
       ],
-      "stars": 1641,
+      "stars": 1645,
       "license": "mit",
       "date_added": "May 30 2017",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-06-30 17:50:43 UTC"
+      "updated": "2026-08-19 00:20:04 UTC"
     },
     {
       "title": "Major Input",
@@ -15891,7 +15896,7 @@
         "bluetooth",
         "archive"
       ],
-      "stars": 826,
+      "stars": 825,
       "license": "gpl-3.0",
       "date_added": "Jun 2 2017",
       "suggested_by": "@dkhamsing",
@@ -16118,7 +16123,7 @@
       "license": "other",
       "date_added": "Jul 5 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 93,
+      "stars": 94,
       "updated": "2018-11-06 05:54:03 UTC"
     },
     {
@@ -16142,7 +16147,7 @@
       "license": "other",
       "date_added": "Jul 5 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 2901,
+      "stars": 2894,
       "updated": "2022-12-03 08:01:55 UTC"
     },
     {
@@ -16327,7 +16332,7 @@
       "license": "other",
       "date_added": "Jul 19 2017",
       "suggested_by": "@relatedcode",
-      "stars": 4784,
+      "stars": 4785,
       "updated": "2026-01-27 08:40:57 UTC"
     },
     {
@@ -16428,8 +16433,8 @@
       "license": "apache-2.0",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 34032,
-      "updated": "2026-07-18 14:04:22 UTC"
+      "stars": 34077,
+      "updated": "2026-08-24 15:35:41 UTC"
     },
     {
       "title": "Battle for Wesnoth",
@@ -16505,7 +16510,7 @@
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 286,
-      "updated": "2019-07-08 14:22:15 UTC"
+      "updated": "2026-08-17 07:00:22 UTC"
     },
     {
       "title": "CamLingual",
@@ -16684,7 +16689,7 @@
       "license": "other",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 101,
+      "stars": 99,
       "updated": "2010-03-08 02:07:21 UTC"
     },
     {
@@ -16714,7 +16719,7 @@
       "license": "other",
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
-      "stars": 51,
+      "stars": 52,
       "updated": "2023-04-18 16:43:23 UTC"
     },
     {
@@ -16744,7 +16749,7 @@
       "date_added": "Aug 2 2017",
       "suggested_by": "@dkhamsing",
       "stars": 556,
-      "updated": "2019-07-08 14:21:27 UTC"
+      "updated": "2026-08-17 06:50:25 UTC"
     },
     {
       "title": "warpedAR",
@@ -16826,7 +16831,7 @@
       "suggested_by": "@dkhamsing",
       "license": "other",
       "date_added": "Aug 17 2017",
-      "stars": 7992,
+      "stars": 7988,
       "updated": "2024-05-09 12:55:22 UTC"
     },
     {
@@ -16891,7 +16896,7 @@
         "spritekit",
         "archive"
       ],
-      "stars": 3281,
+      "stars": 3283,
       "screenshots": [
         "https://github.com/artemnovichkov/iOS-11-by-Examples/blob/master/resources/vision-landmarks-example.jpeg"
       ],
@@ -16973,7 +16978,7 @@
       "license": "mit",
       "itunes": "https://apps.apple.com/app/parse-dashboard/id1212141622",
       "suggested_by": "@nathantannar4",
-      "stars": 104,
+      "stars": 103,
       "updated": "2018-07-04 06:12:17 UTC"
     },
     {
@@ -17063,7 +17068,7 @@
       "screenshots": [
         "https://github.com/simonbs/SBSAnimoji/raw/main/screenshot.png"
       ],
-      "stars": 1010,
+      "stars": 1007,
       "date_added": "Nov 7 2017",
       "license": "other",
       "suggested_by": "@dkhamsing",
@@ -17105,7 +17110,7 @@
       ],
       "date_added": "Nov 26 2017",
       "license": "bsd-2-clause",
-      "stars": 1169,
+      "stars": 1167,
       "suggested_by": "@dkhamsing",
       "updated": "2020-08-03 15:49:37 UTC"
     },
@@ -17194,7 +17199,7 @@
       ],
       "date_added": "Jan 5 2018",
       "suggested_by": "@marty-suzuki",
-      "stars": 684,
+      "stars": 685,
       "updated": "2021-02-14 04:26:40 UTC"
     },
     {
@@ -17215,7 +17220,7 @@
       "category-ids": [
         "developer"
       ],
-      "stars": 1655,
+      "stars": 1651,
       "updated": "2018-06-20 17:01:43 UTC"
     },
     {
@@ -17292,7 +17297,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9813a1f5-527d-4cba-b674-8d2fb6038ab7"
       ],
-      "stars": 639,
+      "stars": 640,
       "license": "mit",
       "date_added": "Jan 14 2018",
       "suggested_by": "@vpeschenkov",
@@ -17313,7 +17318,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/9e0ac896-083f-417f-acf5-98db8a903bb9"
       ],
-      "stars": 150,
+      "stars": 151,
       "license": "other",
       "date_added": "Jan 25 2018",
       "suggested_by": "@vpeschenkov",
@@ -17332,7 +17337,7 @@
       "screenshots": [
         "https://github.com/KrauseFx/MajorKey/blob/master/screenshot.png"
       ],
-      "stars": 186,
+      "stars": 185,
       "license": "mit",
       "date_added": "Jan 28 2018",
       "suggested_by": "@vpeschenkov",
@@ -17409,7 +17414,7 @@
       "description": "Shows how to use AVCaptureSession",
       "source": "https://github.com/bradley/iOSSwiftMetalCamera",
       "license": "other",
-      "stars": 115,
+      "stars": 114,
       "tags": [
         "swift",
         "metal",
@@ -17455,7 +17460,7 @@
       "description": "A React-Native Starter App/BoilerPlate/Example with Redux, RN Router, & Jest with the Snowflake Hapi Server running locally or on RedHat OpenShift for the backend, or a Parse Server running locally or remotely on Heroku",
       "source": "https://github.com/bartonhammond/snowflake",
       "license": "mit",
-      "stars": 4583,
+      "stars": 4578,
       "tags": [
         "react-native",
         "redux",
@@ -17601,7 +17606,7 @@
       "itunes": "https://apps.apple.com/app/cozy-drive/id1224102389",
       "homepage": "https://cozy.io/en/",
       "license": "agpl-3.0",
-      "stars": 978,
+      "stars": 981,
       "screenshots": [
         "https://is2-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/cc/e8/b0cce897-0e91-db42-fb0d-a3e7f1b8c91a/mzl.kfmaddan.png/460x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/73/00/4c/73004c98-1b29-5dd2-4e61-1f83a309ded6/mzl.tsjggnvf.png/460x0w.jpg",
@@ -17610,7 +17615,7 @@
       ],
       "date_added": "Feb 20 2018",
       "suggested_by": "@roipoussiere",
-      "updated": "2026-07-20 14:53:07 UTC"
+      "updated": "2026-08-24 16:14:02 UTC"
     },
     {
       "title": "SUSI AI",
@@ -17620,7 +17625,7 @@
       "description": "Your Artificial Intelligence for Personal Assistants, Robots, Help Desks and Chatbots",
       "source": "https://github.com/fossasia/susi_iOS",
       "license": "apache-2.0",
-      "stars": 1899,
+      "stars": 1898,
       "tags": [
         "swift",
         "archive"
@@ -17684,7 +17689,7 @@
       "homepage": "https://trustwallet.com/",
       "itunes": "https://apps.apple.com/app/trust-ethereum-wallet/id1288339409",
       "license": "gpl-3.0",
-      "stars": 1607,
+      "stars": 1608,
       "tags": [
         "swift",
         "archive"
@@ -17788,7 +17793,7 @@
       ],
       "date_added": "Mar 31 2018",
       "suggested_by": "@vermont42",
-      "updated": "2026-07-18 23:27:35 UTC"
+      "updated": "2026-08-09 16:59:25 UTC"
     },
     {
       "title": "Nextcloud",
@@ -17801,7 +17806,7 @@
       "itunes": "https://apps.apple.com/app/nextcloud/id1125420102",
       "source": "https://github.com/nextcloud/ios",
       "license": "gpl-3.0",
-      "stars": 2465,
+      "stars": 2486,
       "tags": [
         "objc"
       ],
@@ -17813,7 +17818,7 @@
       ],
       "date_added": "Apr 2 2018",
       "suggested_by": "@vpeschenkov",
-      "updated": "2026-07-20 13:18:34 UTC"
+      "updated": "2026-08-24 16:19:17 UTC"
     },
     {
       "title": "Nextcloud Talk",
@@ -17825,7 +17830,7 @@
       "itunes": "https://apps.apple.com/app/nextcloud-talk/id1296825574",
       "source": "https://github.com/nextcloud/talk-ios",
       "license": "gpl-3.0",
-      "stars": 226,
+      "stars": 227,
       "tags": [
         "objc"
       ],
@@ -17837,7 +17842,7 @@
       ],
       "date_added": "Apr 2 2018",
       "suggested_by": "@vpeschenkov",
-      "updated": "2026-07-19 07:12:29 UTC"
+      "updated": "2026-08-24 14:03:24 UTC"
     },
     {
       "title": "Padlock",
@@ -17871,18 +17876,19 @@
         "developer"
       ],
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "description": "Quickly and easily uploads text or code to https://pastebin.com",
       "source": "https://github.com/jonluca/PasteBinApp",
       "license": "apache-2.0",
-      "stars": 35,
+      "stars": 36,
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/94807f11-7942-403f-94b9-0ea9df01969b"
       ],
       "date_added": "Apr 8 2018",
       "suggested_by": "@Aecasorg",
-      "updated": "2020-04-28 05:59:50 UTC"
+      "updated": "2026-08-03 11:10:49 UTC"
     },
     {
       "title": "Ciao",
@@ -17982,7 +17988,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/tls-inspector/tls-inspector",
       "itunes": "https://apps.apple.com/app/apple-store/id1100539810",
-      "stars": 194,
+      "stars": 196,
       "tags": [
         "c",
         "objc",
@@ -17995,7 +18001,7 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg"
       ],
-      "updated": "2026-07-04 00:47:49 UTC"
+      "updated": "2026-08-15 03:15:18 UTC"
     },
     {
       "title": "Beam",
@@ -18006,7 +18012,7 @@
       "license": "gpl-2.0",
       "source": "https://github.com/awkward/beam",
       "itunes": "https://apps.apple.com/app/beam-for-reddit/id937987469",
-      "stars": 276,
+      "stars": 277,
       "tags": [
         "swift",
         "objc"
@@ -18029,7 +18035,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/AdguardTeam/AdguardForiOS",
       "itunes": "https://apps.apple.com/app/adguard-adblock-privacy/id1047223162",
-      "stars": 1679,
+      "stars": 1691,
       "tags": [
         "objc",
         "javascript"
@@ -18043,19 +18049,22 @@
       "updated": "2026-07-01 15:39:55 UTC"
     },
     {
-    	"title": "wBlock",
-    	"category-ids": [
+      "title": "wBlock",
+      "category-ids": [
         "content-blocking"
       ],
-    	"tags": [
+      "tags": [
         "swift",
-        "javascript", "macos", "ipados", "ipad"
+        "javascript",
+        "macos",
+        "ipados",
+        "ipad"
       ],
-    	"description": "Safari content blocker",
-      "license": "gpl-3.0",
-    	"source": "https://github.com/0xCUB3/wBlock",
+      "description": "Safari content blocker",
+      "license": "mit",
+      "source": "https://github.com/0xCUB3/wBlock",
       "itunes": "https://apps.apple.com/app/wblock/id6746388723",
-      "stars": 2800,
+      "stars": 2767,
       "screenshots": [
         "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/ios/filters_dark.png",
         "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/app-store/ios/filters_light.png",
@@ -18089,9 +18098,9 @@
         "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/zapper_dark.png",
         "https://raw.githubusercontent.com/0xCUB3/wBlock/main/docs/media/img/zapper_light.png"
       ],
-    	"license": "mit",
-    	"date_added": "Aug 17 2026",
-    	"suggested_by": "@affan2021shaikh"
+      "date_added": "Aug 17 2026",
+      "suggested_by": "@affan2021shaikh",
+      "updated": "2026-08-24 10:22:18 UTC"
     },
     {
       "title": "MetaX",
@@ -18135,8 +18144,8 @@
       ],
       "date_added": "May 11 2018",
       "suggested_by": "@vpeschenkov",
-      "stars": 7426,
-      "updated": "2026-07-04 09:37:44 UTC"
+      "stars": 7455,
+      "updated": "2026-08-23 09:22:27 UTC"
     },
     {
       "title": "Smart Wallet",
@@ -18171,7 +18180,7 @@
       "description": "Markdown text editor, offline or synced via Dropbox",
       "source": "https://github.com/BoostIO/boostnote-mobile",
       "date_added": "May 18, 2018",
-      "stars": 811,
+      "stars": 810,
       "license": "mit",
       "tags": [
         "react-native",
@@ -18195,7 +18204,7 @@
         "https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fc/79/2f/fc792faf-eef5-8ee6-78bb-2aa396c7dbf4/pr_source.png/628x0w.jpg"
       ],
       "date_added": "May 19, 2018",
-      "stars": 173,
+      "stars": 174,
       "license": "other",
       "tags": [
         "swift"
@@ -18331,7 +18340,7 @@
         "csharp",
         "archive"
       ],
-      "stars": 224,
+      "stars": 223,
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac13c51f-580b-40e6-b1ff-c90b9ee6f4e2"
       ],
@@ -18353,13 +18362,13 @@
         "swift",
         "apple-watch"
       ],
-      "stars": 282,
+      "stars": 279,
       "screenshots": [
         "https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg"
       ],
       "date_added": "June 17 2018",
       "suggested_by": "@vpeschenkov",
-      "updated": "2026-07-08 18:07:35 UTC"
+      "updated": "2026-08-24 19:48:52 UTC"
     },
     {
       "title": "Falcon Messenger",
@@ -18371,7 +18380,7 @@
       "source": "https://github.com/RMizin/FalconMessenger",
       "itunes": "https://apps.apple.com/app/id1313765714",
       "license": "mit",
-      "stars": 433,
+      "stars": 432,
       "tags": [
         "swift",
         "firebase",
@@ -18396,7 +18405,7 @@
       "source": "https://github.com/TortugaPower/BookPlayer",
       "itunes": "https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998",
       "license": "gpl-3.0",
-      "stars": 2158,
+      "stars": 2187,
       "tags": [
         "swift"
       ],
@@ -18407,7 +18416,7 @@
       ],
       "date_added": "July 6 2018",
       "suggested_by": "@GianniCarlo",
-      "updated": "2026-07-19 17:29:44 UTC"
+      "updated": "2026-08-24 20:52:10 UTC"
     },
     {
       "title": "Ladybug",
@@ -18491,7 +18500,7 @@
       "homepage": "https://audiokitpro.com/synth/",
       "itunes": "https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497",
       "license": "mit",
-      "stars": 1779,
+      "stars": 1787,
       "tags": [
         "objc",
         "swift"
@@ -18531,7 +18540,7 @@
       "source": "https://github.com/twostraws/Unwrap",
       "homepage": "https://www.hackingwithswift.com/",
       "license": "other",
-      "stars": 2328,
+      "stars": 2332,
       "tags": [
         "swift"
       ],
@@ -18550,7 +18559,7 @@
       "description": "Quickly search the built-in dictionary to see definitions of words. Collect the words you want to remember",
       "source": "https://github.com/willhains/Kotoba",
       "license": "mit",
-      "stars": 679,
+      "stars": 696,
       "tags": [
         "swift"
       ],
@@ -18612,7 +18621,7 @@
       "description": "Live broadcasting",
       "source": "https://github.com/ltebean/Live",
       "license": "other",
-      "stars": 2407,
+      "stars": 2404,
       "tags": [
         "swift",
         "archive"
@@ -18677,7 +18686,7 @@
       "description": "GitHub client written with RxSwift and MVVM clean architecture",
       "source": "https://github.com/khoren93/SwiftHub",
       "license": "mit",
-      "stars": 3115,
+      "stars": 3117,
       "tags": [
         "swift",
         "rxswift",
@@ -18877,7 +18886,8 @@
       "tags": [
         "swift",
         "flux",
-        "rxswift", "archive"
+        "rxswift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/Stmol/vkphotos/blob/master/.readme/screen1.jpg?raw=true",
@@ -18951,7 +18961,7 @@
       "source": "https://github.com/SherlockQi/HeavenMemoirs",
       "itunes": "https://apps.apple.com/app/weare/id1304227680",
       "lang": "zho",
-      "stars": 714,
+      "stars": 715,
       "tags": [
         "swift",
         "arkit"
@@ -19057,7 +19067,7 @@
       "homepage": "https://joplinapp.org/",
       "itunes": "https://apps.apple.com/app/joplin/id1315599797",
       "license": "mit",
-      "stars": 55655,
+      "stars": 56086,
       "tags": [
         "react-native"
       ],
@@ -19066,7 +19076,7 @@
       ],
       "date_added": "Jan 4 2019",
       "suggested_by": "@exprez135",
-      "updated": "2026-07-19 23:04:50 UTC"
+      "updated": "2026-08-24 18:44:47 UTC"
     },
     {
       "title": "Gleam",
@@ -19141,7 +19151,7 @@
       "description": "Powerful file browser that allows its users to choose and remove files and/or directories",
       "source": "https://github.com/Augustyniak/FileExplorer",
       "license": "mit",
-      "stars": 748,
+      "stars": 749,
       "tags": [
         "swift"
       ],
@@ -19335,7 +19345,7 @@
       ],
       "date_added": "Apr 8 2019",
       "suggested_by": "@vpeschenkov",
-      "stars": 2266,
+      "stars": 2268,
       "updated": "2022-08-27 20:57:53 UTC"
     },
     {
@@ -19429,7 +19439,7 @@
       "description": "Cross platform messenger",
       "source": "https://github.com/tinode/ios",
       "itunes": "https://apps.apple.com/app/tinode/id1483763538",
-      "stars": 289,
+      "stars": 290,
       "license": "apache-2.0",
       "date_added": "May 22 2019",
       "suggested_by": "@or-else",
@@ -19451,7 +19461,7 @@
       "source": "https://github.com/home-assistant/iOS",
       "homepage": "https://www.home-assistant.io/",
       "itunes": "https://apps.apple.com/app/home-assistant-open-source-home-automation/id1099568401",
-      "stars": 2269,
+      "stars": 2310,
       "date_added": "Mon May 27 20:30:00 2019 -0700",
       "suggested_by": "@robbiet480",
       "screenshots": [
@@ -19459,7 +19469,7 @@
         "https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/05/68/18/0568186a-f883-1172-de2c-e3dbfb9adaae/mzl.oqskbgaz.png/690x0w.jpg",
         "https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/4a/5c/09/4a5c097b-df61-fe5c-7d81-97f757d7ad74/mzl.yzivdnlw.png/690x0w.jpg"
       ],
-      "updated": "2026-07-20 15:53:53 UTC"
+      "updated": "2026-08-24 19:20:40 UTC"
     },
     {
       "title": "PDF to Keynote",
@@ -19492,7 +19502,7 @@
       "description": "Browse movies, made with SwiftUI, Combine & MovieDB",
       "source": "https://github.com/Dimillian/MovieSwiftUI",
       "license": "other",
-      "stars": 6527,
+      "stars": 6531,
       "tags": [
         "swift",
         "swiftui",
@@ -19587,7 +19597,7 @@
       ],
       "date_added": "Jul 5 2019",
       "suggested_by": "@dotwee",
-      "stars": 1648,
+      "stars": 1673,
       "updated": "2026-05-23 20:38:25 UTC"
     },
     {
@@ -19599,13 +19609,13 @@
       "source": "https://github.com/horizontalsystems/unstoppable-wallet-ios",
       "itunes": "https://apps.apple.com/app/bank-bitcoin-wallet/id1447619907",
       "license": "mit",
-      "stars": 892,
+      "stars": 902,
       "tags": [
         "swift"
       ],
       "date_added": "Aug 9 2019",
       "suggested_by": "@esengulov",
-      "updated": "2026-07-20 09:59:07 UTC"
+      "updated": "2026-08-24 09:25:23 UTC"
     },
     {
       "title": "afone",
@@ -19647,7 +19657,7 @@
       "license": "gpl-3.0",
       "date_added": "Aug 24 2019",
       "suggested_by": "@dkhamsing",
-      "stars": 948,
+      "stars": 947,
       "updated": "2025-07-29 11:43:56 UTC"
     },
     {
@@ -19707,7 +19717,7 @@
       "license": "other",
       "date_added": "Aug 24 2019",
       "suggested_by": "@dkhamsing",
-      "stars": 19,
+      "stars": 20,
       "updated": "2016-10-15 22:59:26 UTC"
     },
     {
@@ -19755,7 +19765,7 @@
       "license": "apache-2.0",
       "date_added": "Aug 31 2019",
       "suggested_by": "@jinthislife",
-      "stars": 484,
+      "stars": 482,
       "updated": "2023-04-10 22:50:26 UTC"
     },
     {
@@ -19799,7 +19809,7 @@
       "license": "agpl-3.0",
       "date_added": "Sep 5 2019",
       "suggested_by": "@strongbox-password-safe",
-      "stars": 1448,
+      "stars": 1452,
       "updated": "2026-07-17 14:03:41 UTC"
     },
     {
@@ -19846,7 +19856,7 @@
       ],
       "date_added": "Sep 6 2019",
       "suggested_by": "@arthurhammer",
-      "stars": 368,
+      "stars": 369,
       "updated": "2023-06-25 11:29:01 UTC"
     },
     {
@@ -19884,8 +19894,8 @@
       ],
       "date_added": "Sep 19 2019",
       "suggested_by": "@baenglund",
-      "stars": 1326,
-      "updated": "2026-07-20 10:23:51 UTC"
+      "stars": 1353,
+      "updated": "2026-08-24 15:19:38 UTC"
     },
     {
       "title": "AltStore",
@@ -19901,7 +19911,7 @@
         "nuke",
         "keychainaccess"
       ],
-      "stars": 14078,
+      "stars": 14224,
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/206248971-116cb695-f580-45db-be46-e3a908d6b776.jpeg"
       ],
@@ -19924,7 +19934,7 @@
       "category-ids": [
         "misc"
       ],
-      "updated": "2026-07-18 21:54:34 UTC"
+      "updated": "2026-08-23 17:08:09 UTC"
     },
     {
       "title": "giphy-mvvm-swift",
@@ -19958,7 +19968,8 @@
       "tags": [
         "mvp",
         "swift",
-        "contacts", "archive"
+        "contacts",
+        "archive"
       ],
       "date_added": "Oct 23 2019",
       "suggested_by": "@tirupati17",
@@ -19973,7 +19984,7 @@
       "title": "WooCommerce",
       "source": "https://github.com/woocommerce/woocommerce-ios",
       "itunes": "https://apps.apple.com/app/id1389130815",
-      "stars": 361,
+      "stars": 360,
       "description": "Manage orders, receive sales notifications, and view key metrics",
       "screenshots": [
         "https://docs.woocommerce.com/wp-content/uploads/2019/01/mystore-ios.png"
@@ -19987,7 +19998,7 @@
       "category-ids": [
         "shopping"
       ],
-      "updated": "2026-07-20 14:49:56 UTC"
+      "updated": "2026-08-24 19:43:16 UTC"
     },
     {
       "title": "PGPro",
@@ -20011,7 +20022,7 @@
       ],
       "date_added": "Oct 26 2019",
       "suggested_by": "@lucanaef",
-      "stars": 11,
+      "stars": 13,
       "updated": "2019-10-24 14:46:39 UTC"
     },
     {
@@ -20024,7 +20035,7 @@
       "homepage": "https://alphawallet.com/",
       "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
       "license": "agpl-3.0",
-      "stars": 629,
+      "stars": 632,
       "tags": [
         "swift"
       ],
@@ -20103,7 +20114,7 @@
       "date_added": "Nov 16 2019",
       "suggested_by": "@dkhamsing",
       "stars": 194,
-      "updated": "2026-07-16 13:56:46 UTC"
+      "updated": "2026-08-24 19:34:32 UTC"
     },
     {
       "title": "Siri Shortcut Example",
@@ -20113,7 +20124,8 @@
         "sample"
       ],
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "license": "other",
       "screenshots": [
@@ -20230,7 +20242,7 @@
       ],
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 733,
+      "stars": 732,
       "updated": "2020-07-17 18:13:28 UTC"
     },
     {
@@ -20292,8 +20304,8 @@
       ],
       "date_added": "March 8 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 10222,
-      "updated": "2026-07-09 05:49:47 UTC"
+      "stars": 10311,
+      "updated": "2026-08-22 18:00:48 UTC"
     },
     {
       "title": "Covidcheck",
@@ -20354,7 +20366,7 @@
       ],
       "date_added": "March 24 2020",
       "suggested_by": "@MartinStamenkovski",
-      "stars": 63,
+      "stars": 65,
       "updated": "2021-03-26 19:28:30 UTC"
     },
     {
@@ -20375,7 +20387,7 @@
       "date_added": "March 25 2020",
       "suggested_by": "@dkhamsing",
       "stars": 27,
-      "updated": "2024-01-26 03:53:45 UTC"
+      "updated": "2026-07-20 20:00:20 UTC"
     },
     {
       "title": "deltachat",
@@ -20394,10 +20406,10 @@
         "https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_list.png?raw=true",
         "https://github.com/deltachat/deltachat-ios/blob/master/docs/images/screenshot_chat_view.png?raw=true"
       ],
-      "stars": 451,
+      "stars": 448,
       "date_added": "March 25 2020",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 15:51:29 UTC"
+      "updated": "2026-08-18 14:33:51 UTC"
     },
     {
       "title": "LibTerm",
@@ -20415,7 +20427,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083"
       ],
-      "stars": 688,
+      "stars": 689,
       "date_added": "March 27 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2024-03-27 02:13:27 UTC"
@@ -20532,7 +20544,7 @@
       ],
       "date_added": "Apr 5 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 31,
+      "stars": 30,
       "updated": "2021-03-21 15:10:30 UTC"
     },
     {
@@ -20571,7 +20583,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/dopebase/assets/refs/heads/main/apps/swift/swift-ios-chat-firebase-realtime/swift-ios-chat-firebase-realtime-app-chat-screen.png"
       ],
-      "stars": 790,
+      "stars": 789,
       "date_added": "Apr 6 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2025-11-28 08:36:59 UTC"
@@ -20593,8 +20605,8 @@
       "date_added": "Apr 7 2019",
       "license": "gpl-3.0",
       "suggested_by": "@dkhamsing",
-      "stars": 752,
-      "updated": "2026-07-14 11:46:22 UTC"
+      "stars": 760,
+      "updated": "2026-07-23 20:56:23 UTC"
     },
     {
       "title": "Fontcase",
@@ -20692,7 +20704,7 @@
       "lang": "jpn",
       "date_added": "Apr 11 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 49,
+      "stars": 50,
       "updated": "2021-01-28 14:19:17 UTC"
     },
     {
@@ -20713,7 +20725,7 @@
       ],
       "date_added": "Apr 11 2020",
       "suggested_by": "@mitchdowney",
-      "stars": 282,
+      "stars": 284,
       "updated": "2025-04-14 20:57:56 UTC"
     },
     {
@@ -20729,7 +20741,7 @@
         "swift",
         "2fa"
       ],
-      "stars": 535,
+      "stars": 537,
       "date_added": "Apr 12 2020",
       "suggested_by": "@Genesis0x1b",
       "screenshots": [
@@ -20749,10 +20761,10 @@
       "tags": [
         "cordova"
       ],
-      "stars": 9203,
+      "stars": 9234,
       "date_added": "Apr 13 2020",
       "suggested_by": "@Genesis0x1b",
-      "updated": "2026-07-20 15:19:20 UTC"
+      "updated": "2026-08-24 14:51:59 UTC"
     },
     {
       "title": "reddit-swiftui",
@@ -20764,7 +20776,7 @@
       "description": "Cross-platform Reddit client",
       "source": "https://github.com/carson-katri/reddit-swiftui",
       "license": "mit",
-      "stars": 1282,
+      "stars": 1284,
       "tags": [
         "swift",
         "swiftui",
@@ -20872,7 +20884,7 @@
       ],
       "source": "https://github.com/devxoul/SwiftUITodo",
       "license": "mit",
-      "stars": 820,
+      "stars": 819,
       "tags": [
         "swiftui",
         "swift"
@@ -20924,7 +20936,7 @@
         "https://user-images.githubusercontent.com/2082134/59124140-e1a1f500-8999-11e9-9d28-aaa2181a5e43.png",
         "https://user-images.githubusercontent.com/2082134/59275420-4198e400-8c97-11e9-8e44-588f328bde8d.png"
       ],
-      "stars": 204,
+      "stars": 205,
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2019-08-19 05:40:06 UTC"
@@ -20976,7 +20988,8 @@
         "react-native"
       ],
       "tags": [
-        "react-native", "archive"
+        "react-native",
+        "archive"
       ],
       "license": "mit",
       "source": "https://github.com/msal4/royal_news",
@@ -20996,7 +21009,7 @@
       "description": "Event management app for organizers using Open Event Platform",
       "license": "mit",
       "source": "https://github.com/fossasia/open-event-organizer-ios",
-      "stars": 1502,
+      "stars": 1529,
       "tags": [
         "swift",
         "alamofire",
@@ -21006,7 +21019,7 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 09:57:33 UTC"
+      "updated": "2026-08-24 14:17:35 UTC"
     },
     {
       "title": "FakeFBWall",
@@ -21025,7 +21038,7 @@
       ],
       "date_added": "Apr 17 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 29,
+      "stars": 30,
       "updated": "2018-08-15 15:44:11 UTC"
     },
     {
@@ -21069,7 +21082,7 @@
       ],
       "date_added": "Apr 19 2020",
       "suggested_by": "@chuongtrh",
-      "stars": 37,
+      "stars": 38,
       "updated": "2020-07-30 15:47:13 UTC"
     },
     {
@@ -21082,7 +21095,7 @@
       ],
       "source": "https://github.com/soapyigu/Swift-30-Projects",
       "license": "apache-2.0",
-      "stars": 8299,
+      "stars": 8295,
       "date_added": "Apr 18 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2023-06-07 19:22:26 UTC"
@@ -21188,7 +21201,7 @@
       ],
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 20 2020",
-      "stars": 314,
+      "stars": 317,
       "updated": "2025-03-17 17:22:25 UTC"
     },
     {
@@ -21205,7 +21218,7 @@
       "homepage": "https://www.objc.io/books/app-architecture/",
       "suggested_by": "@dkhamsing",
       "date_added": "Apr 21 2020",
-      "stars": 2058,
+      "stars": 2055,
       "updated": "2024-08-12 06:09:22 UTC"
     },
     {
@@ -21297,7 +21310,7 @@
       "license": "mit",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 508,
+      "stars": 507,
       "updated": "2023-01-26 18:23:34 UTC"
     },
     {
@@ -21339,7 +21352,7 @@
       ],
       "date_added": "Apr 22 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 335,
+      "stars": 334,
       "updated": "2020-05-08 02:31:49 UTC"
     },
     {
@@ -21410,7 +21423,7 @@
       "license": "mit",
       "date_added": "Apr 23 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 11,
+      "stars": 12,
       "updated": "2021-02-02 03:12:15 UTC"
     },
     {
@@ -21454,8 +21467,8 @@
       "date_added": "Apr 24 2020",
       "license": "mit",
       "suggested_by": "@dkhamsing",
-      "stars": 1622,
-      "updated": "2026-07-19 22:12:58 UTC"
+      "stars": 1665,
+      "updated": "2026-08-24 16:03:38 UTC"
     },
     {
       "title": "ARKit Example",
@@ -21558,7 +21571,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/d3e4aabc-1ab5-4515-ac35-65b9c301f25e"
       ],
       "stars": 65,
-      "updated": "2022-12-02 12:18:35 UTC"
+      "updated": "2026-07-26 07:43:37 UTC"
     },
     {
       "title": "Emission",
@@ -21582,7 +21595,7 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3518c87d-e95d-43d3-b4ff-29aafc615c84"
       ],
       "stars": 30,
-      "updated": "2026-07-16 20:24:28 UTC"
+      "updated": "2026-08-22 07:07:10 UTC"
     },
     {
       "title": "a-shell",
@@ -21603,7 +21616,7 @@
       ],
       "date_added": "Apr 28 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 3824,
+      "stars": 3882,
       "updated": "2026-07-02 13:39:53 UTC"
     },
     {
@@ -21671,7 +21684,7 @@
       "license": "mit",
       "date_added": "May 2 2020",
       "suggested_by": "@ntnhon",
-      "stars": 176,
+      "stars": 179,
       "updated": "2026-02-05 12:02:18 UTC"
     },
     {
@@ -21686,7 +21699,7 @@
       "source": "https://github.com/alfianlosari/KanbanDragDropiOS",
       "suggested_by": "@dkhamsing",
       "date_added": "May 3 2020",
-      "stars": 120,
+      "stars": 119,
       "updated": "2022-11-04 18:39:49 UTC"
     },
     {
@@ -21837,10 +21850,10 @@
       ],
       "license": "gpl-3.0",
       "source": "https://github.com/git-up/GitUp",
-      "stars": 12059,
+      "stars": 12107,
       "date_added": "May 8 2020",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-18 02:06:09 UTC"
+      "updated": "2026-07-27 00:05:17 UTC"
     },
     {
       "title": "newsline",
@@ -21981,7 +21994,7 @@
       "license": "mit",
       "date_added": "Mar 13 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 14578,
+      "stars": 14570,
       "updated": "2023-03-04 15:48:58 UTC"
     },
     {
@@ -22076,7 +22089,7 @@
       "license": "other",
       "date_added": "May 15 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 1080,
+      "stars": 1081,
       "updated": "2018-12-05 05:01:22 UTC"
     },
     {
@@ -22242,10 +22255,10 @@
         "https://user-images.githubusercontent.com/13119842/82450869-3e979d80-9a7b-11ea-81ea-0780c7a612f7.png",
         "https://user-images.githubusercontent.com/13119842/82450896-47886f00-9a7b-11ea-92f4-da9e5553f469.png"
       ],
-      "stars": 2697,
+      "stars": 2712,
       "date_added": "May 20 2020",
       "suggested_by": "@jasonblais",
-      "updated": "2026-07-20 10:31:55 UTC"
+      "updated": "2026-08-24 19:52:57 UTC"
     },
     {
       "title": "Chatwoot",
@@ -22263,10 +22276,10 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07"
       ],
-      "stars": 987,
+      "stars": 1026,
       "date_added": "Nov 4 2020",
       "suggested_by": "@muhsin-k",
-      "updated": "2026-07-20 13:11:00 UTC"
+      "updated": "2026-08-24 11:50:16 UTC"
     },
     {
       "title": "Raivo OTP",
@@ -22284,7 +22297,7 @@
       "screenshots": [
         "https://raw.githubusercontent.com/raivo-otp/ios-application/master/.github/preview_left.png"
       ],
-      "stars": 940,
+      "stars": 938,
       "date_added": "May 21 2020",
       "suggested_by": "@th3m",
       "updated": "2025-04-10 13:45:52 UTC"
@@ -22304,10 +22317,10 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/049383c1-2870-4b7d-ac2b-52c677e0e04b"
       ],
-      "stars": 29621,
+      "stars": 29800,
       "date_added": "May 21 2020",
       "suggested_by": "@th3m",
-      "updated": "2026-07-17 12:40:37 UTC"
+      "updated": "2026-08-24 17:11:05 UTC"
     },
     {
       "title": "SwiftUI_Tasks",
@@ -22414,7 +22427,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/97dd45e3-19ec-4c2b-8a48-65c434c099de"
       ],
-      "stars": 424,
+      "stars": 425,
       "date_added": "May 22 2020",
       "suggested_by": "@th3m",
       "updated": "2025-03-20 23:20:59 UTC"
@@ -22863,7 +22876,7 @@
       ],
       "date_added": "May 30 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 146,
+      "stars": 145,
       "updated": "2026-05-06 05:12:25 UTC"
     },
     {
@@ -22906,7 +22919,7 @@
       ],
       "date_added": "May 31 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 1615,
+      "stars": 1640,
       "updated": "2025-10-09 02:56:42 UTC"
     },
     {
@@ -22977,7 +22990,7 @@
       ],
       "date_added": "Jun 2 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 115,
+      "stars": 116,
       "updated": "2024-07-25 07:41:12 UTC"
     },
     {
@@ -23081,7 +23094,7 @@
       "description": "Watch app to remind you to drink water",
       "source": "https://github.com/caiobzen/water-reminder-swiftui",
       "license": "mit",
-      "stars": 237,
+      "stars": 238,
       "tags": [
         "swift",
         "combine"
@@ -23201,7 +23214,7 @@
       ],
       "date_added": "Jun 8 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 32,
+      "stars": 33,
       "updated": "2020-03-17 16:03:42 UTC"
     },
     {
@@ -23256,7 +23269,7 @@
       "license": "gpl-3.0",
       "date_added": "Jun 10 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 1138,
+      "stars": 1139,
       "updated": "2023-04-07 07:14:42 UTC"
     },
     {
@@ -23301,7 +23314,7 @@
       "license": "gpl-3.0",
       "date_added": "Jun 12 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 541,
+      "stars": 538,
       "updated": "2022-12-28 15:18:20 UTC"
     },
     {
@@ -23343,7 +23356,7 @@
         "swift",
         "ipad"
       ],
-      "stars": 176,
+      "stars": 175,
       "license": "apache-2.0",
       "date_added": "Jun 13 2020",
       "suggested_by": "@dkhamsing",
@@ -23444,7 +23457,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 602,
+      "stars": 610,
       "date_added": "Jun 18 2020",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -23486,13 +23499,13 @@
       "tags": [
         "swift"
       ],
-      "stars": 3149,
+      "stars": 3155,
       "date_added": "Jun 19 2020",
       "suggested_by": "@dkhamsing",
       "screenshots": [
         "https://github.com/airbnb/HorizonCalendar/raw/master/Docs/Images/stay_search.png"
       ],
-      "updated": "2026-05-26 18:09:33 UTC"
+      "updated": "2026-08-12 21:29:21 UTC"
     },
     {
       "title": "InstaFake - Instagram Clone",
@@ -23506,7 +23519,7 @@
       ],
       "date_added": "Jun 20 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 17,
+      "stars": 16,
       "updated": "2019-06-06 22:50:49 UTC"
     },
     {
@@ -23578,7 +23591,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 1372,
+      "stars": 1377,
       "date_added": "Jun 23 2020",
       "suggested_by": "@dkhamsing",
       "updated": "2025-04-21 09:20:06 UTC"
@@ -23602,7 +23615,7 @@
       "homepage": "https://protonmail.com/",
       "itunes": "https://apps.apple.com/app/id979659905",
       "license": "gpl-3.0",
-      "stars": 1607,
+      "stars": 1612,
       "date_added": "Jun 23 2020",
       "suggested_by": "@brianclinkenbeard",
       "screenshots": [
@@ -23663,7 +23676,7 @@
       "description": "Elegant dividend yield and income tracker",
       "source": "https://github.com/ThasianX/DivRise",
       "license": "mit",
-      "stars": 103,
+      "stars": 102,
       "tags": [
         "swiftui",
         "dividend",
@@ -23687,7 +23700,7 @@
       "description": "Never miss new releases from your favorite Spotify artists",
       "source": "https://github.com/ThasianX/SpotifyRadar",
       "license": "mit",
-      "stars": 643,
+      "stars": 644,
       "tags": [
         "swift",
         "iphone",
@@ -23840,7 +23853,8 @@
         "swiftui",
         "ios13",
         "ipad",
-        "macos", "archive"
+        "macos",
+        "archive"
       ],
       "date_added": "Jul 3 2020",
       "suggested_by": "@dkhamsing",
@@ -23882,8 +23896,8 @@
       "license": "other",
       "date_added": "Jul 4 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 1747,
-      "updated": "2026-07-09 11:18:49 UTC"
+      "stars": 1750,
+      "updated": "2026-08-21 13:33:31 UTC"
     },
     {
       "title": "MemeMaker",
@@ -23937,7 +23951,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193"
       ],
-      "updated": "2026-07-11 02:22:55 UTC"
+      "updated": "2026-07-27 04:20:19 UTC"
     },
     {
       "title": "Swift Community",
@@ -24055,7 +24069,7 @@
         "swiftui",
         "ios14"
       ],
-      "stars": 2528,
+      "stars": 2530,
       "date_added": "Jul 11 2020",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -24162,7 +24176,7 @@
       ],
       "date_added": "Jul 17 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 137,
+      "stars": 136,
       "updated": "2023-09-26 16:04:13 UTC"
     },
     {
@@ -24363,7 +24377,7 @@
       ],
       "license": "other",
       "source": "https://github.com/sbertix/Swiftagram",
-      "stars": 260,
+      "stars": 264,
       "tags": [
         "swift"
       ],
@@ -24431,8 +24445,8 @@
       "license": "mit",
       "date_added": "Aug 1 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 824,
-      "updated": "2026-07-19 11:10:36 UTC"
+      "stars": 828,
+      "updated": "2026-08-24 03:46:48 UTC"
     },
     {
       "title": "swiftui-2048",
@@ -24514,7 +24528,8 @@
         "photo"
       ],
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/jogendra/phimpme-iOS/raw/master/docs/_static/GalleryScreen.png"
@@ -24618,7 +24633,7 @@
       "license": "other",
       "date_added": "Aug 11 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 188,
+      "stars": 189,
       "updated": "2026-01-31 02:34:58 UTC"
     },
     {
@@ -24635,7 +24650,7 @@
       "license": "mit",
       "date_added": "Aug 12 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 1000,
+      "stars": 1002,
       "updated": "2021-07-10 06:28:22 UTC"
     },
     {
@@ -24738,7 +24753,7 @@
       "license": "other",
       "date_added": "Aug 16 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 309,
+      "stars": 308,
       "updated": "2018-10-25 17:59:13 UTC"
     },
     {
@@ -24758,7 +24773,7 @@
       "license": "gpl-3.0",
       "date_added": "Aug 17 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 925,
+      "stars": 921,
       "updated": "2024-03-28 22:03:32 UTC"
     },
     {
@@ -24935,7 +24950,7 @@
       "license": "other",
       "date_added": "Aug 26 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 524,
+      "stars": 523,
       "updated": "2023-09-01 19:49:40 UTC"
     },
     {
@@ -24950,7 +24965,7 @@
         "swift",
         "swiftui"
       ],
-      "stars": 61,
+      "stars": 60,
       "date_added": "Aug 28 2020",
       "suggested_by": "dkhamsing",
       "updated": "2019-09-08 00:42:14 UTC"
@@ -25088,7 +25103,7 @@
         "swift",
         "swiftui"
       ],
-      "stars": 98,
+      "stars": 96,
       "date_added": "Sep 3 2020",
       "suggested_by": "stevenselcuk",
       "updated": "2021-06-22 17:11:55 UTC"
@@ -25108,7 +25123,7 @@
         "swift",
         "swiftui"
       ],
-      "stars": 5618,
+      "stars": 5620,
       "date_added": "Sep 4 2020",
       "suggested_by": "dkhamsing",
       "updated": "2023-12-07 14:10:03 UTC"
@@ -25147,7 +25162,7 @@
         "swift",
         "swiftui"
       ],
-      "stars": 806,
+      "stars": 808,
       "date_added": "Sep 6 2020",
       "suggested_by": "dkhamsing",
       "updated": "2019-08-08 05:26:42 UTC"
@@ -25188,10 +25203,10 @@
       "tags": [
         "objc"
       ],
-      "stars": 34726,
+      "stars": 35102,
       "date_added": "Sep 9 2020",
       "suggested_by": "dkhamsing",
-      "updated": "2026-06-08 16:07:02 UTC"
+      "updated": "2026-08-05 07:54:18 UTC"
     },
     {
       "title": "buttoncraft",
@@ -25208,7 +25223,7 @@
         "swift",
         "swiftui"
       ],
-      "stars": 447,
+      "stars": 448,
       "date_added": "Sep 10 2020",
       "suggested_by": "dkhamsing",
       "updated": "2024-11-13 11:00:48 UTC"
@@ -25271,7 +25286,7 @@
       "license": "other",
       "date_added": "Sep 13 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 114,
+      "stars": 115,
       "updated": "2023-07-11 16:41:22 UTC"
     },
     {
@@ -25332,7 +25347,7 @@
       "license": "mit",
       "date_added": "Sep 18 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 700,
+      "stars": 701,
       "updated": "2024-03-19 21:05:45 UTC"
     },
     {
@@ -25354,7 +25369,7 @@
       ],
       "date_added": "Sep 19 2020",
       "suggested_by": "KovalevArtem",
-      "stars": 868,
+      "stars": 871,
       "updated": "2026-06-16 09:40:37 UTC"
     },
     {
@@ -25376,7 +25391,7 @@
       ],
       "date_added": "Sep 19 2020",
       "suggested_by": "dkhamsing",
-      "stars": 6580,
+      "stars": 6591,
       "updated": "2025-07-14 17:10:30 UTC"
     },
     {
@@ -25416,7 +25431,7 @@
       ],
       "date_added": "Sep 21 2020",
       "suggested_by": "dkhamsing",
-      "stars": 1576,
+      "stars": 1574,
       "updated": "2020-01-17 15:46:29 UTC"
     },
     {
@@ -25558,7 +25573,7 @@
       "screenshots": [
         "https://github.com/hyperoslo/BarcodeScanner/raw/master/Art/ExampleScanning.png"
       ],
-      "stars": 1719,
+      "stars": 1717,
       "updated": "2024-07-29 16:11:57 UTC"
     },
     {
@@ -25613,7 +25628,7 @@
       ],
       "date_added": "Oct 3 2020",
       "suggested_by": "@devwaseem",
-      "stars": 324,
+      "stars": 323,
       "updated": "2023-08-21 18:15:14 UTC"
     },
     {
@@ -25647,7 +25662,7 @@
       ],
       "date_added": "Oct 4 2020",
       "suggested_by": "dkhamsing",
-      "stars": 509,
+      "stars": 508,
       "updated": "2019-05-01 09:43:43 UTC"
     },
     {
@@ -25718,7 +25733,7 @@
       "homepage": "https://www.niftytreestudios.com/work/bean-juice",
       "itunes": "https://apps.apple.com/app/bean-juice/id1502380351",
       "license": "mit",
-      "stars": 28,
+      "stars": 29,
       "tags": [
         "swift"
       ],
@@ -25783,7 +25798,7 @@
       "date_added": "Oct 15 2020",
       "license": "other",
       "suggested_by": "@elkiwy",
-      "stars": 65,
+      "stars": 64,
       "updated": "2023-10-17 13:41:36 UTC"
     },
     {
@@ -25798,7 +25813,7 @@
       ],
       "date_added": "Oct 16 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 902,
+      "stars": 901,
       "updated": "2026-01-26 14:16:22 UTC"
     },
     {
@@ -25838,7 +25853,7 @@
       "license": "other",
       "date_added": "Oct 21 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 71,
+      "stars": 72,
       "updated": "2026-07-01 14:45:49 UTC"
     },
     {
@@ -25858,7 +25873,7 @@
       "license": "other",
       "date_added": "Oct 22 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 198,
+      "stars": 196,
       "updated": "2023-05-22 07:47:20 UTC"
     },
     {
@@ -25899,7 +25914,7 @@
       ],
       "date_added": "Oct 26 2020",
       "suggested_by": "@AnderGoig",
-      "stars": 384,
+      "stars": 387,
       "updated": "2026-05-05 20:48:39 UTC"
     },
     {
@@ -25918,7 +25933,7 @@
       "license": "other",
       "date_added": "Oct 26 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 2532,
+      "stars": 2531,
       "updated": "2026-04-03 12:06:03 UTC"
     },
     {
@@ -26017,7 +26032,7 @@
       "homepage": "https://hewgill.com/puzzles/",
       "itunes": "https://apps.apple.com/app/simon-tathams-portable-puzzle/id622220631",
       "license": "mit",
-      "stars": 217,
+      "stars": 221,
       "tags": [
         "objc"
       ],
@@ -26125,7 +26140,7 @@
         "swift",
         "archive"
       ],
-      "stars": 2706,
+      "stars": 2705,
       "date_added": "Dec 22 2020",
       "suggested_by": "@richardtop",
       "screenshots": [
@@ -26169,7 +26184,7 @@
       ],
       "date_added": "Jan 3 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 16,
+      "stars": 15,
       "updated": "2024-02-15 04:49:06 UTC"
     },
     {
@@ -26184,7 +26199,7 @@
       "license": "other",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 800,
+      "stars": 801,
       "updated": "2020-06-26 11:23:11 UTC"
     },
     {
@@ -26201,7 +26216,7 @@
       "license": "mit",
       "date_added": "Jan 9 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 1147,
+      "stars": 1145,
       "updated": "2023-03-07 03:04:30 UTC"
     },
     {
@@ -26348,7 +26363,7 @@
       "date_added": "Feb 9 2021",
       "suggested_by": "@87kangsw",
       "itunes": "https://apps.apple.com/app/id1469013856",
-      "stars": 75,
+      "stars": 74,
       "updated": "2025-10-24 00:14:40 UTC"
     },
     {
@@ -26374,7 +26389,7 @@
       "date_added": "Feb 8 2021",
       "license": "mit",
       "suggested_by": "@kyledold",
-      "stars": 92,
+      "stars": 93,
       "updated": "2024-07-05 08:24:00 UTC"
     },
     {
@@ -26413,7 +26428,7 @@
       "license": "mit",
       "date_added": "Feb 13 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 571,
+      "stars": 576,
       "updated": "2024-01-19 07:32:31 UTC"
     },
     {
@@ -26429,7 +26444,7 @@
       "license": "gpl-3.0",
       "date_added": "Feb 15 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 368,
+      "stars": 366,
       "updated": "2020-10-23 14:55:31 UTC"
     },
     {
@@ -26477,7 +26492,7 @@
       "license": "mit",
       "date_added": "Feb 21 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 901,
+      "stars": 902,
       "updated": "2020-10-01 18:04:46 UTC"
     },
     {
@@ -26517,7 +26532,7 @@
       "license": "mit",
       "date_added": "Feb 26 2021",
       "suggested_by": "@venkatasg",
-      "stars": 174,
+      "stars": 178,
       "updated": "2025-11-20 21:07:03 UTC"
     },
     {
@@ -26575,7 +26590,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/147950657-336bb67e-bdd3-4320-a8cf-a1963e2a9f7b.JPG"
       ],
-      "stars": 141,
+      "stars": 143,
       "updated": "2025-06-22 11:48:48 UTC"
     },
     {
@@ -26596,7 +26611,7 @@
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/0e74587f-89b8-4d00-a2b8-dfffb421619f"
       ],
-      "stars": 718,
+      "stars": 717,
       "updated": "2022-12-22 22:42:49 UTC"
     },
     {
@@ -26615,7 +26630,7 @@
       ],
       "license": "other",
       "date_added": "Mar 22 2021",
-      "stars": 3002,
+      "stars": 3005,
       "suggested_by": "@dkhamsing",
       "updated": "2024-08-16 17:33:23 UTC"
     },
@@ -26696,7 +26711,7 @@
       "description": "Showcase different compositional layouts and how to achieve them",
       "license": "mit",
       "source": "https://github.com/nemecek-filip/CompositionalDiffablePlayground.ios",
-      "stars": 642,
+      "stars": 641,
       "date_added": "Apr 4 2021",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -26753,7 +26768,8 @@
       "license": "gpl-3.0",
       "source": "https://github.com/kgellci/Area51",
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/10d06e0e-941e-4ac3-8acb-b15798795964"
@@ -26832,7 +26848,7 @@
       ],
       "source": "https://github.com/mullvad/mullvadvpn-app",
       "license": "gpl-3.0",
-      "stars": 7391,
+      "stars": 7501,
       "tags": [
         "swift"
       ],
@@ -26844,7 +26860,7 @@
       "itunes": "https://apps.apple.com/us/app/mullvad-vpn/id1488466513",
       "date_added": "May 5 2021",
       "suggested_by": "@Necklaces",
-      "updated": "2026-07-20 14:39:30 UTC"
+      "updated": "2026-08-24 19:34:54 UTC"
     },
     {
       "title": "Collected for AWS",
@@ -26939,14 +26955,14 @@
       "description": "iOS 4 beautifully rebuilt in SwiftUI",
       "source": "https://github.com/zzanehip/The-OldOS-Project",
       "license": "other",
-      "stars": 3497,
+      "stars": 3510,
       "tags": [
         "swift",
         "swiftui"
       ],
       "date_added": "June 10 2021",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-02-01 17:49:15 UTC"
+      "updated": "2026-08-22 19:49:31 UTC"
     },
     {
       "title": "Apple WWDC 2021",
@@ -27022,8 +27038,8 @@
       ],
       "date_added": "Jun 29 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 3665,
-      "updated": "2026-02-27 12:09:00 UTC"
+      "stars": 3692,
+      "updated": "2026-07-26 21:10:57 UTC"
     },
     {
       "title": "Micro.blog",
@@ -27079,7 +27095,7 @@
       "license": "mit",
       "date_added": "Jul 17 2021",
       "suggested_by": "@onl1ner",
-      "stars": 23,
+      "stars": 22,
       "updated": "2021-07-17 10:18:47 UTC"
     },
     {
@@ -27103,7 +27119,7 @@
       ],
       "date_added": "Jul 21 2021",
       "suggested_by": "@ef1rspb",
-      "updated": "2026-07-01 21:55:11 UTC"
+      "updated": "2026-08-23 15:23:41 UTC"
     },
     {
       "title": "EhPanda",
@@ -27114,7 +27130,7 @@
       "source": "https://github.com/EhPanda-Team/EhPanda",
       "homepage": "https://ehpanda.app",
       "license": "apache-2.0",
-      "stars": 3904,
+      "stars": 3956,
       "tags": [
         "swiftui",
         "combine",
@@ -27125,7 +27141,7 @@
       ],
       "date_added": "Jul 23 2021",
       "suggested_by": "@tatsuz0u",
-      "updated": "2026-07-20 12:17:57 UTC"
+      "updated": "2026-08-19 17:17:02 UTC"
     },
     {
       "title": "Eros-FE",
@@ -27290,7 +27306,7 @@
       "license": "other",
       "date_added": "Aug 18 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 194,
+      "stars": 193,
       "updated": "2021-09-18 03:10:39 UTC"
     },
     {
@@ -27332,7 +27348,7 @@
       "license": "apache-2.0",
       "date_added": "Aug 20 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 3679,
+      "stars": 3681,
       "updated": "2022-03-30 19:35:48 UTC"
     },
     {
@@ -27441,8 +27457,8 @@
         "mapkit",
         "core-data"
       ],
-      "stars": 194,
-      "updated": "2026-07-12 06:39:52 UTC"
+      "stars": 195,
+      "updated": "2026-08-23 21:18:21 UTC"
     },
     {
       "title": "SwiftUI-HackerNews",
@@ -27481,7 +27497,7 @@
         "swift",
         "archive"
       ],
-      "stars": 72,
+      "stars": 73,
       "updated": "2021-09-29 23:26:49 UTC"
     },
     {
@@ -27518,7 +27534,7 @@
         "swift"
       ],
       "suggested_by": "@bradenglund",
-      "stars": 796,
+      "stars": 797,
       "updated": "2021-11-08 09:19:19 UTC"
     },
     {
@@ -27635,7 +27651,7 @@
       "homepage": "https://protonvpn.com/",
       "itunes": "https://apps.apple.com/app/id1437005085",
       "license": "gpl-3.0",
-      "stars": 617,
+      "stars": 635,
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png"
       ],
@@ -27657,7 +27673,7 @@
       ],
       "source": "https://github.com/jeffreybergier/Hipstapaper",
       "license": "mit",
-      "stars": 95,
+      "stars": 94,
       "screenshots": [
         "https://github.com/jeffreybergier/Hipstapaper/raw/main/readme-screenshot.png"
       ],
@@ -27677,7 +27693,7 @@
       "homepage": "https://www.privateinternetaccess.com/download/ios-vpn/",
       "itunes": "https://apps.apple.com/app/id955626407",
       "license": "gpl-3.0",
-      "stars": 348,
+      "stars": 350,
       "screenshots": [
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/2c/4c/3e/2c4c3ebf-d7bf-2470-c434-32767b574c6f/56ba6ee1-3819-4351-b9c3-46c9e2eb494a_pia_iphone_appstore_1.png/600x0w.png",
         "https://is5-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/de/9c/4b/de9c4b68-6ade-4abd-97ee-e83c575fd4fb/4660eca5-bfa5-4042-aff9-161d475acba7_pia_iphone_appstore_3.png/600x0w.png",
@@ -27686,7 +27702,7 @@
       ],
       "date_added": "Oct 18 2021",
       "suggested_by": "@pahnev",
-      "updated": "2026-07-20 14:52:39 UTC"
+      "updated": "2026-08-24 13:46:10 UTC"
     },
     {
       "title": "kDrive",
@@ -27699,7 +27715,7 @@
       "homepage": "https://www.infomaniak.com/kdrive",
       "itunes": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
       "license": "gpl-3.0",
-      "stars": 83,
+      "stars": 84,
       "tags": [
         "swift"
       ],
@@ -27712,7 +27728,7 @@
       ],
       "date_added": "Oct 28 2021",
       "suggested_by": "@flowbe",
-      "updated": "2026-07-17 13:41:26 UTC"
+      "updated": "2026-08-24 12:20:29 UTC"
     },
     {
       "title": "osu!",
@@ -27722,13 +27738,13 @@
       "description": "Rhythm game",
       "source": "https://github.com/ppy/osu",
       "license": "mit",
-      "stars": 18713,
+      "stars": 18917,
       "tags": [
         "csharp"
       ],
       "date_added": "Oct 30 2021",
       "suggested_by": "@Gigas002",
-      "updated": "2026-07-17 12:24:36 UTC"
+      "updated": "2026-08-21 13:02:03 UTC"
     },
     {
       "title": "Rainbow",
@@ -27742,7 +27758,7 @@
       "homepage": "https://rainbow.me",
       "itunes": "https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021",
       "license": "gpl-3.0",
-      "stars": 4371,
+      "stars": 4382,
       "tags": [
         "reactnative",
         "typescript"
@@ -27753,7 +27769,7 @@
       ],
       "date_added": "Nov 1 2021",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 08:00:43 UTC"
+      "updated": "2026-08-24 17:47:00 UTC"
     },
     {
       "title": "SpotifyClone",
@@ -27778,7 +27794,7 @@
       ],
       "date_added": "Nov 4 2021",
       "suggested_by": "@gabrieldenoni",
-      "stars": 292,
+      "stars": 297,
       "updated": "2023-09-04 21:39:41 UTC"
     },
     {
@@ -27816,8 +27832,8 @@
       "license": "apache-2.0",
       "date_added": "Nov 9 2021",
       "suggested_by": "@Gigas002",
-      "stars": 4,
-      "updated": "2026-07-18 01:49:33 UTC"
+      "stars": 6,
+      "updated": "2026-07-26 23:54:15 UTC"
     },
     {
       "title": "Dai-Hentai for ex hentai",
@@ -27835,7 +27851,7 @@
       "screenshots": [
         "https://img.youtube.com/vi/DqkIxhpzP9s/0.jpg"
       ],
-      "stars": 1264,
+      "stars": 1266,
       "updated": "2024-12-05 17:18:55 UTC"
     },
     {
@@ -27854,7 +27870,7 @@
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/141655128-e94c9cc9-3e69-427f-b1a6-79b1a8197f60.jpeg"
       ],
-      "stars": 1142,
+      "stars": 1146,
       "updated": "2026-07-07 18:12:32 UTC"
     },
     {
@@ -27918,8 +27934,8 @@
       "license": "apache-2.0",
       "date_added": "Nov 20 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 808,
-      "updated": "2024-11-09 14:47:55 UTC"
+      "stars": 811,
+      "updated": "2026-08-22 07:34:23 UTC"
     },
     {
       "title": "Star Wars",
@@ -27938,8 +27954,8 @@
       "screenshots": [
         "https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true"
       ],
-      "stars": 242,
-      "updated": "2026-07-20 14:26:53 UTC"
+      "stars": 244,
+      "updated": "2026-08-24 05:54:50 UTC"
     },
     {
       "title": "MVI SwiftUI Example",
@@ -27988,7 +28004,7 @@
       "source": "https://github.com/peterfriese/SwiftUI-Concurrency-Essentials",
       "date_added": "Nov 27 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 117,
+      "stars": 118,
       "updated": "2022-04-30 08:24:50 UTC"
     },
     {
@@ -28079,7 +28095,7 @@
       ],
       "date_added": "Dec 4 2021",
       "suggested_by": "@dkhamsing",
-      "stars": 7,
+      "stars": 8,
       "updated": "2024-09-18 12:17:04 UTC"
     },
     {
@@ -28103,7 +28119,7 @@
       ],
       "stars": 167,
       "itunes": "https://apps.apple.com/app/scribe-language-keyboards/id1596613886",
-      "updated": "2026-07-18 19:41:56 UTC"
+      "updated": "2026-08-23 18:52:01 UTC"
     },
     {
       "title": "Exploring SwiftUI Sample Apps by Apple",
@@ -28154,7 +28170,7 @@
         "swift",
         "archive"
       ],
-      "stars": 1298,
+      "stars": 1304,
       "updated": "2024-06-23 18:45:09 UTC"
     },
     {
@@ -28174,7 +28190,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 13,
+      "stars": 14,
       "updated": "2021-12-30 22:10:09 UTC"
     },
     {
@@ -28196,7 +28212,7 @@
         "swift",
         "archive"
       ],
-      "stars": 3034,
+      "stars": 3046,
       "updated": "2025-02-17 19:55:28 UTC"
     },
     {
@@ -28260,8 +28276,8 @@
       "license": "apache-2.0",
       "date_added": "Jan 11 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 104,
-      "updated": "2025-08-17 18:26:54 UTC"
+      "stars": 106,
+      "updated": "2026-08-01 13:36:03 UTC"
     },
     {
       "title": "MakeItSo",
@@ -28282,7 +28298,7 @@
       ],
       "date_added": "Jan 14 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 525,
+      "stars": 524,
       "updated": "2025-01-23 18:54:59 UTC"
     },
     {
@@ -28341,7 +28357,7 @@
       "screenshots": [
         "https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png"
       ],
-      "stars": 13,
+      "stars": 15,
       "updated": "2022-01-19 18:43:01 UTC"
     },
     {
@@ -28371,10 +28387,10 @@
       "description": "Jellyfin Client",
       "license": "mpl-2.0",
       "source": "https://github.com/jellyfin/Swiftfin",
-      "stars": 4018,
+      "stars": 4115,
       "date_added": "Feb 6 2022",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-19 15:48:20 UTC"
+      "updated": "2026-08-24 00:09:53 UTC"
     },
     {
       "title": "Vocable AAC",
@@ -28394,7 +28410,7 @@
       "license": "mit",
       "date_added": "Feb 8 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 88,
+      "stars": 92,
       "updated": "2026-06-25 10:31:15 UTC"
     },
     {
@@ -28404,7 +28420,7 @@
       ],
       "source": "https://github.com/niochat/nio",
       "license": "mit",
-      "stars": 560,
+      "stars": 559,
       "tags": [
         "swift"
       ],
@@ -28497,8 +28513,8 @@
       "license": "other",
       "date_added": "Feb 17 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 123,
-      "updated": "2026-05-22 06:41:42 UTC"
+      "stars": 124,
+      "updated": "2026-08-11 12:42:06 UTC"
     },
     {
       "title": "HexaCalc",
@@ -28522,8 +28538,8 @@
         "https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/GreenPositiveDec.png?raw=true",
         "https://github.com/AnthonyH93/HexaCalc/raw/master/DeviceScreenshots/1.6.0/DefaultSettings.png?raw=true"
       ],
-      "stars": 58,
-      "updated": "2026-07-05 05:31:16 UTC"
+      "stars": 59,
+      "updated": "2026-08-24 01:30:04 UTC"
     },
     {
       "title": "WePeiYang-iOS-Everest for Tianjin University",
@@ -28578,8 +28594,8 @@
       "license": "gpl-3.0",
       "date_added": "Feb 20 2022",
       "suggested_by": "@livinglist",
-      "stars": 1579,
-      "updated": "2026-06-29 09:36:53 UTC"
+      "stars": 1586,
+      "updated": "2026-08-24 09:38:59 UTC"
     },
     {
       "title": "Projector",
@@ -28622,8 +28638,8 @@
       "date_added": "Feb 23 2022",
       "license": "gpl-3.0",
       "suggested_by": "@cagnulein",
-      "stars": 815,
-      "updated": "2026-07-20 15:05:19 UTC"
+      "stars": 837,
+      "updated": "2026-08-24 14:58:58 UTC"
     },
     {
       "title": "DesignRemakes",
@@ -28657,7 +28673,7 @@
       ],
       "source": "https://github.com/TheCodeTraveler/GitTrends",
       "itunes": "https://apps.apple.com/app/gittrends-github-insights/id1500300399",
-      "stars": 779,
+      "stars": 781,
       "license": "mit",
       "date_added": "Mar 3 2022",
       "suggested_by": "@dkhamsing",
@@ -28670,7 +28686,7 @@
       ],
       "source": "https://github.com/kudoleh/iOS-Clean-Architecture-MVVM",
       "license": "other",
-      "stars": 4400,
+      "stars": 4401,
       "tags": [
         "swift",
         "mvvm",
@@ -28695,7 +28711,7 @@
         "themoviedb"
       ],
       "source": "https://github.com/DeluxeAlonso/UpcomingMovies",
-      "stars": 598,
+      "stars": 599,
       "license": "mit",
       "date_added": "Mar 7 2022",
       "suggested_by": "@dkhamsing",
@@ -28728,7 +28744,7 @@
       ],
       "source": "https://github.com/kudoleh/iOS-Modular-Architecture",
       "license": "other",
-      "stars": 838,
+      "stars": 848,
       "tags": [
         "swift"
       ],
@@ -28752,7 +28768,7 @@
       "license": "bsd-2-clause",
       "date_added": "Mar 14 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 558,
+      "stars": 557,
       "updated": "2021-08-01 05:36:59 UTC"
     },
     {
@@ -28774,7 +28790,7 @@
       "license": "mit",
       "date_added": "Mar 15 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 597,
+      "stars": 598,
       "updated": "2018-10-27 21:29:39 UTC"
     },
     {
@@ -28796,8 +28812,8 @@
       "license": "mit",
       "date_added": "Mar 17 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 421,
-      "updated": "2026-07-14 19:01:36 UTC"
+      "stars": 425,
+      "updated": "2026-08-24 20:58:24 UTC"
     },
     {
       "title": "Homescreen Quick Actions",
@@ -28826,7 +28842,7 @@
       "license": "mit",
       "date_added": "Mar 19 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 11,
+      "stars": 9,
       "updated": "2024-07-17 16:39:53 UTC"
     },
     {
@@ -28879,7 +28895,7 @@
       "license": "other",
       "date_added": "Mar 23 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 260,
+      "stars": 258,
       "updated": "2026-04-15 20:40:00 UTC"
     },
     {
@@ -28961,8 +28977,8 @@
       ],
       "date_added": "Mar 30 2022",
       "suggested_by": "@zer0-x",
-      "stars": 2264,
-      "updated": "2026-07-20 05:27:44 UTC"
+      "stars": 2266,
+      "updated": "2026-08-24 15:10:15 UTC"
     },
     {
       "title": "Swune",
@@ -29000,7 +29016,7 @@
       ],
       "date_added": "Apr 14 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 362,
+      "stars": 360,
       "updated": "2025-12-09 16:54:16 UTC"
     },
     {
@@ -29012,7 +29028,7 @@
       "tags": [
         "swift"
       ],
-      "stars": 452,
+      "stars": 453,
       "license": "mit",
       "date_added": "Apr 16 2022",
       "suggested_by": "@dkhamsing",
@@ -29034,8 +29050,8 @@
       "license": "other",
       "date_added": "Apr 18 2022",
       "suggested_by": "@Gigas002",
-      "stars": 120,
-      "updated": "2026-07-20 06:00:58 UTC"
+      "stars": 121,
+      "updated": "2026-08-24 16:05:22 UTC"
     },
     {
       "title": "Yattee",
@@ -29050,11 +29066,11 @@
         "swift",
         "tvos"
       ],
-      "stars": 3572,
+      "stars": 3652,
       "license": "mit",
       "date_added": "Apr 19 2022",
       "suggested_by": "@Gigas002",
-      "updated": "2026-07-19 18:22:43 UTC"
+      "updated": "2026-08-23 11:05:24 UTC"
     },
     {
       "title": "Twake",
@@ -29088,7 +29104,7 @@
         "https://zulip.com/static/images/app-screenshots/zulip-iphone-rough.png"
       ],
       "license": "other",
-      "stars": 1349,
+      "stars": 1350,
       "tags": [
         "swift",
         "reactnative"
@@ -29110,7 +29126,7 @@
         "https://status.im/img/teaser-image.png"
       ],
       "license": "mpl-2.0",
-      "stars": 4017,
+      "stars": 4020,
       "tags": [
         "swift",
         "reactnative",
@@ -29118,7 +29134,7 @@
       ],
       "date_added": "Apr 26 2022",
       "suggested_by": "@itsnotsaved",
-      "updated": "2026-07-17 08:14:48 UTC"
+      "updated": "2026-07-22 12:43:42 UTC"
     },
     {
       "title": "BreadBuddy",
@@ -29161,7 +29177,7 @@
       ],
       "date_added": "Apr 29 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 718,
+      "stars": 722,
       "updated": "2025-07-20 10:33:29 UTC"
     },
     {
@@ -29260,8 +29276,8 @@
       ],
       "date_added": "May 23 2022",
       "suggested_by": "@inc-ali",
-      "stars": 417,
-      "updated": "2026-07-13 08:10:26 UTC"
+      "stars": 418,
+      "updated": "2026-08-12 05:34:40 UTC"
     },
     {
       "title": "SwiftUI Series - Speedrun Challenge (jegnux)",
@@ -29313,7 +29329,7 @@
       "source": "https://github.com/twostraws/simple-swiftui",
       "date_added": "Jun 5 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 692,
+      "stars": 694,
       "updated": "2024-08-18 20:01:39 UTC"
     },
     {
@@ -29332,7 +29348,7 @@
       ],
       "date_added": "Jun 7 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 1852,
+      "stars": 1853,
       "updated": "2023-08-18 13:14:11 UTC"
     },
     {
@@ -29409,7 +29425,7 @@
       "source": "https://github.com/netless-io/flat-ios",
       "date_added": "Jun 13 2022",
       "suggested_by": "@vince-hz",
-      "stars": 58,
+      "stars": 59,
       "updated": "2025-12-19 04:11:48 UTC"
     },
     {
@@ -29428,7 +29444,7 @@
       "source": "https://github.com/jordibruin/Swift-Charts-Examples",
       "date_added": "Jun 16 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 2445,
+      "stars": 2446,
       "updated": "2025-05-25 15:20:09 UTC"
     },
     {
@@ -29486,8 +29502,8 @@
       "source": "https://github.com/daneden/Solstice",
       "date_added": "Jun 22 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 108,
-      "updated": "2026-07-20 13:08:52 UTC"
+      "stars": 113,
+      "updated": "2026-08-11 16:10:30 UTC"
     },
     {
       "title": "RevenueCat Paywall",
@@ -29519,7 +29535,7 @@
       "source": "https://github.com/almormd/Learning",
       "date_added": "Jun 29 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 10,
+      "stars": 11,
       "updated": "2022-12-27 07:40:44 UTC"
     },
     {
@@ -29565,7 +29581,8 @@
       ],
       "tags": [
         "swift",
-        "swiftui", "archive"
+        "swiftui",
+        "archive"
       ],
       "license": "other",
       "source": "https://developer.apple.com/documentation/swiftui/bringing_robust_navigation_structure_to_your_swiftui_app",
@@ -29621,7 +29638,7 @@
       "source": "https://github.com/neodroid/Parallax-Card-SwiftUI",
       "date_added": "Jul 22 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 166,
+      "stars": 167,
       "updated": "2022-07-18 02:33:32 UTC"
     },
     {
@@ -29743,7 +29760,7 @@
       ],
       "date_added": "Aug 10 2022",
       "suggested_by": "@ollybeck",
-      "stars": 989,
+      "stars": 995,
       "updated": "2024-12-12 06:04:14 UTC"
     },
     {
@@ -29759,7 +29776,7 @@
       "source": "https://github.com/GetStream/purposeful-ios-animations",
       "date_added": "Aug 16 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 912,
+      "stars": 924,
       "updated": "2023-03-08 13:52:26 UTC"
     },
     {
@@ -29817,8 +29834,8 @@
       ],
       "date_added": "Aug 25 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 3356,
-      "updated": "2026-07-18 22:43:01 UTC"
+      "stars": 3421,
+      "updated": "2026-08-23 04:08:27 UTC"
     },
     {
       "title": "Cocktails",
@@ -29927,7 +29944,7 @@
       "source": "https://github.com/jordibruin/Dynamic-Islands",
       "date_added": "Sep 17 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 550,
+      "stars": 551,
       "updated": "2023-08-01 20:53:30 UTC"
     },
     {
@@ -30002,7 +30019,7 @@
       "date_added": "Sep 29 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 8,
-      "updated": "2026-07-14 05:18:49 UTC"
+      "updated": "2026-07-25 03:40:53 UTC"
     },
     {
       "title": "Sprite Pencil",
@@ -30022,8 +30039,8 @@
       ],
       "date_added": "Sep 29 2022",
       "suggested_by": "@256ArtsDeveloper",
-      "stars": 23,
-      "updated": "2026-07-16 04:27:57 UTC"
+      "stars": 24,
+      "updated": "2026-08-05 01:44:34 UTC"
     },
     {
       "title": "Sprite Catalog",
@@ -30044,8 +30061,8 @@
       "license": "other",
       "date_added": "Oct 2 2022",
       "suggested_by": "@256ArtsDeveloper",
-      "stars": 20,
-      "updated": "2026-07-16 04:27:20 UTC"
+      "stars": 21,
+      "updated": "2026-07-25 03:40:52 UTC"
     },
     {
       "title": "Sprite Fonts",
@@ -30090,7 +30107,7 @@
       "date_added": "Oct 6 2022",
       "suggested_by": "@256ArtsDeveloper",
       "stars": 22,
-      "updated": "2026-07-14 05:18:43 UTC"
+      "updated": "2026-07-25 03:40:48 UTC"
     },
     {
       "title": "Symbol Code",
@@ -30173,7 +30190,7 @@
       "date_added": "Oct 3 2022",
       "suggested_by": "@fatih-gursoy",
       "stars": 22,
-      "updated": "2023-04-27 12:31:24 UTC"
+      "updated": "2026-08-24 10:59:10 UTC"
     },
     {
       "title": "Expense Tracker",
@@ -30191,7 +30208,7 @@
       ],
       "date_added": "Oct 4 2022",
       "suggested_by": "@pahnev",
-      "stars": 175,
+      "stars": 174,
       "updated": "2024-02-22 09:00:08 UTC"
     },
     {
@@ -30228,7 +30245,7 @@
       ],
       "date_added": "Oct 12 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 82,
+      "stars": 81,
       "updated": "2024-06-13 14:13:35 UTC"
     },
     {
@@ -30259,10 +30276,10 @@
       "license": "mpl-2.0",
       "source": "https://github.com/Automattic/pocket-casts-ios",
       "itunes": "https://apps.apple.com/app/pocket-casts-podcast-player/id414834813",
-      "stars": 1807,
+      "stars": 1817,
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 15:54:12 UTC"
+      "updated": "2026-08-24 20:40:02 UTC"
     },
     {
       "title": "Find",
@@ -30282,7 +30299,7 @@
       "screenshots": [
         "https://open.getfind.app/assets/Find.jpg"
       ],
-      "stars": 1072,
+      "stars": 1071,
       "date_added": "Oct 15 2022",
       "suggested_by": "@dkhamsing",
       "updated": "2023-02-10 01:10:12 UTC"
@@ -30326,7 +30343,7 @@
       ],
       "date_added": "Nov 9 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 335,
+      "stars": 336,
       "updated": "2022-12-19 00:13:29 UTC"
     },
     {
@@ -30388,8 +30405,8 @@
       "license": "apache-2.0",
       "date_added": "Dec 6 2022",
       "suggested_by": "@dkhamsing",
-      "stars": 7025,
-      "updated": "2026-06-09 13:15:36 UTC"
+      "stars": 7049,
+      "updated": "2026-08-24 18:50:10 UTC"
     },
     {
       "title": "Piecelet for NeoDB",
@@ -30399,7 +30416,7 @@
       "source": "https://github.com/Piecelet/neodb-app",
       "itunes": "https://apps.apple.com/app/piecelet-for-neodb/id6739444863",
       "license": "agpl-3.0",
-      "stars": 82,
+      "stars": 84,
       "tags": [
         "swift"
       ],
@@ -30429,7 +30446,7 @@
       ],
       "date_added": "Dec 7 2022",
       "suggested_by": "@reedes",
-      "stars": 59,
+      "stars": 60,
       "updated": "2023-10-14 00:37:05 UTC"
     },
     {
@@ -30493,7 +30510,7 @@
       "license": "mit",
       "date_added": "Dec 22 2022",
       "suggested_by": "@ldakhoa",
-      "stars": 152,
+      "stars": 155,
       "updated": "2024-10-12 04:56:33 UTC"
     },
     {
@@ -30709,7 +30726,7 @@
       "license": "other",
       "date_added": "Jan 20 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 78,
+      "stars": 79,
       "updated": "2023-04-26 21:05:29 UTC"
     },
     {
@@ -30769,8 +30786,8 @@
       "license": "mit",
       "date_added": "Feb 3 2023",
       "suggested_by": "@WezSieTato",
-      "stars": 66,
-      "updated": "2026-07-17 02:12:13 UTC"
+      "stars": 65,
+      "updated": "2026-08-21 21:53:12 UTC"
     },
     {
       "title": "Picsum",
@@ -30803,7 +30820,7 @@
       "license": "mit",
       "date_added": "Feb 7 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 339,
+      "stars": 338,
       "updated": "2023-08-15 23:19:12 UTC"
     },
     {
@@ -30823,7 +30840,7 @@
       "license": "mit",
       "date_added": "Feb 13 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 542,
+      "stars": 541,
       "updated": "2022-04-03 00:50:54 UTC"
     },
     {
@@ -30840,7 +30857,7 @@
       "license": "other",
       "date_added": "Feb 16 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 344,
+      "stars": 345,
       "updated": "2026-04-16 23:56:59 UTC"
     },
     {
@@ -30876,7 +30893,7 @@
       "license": "mit",
       "date_added": "Feb 17 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 517,
+      "stars": 519,
       "updated": "2021-07-16 09:19:42 UTC"
     },
     {
@@ -30909,7 +30926,7 @@
       "date_added": "Feb 22 2023",
       "stars": 179,
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-11 18:18:42 UTC"
+      "updated": "2026-08-20 02:20:59 UTC"
     },
     {
       "title": "Groceries",
@@ -30939,7 +30956,7 @@
       ],
       "license": "apache-2.0",
       "date_added": "Feb 27 2023",
-      "stars": 1267,
+      "stars": 1265,
       "suggested_by": "@dkhamsing",
       "updated": "2026-02-12 14:45:30 UTC"
     },
@@ -30956,13 +30973,13 @@
       ],
       "license": "apache-2.0",
       "date_added": "Feb 28 2023",
-      "stars": 15467,
+      "stars": 15484,
       "lang": "zho",
       "screenshots": [
         "https://github.com/CarGuo/gsy_github_app_flutter/raw/master/ios.gif"
       ],
       "suggested_by": "@dkhamsing",
-      "updated": "2026-07-20 07:22:05 UTC"
+      "updated": "2026-08-17 01:01:39 UTC"
     },
     {
       "title": "Tipulator",
@@ -31151,7 +31168,7 @@
         "flutter",
         "dart"
       ],
-      "stars": 1354,
+      "stars": 1484,
       "license": "gpl-3.0",
       "date_added": "Apr 24 2023",
       "suggested_by": "@xpavle00",
@@ -31223,7 +31240,7 @@
       "license": "gpl-3.0",
       "date_added": "May 10 2023",
       "suggested_by": "@livinglist",
-      "stars": 84,
+      "stars": 86,
       "updated": "2026-05-12 08:44:11 UTC"
     },
     {
@@ -31243,8 +31260,8 @@
       "license": "other",
       "date_added": "May 13 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 106,
-      "updated": "2024-02-04 04:35:06 UTC"
+      "stars": 107,
+      "updated": "2026-08-19 16:41:01 UTC"
     },
     {
       "title": "uhohlingo",
@@ -31308,8 +31325,8 @@
       "license": "mit",
       "date_added": "May 16 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 18141,
-      "updated": "2026-07-20 15:47:22 UTC"
+      "stars": 18234,
+      "updated": "2026-08-24 20:31:04 UTC"
     },
     {
       "title": "Sketchy",
@@ -31394,8 +31411,8 @@
       "license": "gpl-3.0",
       "date_added": "May 27 2023",
       "suggested_by": "@ammarahm-ed",
-      "stars": 14307,
-      "updated": "2026-07-20 08:12:27 UTC"
+      "stars": 14463,
+      "updated": "2026-08-24 09:27:26 UTC"
     },
     {
       "title": "Backyard Birds",
@@ -31415,7 +31432,7 @@
       "license": "mit",
       "date_added": "Jun 13 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 611,
+      "stars": 612,
       "updated": "2023-12-11 19:30:26 UTC"
     },
     {
@@ -31453,7 +31470,7 @@
       ],
       "date_added": "Jul 29 2023",
       "suggested_by": "@vladimirbrejcha",
-      "stars": 46,
+      "stars": 45,
       "updated": "2023-08-26 19:21:08 UTC"
     },
     {
@@ -31468,9 +31485,9 @@
         "swift"
       ],
       "suggested_by": "@zhangyoufu",
-      "stars": 169,
+      "stars": 173,
       "date_added": "Aug 4 2023",
-      "updated": "2026-06-11 16:13:57 UTC"
+      "updated": "2026-08-11 12:56:26 UTC"
     },
     {
       "title": "Immich",
@@ -31484,9 +31501,9 @@
         "flutter"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 108282,
+      "stars": 112565,
       "date_added": "Aug 7 2023",
-      "updated": "2026-07-20 15:16:39 UTC"
+      "updated": "2026-08-24 20:51:34 UTC"
     },
     {
       "title": "FeedFlow",
@@ -31506,9 +31523,9 @@
         "https://github.com/prof18/feed-flow/raw/main/assets/banners.png"
       ],
       "suggested_by": "@dkhamsing",
-      "stars": 1007,
+      "stars": 1175,
       "date_added": "Aug 8, 2023",
-      "updated": "2026-07-19 16:32:58 UTC"
+      "updated": "2026-08-24 06:33:21 UTC"
     },
     {
       "title": "localsend",
@@ -31527,8 +31544,8 @@
       ],
       "date_added": "Aug 30, 2023",
       "suggested_by": "@alx-xlx",
-      "stars": 85622,
-      "updated": "2026-07-18 01:13:20 UTC"
+      "stars": 89257,
+      "updated": "2026-08-24 00:11:36 UTC"
     },
     {
       "title": "Basic Car Maintenance",
@@ -31546,7 +31563,7 @@
       "date_added": "Sep 25, 2023",
       "suggested_by": "@dkhamsing",
       "stars": 337,
-      "updated": "2026-07-18 04:13:31 UTC"
+      "updated": "2026-07-30 22:00:28 UTC"
     },
     {
       "title": "DevSpotlight",
@@ -31587,7 +31604,7 @@
       ],
       "date_added": "Oct 24 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 1844,
+      "stars": 1865,
       "updated": "2025-03-29 03:37:03 UTC"
     },
     {
@@ -31618,7 +31635,7 @@
       "license": "other",
       "date_added": "Dec 27 2023",
       "suggested_by": "@dkhamsing",
-      "stars": 432,
+      "stars": 431,
       "updated": "2022-12-12 22:45:01 UTC"
     },
     {
@@ -31637,8 +31654,8 @@
       "license": "agpl-3.0",
       "date_added": "Jan 1 2024",
       "suggested_by": "@th3m",
-      "stars": 1028,
-      "updated": "2026-07-09 07:13:36 UTC"
+      "stars": 1049,
+      "updated": "2026-08-23 18:08:04 UTC"
     },
     {
       "title": "Mesh Transform Animation",
@@ -31654,7 +31671,7 @@
       "license": "mit",
       "date_added": "Jan 2 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 261,
+      "stars": 265,
       "updated": "2023-12-30 20:36:53 UTC"
     },
     {
@@ -31708,7 +31725,7 @@
       "license": "other",
       "date_added": "Jan 6 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 9,
+      "stars": 10,
       "updated": "2021-08-10 04:00:47 UTC"
     },
     {
@@ -31731,7 +31748,7 @@
       "license": "other",
       "date_added": "Jan 12 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 199,
+      "stars": 200,
       "updated": "2023-07-23 01:27:24 UTC"
     },
     {
@@ -31753,7 +31770,7 @@
       "license": "mit",
       "date_added": "Jan 14 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 138,
+      "stars": 139,
       "updated": "2023-06-26 21:06:54 UTC"
     },
     {
@@ -31843,7 +31860,7 @@
       "license": "bsd-3-clause",
       "date_added": "Sep 29 2025",
       "suggested_by": "@durul",
-      "stars": 1911,
+      "stars": 1906,
       "updated": "2025-09-10 15:03:22 UTC"
     },
     {
@@ -31901,14 +31918,14 @@
       "description": "Outliner that works on top of local plain-text Markdown and Org-mode files",
       "source": "https://github.com/logseq/logseq",
       "itunes": "https://apps.apple.com/app/logseq/id1601013908",
-      "stars": 43989,
+      "stars": 44602,
       "license": "gpl-3.0",
       "date_added": "Feb 14 2024",
       "suggested_by": "@l2dy",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/79fd777e-caf7-4021-badf-8b5ca12b9a7a"
       ],
-      "updated": "2026-07-20 09:14:55 UTC"
+      "updated": "2026-08-24 14:41:43 UTC"
     },
     {
       "title": "Concertmaster Player",
@@ -31946,7 +31963,7 @@
       "license": "other",
       "date_added": "Feb 17 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 44,
+      "stars": 45,
       "updated": "2024-02-17 10:35:44 UTC"
     },
     {
@@ -32004,8 +32021,8 @@
       "license": "mit",
       "date_added": "Mar 6 2020",
       "suggested_by": "@dkhamsing",
-      "stars": 2639,
-      "updated": "2026-06-15 20:29:50 UTC"
+      "stars": 2652,
+      "updated": "2026-07-20 22:07:00 UTC"
     },
     {
       "title": "Openreads",
@@ -32016,7 +32033,7 @@
       "source": "https://github.com/mateusz-bak/openreads",
       "itunes": "https://apps.apple.com/app/id6476542305",
       "license": "gpl-2.0",
-      "stars": 1578,
+      "stars": 1622,
       "screenshots": [
         "https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%200.png?raw=true",
         "https://github.com/mateusz-bak/openreads/blob/master/doc/gplay/app-mockup/Google%20Pixel%204%20XL%20Screenshot%201.png?raw=true",
@@ -32026,7 +32043,7 @@
       ],
       "date_added": "Mar 14 2024",
       "suggested_by": "@mateusz-bak",
-      "updated": "2026-07-18 18:01:37 UTC"
+      "updated": "2026-07-20 21:01:26 UTC"
     },
     {
       "title": "Homepage",
@@ -32119,7 +32136,7 @@
       "license": "other",
       "date_added": "May 6 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 277,
+      "stars": 278,
       "updated": "2024-11-01 23:00:10 UTC"
     },
     {
@@ -32138,8 +32155,8 @@
       "license": "other",
       "date_added": "Jun 3 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 3095,
-      "updated": "2026-07-05 15:29:22 UTC"
+      "stars": 3123,
+      "updated": "2026-08-12 13:01:12 UTC"
     },
     {
       "title": "Demo",
@@ -32175,7 +32192,7 @@
       "license": "other",
       "date_added": "Jun 14 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 109,
+      "stars": 108,
       "updated": "2025-03-30 02:36:17 UTC"
     },
     {
@@ -32187,7 +32204,7 @@
       "source": "https://github.com/bigjermaine/SwiftTracker",
       "itunes": "https://apps.apple.com/us/app/betbudd/id1661151432",
       "license": "other",
-      "stars": 104,
+      "stars": 103,
       "tags": [
         "swift"
       ],
@@ -32197,7 +32214,7 @@
       ],
       "date_added": "Jul 6 2024",
       "suggested_by": "@bigjermaine",
-      "updated": "2026-07-01 08:14:32 UTC"
+      "updated": "2026-08-07 17:36:17 UTC"
     },
     {
       "title": "tortellini",
@@ -32319,8 +32336,8 @@
       "date_added": "Jul 26 2024",
       "license": "gpl-3.0",
       "suggested_by": "@fuddl",
-      "stars": 2152,
-      "updated": "2026-07-20 12:32:57 UTC"
+      "stars": 2386,
+      "updated": "2026-08-24 18:35:47 UTC"
     },
     {
       "title": "OpenAI Wrapper",
@@ -32424,7 +32441,7 @@
       "license": "gpl-3.0",
       "source": "https://github.com/ivpn/ios-app",
       "itunes": "https://apps.apple.com/app/ivpn-secure-vpn-for-privacy/id1193122683",
-      "stars": 563,
+      "stars": 565,
       "screenshots": [
         "https://github.com/user-attachments/assets/b3db260b-3c94-4913-90c1-25f6c2e771f1"
       ],
@@ -32434,7 +32451,7 @@
       ],
       "date_added": "Sep 4, 2024",
       "suggested_by": "@dkhamsing",
-      "updated": "2026-06-11 08:34:50 UTC"
+      "updated": "2026-08-17 10:58:50 UTC"
     },
     {
       "title": "iOS-MVVM-Clean-Architecture",
@@ -32444,7 +32461,7 @@
       "description": "Uses MVVM-C, Clean Architecture and Swift Concurrency",
       "source": "https://github.com/denissimon/iOS-MVVM-Clean-Architecture",
       "license": "mit",
-      "stars": 62,
+      "stars": 63,
       "tags": [
         "swift"
       ],
@@ -32516,8 +32533,8 @@
       ],
       "date_added": "Sep 13 2024",
       "suggested_by": "@XunMengWinter",
-      "stars": 120,
-      "updated": "2025-12-15 15:36:15 UTC"
+      "stars": 119,
+      "updated": "2026-08-14 09:26:19 UTC"
     },
     {
       "title": "Chronos Authenticator 2FA",
@@ -32537,7 +32554,7 @@
       "date_added": "Sep 16 2024",
       "suggested_by": "@AtFreezingPoint",
       "stars": 37,
-      "updated": "2026-06-22 18:23:16 UTC"
+      "updated": "2026-07-20 18:23:48 UTC"
     },
     {
       "title": "Enhancing content with tab navigation",
@@ -32594,7 +32611,7 @@
       "date_added": "Oct 9 2024",
       "license": "mit",
       "suggested_by": "@dkhamsing",
-      "stars": 2267,
+      "stars": 2266,
       "updated": "2025-05-05 13:56:01 UTC"
     },
     {
@@ -32622,7 +32639,8 @@
       ],
       "source": "https://github.com/Sage-Bionetworks/CardiorespiratoryFitness-iOS",
       "tags": [
-        "swift", "archive"
+        "swift",
+        "archive"
       ],
       "date_added": "Oct 23 2024",
       "license": "bsd-3-clause",
@@ -32643,7 +32661,7 @@
       "date_added": "Oct 24 2024",
       "license": "mit",
       "suggested_by": "@dkhamsing",
-      "stars": 126,
+      "stars": 125,
       "updated": "2021-02-22 07:46:48 UTC"
     },
     {
@@ -32658,8 +32676,8 @@
       "license": "mit",
       "date_added": "Oct 25 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 218,
-      "updated": "2026-07-17 09:05:24 UTC"
+      "stars": 220,
+      "updated": "2026-08-18 19:13:22 UTC"
     },
     {
       "title": "Particle",
@@ -32712,7 +32730,7 @@
       "license": "other",
       "date_added": "Nov 9 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 1703,
+      "stars": 1712,
       "updated": "2026-01-02 13:20:09 UTC"
     },
     {
@@ -32731,7 +32749,7 @@
       ],
       "date_added": "Nov 21 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 536,
+      "stars": 537,
       "updated": "2025-06-20 07:31:10 UTC"
     },
     {
@@ -32767,7 +32785,7 @@
       "license": "mit",
       "date_added": "Nov 23 2024",
       "suggested_by": "@dkhamsing",
-      "stars": 2048,
+      "stars": 2060,
       "updated": "2026-07-20 04:25:37 UTC"
     },
     {
@@ -32862,7 +32880,7 @@
       "screenshots": [
         "https://chsxf.dev/assets/posts/2/sktetris.png"
       ],
-      "stars": 23,
+      "stars": 24,
       "updated": "2021-11-12 13:16:47 UTC"
     },
     {
@@ -32906,7 +32924,7 @@
       "date_added": "Dec 15 2024",
       "suggested_by": "@robertwtucker",
       "stars": 4,
-      "updated": "2026-07-01 22:33:39 UTC"
+      "updated": "2026-08-01 16:11:17 UTC"
     },
     {
       "title": "Pixelfed",
@@ -32926,7 +32944,7 @@
       "license": "agpl-3.0",
       "date_added": "Jan 13 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 350,
+      "stars": 354,
       "updated": "2026-02-09 13:53:43 UTC"
     },
     {
@@ -32963,8 +32981,8 @@
       "license": "apache-2.0",
       "date_added": "Feb 6 2025",
       "suggested_by": "@th3m",
-      "stars": 2359,
-      "updated": "2026-07-20 12:09:25 UTC"
+      "stars": 2386,
+      "updated": "2026-08-24 15:43:18 UTC"
     },
     {
       "title": "Foqos",
@@ -32983,8 +33001,8 @@
       "license": "mit",
       "date_added": "Feb 9 2025",
       "suggested_by": "@awaseem",
-      "stars": 614,
-      "updated": "2026-07-19 20:20:38 UTC"
+      "stars": 702,
+      "updated": "2026-08-23 03:03:37 UTC"
     },
     {
       "title": "Delta",
@@ -33003,8 +33021,8 @@
       "license": "other",
       "date_added": "Feb 10 2025",
       "suggested_by": "@ndrew222",
-      "stars": 6040,
-      "updated": "2026-07-02 18:50:17 UTC"
+      "stars": 6082,
+      "updated": "2026-07-30 21:16:57 UTC"
     },
     {
       "title": "SameBoy",
@@ -33023,7 +33041,7 @@
       "license": "other",
       "date_added": "Feb 11 2025",
       "suggested_by": "@ndrew222",
-      "stars": 2142,
+      "stars": 2177,
       "updated": "2026-07-10 15:37:20 UTC"
     },
     {
@@ -33077,7 +33095,7 @@
       "date_added": "Mar 3 2025",
       "suggested_by": "@amikhaylin",
       "stars": 39,
-      "updated": "2026-07-16 11:55:12 UTC"
+      "updated": "2026-08-10 12:37:33 UTC"
     },
     {
       "title": "orgro",
@@ -33096,8 +33114,8 @@
       ],
       "date_added": "Apr 4 2025",
       "suggested_by": "@ndrew222",
-      "stars": 720,
-      "updated": "2026-07-04 00:17:50 UTC"
+      "stars": 726,
+      "updated": "2026-08-11 07:24:04 UTC"
     },
     {
       "title": "Mindustry",
@@ -33116,8 +33134,8 @@
       ],
       "date_added": "Apr 7 2025",
       "suggested_by": "@ndrew222",
-      "stars": 28307,
-      "updated": "2026-07-19 21:41:43 UTC"
+      "stars": 28725,
+      "updated": "2026-08-24 07:10:18 UTC"
     },
     {
       "title": "Goguma IRC",
@@ -33148,7 +33166,7 @@
       "source": "https://github.com/saber-notes/saber",
       "itunes": "https://apps.apple.com/app/saber-handwritten-notes/id1671523739",
       "license": "gpl-3.0",
-      "stars": 4606,
+      "stars": 4718,
       "tags": [
         "dart"
       ],
@@ -33160,7 +33178,7 @@
       ],
       "date_added": "Apr 8 2025",
       "suggested_by": "@xjessxx",
-      "updated": "2026-07-17 17:00:59 UTC"
+      "updated": "2026-08-24 17:10:51 UTC"
     },
     {
       "title": "OnionShare",
@@ -33181,8 +33199,8 @@
       ],
       "date_added": "Apr 10 2025",
       "suggested_by": "@ndrew222",
-      "stars": 7034,
-      "updated": "2026-07-20 10:21:32 UTC"
+      "stars": 7066,
+      "updated": "2026-08-18 14:46:15 UTC"
     },
     {
       "title": "Mr.Tip",
@@ -33225,8 +33243,8 @@
       ],
       "date_added": "Apr 15 2025",
       "suggested_by": "@Visual-Studio-Coder",
-      "stars": 41,
-      "updated": "2025-09-27 22:42:20 UTC"
+      "stars": 42,
+      "updated": "2026-07-30 02:55:39 UTC"
     },
     {
       "title": "Recap AI",
@@ -33255,7 +33273,7 @@
       "date_added": "Apr 15 2025",
       "suggested_by": "@Visual-Studio-Coder",
       "stars": 38,
-      "updated": "2025-07-21 23:30:42 UTC"
+      "updated": "2026-07-30 02:56:24 UTC"
     },
     {
       "title": "StoicQuotes",
@@ -33290,7 +33308,7 @@
       "license": "mit",
       "date_added": "Apr 29 2025",
       "suggested_by": "@ndrew222",
-      "stars": 312,
+      "stars": 316,
       "updated": "2025-12-13 05:19:59 UTC"
     },
     {
@@ -33311,8 +33329,8 @@
       "screenshots": [
         "https://github.com/user-attachments/assets/c67787e0-97ef-40d4-89ad-deed9dfa3c98"
       ],
-      "stars": 233,
-      "updated": "2026-07-20 15:55:42 UTC"
+      "stars": 251,
+      "updated": "2026-08-24 21:00:05 UTC"
     },
     {
       "title": "Simple.",
@@ -33336,7 +33354,7 @@
       "license": "mit",
       "date_added": "May 12 2025",
       "suggested_by": "@basarsubasi",
-      "stars": 219,
+      "stars": 225,
       "updated": "2025-12-01 20:40:47 UTC"
     },
     {
@@ -33348,7 +33366,7 @@
       "source": "https://github.com/roryclear/clearcam",
       "itunes": "https://apps.apple.com/app/clearcam/id6743237694",
       "license": "agpl-3.0",
-      "stars": 953,
+      "stars": 981,
       "tags": [
         "objc",
         "security",
@@ -33364,7 +33382,7 @@
       ],
       "date_added": "May 23 2025",
       "suggested_by": "@roryclear",
-      "updated": "2026-07-20 00:17:47 UTC"
+      "updated": "2026-08-24 09:26:53 UTC"
     },
     {
       "title": "Off-Day",
@@ -33383,7 +33401,7 @@
       "license": "mit",
       "date_added": "May 25 2025",
       "suggested_by": "@csprasad",
-      "stars": 389,
+      "stars": 387,
       "updated": "2026-06-05 08:00:22 UTC"
     },
     {
@@ -33403,8 +33421,8 @@
       "license": "gpl-3.0",
       "date_added": "May 28 2025",
       "suggested_by": "@csprasad",
-      "stars": 396,
-      "updated": "2026-07-15 07:50:15 UTC"
+      "stars": 413,
+      "updated": "2026-08-20 13:14:18 UTC"
     },
     {
       "title": "Feather",
@@ -33414,7 +33432,7 @@
       "description": "On-device application manager/installer, uses certificates part of the Apple Developer Program",
       "source": "https://github.com/claration/Feather",
       "license": "gpl-3.0",
-      "stars": 4387,
+      "stars": 4585,
       "tags": [
         "swift"
       ],
@@ -33423,7 +33441,7 @@
       ],
       "date_added": "May 29 2025",
       "suggested_by": "@jacobprezant",
-      "updated": "2026-07-19 04:14:13 UTC"
+      "updated": "2026-07-24 11:13:03 UTC"
     },
     {
       "title": "Moblin",
@@ -33444,8 +33462,8 @@
       "license": "mit",
       "date_added": "May 30 2025",
       "suggested_by": "@csprasad",
-      "stars": 697,
-      "updated": "2026-07-19 19:07:33 UTC"
+      "stars": 724,
+      "updated": "2026-08-24 17:50:16 UTC"
     },
     {
       "title": "LegitURL",
@@ -33487,8 +33505,8 @@
       "license": "ecl-2.0",
       "date_added": "Jun 4 2025",
       "suggested_by": "@csprasad",
-      "stars": 27,
-      "updated": "2026-06-28 19:18:51 UTC"
+      "stars": 26,
+      "updated": "2026-07-29 07:53:30 UTC"
     },
     {
       "title": "DragonSync",
@@ -33506,8 +33524,8 @@
       "license": "mit",
       "date_added": "Jun 11 2025",
       "suggested_by": "@csprasad",
-      "stars": 229,
-      "updated": "2026-06-09 12:57:54 UTC"
+      "stars": 272,
+      "updated": "2026-08-19 20:16:14 UTC"
     },
     {
       "title": "Apple Intelligence Chat",
@@ -33526,7 +33544,7 @@
       "license": "mit",
       "date_added": "Jun 13 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 381,
+      "stars": 384,
       "updated": "2025-06-11 20:56:09 UTC"
     },
     {
@@ -33564,7 +33582,7 @@
       "license": "mit",
       "date_added": "Jun 28 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 343,
+      "stars": 346,
       "updated": "2025-07-09 07:56:26 UTC"
     },
     {
@@ -33580,10 +33598,10 @@
         "flutter"
       ],
       "license": "agpl-3.0",
-      "stars": 1280,
+      "stars": 1305,
       "date_added": "Jun 30 2025",
       "suggested_by": "@csprasad",
-      "updated": "2026-07-20 13:28:57 UTC"
+      "updated": "2026-08-21 20:32:39 UTC"
     },
     {
       "title": "CodeAgents",
@@ -33606,8 +33624,8 @@
         "ai",
         "claude-code"
       ],
-      "stars": 144,
-      "updated": "2026-07-19 23:18:55 UTC"
+      "stars": 150,
+      "updated": "2026-07-21 17:57:35 UTC"
     },
     {
       "title": "Bark",
@@ -33627,8 +33645,8 @@
       "date_added": "Jul 25 2025",
       "suggested_by": "@csprasad",
       "license": "mit",
-      "stars": 8738,
-      "updated": "2026-07-20 07:30:29 UTC"
+      "stars": 8943,
+      "updated": "2026-08-18 02:21:13 UTC"
     },
     {
       "title": "Foundation Models Framework Example",
@@ -33643,8 +33661,8 @@
       "license": "mit",
       "date_added": "Jul 27 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 1159,
-      "updated": "2026-07-10 13:04:07 UTC"
+      "stars": 1176,
+      "updated": "2026-08-23 23:42:25 UTC"
     },
     {
       "title": "iOSImageGenerator",
@@ -33698,8 +33716,8 @@
       "date_added": "Aug 19 2025",
       "suggested_by": "@dkhamsing",
       "license": "apache-2.0",
-      "stars": 1382,
-      "updated": "2026-07-20 06:43:37 UTC"
+      "stars": 1403,
+      "updated": "2026-08-24 19:10:39 UTC"
     },
     {
       "title": "Standard Notes",
@@ -33718,8 +33736,8 @@
       "license": "other",
       "date_added": "Aug 22 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 6555,
-      "updated": "2026-07-20 14:07:13 UTC"
+      "stars": 6600,
+      "updated": "2026-08-18 19:16:45 UTC"
     },
     {
       "title": "Bitwarden",
@@ -33734,13 +33752,13 @@
       "tags": [
         "swift"
       ],
-      "stars": 639,
+      "stars": 674,
       "screenshots": [
         "https://raw.githubusercontent.com/bitwarden/ios/main/.github/images/ios-dark.png"
       ],
       "date_added": "Aug 23 2025",
       "suggested_by": "@csprasad",
-      "updated": "2026-07-20 14:45:38 UTC"
+      "updated": "2026-08-24 20:45:06 UTC"
     },
     {
       "title": "Context Composer",
@@ -33798,8 +33816,8 @@
       "license": "agpl-3.0",
       "date_added": "Aug 29 2025",
       "suggested_by": "@UnifeGi",
-      "stars": 22546,
-      "updated": "2026-07-19 20:11:12 UTC"
+      "stars": 23696,
+      "updated": "2026-08-24 20:32:22 UTC"
     },
     {
       "title": "FluffyChat",
@@ -33819,8 +33837,8 @@
       "license": "agpl-3.0",
       "date_added": "Sep 3 2025",
       "suggested_by": "@ndrew222",
-      "stars": 2988,
-      "updated": "2026-07-20 07:13:23 UTC"
+      "stars": 3073,
+      "updated": "2026-08-24 15:21:41 UTC"
     },
     {
       "title": "SimpleX Chat",
@@ -33839,8 +33857,8 @@
       "license": "agpl-3.0",
       "date_added": "Sep 4 2025",
       "suggested_by": "@ndrew222",
-      "stars": 18796,
-      "updated": "2026-07-20 15:49:21 UTC"
+      "stars": 19305,
+      "updated": "2026-08-24 20:37:00 UTC"
     },
     {
       "title": "SmartThing",
@@ -33873,8 +33891,8 @@
       "license": "mit",
       "date_added": "Sep 18 2025",
       "suggested_by": "@csprasad",
-      "stars": 303,
-      "updated": "2026-06-30 16:32:02 UTC"
+      "stars": 306,
+      "updated": "2026-08-12 12:39:16 UTC"
     },
     {
       "title": "OSS Weather",
@@ -33891,9 +33909,9 @@
       ],
       "license": "mit",
       "suggested_by": "@joslajoko",
-      "stars": 434,
+      "stars": 445,
       "date_added": "Aug 6 2016",
-      "updated": "2026-07-02 06:10:35 UTC"
+      "updated": "2026-08-24 06:33:52 UTC"
     },
     {
       "title": "Inpenso",
@@ -33914,7 +33932,7 @@
       ],
       "license": "mit",
       "suggested_by": "@VintusS",
-      "stars": 23,
+      "stars": 24,
       "date_added": "Oct 17 2025",
       "updated": "2026-05-31 13:39:25 UTC"
     },
@@ -33951,8 +33969,8 @@
       "license": "mpl-2.0",
       "suggested_by": "@csprasad",
       "date_added": "Nov 10 2025",
-      "stars": 1090,
-      "updated": "2026-07-20 14:43:54 UTC"
+      "stars": 1146,
+      "updated": "2026-08-20 16:45:14 UTC"
     },
     {
       "title": "BetterBlue",
@@ -33971,8 +33989,8 @@
       "license": "mit",
       "suggested_by": "@csprasad",
       "date_added": "Nov 13 2025",
-      "stars": 115,
-      "updated": "2026-07-05 02:10:41 UTC"
+      "stars": 127,
+      "updated": "2026-08-15 20:16:44 UTC"
     },
     {
       "title": "Ultralytics YOLO",
@@ -33992,8 +34010,8 @@
       "license": "agpl-3.0",
       "suggested_by": "@csprasad",
       "date_added": "Nov 20 2025",
-      "stars": 495,
-      "updated": "2026-07-20 09:15:05 UTC"
+      "stars": 505,
+      "updated": "2026-08-20 20:08:56 UTC"
     },
     {
       "title": "Enchanted",
@@ -34012,7 +34030,7 @@
       "license": "apache-2.0",
       "suggested_by": "@csprasad",
       "date_added": "Nov 22 2025",
-      "stars": 5976,
+      "stars": 5997,
       "updated": "2026-07-07 19:34:55 UTC"
     },
     {
@@ -34032,7 +34050,7 @@
       "license": "gpl-3.0",
       "date_added": "Nov 25 2025",
       "suggested_by": "@dkhamsing",
-      "stars": 104,
+      "stars": 106,
       "updated": "2026-06-29 23:06:59 UTC"
     },
     {
@@ -34052,11 +34070,11 @@
         "flutter",
         "dart"
       ],
-      "stars": 1428,
+      "stars": 1457,
       "license": "apache-2.0",
       "date_added": "Dec 4 2025",
       "suggested_by": "@friesi23",
-      "updated": "2026-07-20 13:45:38 UTC"
+      "updated": "2026-08-24 12:16:02 UTC"
     },
     {
       "title": "Potato Game",
@@ -34115,7 +34133,7 @@
       "source": "https://github.com/Swiftgram/Telegram-iOS",
       "itunes": "https://apps.apple.com/app/id6471879502",
       "license": "gpl-2.0",
-      "stars": 534,
+      "stars": 569,
       "tags": [
         "c",
         "swift",
@@ -34129,7 +34147,7 @@
       ],
       "date_added": "Dec 21 2025",
       "suggested_by": "@Kylmakalle",
-      "updated": "2026-06-19 19:37:57 UTC"
+      "updated": "2026-08-18 13:55:03 UTC"
     },
     {
       "title": "Atwy",
@@ -34138,7 +34156,7 @@
       ],
       "description": "Watch YouTube with no ads and a lot of features",
       "source": "https://github.com/b5i/Atwy",
-      "stars": 63,
+      "stars": 67,
       "license": "other",
       "tags": [
         "swift",
@@ -34149,7 +34167,7 @@
       ],
       "date_added": "Jan 15 2026",
       "suggested_by": "@b5i",
-      "updated": "2026-06-27 21:05:05 UTC"
+      "updated": "2026-08-07 08:16:58 UTC"
     },
     {
       "title": "Echo",
@@ -34204,8 +34222,8 @@
       ],
       "date_added": "Feb 27 2026",
       "suggested_by": "@dkhamsing",
-      "stars": 383574,
-      "updated": "2026-07-20 15:54:44 UTC"
+      "stars": 387403,
+      "updated": "2026-08-24 21:00:55 UTC"
     },
     {
       "title": "Red Grid MGRS",
@@ -34223,8 +34241,8 @@
       ],
       "date_added": "Mar 11 2026",
       "suggested_by": "@RedGridTactical",
-      "stars": 15,
-      "updated": "2026-06-26 23:45:40 UTC"
+      "stars": 19,
+      "updated": "2026-08-16 02:14:17 UTC"
     },
     {
       "title": "iNaturalist",
@@ -34243,7 +34261,7 @@
       ],
       "date_added": "Mar 15 2026",
       "suggested_by": "@stuckvgn",
-      "stars": 184,
+      "stars": 185,
       "updated": "2026-03-31 09:10:56 UTC"
     },
     {
@@ -34264,8 +34282,8 @@
       ],
       "date_added": "Mar 23 2026",
       "suggested_by": "@intrepidkarthi",
-      "stars": 11,
-      "updated": "2026-07-20 03:24:18 UTC"
+      "stars": 14,
+      "updated": "2026-08-24 17:46:50 UTC"
     },
     {
       "title": "Pilgrim",
@@ -34283,8 +34301,8 @@
       ],
       "date_added": "Mar 30 2026",
       "suggested_by": "@momentmaker",
-      "stars": 11,
-      "updated": "2026-07-19 19:31:07 UTC"
+      "stars": 13,
+      "updated": "2026-08-24 20:32:57 UTC"
     },
     {
       "title": "Hutch",
@@ -34293,7 +34311,7 @@
       ],
       "description": "Browse SourceHut repositories, issues, mailing lists, and patches",
       "source": "https://github.com/krazywarez/hutch",
-      "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",    
+      "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",
       "tags": [
         "swift",
         "swiftui"
@@ -34302,7 +34320,7 @@
       "date_added": "Apr 19 2026",
       "suggested_by": "@ccleberg",
       "stars": 5,
-      "updated": "2026-07-17 00:22:03 UTC"
+      "updated": "2026-08-23 22:46:41 UTC"
     },
     {
       "title": "Domain Dig",
@@ -34319,8 +34337,8 @@
       "license": "gpl-3.0",
       "date_added": "Apr 20 2026",
       "suggested_by": "@ccleberg",
-      "stars": 5,
-      "updated": "2026-07-17 16:21:01 UTC"
+      "stars": 7,
+      "updated": "2026-08-23 01:41:59 UTC"
     },
     {
       "title": "BeeCount",
@@ -34343,8 +34361,8 @@
       "license": "other",
       "date_added": "May 6 2026",
       "suggested_by": "@TNT-Likely",
-      "stars": 1952,
-      "updated": "2026-07-20 02:07:35 UTC"
+      "stars": 2171,
+      "updated": "2026-08-23 06:50:37 UTC"
     },
     {
       "title": "Rushi",
@@ -34387,8 +34405,8 @@
         "cloudkit"
       ],
       "suggested_by": "@marcusraitner",
-      "stars": 14,
-      "updated": "2026-06-20 11:59:12 UTC"
+      "stars": 15,
+      "updated": "2026-08-20 17:03:52 UTC"
     },
     {
       "title": "DumpertTV",
@@ -34412,8 +34430,8 @@
       ],
       "date_added": "Jun 4 2026",
       "suggested_by": "@rm335",
-      "stars": 5,
-      "updated": "2026-07-09 07:23:06 UTC"
+      "stars": 6,
+      "updated": "2026-08-16 10:48:00 UTC"
     },
     {
       "title": "Opaline",
@@ -34430,8 +34448,8 @@
       ],
       "date_added": "Jun 19 2026",
       "suggested_by": "@SimonArs",
-      "stars": 145,
-      "updated": "2026-07-20 11:48:32 UTC"
+      "stars": 256,
+      "updated": "2026-08-20 13:46:44 UTC"
     },
     {
       "title": "Reynard Browser",
@@ -34449,8 +34467,8 @@
       ],
       "date_added": "Jun 20 2026",
       "suggested_by": "@SimonArs",
-      "stars": 1222,
-      "updated": "2026-07-20 06:20:17 UTC"
+      "stars": 1542,
+      "updated": "2026-08-23 23:16:48 UTC"
     },
     {
       "title": "Oscar Weather",
@@ -34467,7 +34485,7 @@
       "date_added": "Jul 13 2026",
       "suggested_by": "@GlowOnyx-d",
       "stars": 47,
-      "updated": "2026-07-19 14:39:42 UTC"
+      "updated": "2026-08-18 21:21:25 UTC"
     },
     {
       "title": "Dredfit",
@@ -34486,7 +34504,9 @@
         "https://raw.githubusercontent.com/dredfort42/dredfit/main/appstore/screenshots/en/s1.png"
       ],
       "date_added": "Jul 26 2026",
-      "suggested_by": "@dredfort42"
+      "suggested_by": "@dredfort42",
+      "stars": 0,
+      "updated": "2026-08-24 20:43:49 UTC"
     },
     {
       "title": "iBurn",
@@ -34499,10 +34519,11 @@
       "tags": [
         "swift"
       ],
-      "stars": 77,
+      "stars": 80,
       "license": "mpl-2.0",
       "date_added": "Jul 28 2026",
-      "suggested_by": "@csprasad"
+      "suggested_by": "@csprasad",
+      "updated": "2026-08-22 19:51:09 UTC"
     },
     {
       "title": "NoteGen",
@@ -34521,7 +34542,9 @@
         "https://s2.loli.net/2025/12/22/jlpEP2c6ogwHhIA.png"
       ],
       "date_added": "Jul 31 2026",
-      "suggested_by": "@codexu"
+      "suggested_by": "@codexu",
+      "stars": 12681,
+      "updated": "2026-08-24 12:00:31 UTC"
     },
     {
       "title": "AI Dictation",
@@ -34541,7 +34564,9 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/9a/31/729a31f0-ad06-f50a-438a-0219998c38ad/4__U00283_U0029.png/600x1300bb-60.jpg"
       ],
       "date_added": "Aug 2 2026",
-      "suggested_by": "@vood"
+      "suggested_by": "@vood",
+      "stars": 40,
+      "updated": "2026-08-24 17:51:07 UTC"
     },
     {
       "title": "Scowld",
@@ -34562,7 +34587,9 @@
         "https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png"
       ],
       "date_added": "Aug 7 2026",
-      "suggested_by": "@apoorvdarshan"
+      "suggested_by": "@apoorvdarshan",
+      "stars": 14,
+      "updated": "2026-08-23 09:39:07 UTC"
     },
     {
       "title": "Minidisc",
@@ -34582,7 +34609,9 @@
         "https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg"
       ],
       "date_added": "Aug 7 2026",
-      "suggested_by": "@Loriage"
+      "suggested_by": "@Loriage",
+      "stars": 4,
+      "updated": "2026-08-10 16:46:42 UTC"
     },
     {
       "title": "Beszel Companion",
@@ -34603,7 +34632,9 @@
         "https://raw.githubusercontent.com/Loriage/Beszel-Swift-App/main/screenshots/containers.jpg"
       ],
       "date_added": "Aug 7 2026",
-      "suggested_by": "@Loriage"
+      "suggested_by": "@Loriage",
+      "stars": 158,
+      "updated": "2026-06-18 09:18:02 UTC"
     },
     {
       "title": "Pocket for Mealie",
@@ -34624,7 +34655,9 @@
         "https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png"
       ],
       "date_added": "Aug 7 2026",
-      "suggested_by": "@Loriage"
+      "suggested_by": "@Loriage",
+      "stars": 20,
+      "updated": "2026-03-07 14:43:43 UTC"
     },
     {
       "title": "Symptile",
@@ -34645,36 +34678,51 @@
         "https://raw.githubusercontent.com/Loriage/Symptile/main/screenshots/SymptileScreensAnalytics.jpg"
       ],
       "date_added": "Aug 7 2026",
-      "suggested_by": "@Loriage"
+      "suggested_by": "@Loriage",
+      "stars": 2,
+      "updated": "2026-06-30 15:30:09 UTC"
     },
     {
-"title": "AliasVault",
-"category-ids": ["password"],
-"description": "Privacy-first password manager with built-in email aliasing",
-"source": "https://github.com/aliasvault/aliasvault",
-"itunes": "https://apps.apple.com/app/aliasvault/id6745490915",
-"screenshots": ["https://raw.githubusercontent.com/aliasvault/aliasvault/main/docs/static/assets/img/screenshot.png"],
-"date_added": "Aug 12 2026",
+      "title": "AliasVault",
+      "category-ids": [
+        "password"
+      ],
+      "description": "Privacy-first password manager with built-in email aliasing",
+      "source": "https://github.com/aliasvault/aliasvault",
+      "itunes": "https://apps.apple.com/app/aliasvault/id6745490915",
+      "screenshots": [
+        "https://raw.githubusercontent.com/aliasvault/aliasvault/main/docs/static/assets/img/screenshot.png"
+      ],
+      "date_added": "Aug 12 2026",
       "license": "agpl-3.0",
-        "tags": [
+      "tags": [
         "react-native"
       ],
-"suggested_by": "@diogopessoa"
-},
-{
-"title": "BoxHelper",
-"category-ids": ["scan"],
-"description": "Organize boxes, items, and storage locations with photos, QR codes, backups, CSV import/export and Shortcuts automation",
-"source": "https://github.com/HOCKULUS/BoxHelper",
-"itunes": "https://apps.apple.com/app/boxhelper/id6737223705",
-"license": "agpl-3.0",
-"tags": ["swift"],
-"screenshots": [
-"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1d/ff/4b1dffea-e377-7498-77fc-75b51194b487/Mockup_BoxHelper_DE5_6.png/460x996bb.webp", "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/a0/37/55a037b0-c84c-b2f7-0041-78aed9518ee8/Mockup_BoxHelper_DE1_2.png/460x996bb.webp", 
-"https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/af/83/caaf8345-8fd0-eede-ca66-911489831946/Mockup_BoxHelper_EN2.png/460x996bb.webp"  
-],
-"date_added": "Aug 13 2026",
-"suggested_by": "@HOCKULUS"
-}    
+      "suggested_by": "@diogopessoa",
+      "stars": 3051,
+      "updated": "2026-08-24 16:21:29 UTC"
+    },
+    {
+      "title": "BoxHelper",
+      "category-ids": [
+        "scan"
+      ],
+      "description": "Organize boxes, items, and storage locations with photos, QR codes, backups, CSV import/export and Shortcuts automation",
+      "source": "https://github.com/HOCKULUS/BoxHelper",
+      "itunes": "https://apps.apple.com/app/boxhelper/id6737223705",
+      "license": "agpl-3.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4b/1d/ff/4b1dffea-e377-7498-77fc-75b51194b487/Mockup_BoxHelper_DE5_6.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/55/a0/37/55a037b0-c84c-b2f7-0041-78aed9518ee8/Mockup_BoxHelper_DE1_2.png/460x996bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ca/af/83/caaf8345-8fd0-eede-ca66-911489831946/Mockup_BoxHelper_EN2.png/460x996bb.webp"
+      ],
+      "date_added": "Aug 13 2026",
+      "suggested_by": "@HOCKULUS",
+      "stars": 2,
+      "updated": "2026-08-19 07:52:24 UTC"
+    }
   ]
 }
