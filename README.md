@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1672-green.svg) ![](https://img.shields.io/badge/Updated-August%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1672-green.svg) ![](https://img.shields.io/badge/Updated-August%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -475,10 +475,6 @@ Jump to
 - [YouTube Clone](https://github.com/VamshiIITBHU14/YouTubeClone): YouTube clone using MVC
   -  `2024` `swift` 
   -  ☆`182` 
-- [youtube-iOS](https://github.com/aslanyanhaik/youtube-iOS): YouTube app template
-  -  <a href='https://i.giphy.com/hwCahHAD1tNHa.gif'>`Screenshot 1`</a> 
-  -  `2020` `swift` `swift3` 
-  -  ☆`2537` 
 ## Communication 
  
 [back to top](#readme) 
