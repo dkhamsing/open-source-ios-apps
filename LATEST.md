@@ -10,7 +10,7 @@
 6. [Pocket for Mealie](https://github.com/Loriage/Mealie-Swift-App)
 7. [Beszel Companion](https://github.com/Loriage/Beszel-Swift-App)
 8. [Minidisc](https://github.com/Loriage/Minidisc)
-9. [Scowld](https://github.com/aopv/scowld)
+9. [Scowld](https://github.com/apoorvdarshan/scowld)
 10. [AI Dictation](https://github.com/writingmate/aidictation)
 11. [NoteGen](https://github.com/codexu/note-gen)
 12. [iBurn](https://github.com/iBurnApp/iBurn-iOS)
