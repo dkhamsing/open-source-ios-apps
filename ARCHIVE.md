@@ -257,6 +257,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
 - [FMobile](https://github.com/GroupeMINASTE/FMobile-iOS)
 - [For Hacker News by iSimar](https://github.com/iSimar/HackerNews-React-Native)
+- [ForceSketch](https://github.com/FlexMonkey/ForceSketch)
 - [Forecast](https://github.com/richardxyx/Forecast)
 - [Foreign Exchange](https://github.com/peralmq/ForeignExchangeApp)
 - [fosdem](https://github.com/leonhandreke/fosdem)
