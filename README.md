@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1672-green.svg) ![](https://img.shields.io/badge/Updated-August%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1672-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3166,10 +3166,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/shameemreza/critterclan/raw/main/row/preview.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`7` 
-- [Cuisiner](https://github.com/fatih-gursoy/Cuisiner): User generated recipe/cooking collection
-  - [` App Store`](https://apps.apple.com/app/id1641238583) <a href='https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png'>`Screenshot 1`</a> 
-  -  `2026` `swift` 
-  -  ☆`22` 
 - [DeckRocket](https://github.com/jpsim/DeckRocket): For Deckset presentations
   -  <a href='https://github.com/jpsim/DeckRocket/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` 
