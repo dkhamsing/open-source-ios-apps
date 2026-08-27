@@ -34723,6 +34723,25 @@
       "suggested_by": "@HOCKULUS",
       "stars": 2,
       "updated": "2026-08-19 07:52:24 UTC"
+    },
+    {
+      "title": "Mlem",
+      "category-ids": [
+        "social"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "A Lemmy client",
+      "source": "https://github.com/mlemgroup/mlem",
+      "itunes": "https://apps.apple.com/app/id6450543782",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://mlem.group/screenshots/showcase/feeds.jpeg"
+      ],
+      "date_added": "Aug 27 2026",
+      "suggested_by": "@hajar-benhadj"
     }
   ]
 }
