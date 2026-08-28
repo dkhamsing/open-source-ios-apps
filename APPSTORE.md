@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **327** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -250,7 +250,7 @@ Jump to
   -  `2026` `swift` `iphone` `ipad` `matrix` `rust` 
   -  ☆`929` 
 - [FluffyChat](https://github.com/krille-chan/fluffychat): Cute matrix messenger, easy to use but secure and decentralized
-  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://raw.githubusercontent.com/krille-chan/fluffychat-website/refs/heads/main/src/assets/screenshots/mobile.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600)
   -  `2026` `flutter` `ipad` 
   -  ☆`3073` 
 - [Goguma IRC](https://codeberg.org/emersion/goguma): Modern IRC experience with support for many IRCv3 extensions and IRC bouncers
@@ -1603,6 +1603,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`318` 
+- [Mlem](https://github.com/mlemgroup/mlem): A Lemmy client
+  - [` App Store`](https://apps.apple.com/app/id6450543782) <a href='https://mlem.group/screenshots/showcase/feeds.jpeg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 
