@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1672-green.svg) ![](https://img.shields.io/badge/Updated-August%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202026-lightgrey.svg)
 
 Jump to
 
@@ -538,7 +538,7 @@ Jump to
   -  `2025` `swift` 
   -  ☆`59` 
 - [FluffyChat](https://github.com/krille-chan/fluffychat): Cute matrix messenger, easy to use but secure and decentralized
-  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600) <a href='https://raw.githubusercontent.com/krille-chan/fluffychat-website/refs/heads/main/src/assets/screenshots/mobile.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/fluffychat/id1551469600)
   -  `2026` `flutter` `ipad` 
   -  ☆`3073` 
 - [FoundationChat](https://github.com/Dimillian/FoundationChat): Chat using iOS 26 Foundation Models
@@ -2866,6 +2866,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`318` 
+- [Mlem](https://github.com/mlemgroup/mlem): A Lemmy client
+  - [` App Store`](https://apps.apple.com/app/id6450543782) <a href='https://mlem.group/screenshots/showcase/feeds.jpeg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [SpotifyRadar](https://github.com/ThasianX/SpotifyRadar): Never miss new releases from your favorite Spotify artists
   -  <a href='https://github.com/ThasianX/SpotifyRadar/blob/develop/App%20Images/dashboard.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `iphone` `ipad` `spotify` `spotifyradar` `rxswift` `coordinator` `mvvm` 
