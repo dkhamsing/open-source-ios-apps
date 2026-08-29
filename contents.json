@@ -34266,7 +34266,7 @@
     },
     {
       "title": "DailyVox",
-      "description": "AI Voice Diary",
+      "description": "Voice journal that transcribes on-device and holds no internet permission",
       "category-ids": [
         "health"
       ],
