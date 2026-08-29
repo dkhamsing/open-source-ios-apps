@@ -834,7 +834,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [DailyVox](https://github.com/intrepidkarthi/dailyvox): AI Voice Diary
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox): Voice journal that transcribes on-device and holds no internet permission
   - <a href=https://getdailyvox.com>`https://getdailyvox.com`</a>
   - [` App Store`](https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642) <a href='https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c'>`Screenshot 1`</a> 
   -  `2026` `swift` 
