@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2028,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2029,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1554,7 +1554,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/nerdsupremacist/CovidUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` 
   -  ☆`76` 
-- [DailyVox](https://github.com/intrepidkarthi/dailyvox): AI Voice Diary
+- [DailyVox](https://github.com/intrepidkarthi/dailyvox): Voice journal that transcribes on-device and holds no internet permission
   - <a href=https://getdailyvox.com>`https://getdailyvox.com`</a>
   - [` App Store`](https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642) <a href='https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c'>`Screenshot 1`</a> 
   -  `2026` `swift` 
