@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2029,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1783,7 +1783,7 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/searchi5.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/filipealva/Cepp/res/detailsi5.png'>`Screenshot 2`</a> 
   -  `2022` `swift` `afnetworking` 
   -  ☆`18` 
-- [DragonSync](https://github.com/Root-Down-Digital/DragonSync-iOS): Real-time drone detection and monitoring with advanced signal analysis and tracking
+- [DragonSync](https://github.com/lukeswitz/DragonSync-iOS): Real-time drone detection and monitoring with advanced signal analysis and tracking
   -  <a href='https://github.com/user-attachments/assets/d21ab909-7dba-4b42-8996-a741248e9223'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`272` 
