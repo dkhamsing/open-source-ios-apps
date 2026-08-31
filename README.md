@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2030,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-August%2031,%202026-lightgrey.svg)
 
 Jump to
 
@@ -217,10 +217,6 @@ Jump to
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/60/13/98/60139811-685a-cc58-9e1e-544a1b87ca74/mzl.zqoaqzsb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/1e/ac/03/1eac03ec-45ed-7efe-6ff9-f3713baa4da0/mzl.iahmmuul.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/b0/43/ce/b043ce1c-e33a-790d-fb17-7842db114fdb/mzl.zrqjzmbz.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple118/v4/39/a4/54/39a45485-b91e-6f23-d020-2c513194c022/mzl.mppkwkjn.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple118/v4/fa/3a/53/fa3a53ea-47a4-f93d-5bae-0c685ae2e160/mzl.ajscbauc.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2024` `objc` 
   -  ☆`77` 
-- [Calculator by BalestraPatrick](https://github.com/BalestraPatrick/AppleWatchCalculator)
-  -  <a href='https://github.com/BalestraPatrick/AppleWatchCalculator/blob/master/Screenshot1.png?raw=true'>`Screenshot 1`</a> 
-  -  `2020` `objc` 
-  -  ☆`155` 
 - [Chanify](https://github.com/chanify/chanify-ios): Safe and simple notification tool, includes a Notification Service Extension
   - <a href=https://www.chanify.net>`https://www.chanify.net`</a>
   - [` App Store`](https://apps.apple.com/app/id1531546573) <a href='https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png'>`Screenshot 1`</a> 
