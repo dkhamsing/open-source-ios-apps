@@ -106,6 +106,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Bridges](https://github.com/zgrossbart/bridges)
 - [Buck Tracker](https://github.com/hkalexling/Buck_Tracker)
 - [C-41](https://github.com/ashfurrow/C-41)
+- [Calculator by BalestraPatrick](https://github.com/BalestraPatrick/AppleWatchCalculator)
 - [Calculator by mukeshthawani](https://github.com/opensourceios/Calculator)
 - [Calculator by noodlewerk](https://github.com/noodlewerk/Apple_Watch_Calculator)
 - [CalendarKit](https://github.com/richardtop/CalendarKit)
