@@ -329,7 +329,7 @@
       "title": "React Native",
       "id": "react-native",
       "parent": "misc",
-      "description": "https://facebook.github.io/react-native/"
+      "description": "https://reactnative.dev/"
     },
     {
       "title": "ReactiveCocoa",
@@ -3325,7 +3325,6 @@
       "description": "Test if you are depressed",
       "license": "mit",
       "source": "https://github.com/DerLobi/Depressed",
-      "itunes": "https://apps.apple.com/app/depressed/id1062594092",
       "tags": [
         "swift"
       ],
@@ -3389,7 +3388,7 @@
       ],
       "description": "Sync selected Apple Health data to a private backend API",
       "source": "https://github.com/megabyte0x/healthykit",
-      "homepage": "https://healthsync.megabyte.sh/apple-health-app-sync",
+      "homepage": "https://healthysync.megabyte.sh/apple-health-app-sync",
       "screenshots": [
         "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
       ],
@@ -3824,7 +3823,6 @@
       "description": "Location tracking made easy",
       "license": "mit",
       "source": "https://github.com/da3x/GeoLicious",
-      "itunes": "https://apps.apple.com/app/geolicious/id637366170",
       "stars": 36,
       "date_added": "Tue Mar 01 08:47:46 2019 +0100",
       "suggested_by": "@da3x",
@@ -11311,7 +11309,6 @@
       ],
       "description": "Hide messages in images with steganography",
       "source": "https://github.com/MrAdamBoyd/Pictograph",
-      "itunes": "https://apps.apple.com/app/id1051879856",
       "license": "mit",
       "tags": [
         "swift"
@@ -11555,7 +11552,6 @@
       ],
       "description": "Calculate the future value of SIP (Systematic Investment Plan) payments",
       "source": "https://github.com/tirupati17/sip-calculator-swift",
-      "itunes": "https://apps.apple.com/app/id1092822415",
       "tags": [
         "swift"
       ],
@@ -11839,7 +11835,6 @@
       ],
       "license": "other",
       "description": "Use Emojis to communicate while traveling",
-      "homepage": "https://themoji.me/",
       "source": "https://github.com/themoji/ios",
       "screenshots": [
         "https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true"
@@ -12147,7 +12142,6 @@
       "description": "Share all your project documents with a link",
       "source": "https://github.com/hackfoldr/hackfoldr-iOS",
       "homepage": "https://hackfoldr.org",
-      "itunes": "https://apps.apple.com/app/hackfoldr/id919010837",
       "stars": 27,
       "license": "mit",
       "date_added": "Mon Jul 18 22:43:09 2016 +0800",
@@ -16920,7 +16914,6 @@
       ],
       "description": "BiciMAD app with its own style and design",
       "source": "https://github.com/alexruperez/MADBike",
-      "homepage": "https://www.madbikeapp.com",
       "itunes": "https://apps.apple.com/app/madbike/id1067596651",
       "license": "gpl-3.0",
       "screenshots": [
@@ -18011,7 +18004,6 @@
       "description": "Enjoy all of Reddit's content in a unique and beautiful package",
       "license": "gpl-2.0",
       "source": "https://github.com/awkward/beam",
-      "itunes": "https://apps.apple.com/app/beam-for-reddit/id937987469",
       "stars": 277,
       "tags": [
         "swift",
@@ -18378,7 +18370,6 @@
       ],
       "description": "Fast and beautiful cloud-based messaging app",
       "source": "https://github.com/RMizin/FalconMessenger",
-      "itunes": "https://apps.apple.com/app/id1313765714",
       "license": "mit",
       "stars": 432,
       "tags": [
@@ -19867,7 +19858,6 @@
       "description": "Override & secure DNS queries",
       "license": "gpl-3.0",
       "source": "https://github.com/s-s/dnscloak",
-      "itunes": "https://apps.apple.com/app/dnscloak-secure-dns-client/id1452162351",
       "stars": 354,
       "tags": [
         "objc",
@@ -20033,7 +20023,6 @@
       "description": "Easy-to-use and secure Ethereum wallet",
       "source": "https://github.com/AlphaWallet/alpha-wallet-ios",
       "homepage": "https://alphawallet.com/",
-      "itunes": "https://apps.apple.com/app/alphawallet/id1358230430",
       "license": "agpl-3.0",
       "stars": 632,
       "tags": [
@@ -20670,7 +20659,6 @@
       "description": "Practice American Sign Language (ASL) fingerspelling",
       "license": "mit",
       "source": "https://github.com/OpenASL/Fingerspelling-iOS",
-      "itunes": "https://apps.apple.com/app/asl-fingerspelling-practice/id1503242863",
       "screenshots": [
         "https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png"
       ],
@@ -21257,7 +21245,6 @@
       "lang": "isl",
       "source": "https://github.com/aranja/rakning-c19-app",
       "itunes": "https://apps.apple.com/app/rakning-c-19/id1504655876",
-      "homepage": "https://www.covid.is/app/is",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/c1db03e9-fb0e-4aae-9273-018ae8b50bea"
       ],
@@ -21306,7 +21293,6 @@
       ],
       "lang": "heb",
       "source": "https://github.com/MohGovIL/hamagen-react-native",
-      "itunes": "https://apps.apple.com/app/id1503224314",
       "license": "mit",
       "date_added": "Apr 21 2020",
       "suggested_by": "@dkhamsing",
@@ -21496,7 +21482,6 @@
       "description": "Keep track of encounters with friends, family or co-workers and save them anonymously",
       "license": "apache-2.0",
       "source": "https://github.com/austrianredcross/stopp-corona-ios",
-      "itunes": "https://apps.apple.com/app/apple-store/id1503717224",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/cc16de41-9c6e-4142-a7e2-547eef9e1c81"
       ],
@@ -21563,7 +21548,6 @@
       ],
       "description": "Know when all your friends, colleagues and family are",
       "source": "https://github.com/mathieudutour/TimeLines",
-      "homepage": "https://time-lines.app",
       "license": "other",
       "date_added": "Apr 27 2020",
       "suggested_by": "@dkhamsing",
@@ -21587,7 +21571,6 @@
       "description": "Track your travel modes and your travel carbon footprint, and compare them against other users",
       "source": "https://github.com/e-mission/e-mission-phone",
       "homepage": "https://e-mission.eecs.berkeley.edu/#/home",
-      "itunes": "https://apps.apple.com/app/emission/id1084198445",
       "license": "bsd-3-clause",
       "date_added": "Apr 27 2020",
       "suggested_by": "@dkhamsing",
@@ -23280,7 +23263,7 @@
       "description": "Score practice matches",
       "source": "https://github.com/Pondorasti/StonkScorer",
       "screenshots": [
-        "https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.webp"
+        "https://media.giphy.com/media/ib9hnrPzudBWOE5hTr/giphy.gif"
       ],
       "license": "mit",
       "tags": [
@@ -25551,7 +25534,6 @@
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2ecea54f-5b91-44e3-945a-cd47d0c34334"
       ],
       "source": "https://github.com/Alfresco/alfresco-ios-app",
-      "itunes": "https://apps.apple.com/app/alfresco/id459242610",
       "license": "other",
       "date_added": "Sep 28 2020",
       "suggested_by": "@dkhamsing",
@@ -26311,7 +26293,6 @@
         "ipad"
       ],
       "source": "https://github.com/vinhnx/Clendar",
-      "itunes": "https://apps.apple.com/app/clendar-a-calendar-app/id1548102041",
       "screenshots": [
         "https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png"
       ],
@@ -27128,7 +27109,6 @@
       ],
       "description": "Unofficial E-Hentai browser",
       "source": "https://github.com/EhPanda-Team/EhPanda",
-      "homepage": "https://ehpanda.app",
       "license": "apache-2.0",
       "stars": 3956,
       "tags": [
@@ -27545,7 +27525,6 @@
         "swiftui"
       ],
       "source": "https://github.com/Person2099/HTTPS-Responses",
-      "itunes": "https://apps.apple.com/app/id1580906147",
       "homepage": "https://httpsresponselookup.onuniverse.com",
       "license": "other",
       "date_added": "Sep 29 2021",
@@ -27712,7 +27691,7 @@
       ],
       "description": "Secure cloud to collaborate online, access your documents and files on all your devices",
       "source": "https://github.com/Infomaniak/ios-kDrive",
-      "homepage": "https://www.infomaniak.com/kdrive",
+      "homepage": "https://www.infomaniak.com/en/kdrive",
       "itunes": "https://apps.apple.com/app/infomaniak-kdrive/id1482778676",
       "license": "gpl-3.0",
       "stars": 84,
@@ -27864,7 +27843,6 @@
       ],
       "license": "apache-2.0",
       "source": "https://github.com/touchlab/DroidconKotlin",
-      "itunes": "https://apps.apple.com/app/droidcon-nyc-2019/id1477469914",
       "date_added": "Nov 13 2021",
       "suggested_by": "@dkhamsing",
       "screenshots": [
@@ -27927,7 +27905,6 @@
       ],
       "lang": "swe",
       "source": "https://github.com/kolplattformen/skolplattformen",
-      "itunes": "https://apps.apple.com/se/app/öppna-skolplattformen/id1543853468",
       "screenshots": [
         "https://github.com/kolplattformen/skolplattformen/raw/main/apps/website/assets/img/screenshots/screenshot_login.png"
       ],
@@ -28672,7 +28649,6 @@
         "https://user-images.githubusercontent.com/13558917/81881433-02c57b00-9545-11ea-920c-27b5b54f19c1.gif"
       ],
       "source": "https://github.com/TheCodeTraveler/GitTrends",
-      "itunes": "https://apps.apple.com/app/gittrends-github-insights/id1500300399",
       "stars": 781,
       "license": "mit",
       "date_added": "Mar 3 2022",
@@ -29080,7 +29056,6 @@
       "description": "Team channels, direct chat, task management, drive and calendar; all in one place",
       "homepage": "https://twake.app",
       "source": "https://github.com/linagora/Twake-Mobile",
-      "itunes": "https://apps.apple.com/app/id1313765714",
       "license": "other",
       "stars": 58,
       "tags": [
@@ -30162,7 +30137,6 @@
       ],
       "description": "SHA-256 Hash collision computer",
       "source": "https://github.com/LemonPepperSeasoning/Hasher",
-      "itunes": "https://apps.apple.com/app/hasha/id6443560907",
       "screenshots": [
         "https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp"
       ],
@@ -30178,14 +30152,14 @@
         "misc"
       ],
       "description": "User generated recipe/cooking collection",
-      "source": "https://github.com/fatih-gursoy/Cuisiner",
+      "source": "https://github.com/opensourceios2/Cuisiner",
       "itunes": "https://apps.apple.com/app/id1641238583",
       "tags": [
         "swift", "archive"
       ],
       "license": "mit",
       "screenshots": [
-        "https://raw.githubusercontent.com/fatih-gursoy/Cuisiner/master/Screenshots/ss3.png"
+        "https://raw.githubusercontent.com/opensourceios2/Cuisiner/master/Screenshots/ss3.png"
       ],
       "date_added": "Oct 3 2022",
       "suggested_by": "@fatih-gursoy",
@@ -30374,8 +30348,6 @@
       ],
       "description": "Mood diary",
       "source": "https://github.com/drpeterrohde/MoodSnap",
-      "homepage": "https://moodsnap.app/",
-      "itunes": "https://apps.apple.com/au/app/moodsnap-mood-diary/id1616291944",
       "screenshots": [
         "https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212)"
       ],
@@ -30494,7 +30466,6 @@
     {
       "title": "GistHub",
       "source": "https://github.com/ldakhoa/GistHub",
-      "itunes": "https://apps.apple.com/app/gisthub/id1660465260",
       "category-ids": [
         "github"
       ],
@@ -31108,7 +31079,6 @@
         "archive"
       ],
       "source": "https://github.com/cocoa-mhlw/cocoa",
-      "itunes": "https://apps.apple.com/app/id1503224314",
       "license": "mpl-2.0",
       "date_added": "Mar 28 2023",
       "suggested_by": "@dkhamsing",
@@ -31937,7 +31907,6 @@
         "swift"
       ],
       "source": "https://github.com/openopus-org/concertmaster_ios",
-      "itunes": "https://apps.apple.com/app/concertmaster-player/id1561622325",
       "screenshots": [
         "https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/57d23dbc-ee29-49b6-b02c-fb653c1abc17"
       ],
