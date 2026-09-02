@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-September%20%201,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2235,10 +2235,6 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple19/v4/ab/1c/34/ab1c34ca-9913-ef85-ae35-10c2c7d3b7a6/mzl.gkpfevya.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple71/v4/eb/79/57/eb795798-bba3-21d5-6070-d8f508af1be0/mzl.lbvrfpjf.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple71/v4/13/5d/53/135d536b-5ec2-a567-d72a-c5e6fb12f804/mzl.rzeufpyk.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` `objc` 
   -  ☆`277` 
-- [Designer News](https://github.com/MengTo/DesignerNewsApp): Browse the https://www.designernews.co/ design & technology site
-  -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*NeMFTvgJVJiM8aiy4Pambw.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`2421` 
 - [DevSpotlight](https://github.com/DominatorVbN/DevSpotlight): Latest tech news
   -  <a href='https://raw.githubusercontent.com/DominatorVbN/DevSpotlight/main/ios1.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` `macos` 
