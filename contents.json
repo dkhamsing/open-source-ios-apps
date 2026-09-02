@@ -34715,14 +34715,14 @@
     {
       "title": "Conduck",
       "category-ids": [
-        "productivity",
-        "apple-watch",
-        "macos",
-        "swiftui"
+        "productivity"
       ],
       "tags": [
         "swift",
-        "swiftui"
+        "swiftui",
+        "apple-watch",
+        "macos",
+        "swiftui"        
       ],
       "description": "Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay",
       "source": "https://github.com/GigaDuckAI/conduck",
