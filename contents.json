@@ -34711,6 +34711,28 @@
       ],
       "date_added": "Aug 27 2026",
       "suggested_by": "@hajar-benhadj"
+    },
+    {
+      "title": "Conduck",
+      "category-ids": [
+        "productivity",
+        "apple-watch",
+        "macos",
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay",
+      "source": "https://github.com/GigaDuckAI/conduck",
+      "itunes": "https://apps.apple.com/app/id6773045286",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://conduck.com/media/conduck-film-poster-v1.jpg"
+      ],
+      "date_added": "Sep 2 2026",
+      "suggested_by": "@peterkrueck"
     }
   ]
 }
