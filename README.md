@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1673-green.svg) ![](https://img.shields.io/badge/Updated-September%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%20%203,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2482,6 +2482,9 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`610` 
+- [Conduck](https://github.com/GigaDuckAI/conduck): Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay
+  - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://conduck.com/media/conduck-film-poster-v1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `apple-watch` `macos` `swiftui` 
 - [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
   - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
