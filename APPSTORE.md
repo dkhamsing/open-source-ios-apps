@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **304** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **305** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1321,6 +1321,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6754910103) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/72/9a/31/729a31f0-ad06-f50a-438a-0219998c38ad/4__U00283_U0029.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`40` 
+- [Conduck](https://github.com/GigaDuckAI/conduck): Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay
+  - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://conduck.com/media/conduck-film-poster-v1.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `apple-watch` `macos` `swiftui` 
 - [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
   - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
