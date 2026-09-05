@@ -29855,7 +29855,7 @@
       "tags": [
         "swift",
         "apns",
-        "ios12"
+        "ios12", "archive"
       ],
       "license": "other",
       "source": "https://github.com/PaulaScholz/ApnsSample",
