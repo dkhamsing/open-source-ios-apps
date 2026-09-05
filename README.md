@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%20%205,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2508,9 +2508,6 @@ https://newsapi.org/ — [back to top](#readme)
 - [30 mini Swift Apps for self-study](https://github.com/soapyigu/Swift-30-Projects)
   -  `2023` `swift` 
   -  ☆`8295` 
-- [ApnsSample](https://github.com/PaulaScholz/ApnsSample): Shows how to use the Apple Push Notification service (APNs)
-  -  `2019` `swift` `apns` `ios12` 
-  -  ☆`7` 
 - [Apple Developer Library](https://developer.apple.com/library/archive/navigation/)
   - `objc` 
 - [Apple-Music-UI-Demo](https://github.com/sebjvidal/Apple-Music-UI-Demo): Apple Music / Podcasts UI with custom view controller transition
