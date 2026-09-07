@@ -45,6 +45,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Aozora](https://github.com/opensourceios/Aozora)
 - [apnagent-ios](https://github.com/logicalparadox/apnagent-ios)
 - [ApnsSample](https://github.com/PaulaScholz/ApnsSample)
+- [Apollo](https://github.com/KhaosT/open-apollo)
 - [App Store Clone](https://github.com/VamshiIITBHU14/AppStoreClone)
 - [Apple WWDC 2015](https://developer.apple.com/videos/2015/)
 - [Apple WWDC 2021](https://developer.apple.com/sample-code/wwdc/2021/)
