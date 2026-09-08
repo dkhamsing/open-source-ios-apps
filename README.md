@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2592,10 +2592,6 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://www.objc.io/books/app-architecture/>`https://www.objc.io/books/app-architecture/`</a>
   -  `2024` `swift` 
   -  ☆`2055` 
-- [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/2e65417a-339d-4281-a5f1-6db84ea879a2'>`Screenshot 1`</a> 
-  -  `2019` `swift` `alamofire` `moya` `corelocation` 
-  -  ☆`45` 
 - [RoomPlan](https://developer.apple.com/documentation/roomplan/create-a-3d-model-of-an-interior-room-by-guiding-the-user-through-an-ar-experience): Create a 3D model of an interior room by guiding the user through an AR experience
   -  <a href='https://github.com/user-attachments/assets/f5f439be-0578-46c7-95fb-f63f66bf2dac'>`Screenshot 1`</a> 
   - `swift` 
