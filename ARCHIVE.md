@@ -593,6 +593,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Reminders](https://github.com/tiagomartinho/Reminders)
 - [Remote](https://github.com/michaelvillar/remote)
 - [Repo](https://github.com/ricburton/Repo)
+- [Restaurant Viewing](https://github.com/gtokman/Restaurant-Viewing-App)
 - [Retriever](https://github.com/opensourceios/Retriever)
 - [Retro Skate](https://github.com/intere/retro-skate-tvOS)
 - [Reusable Code](https://github.com/opensourceios/Swift-Reusable-Code)
