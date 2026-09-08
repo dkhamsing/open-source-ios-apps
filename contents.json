@@ -21116,7 +21116,7 @@
         "swift",
         "alamofire",
         "moya",
-        "corelocation"
+        "corelocation", "archive"
       ],
       "license": "other",
       "source": "https://github.com/gtokman/Restaurant-Viewing-App",
