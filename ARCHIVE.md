@@ -330,6 +330,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hidrate](https://github.com/mjcuva/Hidrate)
 - [HighStreet](https://github.com/GetHighstreet/HighstreetWatchApp)
 - [HN Now](https://github.com/nathfreder/HNNow)
+- [HN Reader](https://github.com/Dimillian/SwiftHN)
 - [HN-App](https://github.com/NikantVohra/HackerNewsClient-iOS)
 - [Hodor](https://github.com/jonomuller/Hodor-Keyboard)
 - [HomeKit-Demo](https://github.com/KhaosT/HomeKit-Demo)
