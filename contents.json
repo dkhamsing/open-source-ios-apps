@@ -5833,7 +5833,7 @@
         "shopping"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "license": "mit",
       "source": "https://github.com/openshopio/openshop.io-ios",
