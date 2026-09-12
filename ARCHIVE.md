@@ -318,6 +318,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Hack Cancer Hackathon](https://github.com/HackCancer/iOS)
 - [Hacker News Client](https://github.com/bonzoq/hniosreader)
 - [HackerNews (Y)](https://github.com/vetri02/HackerNews)
+- [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS)
 - [Hand-painted style tower defense game](https://github.com/gamechina/GoldenWar)
 - [Harvest-SwiftUI-Gallery](https://github.com/inamiy/Harvest-SwiftUI-Gallery)
 - [HausClock](https://github.com/nottombrown/HausClock)
