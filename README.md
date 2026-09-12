@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2011,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2012,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3160,11 +3160,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Groceries](https://github.com/Sophiestication/Groceries)
   -  `2023` `objc` 
   -  ☆`82` 
-- [Hackfoldr](https://github.com/hackfoldr/hackfoldr-iOS): Share all your project documents with a link
-  - <a href=https://hackfoldr.org>`https://hackfoldr.org`</a>
-  -  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/32/15/1a/32151a02-4fb8-70e2-8d43-e361bee0722a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/16/62/14/16621422-f94c-a589-e5c6-3696177647a2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
-  -  `2019` `objc` 
-  -  ☆`27` 
 - [Hello Bluetooth](https://github.com/nebs/hello-bluetooth): Communicates with an Arduino 101 over Bluetooth with the ButtonLED
   -  `2019` `swift` `bluetooth` `arduino` 
   -  ☆`75` 
