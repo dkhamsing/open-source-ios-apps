@@ -1992,7 +1992,7 @@
         "content-blocking"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "source": "https://github.com/adblockplus/adblockplussafariios",
       "itunes": "https://apps.apple.com/app/adblock-plus-abp/id1028871868",
