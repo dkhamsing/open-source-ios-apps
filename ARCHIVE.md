@@ -19,6 +19,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AccountBook](https://github.com/opensourceios/AccountBook)
 - [Actions](https://github.com/sindresorhus/Actions)
 - [Actor](https://github.com/actorapp/actor-platform)
+- [Adblock Plus](https://github.com/adblockplus/adblockplussafariios)
 - [Adler Planetarium Navigation & Tour](https://github.com/lucasqiu/Adler-Mobile-App)
 - [Aeropack](https://github.com/insurgentgames/Aeropack)
 - [AfishaLviv](https://github.com/danylokos/AfishaLviv-iOS)
