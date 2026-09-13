@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **302** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **301** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -532,10 +532,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [Adblock Plus](https://github.com/adblockplus/adblockplussafariios)
-  - [` App Store`](https://apps.apple.com/app/adblock-plus-abp/id1028871868) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple18/v4/63/2b/11/632b11db-df92-33ba-c29b-7270b3640719/mzm.tllrdtsg.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple6/v4/29/04/d2/2904d25f-f6a9-dbbf-831c-40a147b5212c/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple6/v4/71/4c/32/714c32c6-f775-66ae-a78c-7e2b53f0c864/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple3/v4/61/de/b9/61deb9d6-885c-ae67-3afe-dc0400a9f299/pr_source.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple3/v4/0e/f4/8e/0ef48e26-1547-6765-0b0e-6c1be98c4a2c/pr_source.png/460x0w.jpg'>`Screenshot 5`</a> 
-  -  `2020` `objc` 
-  -  ☆`151` 
 - [Adguard](https://github.com/AdguardTeam/AdguardForiOS): Adblocker and anti-tracking
   - [` App Store`](https://apps.apple.com/app/adguard-adblock-privacy/id1047223162) <a href='https://user-images.githubusercontent.com/28860202/37027267-e9cf7534-2141-11e8-89fd-3fc99c3f2c86.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/28860202/37027271-ec5f5972-2141-11e8-884b-038d73fb68ae.png'>`Screenshot 2`</a> 
   -  `2026` `objc` `javascript` 
