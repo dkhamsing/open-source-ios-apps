@@ -791,6 +791,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Upupu](https://github.com/xcoo/upupu)
 - [v2ex](https://github.com/singro/v2ex)
 - [Valio Con 2014 Schedule](https://github.com/soffes/valio)
+- [Vapor Chat](https://github.com/vapor-community/chat-ios-example)
 - [Vegan Lists UK](https://github.com/dsgriffin/vegan-lists-uk)
 - [Vesper](https://github.com/brentsimmons/Vesper)
 - [Vim](https://github.com/applidium/Vim)
