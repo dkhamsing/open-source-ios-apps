@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1691,7 +1691,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
  
 
 - [Dredfit](https://github.com/dredfort42/dredfit): Adaptive bodyweight workout trainer that adjusts to how your last session went
-  - [` App Store`](https://apps.apple.com/app/id6791739610) <a href='https://raw.githubusercontent.com/dredfort42/dredfit/main/appstore/screenshots/en/s1.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6791739610) <a href='https://github.com/dredfort42/dredfit/blob/develop/store/appstore/screenshots/en/s1.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
 - [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
