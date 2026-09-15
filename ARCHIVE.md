@@ -507,6 +507,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [OpenTerm](https://github.com/louisdh/openterm)
 - [Orbit7](https://github.com/Aaron-A/Orbit7)
 - [packlog](https://github.com/jdg/packlog)
+- [palette-from-image](https://github.com/chuongtrh/palette-from-image)
 - [Pancake](https://github.com/Imaginea/pancake-ios)
 - [PapersSwiftUI](https://github.com/donbytyqi/PapersSwiftUI)
 - [Papr](https://github.com/jdisho/Papr)
