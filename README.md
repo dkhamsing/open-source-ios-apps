@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -372,10 +372,6 @@ Jump to
 - [GammaThingy](https://github.com/thomasfinch/GammaThingy): Change screen gamma dynamically
   -  `2024` `objc` 
   -  ☆`778` 
-- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
-  -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
-  -  `2020` `swift` `palette` `color` `earthview` 
-  -  ☆`38` 
 ## Clock 
  
 [back to top](#readme) 
@@ -436,10 +432,6 @@ Jump to
   -  <a href='https://github.com/saulsharma/netflix-ui/raw/main/assets/gifs/demo.gif'>`Screenshot 1`</a> 
   -  `2026` `react-native` `expo` 
   -  ☆`1712` 
-- [palette-from-image](https://github.com/chuongtrh/palette-from-image): Inspired by https://earthview.withgoogle.com
-  -  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a>  <a href='https://github.com/chuongtrh/palette-from-image/blob/master/screenshots/screenshot3.png?raw=true'>`Screenshot 3`</a> 
-  -  `2020` `swift` `palette` `color` `earthview` 
-  -  ☆`38` 
 - [Snake Classic](https://github.com/PiXeL16/SnakeClassic): A snake engine for all Apple devices
   -  <a href='https://raw.githubusercontent.com/PiXeL16/SnakeClassic/master/Art/SnakeWatch.png'>`Screenshot 1`</a> 
   -  `2023` `swift` 
