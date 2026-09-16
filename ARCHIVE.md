@@ -680,6 +680,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Standard Notes](https://github.com/standardnotes/mobile)
 - [Starship](https://github.com/kylef-archive/Starship)
 - [Startups - Mapped In Israel](https://github.com/sugarso/MappedInIsrael)
+- [Static Widget in iOS 14](https://github.com/StewartLynch/iOS-14-Widget)
 - [Status](https://github.com/status-im/status-mobile)
 - [Stay](https://github.com/shenruisi/Stay)
 - [Steps](https://github.com/gizmosachin/Steps)
