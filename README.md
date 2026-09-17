@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2016,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3155,10 +3155,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Learning](https://github.com/almormd/Learning): Different projects to test and learn
   -  `2022` `swift` `alamofire` `core-data` 
   -  ☆`11` 
-- [Locations for LOST](https://github.com/AdrienVillez/LOST-Location): A movie scenes finder
-  -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/d9/96/1d/d9961d27-0750-2d77-9b3d-1d327d349b73/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/2c/8c/48/2c8c480c-86e1-40db-dd0a-fb2aebe1f698/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/db/36/9b/db369b6e-407f-3a50-46eb-a066b26bfb80/pr_source.png/460x0w.png'>`Screenshot 3`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/fa/9d/c2/fa9dc286-019b-9698-c1ef-f9b3a8b2f4ae/pr_source.png/460x0w.png'>`Screenshot 4`</a> 
-  -  `2019` `swift` 
-  -  ☆`10` 
 - [MADBike](https://github.com/alexruperez/MADBike): BiciMAD app with its own style and design
   - [` App Store`](https://apps.apple.com/app/madbike/id1067596651) <a href='https://user-images.githubusercontent.com/4723115/171218451-82b563c5-c2b3-4f41-bf77-fc432245499e.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/10/6d/cc/106dcc94-1daf-c1f8-12ce-0cb234657f7e/pr_source.png/0x0ss.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/85/a5/a7/85a5a7c0-ebc9-27d4-5f81-6d7c6f7b4c02/pr_source.png/0x0ss.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/b6/91/dd/b691dda9-6f80-4942-3182-0c848ac0477a/pr_source.jpg/0x0ss.jpg'>`Screenshot 4`</a> 
   -  `2019` `clone` `core-data` `firebase` `fitness` `location` `news` `weather` 
