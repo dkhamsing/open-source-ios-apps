@@ -394,6 +394,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [LobsterApp](https://github.com/rhysforyou/LobsterApp)
 - [lobsters-reader](https://github.com/cfdrake/lobsters-reader)
 - [Local Storage](https://github.com/geberl/swift-localstorage)
+- [Locations for LOST](https://github.com/AdrienVillez/LOST-Location)
 - [Locative](https://github.com/LocativeHQ/Locative-iOS)
 - [lockd](https://github.com/opensourceios/lockd)
 - [LogU](https://github.com/brettalcox/logU-swift)
