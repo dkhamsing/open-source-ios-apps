@@ -657,6 +657,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Skeleton Key](https://github.com/insurgentgames/Skeleton-Key-iOS)
 - [SkeletonKey](https://github.com/chrishulbert/SkeletonKey)
 - [Skiff Mail](https://github.com/skiff-org/skiff-apps)
+- [Slidden](https://github.com/Brimizer/Slidden)
 - [Slide for Reddit](https://github.com/Haptic-Apps/Slide-iOS)
 - [Smart Traveller (UberGuide)](https://github.com/hACKbUSTER/UberGuide-iOS)
 - [SmartThing](https://github.com/der1598c/SmartThing)
