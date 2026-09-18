@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1674-green.svg) ![](https://img.shields.io/badge/Updated-September%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3217,10 +3217,6 @@ https://joinmastodon.org — [back to top](#readme)
 - [Shortcuts support for Micro.blog](https://github.com/vincode-io/Humboldt)
   -  `2024` `swift` 
   -  ☆`9` 
-- [Slidden](https://github.com/Brimizer/Slidden): Customizable keyboard
-  -  <a href='https://github.com/Brimizer/Slidden/raw/master/assets/screenshot.png'>`Screenshot 1`</a> 
-  -  `2019` `objc` 
-  -  ☆`594` 
 - [SortingAlgorithmsApp](https://github.com/victorpanitz/iOS-SortingAlgorithmsApp)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4237eb9f-6d02-4227-abe0-c2867cf8d09b'>`Screenshot 1`</a> 
   -  `2026` `swift` 
