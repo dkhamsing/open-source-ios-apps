@@ -3708,7 +3708,7 @@
         "misc"
       ],
       "tags": [
-        "objc"
+        "objc", "archive"
       ],
       "description": "Customizable keyboard",
       "source": "https://github.com/Brimizer/Slidden",
