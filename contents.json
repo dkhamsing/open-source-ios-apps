@@ -34734,6 +34734,27 @@
       ],
       "date_added": "Sep 2 2026",
       "suggested_by": "@peterkrueck"
+    },
+    {
+      "title": "RealTime Space",
+      "category-ids": [
+        "education"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "javascript",
+        "webkit"
+      ],
+      "description": "Real-time 3D solar system explorer with NASA imagery for every planet, moon and ring system, rendered with Three.js/WebGL in a WKWebView",
+      "source": "https://github.com/nicedreamzapp/RealTime-Space",
+      "itunes": "https://apps.apple.com/app/id6788646103",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nicedreamzapp/RealTime-Space/main/ios/AppStore/screenshots/01_cockpit_saturn.png"
+      ],
+      "date_added": "Sep 19 2026",
+      "suggested_by": "@nicedreamzapp"
     }
   ]
 }
