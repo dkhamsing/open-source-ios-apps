@@ -34755,6 +34755,21 @@
       ],
       "date_added": "Sep 19 2026",
       "suggested_by": "@nicedreamzapp"
+    },
+    {
+      "title": "FileManager",
+      "category-ids": [
+        "security"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Local, sideloaded file manager with Face ID-locked folders, a hidden vault, real password-protected PDFs, and AES-256 encrypted zips",
+      "source": "https://github.com/xsxs18-dev/FileManager",
+      "license": "mit",
+      "date_added": "Sep 21 2026",
+      "suggested_by": "@xsxs18-dev"
     }
   ]
 }
