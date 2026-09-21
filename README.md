@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1675-green.svg) ![](https://img.shields.io/badge/Updated-September%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1676-green.svg) ![](https://img.shields.io/badge/Updated-September%2021,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2655,6 +2655,8 @@ https://newsapi.org/ — [back to top](#readme)
 - [DNSCloak](https://github.com/s-s/dnscloak): Override & secure DNS queries
   -  `2020` `objc` `cordova` 
   -  ☆`354` 
+- [FileManager](https://github.com/xsxs18-dev/FileManager): Local, sideloaded file manager with Face ID-locked folders, a hidden vault, real password-protected PDFs, and AES-256 encrypted zips
+  - `swift` `swiftui` 
 - [Hasha](https://github.com/LemonPepperSeasoning/Hasher): SHA-256 Hash collision computer
   -  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/59/cb/9e/59cb9eee-457c-e149-11d6-e84f39928147/1c3e71e3-2067-4f4c-9c60-aa4c9f8768d5_simulator_screenshot_224F753E-E5E4-4A19-80CC-ABDDDFDB7732.png/600x0w.webp'>`Screenshot 1`</a> 
   -  `2022` 
