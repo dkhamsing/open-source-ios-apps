@@ -34770,6 +34770,25 @@
       "license": "mit",
       "date_added": "Sep 21 2026",
       "suggested_by": "@xsxs18-dev"
+    },
+    {
+      "title": "Calorie",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "description": "Private food, water, medication-routine and weight journal with transparent nutrition and timing guidance",
+      "source": "https://github.com/Significant-Hobbies/calorie",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Significant-Hobbies/calorie/main/ios/artifacts/app-store/iphone-6.9/today.jpg"
+      ],
+      "date_added": "Sep 23 2026",
+      "suggested_by": "@sarthakagrawal927"
     }
   ]
 }
