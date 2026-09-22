@@ -407,6 +407,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Lunchify](https://github.com/sallar/lunchify-swift)
 - [LVMC](https://github.com/falkolab/LVMC-Demo-Alloy-App)
 - [M](https://github.com/Mynigma/M)
+- [MADBike](https://github.com/alexruperez/MADBike)
 - [Major Input](https://github.com/rlwimi/major-input)
 - [Malendar](https://github.com/croossin/Malendar)
 - [Mamoot!](https://github.com/Benetos/Mamoot)
