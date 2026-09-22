@@ -34770,6 +34770,28 @@
       "license": "mit",
       "date_added": "Sep 21 2026",
       "suggested_by": "@xsxs18-dev"
+    },
+    {
+      "title": "Anchor",
+      "category-ids": [
+        "apple-watch",
+        "productivity",
+        "timer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "cloudkit",
+        "watchos"
+      ],
+      "description": "Local-first day planner and focus timer for iPhone, Mac and Apple Watch that compares the planned day with what actually happened",
+      "source": "https://github.com/Significant-Hobbies/anchor",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Significant-Hobbies/anchor/main/docs/images/session.png"
+      ],
+      "date_added": "Sep 23 2026",
+      "suggested_by": "@sarthakagrawal927"
     }
   ]
 }
