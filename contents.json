@@ -34770,6 +34770,27 @@
       "license": "mit",
       "date_added": "Sep 21 2026",
       "suggested_by": "@xsxs18-dev"
+    },
+    {
+      "title": "Kith",
+      "category-ids": [
+        "social",
+        "notes",
+        "productivity"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "cloudkit"
+      ],
+      "description": "Private relationship journal with a closeness-weighted constellation, standing notes and a chronological memory log for each person",
+      "source": "https://github.com/Significant-Hobbies/kith",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Significant-Hobbies/kith/main/ios/artifacts/simulator/constellation.png"
+      ],
+      "date_added": "Sep 23 2026",
+      "suggested_by": "@sarthakagrawal927"
     }
   ]
 }
