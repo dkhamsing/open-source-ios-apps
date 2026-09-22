@@ -16910,7 +16910,7 @@
         "fitness",
         "location",
         "news",
-        "weather"
+        "weather", "archive"
       ],
       "description": "BiciMAD app with its own style and design",
       "source": "https://github.com/alexruperez/MADBike",
