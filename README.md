@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1676-green.svg) ![](https://img.shields.io/badge/Updated-September%2022,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1677-green.svg) ![](https://img.shields.io/badge/Updated-September%2023,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1497,6 +1497,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Calorie](https://github.com/Significant-Hobbies/calorie): Private food, water, medication-routine and weight journal with transparent nutrition and timing guidance
+  -  <a href='https://raw.githubusercontent.com/Significant-Hobbies/calorie/main/ios/artifacts/app-store/iphone-6.9/today.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `ipad` 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts
   - <a href=https://coronatracker.samabox.com/>`https://coronatracker.samabox.com/`</a>
   -  <a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'>`Screenshot 1`</a> 
