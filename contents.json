@@ -34772,6 +34772,21 @@
       "suggested_by": "@xsxs18-dev"
     },
     {
+      "title": "Silent Bell: Mindful Taps",
+      "category-ids": ["apple-watch"],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],      
+      "description": "Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?",
+      "source": "https://github.com/jakublipinski/Silent-Bell",
+      "itunes": "https://apps.apple.com/app/id6795404742",
+      "screenshots": ["https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png", "https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png", "https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png"],
+      "license": "apache-2.0",      
+      "date_added": "Sep 22 2026",
+      "suggested_by": "@jakublipinski"
+    },
+    {
       "title": "Calorie",
       "category-ids": [
         "health"
