@@ -547,6 +547,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Pokedex](https://github.com/yoha/Pokedex)
 - [Pokemon Go clone](https://github.com/c/Pokemon)
 - [pokemon-map](https://github.com/bakery/pokemon-map)
+- [PokePal](https://github.com/wvabrinskas/PokePal)
 - [pokevision](https://github.com/alexkirsz/rn-pokevision)
 - [Polls](https://github.com/apiaryio/polls-app)
 - [Poly API - Samples](https://github.com/googlevr/poly-sample-ios)
