@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1678-green.svg) ![](https://img.shields.io/badge/Updated-September%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1678-green.svg) ![](https://img.shields.io/badge/Updated-September%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3209,10 +3209,6 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/pocket-for-mealie/id6758108960) <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Recipes.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Mealie-Swift-App/main/screenshots/Planner.png'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`20` 
-- [PokePal](https://github.com/wvabrinskas/PokePal): AI Pokedex using Neuron
-  -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f018af5c-870a-459a-b507-c378773d2269'>`Screenshot 1`</a> 
-  -  `2026` `swift` `neural-network` 
-  -  ☆`5` 
 - [Recipes](https://github.com/onmyway133/Recipes)
   -  <a href='https://github.com/onmyway133/Recipes/raw/master/Screenshots/Home.png'>`Screenshot 1`</a> 
   -  `2020` `swift` 
