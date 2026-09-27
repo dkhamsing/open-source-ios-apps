@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **302** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **303** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -927,6 +927,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/simple-fitness-simplified/id6740262965) <a href='https://github.com/user-attachments/assets/d04a192f-836e-439e-aa0a-6fd8010cb13a'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/0bd94a1f-bca0-41ab-a67d-5745ed4d8599'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/7011f5ae-c0d7-444e-9bdc-1023d4bfd546'>`Screenshot 3`</a>  <a href='https://github.com/user-attachments/assets/de2a6493-ec9e-4935-a49b-c33dd9f66829'>`Screenshot 4`</a> 
   -  `2025` `react-native` `expo` `typescript` 
   -  ☆`225` 
+- [Subskills](https://github.com/ihvou/subskills): Sports technique video tutorials organized by sport and sub-skill
+  - <a href=https://subskills.xyz>`https://subskills.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6810049311) <a href='https://raw.githubusercontent.com/ihvou/subskills/main/store-assets/ios-listing/01-discover.png'>`Screenshot 1`</a> 
+  - `react-native` `expo` `typescript` 
 ### ResearchKit 
  
 https://www.apple.com/researchkit/ — [back to top](#readme) 
