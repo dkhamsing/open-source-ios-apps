@@ -34804,6 +34804,27 @@
       ],
       "date_added": "Sep 23 2026",
       "suggested_by": "@sarthakagrawal927"
+    },
+    {
+      "title": "Subskills",
+      "category-ids": [
+        "fitness"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript"
+      ],
+      "description": "Sports technique video tutorials organized by sport and sub-skill",
+      "source": "https://github.com/ihvou/subskills",
+      "homepage": "https://subskills.xyz",
+      "itunes": "https://apps.apple.com/app/id6810049311",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/ihvou/subskills/main/store-assets/ios-listing/01-discover.png"
+      ],
+      "date_added": "Sep 27 2026",
+      "suggested_by": "@ihvou"
     }
   ]
 }
