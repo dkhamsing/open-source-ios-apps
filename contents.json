@@ -1336,8 +1336,7 @@
 	{
       "title": "Paint Anytime",
       "category-ids": [
-        "apple-watch",
-        "color"
+        "apple-watch"
       ],
       "tags": [
         "swift",
