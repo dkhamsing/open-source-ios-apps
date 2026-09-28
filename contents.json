@@ -1333,6 +1333,27 @@
       "suggested_by": "@dkhamsing",
       "updated": "2015-12-10 10:59:55 UTC"
     },
+	{
+      "title": "Paint Anytime",
+      "category-ids": [
+        "apple-watch",
+        "color"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos"
+      ],
+      "description": "Draw, sketch and create tiny pieces of art directly on Apple Watch",
+      "source": "https://github.com/denis-kolchev/Paint-Anytime",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG",
+		"https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG"
+      ],
+      "date_added": "Sep 28 2026",
+      "suggested_by": "@denis-kolchev"
+    },
     {
       "title": "Brave Private Web Browser",
       "category-ids": [
