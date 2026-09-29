@@ -34845,6 +34845,27 @@
       ],
       "date_added": "Sep 27 2026",
       "suggested_by": "@ihvou"
+    },
+    {
+      "title": "Palm",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Use your whole Mac from your iPhone: live screen, files, terminal and the coding agents on it, over your own Tailscale network",
+      "source": "https://github.com/zaiqltd/palm",
+      "homepage": "https://zaiq.ai/palm",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/mac-screen.png",
+        "https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/agent-approval.png",
+        "https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/every-agent.png"
+      ],
+      "date_added": "Sep 29 2026",
+      "suggested_by": "@zaiqltd"
     }
   ]
 }
