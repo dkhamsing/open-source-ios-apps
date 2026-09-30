@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1679-green.svg) ![](https://img.shields.io/badge/Updated-September%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1681-green.svg) ![](https://img.shields.io/badge/Updated-September%2030,%202026-lightgrey.svg)
 
 Jump to
 
@@ -243,6 +243,9 @@ Jump to
 - [NowPlayingPlus](https://github.com/chockenberry/NowPlayingPlus): Circular and corner complications for Now Playing controls
   -  `2025` `watchos` 
   -  ☆`29` 
+- [Paint Anytime](https://github.com/denis-kolchev/Paint-Anytime): Draw, sketch and create tiny pieces of art directly on Apple Watch
+  -  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `watchos` 
 - [PhotoWatch](https://github.com/dropbox/PhotoWatch): Uses the SwiftyDropbox SDK
   -  <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -722,6 +725,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`86` 
+- [Palm](https://github.com/zaiqltd/palm): Use your whole Mac from your iPhone: live screen, files, terminal and the coding agents on it, over your own Tailscale network
+  - <a href=https://zaiq.ai/palm>`https://zaiq.ai/palm`</a>
+  -  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/mac-screen.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/agent-approval.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/every-agent.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Pisth](https://github.com/ColdGrub1384/Pisth): SSH and SFTP client
   - <a href=https://pisth.github.io>`https://pisth.github.io`</a>
   -  <a href='https://pisth.github.io/apt/screenshots.png'>`Screenshot 1`</a> 
