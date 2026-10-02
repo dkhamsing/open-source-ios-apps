@@ -1,0 +1,26 @@
+name: Validate
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.4.0'    
+          bundler-cache: true      
+
+      - name: Install json_schema
+        run: gem install json_schema
+
+      - name: Validate schema
+        run: validate-schema .github/schema.json contents.json
+
+      - name: Validate categories
+        run: ruby .github/osia_validate_categories.rb
