@@ -1,0 +1,19 @@
+name: PR Approved
+
+on:
+   push:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: ruby/setup-ruby@v1
+      - run: ruby .github/osia_convert.rb
+      - name: Push changes
+        uses: actions-go/push@v1
+        with:
+          force: true
+          author-name: READMEbot
+          commit-message: '[auto] [ci skip] Generate content'
