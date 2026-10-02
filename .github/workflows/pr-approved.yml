@@ -10,6 +10,9 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.3'
+          bundler-cache: true 
       - run: ruby .github/osia_convert.rb
       - name: Push changes
         uses: actions-go/push@v1
