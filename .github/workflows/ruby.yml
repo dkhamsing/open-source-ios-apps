@@ -1,4 +1,4 @@
-name: Ruby
+name: Links check
 
 on:
   push:
