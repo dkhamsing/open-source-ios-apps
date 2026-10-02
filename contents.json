@@ -34934,6 +34934,24 @@
       "suggested_by": "@sarthakagrawal927",
       "stars": 0,
       "updated": "2026-09-27 08:39:19 UTC"
+    },
+    {
+      "title": "Motion",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "vision"
+      ],
+      "description": "Body-controlled game that tracks your movement with the device camera and can mirror play to a larger screen",
+      "source": "https://github.com/Significant-Hobbies/motion",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Significant-Hobbies/motion/main/artifacts/app-store/iphone-6.9/motion-maker-clean.jpg"
+      ],
+      "date_added": "Oct 2 2026",
+      "suggested_by": "@sarthakagrawal927"
     }
   ]
 }
