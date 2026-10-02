@@ -34952,6 +34952,29 @@
       ],
       "date_added": "Oct 2 2026",
       "suggested_by": "@sarthakagrawal927"
+    },
+    {
+      "title": "Autheris",
+      "category-ids": [
+        "password"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "2fa",
+        "watchos",
+        "macos"
+      ],
+      "description": "Privacy-first two-factor authenticator for iPhone, iPad, Mac and Apple Watch",
+      "source": "https://github.com/nerdykidtech/Autheris",
+      "homepage": "https://autheris.app",
+      "itunes": "https://apps.apple.com/app/autheris/id6760686327",
+      "license": "mit",
+      "screenshots": [
+        "https://autheris.app/assets/img/hero-app-1206.webp"
+      ],
+      "date_added": "Oct 2 2026",
+      "suggested_by": "@Nerdykidtech"
     }
   ]
 }
