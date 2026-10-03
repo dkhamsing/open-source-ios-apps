@@ -60,5 +60,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: link-check-results
-          path: ent/
+          path: ab-results*
           if-no-files-found: ignore
+          compression-level: 6
+          overwrite: false
+          include-hidden-files: false          
