@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1683-green.svg) ![](https://img.shields.io/badge/Updated-October%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1685-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1615,6 +1615,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rise-sleep-companion/id6451386327) <a href='https://github.com/VladimirBrejcha/Rise/assets/44097057/f680e08c-2c2b-4293-a1cd-2bd342f284b0'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`46` 
+- [Setline](https://github.com/Significant-Hobbies/setline): Workout player for structured strength, cardio and mobility programmes with set recording, rest timing and target comparisons
+  -  <a href='https://raw.githubusercontent.com/Significant-Hobbies/setline/main/ios/artifacts/app-store/iphone-6.9/workout-player.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `cloudkit` 
 - [Solstice](https://github.com/daneden/Solstice): Tells you how the daylight is changing
   -  `2026` `swift` 
   -  ☆`116` 
@@ -2775,6 +2778,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id766157276) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/89/b8/5b/89b85bf2-395f-6b30-a62b-48cfa15803ab/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/8f/78/ae/8f78aefc-9fb3-ed73-d5d8-ee768073869d/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/2f/b0/11/2fb0114c-bce3-0122-9871-0bb88a95802d/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` `2fa` 
   -  ☆`873` 
+- [Autheris](https://github.com/nerdykidtech/Autheris): Privacy-first two-factor authenticator for iPhone, iPad, Mac and Apple Watch
+  - <a href=https://autheris.app>`https://autheris.app`</a>
+  - [` App Store`](https://apps.apple.com/app/autheris/id6760686327) <a href='https://autheris.app/assets/img/hero-app-1206.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `2fa` `watchos` `macos` 
 - [Bitwarden](https://github.com/bitwarden/ios): Password Manager and Authenticator
   - <a href=https://bitwarden.com>`https://bitwarden.com`</a>
   - [` App Store`](https://apps.apple.com/app/bitwarden-free-password-manager/id1137397744) <a href='https://raw.githubusercontent.com/bitwarden/ios/main/.github/images/ios-dark.png'>`Screenshot 1`</a> 
