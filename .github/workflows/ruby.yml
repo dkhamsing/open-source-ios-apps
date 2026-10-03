@@ -2,24 +2,66 @@ name: Links check
 
 on:
   push:
-    branches: [ '*' ]
+    branches: [ '**' ]
   pull_request:
-    branches: [ '*' ]
+  schedule:
+    - cron: '0 6 * * 1'   # weekly, catches link rot even without commits
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: links-check-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  build:
-
+  check-links:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
 
     steps:
-    - uses: actions/checkout@v6
-    - name: Set up Ruby 2.6
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '2.6'
-    - name: Checks
-      run: |
-        ruby .github/osia_convert.rb
-        gem install awesome_bot
-        ruby .github/osia_get_links.rb
-        awesome_bot check-unique.txt --allow-ssl -a 302,429,502 -w shadowfacts,c0051d18eb21,636db0400a1d,263bb0f74818,b04e7e7b9917,86f88feaf81a,cdn-images-1,ib9hnrPzudBWOE5hTr,linphone.org
+      - uses: actions/checkout@v6
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '2.6'
+          bundler-cache: true   # only effective if a Gemfile exists; harmless otherwise
+
+      - name: Convert and extract links
+        run: |
+          ruby .github/osia_convert.rb
+          ruby .github/osia_get_links.rb
+
+      - name: Install awesome_bot
+        run: gem install awesome_bot --no-document
+
+      - name: Check links
+        env:
+          WHITELIST: >-
+            shadowfacts,
+            c0051d18eb21,
+            636db0400a1d,
+            263bb0f74818,
+            b04e7e7b9917,
+            86f88feaf81a,
+            cdn-images-1,
+            ib9hnrPzudBWOE5hTr,
+            linphone.org
+        run: |
+          awesome_bot check-unique.txt \
+            --allow-ssl \
+            --allow 302,429,502 \
+            --white-list "$(echo "$WHITELIST" | tr -d ' \n')"
+
+      - name: Upload link report
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-check-results
+          path: ab-results*
+          if-no-files-found: ignore
+          compression-level: 6
+          overwrite: false
+          include-hidden-files: false          
