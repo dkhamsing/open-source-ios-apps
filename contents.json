@@ -35014,6 +35014,31 @@
       ],
       "date_added": "Oct 2 2026",
       "suggested_by": "@Nerdykidtech"
+    },
+    {
+      "title": "Recly",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos",
+        "kotlin-multiplatform"
+      ],
+      "description": "One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key",
+      "source": "https://github.com/rokrokss/recly",
+      "homepage": "https://recly.dev",
+      "itunes": "https://apps.apple.com/app/recly-record-for-your-ai/id6809930443",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png",
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png",
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png",
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/apple-watch.png"
+      ],
+      "date_added": "Oct 5 2026",
+      "suggested_by": "@rokrokss"
     }
   ]
 }
