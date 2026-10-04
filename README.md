@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1685-green.svg) ![](https://img.shields.io/badge/Updated-October%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1686-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2850,6 +2850,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/critical-maps/id918669647) <a href='https://github.com/user-attachments/assets/714ed171-9871-4ca3-8db9-45740fc55972'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` `tca` `snapshottesting` 
   -  ☆`318` 
+- [Kith](https://github.com/Significant-Hobbies/kith): Private relationship journal with a closeness-weighted constellation, standing notes and a chronological memory log for each person
+  -  <a href='https://raw.githubusercontent.com/Significant-Hobbies/kith/main/ios/artifacts/simulator/constellation.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `cloudkit` 
 - [Mlem](https://github.com/mlemgroup/mlem): A Lemmy client
   - [` App Store`](https://apps.apple.com/app/id6450543782) <a href='https://mlem.group/screenshots/showcase/feeds.jpeg'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
