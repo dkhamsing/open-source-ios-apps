@@ -35061,6 +35061,25 @@
       ],
       "date_added": "Oct 4 2026",
       "suggested_by": "@mrzmyr"
+    },
+    {
+      "title": "Sonar",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.",
+      "source": "https://github.com/can4hou6joeng4/Sonar",
+      "license": "gpl-3.0",
+      "lang": "zho",
+      "screenshots": [
+        "https://raw.githubusercontent.com/can4hou6joeng4/Sonar/main/assets/previews/ios-main.png"
+      ],
+      "date_added": "Oct 6 2026",
+      "suggested_by": "@can4hou6joeng4"
     }
   ]
 }
