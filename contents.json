@@ -35039,6 +35039,28 @@
       ],
       "date_added": "Oct 5 2026",
       "suggested_by": "@rokrokss"
+    },
+    {
+      "title": "Pixy",
+      "category-ids": [
+        "health",
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "typescript",
+        "expo"
+      ],
+      "description": "Mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone",
+      "source": "https://github.com/mrzmyr/pixy-mood-tracker-app",
+      "homepage": "https://pixy.day",
+      "itunes": "https://apps.apple.com/app/pixy-mood-tracker/id1605327124",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/mrzmyr/pixy-mood-tracker-app/main/docs/screen-1.png"
+      ],
+      "date_added": "Oct 4 2026",
+      "suggested_by": "@mrzmyr"
     }
   ]
 }
