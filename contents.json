@@ -35080,6 +35080,26 @@
       ],
       "date_added": "Oct 6 2026",
       "suggested_by": "@can4hou6joeng4"
+    },
+    {
+      "title": "Vibe",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "description": "Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.",
+      "source": "https://github.com/cmicali/vibe",
+      "homepage": "https://vibeplayer.app",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png",
+        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png",
+        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png"
+      ],
+      "date_added": "Oct 6 2026",
+      "suggested_by": "@cmicali"
     }
   ]
 }
