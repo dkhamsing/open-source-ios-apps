@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1687-green.svg) ![](https://img.shields.io/badge/Updated-October%20%205,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1690-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -261,6 +261,10 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'>`Screenshot 4`</a> 
   -  `2020` 
   -  ☆`6` 
+- [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
+  - <a href=https://recly.dev>`https://recly.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/apple-watch.png'>`Screenshot 4`</a> 
+  - `swift` `swiftui` `watchos` `kotlin-multiplatform` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
   - [` App Store`](https://apps.apple.com/app/id6795404742) <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
@@ -1964,10 +1968,17 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` `snapkit` `haneke` `koloda` 
   -  ☆`47` 
+- [Sonar](https://github.com/can4hou6joeng4/Sonar): Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.
+  -  <a href='https://raw.githubusercontent.com/can4hou6joeng4/Sonar/main/assets/previews/ios-main.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`2942` 
+- [Vibe](https://github.com/cmicali/vibe): Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.
+  - <a href=https://vibeplayer.app>`https://vibeplayer.app`</a>
+  -  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png'>`Screenshot 3`</a> 
+  - `objc` 
 - [Vowel Practice](https://github.com/fulldecent/vowel-practice): Find formants in spoken sounds
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2026` `swift` `macos` `ipad` 
@@ -3328,10 +3339,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`41` 
-- [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData): Designed to quickly & easily add tasks
-  -  <a href='https://raw.githubusercontent.com/mbcrump/TasksForSwiftWithPersistingData/master/Images/demo.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` `iphone` 
-  -  ☆`16` 
 ### Firebase 
  
 https://firebase.google.com/ — [back to top](#readme) 

@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **305** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **306** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -140,6 +140,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`66` 
+- [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
+  - <a href=https://recly.dev>`https://recly.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/apple-watch.png'>`Screenshot 4`</a> 
+  - `swift` `swiftui` `watchos` `kotlin-multiplatform` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
   - [` App Store`](https://apps.apple.com/app/id6795404742) <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 

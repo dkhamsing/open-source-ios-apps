@@ -725,6 +725,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Tagger](https://github.com/ivan-magda/Tagger)
 - [Task Coach](https://sourceforge.net/projects/taskcoach/)
 - [TaskPaper](https://github.com/jessegrosjean/NOTTaskPaperForIOS)
+- [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData)
 - [TCN](https://github.com/TCNCoalition/tcn-client-ios)
 - [Technex, IIT(BHU) Varanasi](https://github.com/jogendra/technex-ios)
 - [TechTavta](https://github.com/LUGM/TechTatva-15)
