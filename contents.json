@@ -35117,6 +35117,28 @@
       ],
       "date_added": "Oct 7 2026",
       "suggested_by": "@materialofair"
+    },
+    {
+      "title": "Codync",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls",
+      "source": "https://github.com/leepokai/Codync",
+      "homepage": "https://www.codync.dev",
+      "itunes": "https://apps.apple.com/app/codync/id6760984418",
+      "license": "mit",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/92/a2/4092a244-6d5f-52f2-f161-98f5a0c41fdd/01-hero.png/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/42/b6/5e42b681-fc15-2d72-a2df-2f16a9dac4fd/02-device-top.png/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/55/3cd655cd-aad7-e5b9-4c0b-fe8907c70b5b/03-device-bottom.png/392x696bb.jpg"
+      ],
+      "date_added": "Oct 7 2026",
+      "suggested_by": "@leepokai"
     }
   ]
 }
