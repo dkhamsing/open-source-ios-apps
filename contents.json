@@ -35100,6 +35100,23 @@
       ],
       "date_added": "Oct 6 2026",
       "suggested_by": "@cmicali"
+    },
+    {
+      "title": "ZeroNet Redact",
+      "category-ids": [
+        "security",
+        "photo",
+        "video"
+      ],
+      "description": "Redact photos, videos and PDFs on-device.",
+      "license": "gpl-3.0",
+      "source": "https://github.com/materialofair/ZeroNet_Redact",
+      "itunes": "https://apps.apple.com/app/id6756290503",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg"
+      ],
+      "date_added": "Oct 7 2026",
+      "suggested_by": "@materialofair"
     }
   ]
 }
