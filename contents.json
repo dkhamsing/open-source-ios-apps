@@ -35100,6 +35100,22 @@
       ],
       "date_added": "Oct 6 2026",
       "suggested_by": "@cmicali"
+    },
+    {
+      "title": "ZeroNet Space",
+      "category-ids": [
+        "security",
+        "file"
+      ],
+      "description": "Local encrypted vault for photos, videos, documents, notes and recordings.",
+      "license": "gpl-3.0",
+      "source": "https://github.com/materialofair/zeroNet_Space",
+      "itunes": "https://apps.apple.com/app/id6755504480",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7c/f2/f0/7cf2f09c-6f53-97dd-b913-cb1358642e5b/photos.png/320x480bb.jpg"
+      ],
+      "date_added": "Oct 7 2026",
+      "suggested_by": "@materialofair"
     }
   ]
 }
