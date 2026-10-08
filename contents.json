@@ -35092,6 +35092,7 @@
       "description": "Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.",
       "source": "https://github.com/cmicali/vibe",
       "homepage": "https://vibeplayer.app",
+      "itunes": "https://apps.apple.com/app/vibe-music-player/id1582482361",
       "license": "apache-2.0",
       "screenshots": [
         "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png",
