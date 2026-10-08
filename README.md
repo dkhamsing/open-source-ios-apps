@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1690-green.svg) ![](https://img.shields.io/badge/Updated-October%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1691-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2779,6 +2779,8 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`1409` 
+- [ZeroNet Redact](https://github.com/materialofair/ZeroNet_Redact): Redact photos, videos and PDFs on-device.
+  - [` App Store`](https://apps.apple.com/app/id6756290503) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg'>`Screenshot 1`</a> 
 ### Password 
  
 [back to top](#readme) 
