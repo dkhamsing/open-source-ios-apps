@@ -35138,6 +35138,29 @@
       ],
       "date_added": "Oct 7 2026",
       "suggested_by": "@leepokai"
+    },
+    {
+      "title": "Verceltics",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "description": "Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify",
+      "source": "https://github.com/apoorvdarshan/verceltics",
+      "homepage": "https://verceltics.com",
+      "itunes": "https://apps.apple.com/app/id6761645656",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png"
+      ],
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@apoorvdarshan"
     }
   ]
 }
