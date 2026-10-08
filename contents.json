@@ -35164,6 +35164,21 @@
       ],
       "date_added": "Oct 8 2026",
       "suggested_by": "@apoorvdarshan"
-    }
+    },
+	  {
+   "title": "iphoneduo",
+      "category-ids": [
+        "duo"
+      ],
+      "tags": [
+        "swift",
+        "swiftui" 
+      ],
+      "description": "Examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar",
+      "source": "https://github.com/Codelaby/IphoneDuo",
+   "license": "apache-2.0",
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@dkhamsing"		  
+	  }
   ]
 }
