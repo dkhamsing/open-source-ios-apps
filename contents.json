@@ -35138,6 +35138,31 @@
       ],
       "date_added": "Oct 7 2026",
       "suggested_by": "@leepokai"
+    },
+    {
+      "title": "Earnote",
+      "category-ids": [
+        "notes",
+        "education"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "whisper",
+        "mlx"
+      ],
+      "description": "Record lectures, meetings or voice memos and get a structured note with tasks, flashcards and a PDF study sheet; transcription runs on-device with Whisper",
+      "source": "https://github.com/louiskl/Earnote",
+      "homepage": "https://earnote.dev",
+      "itunes": "https://apps.apple.com/app/earnote/id6815681807",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-rec-en.jpg",
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-note-en.jpg",
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-cards-en.jpg"
+      ],
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@louiskl"
     }
   ]
 }
