@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **308** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **310** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -23,6 +23,7 @@ Jump to
 - [Developer](#developer) 
   - [GitHub](#github) 
   - [Terminal](#terminal) 
+- [Duo](#duo) 
 - [Education](#education) 
 - [Emulator](#emulator) 
 - [Event](#event) 
@@ -142,7 +143,7 @@ Jump to
   -  ☆`66` 
 - [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
   - <a href=https://recly.dev>`https://recly.dev`</a>
-  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/apple-watch.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a> 
   - `swift` `swiftui` `watchos` `kotlin-multiplatform` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
   - [` App Store`](https://apps.apple.com/app/id6795404742) <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png'>`Screenshot 3`</a> 
@@ -394,6 +395,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/apple-store/id1100539810) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/eb/03/2e/eb032e7d-9b04-0cea-89af-41478761d5b0/pr_source.png/316x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/de/e0/70/dee07035-182f-b5e1-9e48-38c5660dd760/pr_source.png/316x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple118/v4/fe/8d/03/fe8d03fd-bdc7-dca5-ddd1-57de854e716e/pr_source.png/316x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `c` `objc` `c++` 
   -  ☆`197` 
+- [Verceltics](https://github.com/apoorvdarshan/verceltics): Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify
+  - <a href=https://verceltics.com>`https://verceltics.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6761645656) <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ipad` 
 ### GitHub 
  
 [back to top](#readme) 
@@ -432,6 +437,11 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2024` `swift` `ipad` 
   -  ☆`688` 
+## Duo 
+ 
+[back to top](#readme) 
+ 
+
 ## Education 
  
 [back to top](#readme) 
@@ -1084,6 +1094,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/podverse/id1390888454) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/b7d0b732-f756-4d80-b1a5-8578ea71b817'>`Screenshot 1`</a> 
   -  `2025` `react-native` 
   -  ☆`285` 
+- [Vibe](https://github.com/cmicali/vibe): Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.
+  - <a href=https://vibeplayer.app>`https://vibeplayer.app`</a>
+  - [` App Store`](https://apps.apple.com/app/vibe-music-player/id1582482361) <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png'>`Screenshot 3`</a> 
+  - `objc` 
 - [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner
   - [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624) <a href='https://github.com/jpsim/ZenTuner/raw/main/images/zentuner-ios-dark.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 

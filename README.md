@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1692-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1693-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -23,6 +23,7 @@ Jump to
 - [Developer](#developer) 
   - [GitHub](#github) 
   - [Terminal](#terminal) 
+- [Duo](#duo) 
 - [Education](#education) 
 - [Emulator](#emulator) 
 - [Event](#event) 
@@ -263,7 +264,7 @@ Jump to
   -  ☆`6` 
 - [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
   - <a href=https://recly.dev>`https://recly.dev`</a>
-  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/apple-watch.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a> 
   - `swift` `swiftui` `watchos` `kotlin-multiplatform` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
   - [` App Store`](https://apps.apple.com/app/id6795404742) <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png'>`Screenshot 3`</a> 
@@ -772,6 +773,10 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/utmapp/UTM/main/screen.png'>`Screenshot 1`</a> 
   -  `2026` `objc` 
   -  ☆`35713` 
+- [Verceltics](https://github.com/apoorvdarshan/verceltics): Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify
+  - <a href=https://verceltics.com>`https://verceltics.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6761645656) <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ipad` 
 - [Zeitgeist](https://github.com/daneden/Zeitgeist): Keep an eye on your Vercel deployments
   -  <a href='https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -849,6 +854,15 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`1715` 
+## Duo 
+ 
+[back to top](#readme) 
+ 
+
+- [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+  -  <a href='https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` 
+  -  ☆`7074` 
 ## Education 
  
 [back to top](#readme) 
@@ -1981,7 +1995,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`2942` 
 - [Vibe](https://github.com/cmicali/vibe): Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.
   - <a href=https://vibeplayer.app>`https://vibeplayer.app`</a>
-  -  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/vibe-music-player/id1582482361) <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png'>`Screenshot 3`</a> 
   - `objc` 
 - [Vowel Practice](https://github.com/fulldecent/vowel-practice): Find formants in spoken sounds
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
