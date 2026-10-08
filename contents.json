@@ -35104,9 +35104,7 @@
     {
       "title": "ZeroNet Redact",
       "category-ids": [
-        "security",
-        "photo",
-        "video"
+        "security" 
       ],
       "description": "Redact photos, videos and PDFs on-device.",
       "license": "gpl-3.0",
