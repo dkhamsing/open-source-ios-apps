@@ -61,6 +61,10 @@
       "parent": "developer"
     },
     {
+      "title": "Duo",
+      "id": "duo"
+    },	  
+    {
       "title": "Education",
       "id": "education"
     },
@@ -30407,7 +30411,7 @@
     {
       "title": "Ice Cubes",
       "category-ids": [
-        "mastodon"
+        "mastodon", "duo"
       ],
       "source": "https://github.com/Dimillian/IceCubesApp",
       "tags": [
