@@ -17220,7 +17220,7 @@
         "mvp",
         "mvvm",
         "flux",
-        "design-patterns"
+        "design-patterns", "archive"
       ],
       "description": "GitHub user search app with variety of design patterns",
       "source": "https://github.com/marty-suzuki/iOSDesignPatternSamples",
