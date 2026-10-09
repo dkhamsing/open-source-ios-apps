@@ -35179,6 +35179,71 @@
    "license": "apache-2.0",
       "date_added": "Oct 8 2026",
       "suggested_by": "@dkhamsing"		  
-	  }
+	  },
+    {
+      "title": "Chain",
+      "category-ids": [
+        "tasks",
+        "widget"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Habit tracker with interactive Home Screen widgets, a year quilt per habit, streak freezes, quit-habit counters and Apple Health auto-complete",
+      "source": "https://github.com/Mattbusel/chain",
+      "itunes": "https://apps.apple.com/app/id6814264554",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },
+    {
+      "title": "Ironbook",
+      "category-ids": [
+        "fitness"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts",
+      "source": "https://github.com/Mattbusel/ironbook",
+      "itunes": "https://apps.apple.com/app/id6814264434",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },
+    {
+      "title": "Minder",
+      "category-ids": [
+        "productivity",
+        "timer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets",
+      "source": "https://github.com/Mattbusel/minder",
+      "itunes": "https://apps.apple.com/app/id6813451929",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    }
   ]
 }
