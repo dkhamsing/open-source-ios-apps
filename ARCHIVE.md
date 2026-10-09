@@ -263,6 +263,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [FlickrWatch](https://github.com/jazzychad/FlickrWatch)
 - [FlightUtilities](https://github.com/BalestraPatrick/FlightUtilities)
 - [Flutter News App](https://github.com/theindianappguy/FlutterNewsApp)
+- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy)
 - [FMobile](https://github.com/GroupeMINASTE/FMobile-iOS)
 - [For Hacker News by iSimar](https://github.com/iSimar/HackerNews-React-Native)
 - [ForceSketch](https://github.com/FlexMonkey/ForceSketch)

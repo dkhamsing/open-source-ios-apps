@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1693-green.svg) ![](https://img.shields.io/badge/Updated-October%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1694-green.svg) ![](https://img.shields.io/badge/Updated-October%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -863,6 +863,8 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`7074` 
+- [iphoneduo](https://github.com/Codelaby/IphoneDuo): Examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar
+  - `swift` `swiftui` 
 ## Education 
  
 [back to top](#readme) 
@@ -3441,10 +3443,6 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif'>`Screenshot 1`</a> 
   -  `2024` `flutter` `dart` 
   -  ☆`2386` 
-- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy): Movies powered by tmdb
-  -  <a href='https://github.com/ibhavikmakwana/Fluttery-Filmy/raw/master/screenshot/Fluttery_Filmy.gif'>`Screenshot 1`</a> 
-  -  `2019` `flutter` `dart` 
-  -  ☆`198` 
 - [Gmail clone](https://github.com/rodydavis/gmail_clone)
   -  <a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
