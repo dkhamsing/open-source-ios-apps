@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1694-green.svg) ![](https://img.shields.io/badge/Updated-October%20%209,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1695-green.svg) ![](https://img.shields.io/badge/Updated-October%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2518,6 +2518,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://github.com/user-attachments/assets/083609a7-f841-4d2c-96dc-78c0d6c9de5a'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `apple-watch` `macos` `swiftui` 
   -  ☆`33` 
+- [DartPDF](https://github.com/ben-milanko/dart-pdf/tree/main/app): PDF editor for annotating documents and filling forms
+  - <a href=https://dart-pdf.com/>`https://dart-pdf.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6780083686) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
 - [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
   - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -2929,10 +2932,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux
-  -  <a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `firebase` `redux` 
-  -  ☆`374` 
 - [Habitica](https://github.com/HabitRPG/habitica-ios): Habit building & productivity
   - <a href=https://habitica.com/static/home>`https://habitica.com/static/home`</a>
   - [` App Store`](https://apps.apple.com/app/id994882113) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -3407,6 +3406,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
   -  ☆`88` 
+- [DartPDF](https://github.com/ben-milanko/dart-pdf/tree/main/app): PDF editor for annotating documents and filling forms
+  - <a href=https://dart-pdf.com/>`https://dart-pdf.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6780083686) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
 - [Deer](https://github.com/aleksanderwozniak/deer): Minimalist Flutter Todo App, built using BLoC pattern
   -  `2020` `flutter` `dart` 
   -  ☆`459` 
@@ -3980,10 +3982,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` 
   -  ☆`28` 
-- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux
-  -  <a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `firebase` `redux` 
-  -  ☆`374` 
 - [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
   -  `2023` `swift` `macos` `swiftui` 
   -  ☆`1852` 
