@@ -17195,7 +17195,7 @@
         "developer"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "iTunes Connect app which is actually useful",
       "source": "https://github.com/RishabhTayal/Unofficial-iTC",
