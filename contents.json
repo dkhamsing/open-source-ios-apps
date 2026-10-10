@@ -35179,6 +35179,23 @@
    "license": "apache-2.0",
       "date_added": "Oct 8 2026",
       "suggested_by": "@dkhamsing"		  
-	  }
+	  },
+    {
+      "title": "DartPDF",
+      "category-ids": [
+        "productivity",
+        "flutter"
+      ],
+      "description": "PDF editor for annotating documents and filling forms",
+      "source": "https://github.com/ben-milanko/dart-pdf/tree/main/app",
+      "homepage": "https://dart-pdf.com/",
+      "itunes": "https://apps.apple.com/app/id6780083686",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg"
+      ],
+      "date_added": "Oct 10 2026",
+      "suggested_by": "@ben-milanko"
+    }
   ]
 }
