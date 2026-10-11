@@ -35196,6 +35196,35 @@
       ],
       "date_added": "Oct 10 2026",
       "suggested_by": "@ben-milanko"
+    },
+    {
+      "title": "Sill",
+      "category-ids": [
+        "productivity",
+        "duo",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "macos"
+      ],
+      "description": "Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys",
+      "source": "https://github.com/Saffsanity/sill",
+      "homepage": "https://getsill.app",
+      "itunes": "https://apps.apple.com/app/id6816359860",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg"
+      ],
+      "date_added": "Oct 11 2026",
+      "suggested_by": "@Saffsanity"
     }
   ]
 }
