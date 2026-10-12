@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **311** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **312** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -442,6 +442,10 @@ Jump to
 [back to top](#readme) 
  
 
+- [Sill](https://github.com/Saffsanity/sill): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys
+  - <a href=https://getsill.app>`https://getsill.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
+  - `swift` `swiftui` `ipad` `macos` 
 ## Education 
  
 [back to top](#readme) 
@@ -1372,6 +1376,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713) <a href='https://raw.githubusercontent.com/hooosberg/Rushi/main/posters/sheet-en.webp'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` `ipad` `multilingual` 
   -  ☆`27` 
+- [Sill](https://github.com/Saffsanity/sill): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys
+  - <a href=https://getsill.app>`https://getsill.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
+  - `swift` `swiftui` `ipad` `macos` 
 ## Sample 
  
 [back to top](#readme) 
@@ -1399,6 +1407,9 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Cloakmark](https://github.com/materialofair/ZeroNet_Redact): Redact photos, videos and PDFs on-device (formerly ZeroNet Redact).
+  - <a href=https://redact.siproducers.com>`https://redact.siproducers.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6756290503) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg'>`Screenshot 1`</a> 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020` `swift` 
@@ -1465,8 +1476,6 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wireguard/id1441195209) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/f9e45058-bd35-4626-b5c9-12f8ba174f63'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`1409` 
-- [ZeroNet Redact](https://github.com/materialofair/ZeroNet_Redact): Redact photos, videos and PDFs on-device.
-  - [` App Store`](https://apps.apple.com/app/id6756290503) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg'>`Screenshot 1`</a> 
 ### Password 
  
 [back to top](#readme) 
