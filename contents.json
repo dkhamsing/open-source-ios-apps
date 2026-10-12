@@ -35098,9 +35098,7 @@
       "itunes": "https://apps.apple.com/app/vibe-music-player/id1582482361",
       "license": "apache-2.0",
       "screenshots": [
-        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-player.png",
-        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-playlist.png",
-        "https://raw.githubusercontent.com/cmicali/vibe/main/Assets/screenshot-ios-iphone-seek.png"
+        "https://github.com/cmicali/vibe/blob/main/Assets/app-store/screenshots/en/ios/iphone/01-player.png?raw=true"
       ],
       "date_added": "Oct 6 2026",
       "suggested_by": "@cmicali"
