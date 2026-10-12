@@ -35268,6 +35268,28 @@
       ],
       "date_added": "Oct 13 2026",
       "suggested_by": "@emilwagman"
+    },
+    {
+      "title": "Quadrim",
+      "category-ids": [
+        "game",
+        "flutter"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "description": "Four in a row in a 4x4x4 cube with a rotatable 3D board and 31 computer opponents; vibe coded with Claude Code, every prompt and decision included",
+      "source": "https://github.com/evermeer/Quadrim",
+      "itunes": "https://apps.apple.com/app/quadrim/id6804034367",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png",
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png",
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png"
+      ],
+      "date_added": "Oct 13 2026",
+      "suggested_by": "@evermeer"
     }
   ]
 }
