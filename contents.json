@@ -35247,6 +35247,27 @@
       ],
       "date_added": "Oct 8 2026",
       "suggested_by": "@louiskl"
+    },
+    {
+      "title": "Pinto Notes",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos",
+        "mcp"
+      ],
+      "description": "Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them",
+      "source": "https://github.com/pinto-notes/pinto-notes",
+      "homepage": "https://pintonotes.com",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png"
+      ],
+      "date_added": "Oct 13 2026",
+      "suggested_by": "@emilwagman"
     }
   ]
 }
