@@ -361,6 +361,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [iOS 9 Sampler](https://github.com/shu223/iOS-9-Sampler)
 - [iOSAppsInfo](https://github.com/wujianguo/iOSAppsInfo)
 - [iOSDCRC](https://github.com/fromkk/iOSDCRC)
+- [iOSDesignPatternSamples](https://github.com/marty-suzuki/iOSDesignPatternSamples)
 - [iOSSwiftMetalCamera](https://github.com/bradley/iOSSwiftMetalCamera)
 - [IpfsIosAppExample](https://github.com/NeoTeo/IpfsIosAppExample)
 - [Ireland - COVID Tracker](https://github.com/HSEIreland/covid-tracker-app)
