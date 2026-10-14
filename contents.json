@@ -35290,6 +35290,24 @@
       ],
       "date_added": "Oct 13 2026",
       "suggested_by": "@evermeer"
+    },
+    {
+      "title": "JoeBro Mobile",
+      "description": "iPhone companion to the JoeBro Mac AI workspace; chats, agents and documents over your own network, no cloud",
+      "category-ids": [
+        "productivity"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/joexk1/JoeBro-Mobile/main/README_assets/phone-agent.png"
+      ],
+      "source": "https://github.com/joexk1/JoeBro-Mobile",
+      "license": "gpl-3.0",
+      "date_added": "Oct 14 2026",
+      "suggested_by": "@joexk1"
     }
   ]
 }
