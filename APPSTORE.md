@@ -281,7 +281,7 @@ Jump to
   -  ☆`1622` 
 - [Scowld](https://github.com/apoorvdarshan/scowld): AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers
   - <a href=https://scowld.xyz>`https://scowld.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://github.com/apoorvdarshan/scowld/blob/main/assets/avatars.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `ipad` 
   -  ☆`24` 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls
