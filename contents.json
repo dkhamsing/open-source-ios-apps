@@ -377,6 +377,22 @@
   ],
   "projects": [
     {
+      "title": "BG Trainer",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface",
+      "source": "https://github.com/korchasa/bg-trainer",
+      "itunes": "https://apps.apple.com/app/id6766068069",
+      "license": "mit",
+      "lang": "rus",
+      "screenshots": [
+        "https://bgtrainer.korchasa.dev/assets/app-lessons.png"
+      ],
+      "date_added": "Oct 17 2026",
+      "suggested_by": "@korchasa"
+    },
+    {
       "title": "Kurozora",
       "category-ids": [
         "official"
