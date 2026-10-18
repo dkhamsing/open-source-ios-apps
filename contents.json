@@ -35328,6 +35328,45 @@
       "license": "gpl-3.0",
       "date_added": "Oct 14 2026",
       "suggested_by": "@joexk1"
+    },
+    {
+      "title": "Sbu Subscriptions",
+      "description": "Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device",
+      "category-ids": [
+        "finance"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "widget"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg"
+      ],
+      "source": "https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions",
+      "itunes": "https://apps.apple.com/app/id6780154928",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@mgiuditta"
+    },
+    {
+      "title": "Sbu Scanner",
+      "description": "Read and make QR codes and barcodes, history on the device, no ads or tracking",
+      "category-ids": [
+        "scan"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/29/d4/2829d4af-e2ae-c7bf-aa38-b82e348ccbc9/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg"
+      ],
+      "source": "https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuScanner",
+      "itunes": "https://apps.apple.com/app/id6772572337",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@mgiuditta"
     }
   ]
 }
