@@ -1362,8 +1362,7 @@
       "tags": [
         "swift",
         "swiftui",
-        "watchos",
-        "2026"
+        "watchos"
       ],
       "description": "Draw, sketch and create tiny pieces of art directly on Apple Watch",
       "source": "https://github.com/denis-kolchev/Paint-Anytime",
