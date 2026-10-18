@@ -35328,6 +35328,27 @@
       "license": "gpl-3.0",
       "date_added": "Oct 14 2026",
       "suggested_by": "@joexk1"
+    },
+    {
+      "title": "LysnBox",
+      "description": "Listen to EPUBs, PDFs, web articles and text with on-device AI voices in 31 languages, fully offline",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_1_Library.png",
+        "https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png"
+      ],
+      "source": "https://github.com/joseph6377/J7seven",
+      "homepage": "https://books.josepht.in",
+      "itunes": "https://apps.apple.com/app/lysnbox/id6772035198",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@joseph6377"
     }
   ]
 }
