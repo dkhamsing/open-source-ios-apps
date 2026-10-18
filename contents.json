@@ -35349,6 +35349,26 @@
       "license": "mit",
       "date_added": "Oct 18 2026",
       "suggested_by": "@joseph6377"
-    }
+    },
+ {
+      "title": "Sbu Subscriptions",
+      "description": "Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device",
+      "category-ids": [
+        "finance"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "widget"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg"
+      ],
+      "source": "https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions",
+      "itunes": "https://apps.apple.com/app/id6780154928",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@mgiuditta"
+    }	  
   ]
 }
