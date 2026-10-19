@@ -35388,6 +35388,26 @@
       "license": "mit",
       "date_added": "Oct 18 2026",
       "suggested_by": "@mgiuditta"
+    },
+    {
+      "title": "Prism",
+      "description": "Reads Apple Health and works out daily sleep, recovery, strain, stress and energy scores on the device, with a journal, planners, widgets and full data export; no account needed",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit",
+        "widget"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png"
+      ],
+      "source": "https://github.com/soma-intelligence/prism",
+      "license": "agpl-3.0",
+      "date_added": "Oct 19 2026",
+      "suggested_by": "@QuentinCar0n"
     }	  
   ]
 }
