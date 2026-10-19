@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1702-green.svg) ![](https://img.shields.io/badge/Updated-October%2018,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1704-green.svg) ![](https://img.shields.io/badge/Updated-October%2019,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1266,6 +1266,9 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`45` 
+- [Sbu Subscriptions](https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions): Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device
+  - [` App Store`](https://apps.apple.com/app/id6780154928) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `widget` 
 - [SIP Calculator](https://github.com/tirupati17/sip-calculator-swift): Calculate the future value of SIP (Systematic Investment Plan) payments
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -2720,6 +2723,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/qr-share-pro/id6479589995) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp'>`Screenshot 4`</a> 
   -  `2026` `swift` 
   -  ☆`42` 
+- [Sbu Scanner](https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuScanner): Read and make QR codes and barcodes, history on the device, no ads or tracking
+  - [` App Store`](https://apps.apple.com/app/id6772572337) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/29/d4/2829d4af-e2ae-c7bf-aa38-b82e348ccbc9/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
   -  `2026` `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
