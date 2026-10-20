@@ -631,6 +631,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [SafariAutoLoginTest](https://github.com/mackuba/SafariAutoLoginTest)
 - [SafePeople](https://github.com/opensourceios/SafePeople)
 - [SafeTimer](https://github.com/Chubby-Apps/SafeTimer)
+- [Sandwhich](https://github.com/MotionMobs/Sandwhich)
 - [Sansumoku](https://github.com/opensourceios/sansumoku)
 - [Santa Tracker](https://github.com/keitaito/RealmSantaTracker)
 - [Savanna](https://github.com/louisdh/savanna)

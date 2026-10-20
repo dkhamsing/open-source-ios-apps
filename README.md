@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1704-green.svg) ![](https://img.shields.io/badge/Updated-October%2019,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1705-green.svg) ![](https://img.shields.io/badge/Updated-October%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1641,6 +1641,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - <a href=https://pixy.day>`https://pixy.day`</a>
   - [` App Store`](https://apps.apple.com/app/pixy-mood-tracker/id1605327124) <a href='https://raw.githubusercontent.com/mrzmyr/pixy-mood-tracker-app/main/docs/screen-1.png'>`Screenshot 1`</a> 
   - `react-native` `typescript` `expo` 
+- [Prism](https://github.com/soma-intelligence/prism): Reads Apple Health and works out daily sleep, recovery, strain, stress and energy scores on the device, with a journal, planners, widgets and full data export; no account needed
+  -  <a href='https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `healthkit` `widget` 
 - [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
   - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
   - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390)
@@ -3544,10 +3547,6 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
-- [Sandwhich](https://github.com/MotionMobs/Sandwhich): Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning
-  -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
-  -  `2019` `flutter` `dart` `python` 
-  -  ☆`151` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
   -  `2026` `flutter` `dart` 
   -  ☆`179` 
