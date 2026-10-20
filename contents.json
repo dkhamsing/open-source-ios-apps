@@ -35370,6 +35370,27 @@
       "date_added": "Oct 18 2026",
       "suggested_by": "@mgiuditta"
     },
+ {
+      "title": "Ironbook",
+      "category-ids": [
+        "fitness"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts",
+      "source": "https://github.com/Mattbusel/ironbook",
+      "itunes": "https://apps.apple.com/app/id6814264434",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },	  
     {
       "title": "Sbu Scanner",
       "description": "Read and make QR codes and barcodes, history on the device, no ads or tracking",
