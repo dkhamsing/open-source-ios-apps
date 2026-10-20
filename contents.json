@@ -35413,6 +35413,27 @@
       "date_added": "Oct 9 2026",
       "suggested_by": "@Mattbusel"
     },
+	   {
+      "title": "Chain",
+      "category-ids": [
+        "widget"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Habit tracker with interactive Home Screen widgets, a year quilt per habit, streak freezes, quit-habit counters and Apple Health auto-complete",
+      "source": "https://github.com/Mattbusel/chain",
+      "itunes": "https://apps.apple.com/app/id6814264554",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },
     {
       "title": "Sbu Scanner",
       "description": "Read and make QR codes and barcodes, history on the device, no ads or tracking",
