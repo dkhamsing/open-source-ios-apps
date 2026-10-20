@@ -35429,6 +35429,29 @@
       "license": "agpl-3.0",
       "date_added": "Oct 19 2026",
       "suggested_by": "@QuentinCar0n"
+    },
+    {
+      "title": "Aura",
+      "description": "Music player for Navidrome, Subsonic and OpenSubsonic servers, with synced lyrics, an EQ, offline downloads, CarPlay and an Apple Watch app",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-now-playing.jpg",
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-home.jpg",
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg"
+      ],
+      "source": "https://github.com/adrbn/aura",
+      "itunes": "https://apps.apple.com/app/id6818241470",
+      "homepage": "https://aura.adrbn.dev",
+      "license": "gpl-3.0",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@adrbn"
     }	  
   ]
 }
