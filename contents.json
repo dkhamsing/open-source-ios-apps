@@ -35390,7 +35390,29 @@
       ],
       "date_added": "Oct 9 2026",
       "suggested_by": "@Mattbusel"
-    },	  
+    },	 
+	   {
+      "title": "Minder",
+      "category-ids": [
+        "productivity",
+        "timer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets",
+      "source": "https://github.com/Mattbusel/minder",
+      "itunes": "https://apps.apple.com/app/id6813451929",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },
     {
       "title": "Sbu Scanner",
       "description": "Read and make QR codes and barcodes, history on the device, no ads or tracking",
