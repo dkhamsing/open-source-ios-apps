@@ -35497,6 +35497,28 @@
       "license": "mit",
       "date_added": "Oct 20 2026",
       "suggested_by": "@vplsdev"
-    }	  
+    },
+    {
+      "title": "Super Productivity",
+      "description": "To-do list and time tracker with timeboxing, a Pomodoro timer and Jira, GitHub and GitLab integrations; works offline, no account needed",
+      "category-ids": [
+        "tasks"
+      ],
+      "tags": [
+        "capacitor",
+        "angular",
+        "typescript",
+        "ipad"
+      ],
+      "homepage": "https://super-productivity.com",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/04/73/e3047345-c483-2727-2ec3-c0b7982b36dc/08-today.png/230x499bb.jpg"
+      ],
+      "source": "https://github.com/super-productivity/super-productivity",
+      "itunes": "https://apps.apple.com/app/super-productivity/id1482572463",
+      "license": "mit",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@johannesjo"
+    }
   ]
 }
