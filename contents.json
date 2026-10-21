@@ -35474,6 +35474,29 @@
       "license": "gpl-3.0",
       "date_added": "Oct 20 2026",
       "suggested_by": "@adrbn"
+    },
+    {
+      "title": "Ischys",
+      "description": "Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account",
+      "category-ids": [
+        "fitness",
+        "apple-watch"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript",
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png"
+      ],
+      "source": "https://github.com/ischys-app/Ischys",
+      "homepage": "https://ischys.app",
+      "itunes": "https://apps.apple.com/app/id6790443643",
+      "license": "mit",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@vplsdev"
     }	  
   ]
 }
