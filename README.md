@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1706-green.svg) ![](https://img.shields.io/badge/Updated-October%2020,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1709-green.svg) ![](https://img.shields.io/badge/Updated-October%2021,%202026-lightgrey.svg)
 
 Jump to
 
@@ -235,6 +235,10 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5df9d7bf-c8d6-4977-9692-98100471123d'>`Screenshot 1`</a> 
   -  `2021` `swift` `watchos3` 
   -  ☆`201` 
+- [Ischys](https://github.com/ischys-app/Ischys): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account
+  - <a href=https://ischys.app>`https://ischys.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6790443643) <a href='https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png'>`Screenshot 1`</a> 
+  - `swift` `react-native` `expo` `typescript` 
 - [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
@@ -1758,6 +1762,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [Ironbook](https://github.com/Mattbusel/ironbook): Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts
   - [` App Store`](https://apps.apple.com/app/id6814264434) <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
   - `swift` `swiftui` 
+- [Ischys](https://github.com/ischys-app/Ischys): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account
+  - <a href=https://ischys.app>`https://ischys.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6790443643) <a href='https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png'>`Screenshot 1`</a> 
+  - `swift` `react-native` `expo` `typescript` 
 - [Medito](https://github.com/meditohq/medito-app): No ads, no sign-up
   - [` App Store`](https://apps.apple.com/app/medito/id1500780518)
   -  `2026` `flutter` 
@@ -1972,6 +1980,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://audiokitpro.com/images/ak2.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` `objc` 
   -  ☆`1796` 
+- [Aura](https://github.com/adrbn/aura): Music player for Navidrome, Subsonic and OpenSubsonic servers, with synced lyrics, an EQ, offline downloads, CarPlay and an Apple Watch app
+  - <a href=https://aura.adrbn.dev>`https://aura.adrbn.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6818241470) <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-now-playing.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-home.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `watchos` 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks
   - [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998) <a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'>`Screenshot 3`</a> 
   -  `2026` `swift` 
@@ -2549,6 +2561,9 @@ https://newsapi.org/ — [back to top](#readme)
 - [LibreOffice Remote for Impress](https://git.libreoffice.org/impress_remote/): Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely
   - [` App Store`](https://apps.apple.com/app/id806879890) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/db/30/13/db301357-71d6-46b1-1eb1-153076a3dcde/mzl.lgwcughc.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/d9/80/ba/d980ba2c-ee74-912d-ed69-31e6ee8e4a13/mzl.aheiwncb.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/be/3c/db/be3cdbb6-2a30-2d5f-898f-4d7f71112c9b/mzl.ctjthyav.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/d5/a5/d8/d5a5d8fd-7d20-129d-c1a2-6aa46943bd6c/mzl.xqnovjbn.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/3b/f0/0b/3bf00b84-d0f5-f502-d00a-f624d4f58f89/mzl.sdjokgxw.png/460x0w.jpg'>`Screenshot 5`</a> 
   - `objc` 
+- [Minder](https://github.com/Mattbusel/minder): Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets
+  - [` App Store`](https://apps.apple.com/app/id6813451929) <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [PomPadDo](https://github.com/amikhaylin/pompaddo): A personal task manager / planner
   - [` App Store`](https://apps.apple.com/app/id6742197499) <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-today.png'>`Screenshot 1`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-project.png'>`Screenshot 2`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-timer.png'>`Screenshot 3`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-today.png'>`Screenshot 4`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-section.png'>`Screenshot 5`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-project.png'>`Screenshot 6`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-today.png'>`Screenshot 7`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-section.png'>`Screenshot 8`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-menu.png'>`Screenshot 9`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` 
@@ -3079,6 +3094,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
   -  ☆`527` 
+- [Minder](https://github.com/Mattbusel/minder): Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets
+  - [` App Store`](https://apps.apple.com/app/id6813451929) <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac2f2230-23ad-4f7c-9625-862b365565d3'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
