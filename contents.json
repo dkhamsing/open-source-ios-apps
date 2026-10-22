@@ -35537,6 +35537,29 @@
       "license": "mit",
       "date_added": "Oct 22 2026",
       "suggested_by": "@emlavankhoahienma-hue"
+    },
+    {
+      "title": "Generator Tracker",
+      "description": "Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts",
+      "category-ids": [
+        "productivity",
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript",
+        "firebase"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg"
+      ],
+      "source": "https://github.com/yuri-val/GeneratorTracker",
+      "homepage": "https://generatortracker.yuri-val.dev",
+      "itunes": "https://apps.apple.com/app/id6819560707",
+      "license": "mit",
+      "date_added": "Oct 21 2026",
+      "suggested_by": "@yuri-val"
     }
   ]
 }
