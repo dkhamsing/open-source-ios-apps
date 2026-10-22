@@ -35519,6 +35519,24 @@
       "license": "mit",
       "date_added": "Oct 20 2026",
       "suggested_by": "@johannesjo"
+    },
+    {
+      "title": "Align Studio",
+      "description": "Intelligent camera app that guides real-time photo composition, suggests optimal zoom levels, and captures high-resolution RAW shots with film presets",
+      "category-ids": [
+        "photo"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "coreml",
+        "metal",
+        "camera"
+      ],
+      "source": "https://github.com/emlavankhoahienma-hue/ai-smart-framing-camera",
+      "license": "mit",
+      "date_added": "Oct 22 2026",
+      "suggested_by": "@emlavankhoahienma-hue"
     }
   ]
 }
