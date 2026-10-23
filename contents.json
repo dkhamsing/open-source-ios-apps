@@ -31621,6 +31621,21 @@
       "updated": "2026-07-30 22:00:28 UTC"
     },
     {
+      "title": "DevHardware",
+      "description": "Real-time hardware, Mach memory, thermal state, Metal GPU, and network interface inspector for developers",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "license": "mit",
+      "source": "https://github.com/emlavankhoahienma-hue/DevHardware",
+      "date_added": "Oct 23 2026",
+      "suggested_by": "@emlavankhoahienma-hue"
+    },
+    {
       "title": "DevSpotlight",
       "category-ids": [
         "news"
