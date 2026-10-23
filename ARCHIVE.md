@@ -130,6 +130,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Celluloid Photo Editing extension](https://github.com/100mango/Celluloid)
 - [ChainReactApp](https://github.com/infinitered/ChainReactApp2017)
 - [Charter](https://github.com/matthewpalmer/Charter)
+- [Chat](https://github.com/niazoff/Chat)
 - [Chats](https://github.com/acani/Chats)
 - [Chaty](https://github.com/LunarFlash/Chaty)
 - [Cheddar](https://github.com/nothingmagical/cheddar-ios)

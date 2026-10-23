@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1711-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1713-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2235,6 +2235,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/418dc9f3-3670-4074-8cd8-af7397b8aa58'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`1380` 
+- [PureLibrary](https://github.com/emlavankhoahienma-hue/PureLibrary): Photo library organizer and cleaner with duplicate clustering, blur detection, and swipe triage
+  - `swift` `swiftui` `coreml` `vision` 
 - [SharedImages](https://github.com/crspybits/SharedImages): Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others
   -  <a href='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `google drive api` `facebook api` `syncserverii client` 
@@ -2557,6 +2559,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`847` 
+- [Generator Tracker](https://github.com/yuri-val/GeneratorTracker): Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts
+  - <a href=https://generatortracker.yuri-val.dev>`https://generatortracker.yuri-val.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6819560707) <a href='https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg'>`Screenshot 1`</a> 
+  - `react-native` `expo` `typescript` `firebase` 
 - [JoeBro Mobile](https://github.com/joexk1/JoeBro-Mobile): iPhone companion to the JoeBro Mac AI workspace; chats, agents and documents over your own network, no cloud
   -  <a href='https://raw.githubusercontent.com/joexk1/JoeBro-Mobile/main/README_assets/phone-agent.png'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
@@ -3755,6 +3761,10 @@ https://reactnative.dev/ — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/4ade6dbc-6bee-4018-9f10-4e9d28ca6027'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`1062` 
+- [Generator Tracker](https://github.com/yuri-val/GeneratorTracker): Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts
+  - <a href=https://generatortracker.yuri-val.dev>`https://generatortracker.yuri-val.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6819560707) <a href='https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg'>`Screenshot 1`</a> 
+  - `react-native` `expo` `typescript` `firebase` 
 - [GitPoint](https://github.com/gitpoint/git-point): GitHub app with a minimal & beautiful UI
   -  <a href='https://a3.mzstatic.com/us/r30/Purple127/v4/6d/82/6b/6d826be2-2f68-495c-0ba1-86d3da548287/screen696x696.jpeg'>`Screenshot 1`</a>  <a href='https://a4.mzstatic.com/us/r30/Purple117/v4/1c/14/83/1c148311-bbee-ff46-6b97-1d109a0213b4/screen696x696.jpeg'>`Screenshot 2`</a> 
   -  `2024` `react-native` 
@@ -3971,9 +3981,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/heart/CarBode-Barcode-Scanner-For-SwiftUI/master/logo/scan.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
   -  ☆`301` 
-- [Chat](https://github.com/niazoff/Chat): Leverages URLSessionWebSocketTask
-  -  `2019` `swift` `swiftui` `combine` `mvvm` 
-  -  ☆`32` 
 - [Clean Architecture for SwiftUI + Combine](https://github.com/nalexn/clean-architecture-swiftui)
   -  <a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `macos` `mvvm` 
