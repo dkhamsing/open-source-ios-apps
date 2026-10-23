@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1686-green.svg) ![](https://img.shields.io/badge/Updated-October%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1711-green.svg) ![](https://img.shields.io/badge/Updated-October%2022,%202026-lightgrey.svg)
 
 Jump to
 
@@ -23,6 +23,7 @@ Jump to
 - [Developer](#developer) 
   - [GitHub](#github) 
   - [Terminal](#terminal) 
+- [Duo](#duo) 
 - [Education](#education) 
 - [Emulator](#emulator) 
 - [Event](#event) 
@@ -234,6 +235,10 @@ Jump to
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/5df9d7bf-c8d6-4977-9692-98100471123d'>`Screenshot 1`</a> 
   -  `2021` `swift` `watchos3` 
   -  ☆`201` 
+- [Ischys](https://github.com/ischys-app/Ischys): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account
+  - <a href=https://ischys.app>`https://ischys.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6790443643) <a href='https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png'>`Screenshot 1`</a> 
+  - `swift` `react-native` `expo` `typescript` 
 - [KHabit](https://github.com/elkiwy/KHabit): Maintain productive habits
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
@@ -247,8 +252,8 @@ Jump to
   -  `2025` `watchos` 
   -  ☆`33` 
 - [Paint Anytime](https://github.com/denis-kolchev/Paint-Anytime): Draw, sketch and create tiny pieces of art directly on Apple Watch
-  -  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG'>`Screenshot 2`</a> 
-  -  `2026` `swift` `swiftui` `watchos` 
+  - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-185C263D-45DF-4083-A93E-5BB0CED69B8F.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-E6D433C8-04EB-4934-98D9-ACE97176C268.PNG'>`Screenshot 4`</a> 
+  -  `2026` `swift` `swiftui` `watchos` `2026` 
 - [PhotoWatch](https://github.com/dropbox/PhotoWatch): Uses the SwiftyDropbox SDK
   -  <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -261,6 +266,10 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/51410810/87869133-0b11ba80-c9bb-11ea-80ed-4d4286744caa.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869148-1fee4e00-c9bb-11ea-8935-6646c352a6e6.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869153-2a104c80-c9bb-11ea-932e-53cf16cf0e75.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/51410810/87869174-4b713880-c9bb-11ea-86d0-6a8675cecfb5.png'>`Screenshot 4`</a> 
   -  `2020` 
   -  ☆`6` 
+- [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
+  - <a href=https://recly.dev>`https://recly.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `watchos` `kotlin-multiplatform` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
   - [` App Store`](https://apps.apple.com/app/id6795404742) <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/stopped.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/active.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/jakublipinski/Silent-Bell/main/docs/screenshots/tap-type.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
@@ -586,7 +595,7 @@ Jump to
   - `firebase` 
 - [Scowld](https://github.com/apoorvdarshan/scowld): AI voice companion with animated characters, voice and text chat, local conversation history, optional camera context, and bring-your-own AI and speech providers
   - <a href=https://scowld.xyz>`https://scowld.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6760672848) <a href='https://github.com/apoorvdarshan/scowld/blob/main/assets/avatars.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `ipad` 
   -  ☆`24` 
 - [Signal](https://github.com/signalapp/Signal-iOS): Free, world-wide, private messaging & phone calls
@@ -660,6 +669,10 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_1.png?raw=true'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_2.png?raw=true'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_3.png?raw=true'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/eugenepyvovarov/CodeAgentsMobile/refs/heads/main/screenshots/screenshot_4.png?raw=true'>`Screenshot 4`</a> 
   -  `2026` `ai` `claude-code` 
   -  ☆`153` 
+- [Codync](https://github.com/leepokai/Codync): Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls
+  - <a href=https://www.codync.dev>`https://www.codync.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/codync/id6760984418) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/92/a2/4092a244-6d5f-52f2-f161-98f5a0c41fdd/01-hero.png/392x696bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/42/b6/5e42b681-fc15-2d72-a2df-2f16a9dac4fd/02-device-top.png/392x696bb.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/55/3cd655cd-aad7-e5b9-4c0b-fe8907c70b5b/03-device-bottom.png/392x696bb.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Domain Dig](https://github.com/krazywarez/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
   - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004)
   -  `2026` `swift` `swiftui` 
@@ -740,10 +753,6 @@ Jump to
   -  <a href='https://pisth.github.io/apt/screenshots.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `javascript` `html` 
   -  ☆`438` 
-- [ReviewMonitor](https://github.com/RishabhTayal/Unofficial-iTC): iTunes Connect app which is actually useful
-  -  <a href='https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot1.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/RishabhTayal/Unofficial-iTC/blob/master/public-screenshots/screenshot2.png?raw=true'>`Screenshot 2`</a> 
-  -  `2020` `swift` 
-  -  ☆`131` 
 - [SymbolGrid for SF Symbols](https://github.com/dl-alexandre/SymbolGrid)
   - [` App Store`](https://apps.apple.com/app/symbolgrid/id1640916135)
   -  `2025` `swift` `macos` `visionos` 
@@ -764,6 +773,10 @@ Jump to
   -  <a href='https://raw.githubusercontent.com/utmapp/UTM/main/screen.png'>`Screenshot 1`</a> 
   -  `2026` `objc` 
   -  ☆`35713` 
+- [Verceltics](https://github.com/apoorvdarshan/verceltics): Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify
+  - <a href=https://verceltics.com>`https://verceltics.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6761645656) <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ipad` 
 - [Zeitgeist](https://github.com/daneden/Zeitgeist): Keep an eye on your Vercel deployments
   -  <a href='https://user-images.githubusercontent.com/4723115/179809265-e6318a71-bf14-4a05-9043-6f0e2d7c306f.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -841,6 +854,21 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`1715` 
+## Duo 
+ 
+[back to top](#readme) 
+ 
+
+- [Ice Cubes](https://github.com/Dimillian/IceCubesApp)
+  -  <a href='https://raw.githubusercontent.com/Dimillian/IceCubesApp/main/Images/promo.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` 
+  -  ☆`7074` 
+- [iphoneduo](https://github.com/Codelaby/IphoneDuo): Examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar
+  - `swift` `swiftui` 
+- [Sill](https://github.com/Saffsanity/sill): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys
+  - <a href=https://getsill.app>`https://getsill.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
+  - `swift` `swiftui` `ipad` `macos` 
 ## Education 
  
 [back to top](#readme) 
@@ -850,6 +878,8 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/berkeley-mobile/id912243518) <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/asuc-octo/berkeley-mobile-ios/refs/heads/master/app_preview_images/screen4.png'>`Screenshot 4`</a> 
   -  `2026` `swift` 
   -  ☆`28` 
+- [BG Trainer](https://github.com/korchasa/bg-trainer): Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface
+  - [` App Store`](https://apps.apple.com/app/id6766068069) <a href='https://bgtrainer.korchasa.dev/assets/app-lessons.png'>`Screenshot 1`</a> 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
   - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -1240,6 +1270,9 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`45` 
+- [Sbu Subscriptions](https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions): Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device
+  - [` App Store`](https://apps.apple.com/app/id6780154928) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `widget` 
 - [SIP Calculator](https://github.com/tirupati17/sip-calculator-swift): Calculate the future value of SIP (Systematic Investment Plan) payments
   -  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple69/v4/3c/33/53/3c335302-9f13-5771-52df-150de85ab20e/pr_source.png/460x0w.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` 
@@ -1427,6 +1460,9 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/potato-game/id6477922776) <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot3.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/mick-schroeder/PotatoGame/main/Screenshots/PotatoGameScreenshot4.png'>`Screenshot 4`</a> 
   -  `2025` `swift` 
   -  ☆`7` 
+- [Quadrim](https://github.com/evermeer/Quadrim): Four in a row in a 4x4x4 cube with a rotatable 3D board and 31 computer opponents; vibe coded with Claude Code, every prompt and decision included
+  - [` App Store`](https://apps.apple.com/app/quadrim/id6804034367) <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
 - [SaveTheDot](https://github.com/JakeLin/SaveTheDot): Escape from the squares
   -  <a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `uiviewpropertyanimator` 
@@ -1605,6 +1641,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pilgrim-mindful-walking/id6760921056)
   -  `2026` `swift` `swiftui` 
   -  ☆`13` 
+- [Pixy](https://github.com/mrzmyr/pixy-mood-tracker-app): Mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone
+  - <a href=https://pixy.day>`https://pixy.day`</a>
+  - [` App Store`](https://apps.apple.com/app/pixy-mood-tracker/id1605327124) <a href='https://raw.githubusercontent.com/mrzmyr/pixy-mood-tracker-app/main/docs/screen-1.png'>`Screenshot 1`</a> 
+  - `react-native` `typescript` `expo` 
+- [Prism](https://github.com/soma-intelligence/prism): Reads Apple Health and works out daily sleep, recovery, strain, stress and energy scores on the device, with a journal, planners, widgets and full data export; no account needed
+  -  <a href='https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `healthkit` `widget` 
 - [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
   - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
   - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390)
@@ -1716,6 +1759,13 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`62` 
+- [Ironbook](https://github.com/Mattbusel/ironbook): Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts
+  - [` App Store`](https://apps.apple.com/app/id6814264434) <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
+- [Ischys](https://github.com/ischys-app/Ischys): Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account
+  - <a href=https://ischys.app>`https://ischys.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6790443643) <a href='https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png'>`Screenshot 1`</a> 
+  - `swift` `react-native` `expo` `typescript` 
 - [Medito](https://github.com/meditohq/medito-app): No ads, no sign-up
   - [` App Store`](https://apps.apple.com/app/medito/id1500780518)
   -  `2026` `flutter` 
@@ -1930,6 +1980,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://audiokitpro.com/images/ak2.gif'>`Screenshot 1`</a> 
   -  `2022` `swift` `objc` 
   -  ☆`1796` 
+- [Aura](https://github.com/adrbn/aura): Music player for Navidrome, Subsonic and OpenSubsonic servers, with synced lyrics, an EQ, offline downloads, CarPlay and an Apple Watch app
+  - <a href=https://aura.adrbn.dev>`https://aura.adrbn.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6818241470) <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-now-playing.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-home.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `watchos` 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks
   - [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998) <a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'>`Screenshot 3`</a> 
   -  `2026` `swift` 
@@ -1942,6 +1996,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`11` 
+- [LysnBox](https://github.com/joseph6377/J7seven): Listen to EPUBs, PDFs, web articles and text with on-device AI voices in 31 languages, fully offline
+  - <a href=https://books.josepht.in>`https://books.josepht.in`</a>
+  - [` App Store`](https://apps.apple.com/app/lysnbox/id6772035198) <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_1_Library.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` 
 - [Minidisc](https://github.com/Loriage/Minidisc): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.
   - <a href=https://minidisc.dev>`https://minidisc.dev`</a>
   -  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
@@ -1960,10 +2018,17 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/b5/d4/72/b5d472cf-ca00-aba0-da09-776dc597595a/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple114/v4/6d/85/02/6d850217-73a8-3379-5110-54ca812d6ae0/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/85/79/6d/85796d78-6c7f-6dc6-327f-f3dfcc4c72a3/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple124/v4/05/e3/da/05e3da31-0d41-dc1d-8111-6bceed1b8095/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
   -  `2022` `swift` `snapkit` `haneke` `koloda` 
   -  ☆`47` 
+- [Sonar](https://github.com/can4hou6joeng4/Sonar): Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.
+  -  <a href='https://raw.githubusercontent.com/can4hou6joeng4/Sonar/main/assets/previews/ios-main.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Swift Radio Pro](https://github.com/analogcode/Swift-Radio-Pro): Professional radio station
   -  <a href='https://cdn-images-1.medium.com/v2/resize:fit:800/1*THdzhTjeuB-niUriPwsxfg.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`2942` 
+- [Vibe](https://github.com/cmicali/vibe): Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.
+  - <a href=https://vibeplayer.app>`https://vibeplayer.app`</a>
+  - [` App Store`](https://apps.apple.com/app/vibe-music-player/id1582482361) <a href='https://github.com/cmicali/vibe/blob/main/Assets/app-store/screenshots/en/ios/iphone/01-player.png?raw=true'>`Screenshot 1`</a> 
+  - `objc` 
 - [Vowel Practice](https://github.com/fulldecent/vowel-practice): Find formants in spoken sounds
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/36840778-4f5a-4fed-8e71-c90862c5d193'>`Screenshot 1`</a> 
   -  `2026` `swift` `macos` `ipad` 
@@ -2134,6 +2199,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Align Studio](https://github.com/emlavankhoahienma-hue/ai-smart-framing-camera): Intelligent camera app that guides real-time photo composition, suggests optimal zoom levels, and captures high-resolution RAW shots with film presets
+  - `swift` `swiftui` `coreml` `metal` `camera` 
 - [Blear](https://github.com/sindresorhus/blear): Transform your photos into stunning blurry wallpapers for your device
   - [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `objc` 
@@ -2483,13 +2550,22 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://github.com/user-attachments/assets/083609a7-f841-4d2c-96dc-78c0d6c9de5a'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `apple-watch` `macos` `swiftui` 
   -  ☆`33` 
+- [DartPDF](https://github.com/ben-milanko/dart-pdf/tree/main/app): PDF editor for annotating documents and filling forms
+  - <a href=https://dart-pdf.com/>`https://dart-pdf.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6780083686) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
 - [Foqos](https://github.com/awaseem/foqos): Block distractions, lock apps behind the tap of a NFC tag
   - [` App Store`](https://apps.apple.com/app/foqos/id6736793117) <a href='https://www.foqos.app/assets/screenshot.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`847` 
+- [JoeBro Mobile](https://github.com/joexk1/JoeBro-Mobile): iPhone companion to the JoeBro Mac AI workspace; chats, agents and documents over your own network, no cloud
+  -  <a href='https://raw.githubusercontent.com/joexk1/JoeBro-Mobile/main/README_assets/phone-agent.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [LibreOffice Remote for Impress](https://git.libreoffice.org/impress_remote/): Interact with [LibreOffice](https://www.libreoffice.org/) slideshows remotely
   - [` App Store`](https://apps.apple.com/app/id806879890) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple4/v4/db/30/13/db301357-71d6-46b1-1eb1-153076a3dcde/mzl.lgwcughc.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple6/v4/d9/80/ba/d980ba2c-ee74-912d-ed69-31e6ee8e4a13/mzl.aheiwncb.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple/v4/be/3c/db/be3cdbb6-2a30-2d5f-898f-4d7f71112c9b/mzl.ctjthyav.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple4/v4/d5/a5/d8/d5a5d8fd-7d20-129d-c1a2-6aa46943bd6c/mzl.xqnovjbn.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple/v4/3b/f0/0b/3bf00b84-d0f5-f502-d00a-f624d4f58f89/mzl.sdjokgxw.png/460x0w.jpg'>`Screenshot 5`</a> 
   - `objc` 
+- [Minder](https://github.com/Mattbusel/minder): Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets
+  - [` App Store`](https://apps.apple.com/app/id6813451929) <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [PomPadDo](https://github.com/amikhaylin/pompaddo): A personal task manager / planner
   - [` App Store`](https://apps.apple.com/app/id6742197499) <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-today.png'>`Screenshot 1`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-project.png'>`Screenshot 2`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-timer.png'>`Screenshot 3`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-today.png'>`Screenshot 4`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-section.png'>`Screenshot 5`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-project.png'>`Screenshot 6`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-today.png'>`Screenshot 7`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-section.png'>`Screenshot 8`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-menu.png'>`Screenshot 9`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` 
@@ -2498,6 +2574,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713) <a href='https://raw.githubusercontent.com/hooosberg/Rushi/main/posters/sheet-en.webp'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` `ipad` `multilingual` 
   -  ☆`27` 
+- [Sill](https://github.com/Saffsanity/sill): Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys
+  - <a href=https://getsill.app>`https://getsill.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
+  - `swift` `swiftui` `ipad` `macos` 
 ## Sample 
  
 [back to top](#readme) 
@@ -2559,10 +2639,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/1_iOS-MVVM-Clean-Architecture.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/2_iOS-MVVM-Clean-Architecture.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denissimon/iOS-MVVM-Clean-Architecture/master/Screenshots/3_iOS-MVVM-Clean-Architecture.png'>`Screenshot 3`</a> 
   -  `2025` `swift` 
   -  ☆`64` 
-- [iOSDesignPatternSamples](https://github.com/marty-suzuki/iOSDesignPatternSamples): GitHub user search app with variety of design patterns
-  -  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/app.gif?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/marty-suzuki/iOSDesignPatternSamples/blob/master/Images/diff.png?raw=true'>`Screenshot 2`</a> 
-  -  `2021` `swift` `mvc` `mvp` `mvvm` `flux` `design-patterns` 
-  -  ☆`685` 
 - [iSpy game](https://github.com/ByCyril/iSpy-Game)
   -  <a href='https://user-images.githubusercontent.com/4723115/113598587-33495400-95f2-11eb-9d50-835eed6f0072.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `machine-learning` `camera` 
@@ -2670,6 +2746,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/qr-share-pro/id6479589995) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/cf/95/e0cf9583-2545-efa1-942c-8d7857bb3696/d729913c-d19b-4900-9829-2902ea163d47_iPhone_14__U0026_15_Pro_Max_5__U00281_U0029.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2d/d4/07/2dd407be-1619-add1-e5c9-1e98a7b6e2ad/45359dbe-2d34-4ebb-9335-38f3dd332dd0_iPhone_14__U0026_15_Pro_Max_6.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c9/37/73/c9377339-a70e-d9e8-7167-27e67b36af3b/1b0d7659-1e57-4a74-a1a7-aff92576fc91_iPhone_14__U0026_15_Pro_Max_7.png/460x0w.webp'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/42/c5/1b/42c51b1d-9993-1fd3-da81-dd54b26e573e/4304ffd3-6040-4899-b8bf-94ebc0a84479_iPhone_14__U0026_15_Pro_Max_8.png/460x0w.webp'>`Screenshot 4`</a> 
   -  `2026` `swift` 
   -  ☆`42` 
+- [Sbu Scanner](https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuScanner): Read and make QR codes and barcodes, history on the device, no ads or tracking
+  - [` App Store`](https://apps.apple.com/app/id6772572337) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/29/d4/2829d4af-e2ae-c7bf-aa38-b82e348ccbc9/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Scan Now](https://github.com/WezSieTato/ScanNow): Fast and simple document scanning
   - [` App Store`](https://apps.apple.com/app/scan-now/id1660940489)
   -  `2026` `swift` `swiftui` `visionkit` `pdf` `productivity` `ipad` 
@@ -2681,6 +2760,9 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Cloakmark](https://github.com/materialofair/ZeroNet_Redact): Redact photos, videos and PDFs on-device (formerly ZeroNet Redact).
+  - <a href=https://redact.siproducers.com>`https://redact.siproducers.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6756290503) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg'>`Screenshot 1`</a> 
 - [DNSCloak](https://github.com/s-s/dnscloak): Override & secure DNS queries
   -  `2020` `objc` `cordova` 
   -  ☆`354` 
@@ -2892,10 +2974,6 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
-- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux
-  -  <a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `firebase` `redux` 
-  -  ☆`374` 
 - [Habitica](https://github.com/HabitRPG/habitica-ios): Habit building & productivity
   - <a href=https://habitica.com/static/home>`https://habitica.com/static/home`</a>
   - [` App Store`](https://apps.apple.com/app/id994882113) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/bf/34/34/bf343412-6b20-bb34-9e7f-36311bc5ec45/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/51/40/88/514088ab-8a5c-b2fd-275d-d4edb1ab584a/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/c1/97/fb/c197fba5-e41d-6d6d-fac3-a196ce9e126e/pr_source.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/39/40/dc/3940dcb3-3d49-a328-2926-c03f40f12594/pr_source.png/460x0w.jpg'>`Screenshot 4`</a> 
@@ -2910,6 +2988,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`6` 
+- [Super Productivity](https://github.com/super-productivity/super-productivity): To-do list and time tracker with timeboxing, a Pomodoro timer and Jira, GitHub and GitLab integrations; works offline, no account needed
+  - <a href=https://super-productivity.com>`https://super-productivity.com`</a>
+  - [` App Store`](https://apps.apple.com/app/super-productivity/id1482572463) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/04/73/e3047345-c483-2727-2ec3-c0b7982b36dc/08-today.png/230x499bb.jpg'>`Screenshot 1`</a> 
+  - `capacitor` `angular` `typescript` `ipad` 
 - [SwiftUITodo](https://github.com/devxoul/SwiftUITodo)
   -  <a href='https://user-images.githubusercontent.com/931655/58843349-f6dbf400-8626-11e9-8227-fbd369c29515.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
@@ -2945,6 +3027,10 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Earnote](https://github.com/louiskl/Earnote): Record lectures, meetings or voice memos and get a structured note with tasks, flashcards and a PDF study sheet; transcription runs on-device with Whisper
+  - <a href=https://earnote.dev>`https://earnote.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/earnote/id6815681807) <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-rec-en.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-note-en.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-cards-en.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `whisper` `mlx` 
 - [FSNotes](https://github.com/glushchenko/fsnotes): Notes manager
   - [` App Store`](https://apps.apple.com/app/fsnotes-manager/id1346501102) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/f9/72/00/f972005b-5a6b-fc54-b68e-f6a704f82f1f/mzl.kxlcltgy.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/ee/fd/a8/eefda80f-f32b-94e4-27f3-e4a3fa8b1079/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/95/a0/73/95a0739c-7e40-2e7d-787b-52e59b3d8581/mzl.srqiktcn.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/0e/b1/61/0eb1619e-2e6a-234f-06a6-eefafcad478c/mzl.ihcrhigp.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple128/v4/60/09/11/60091180-1755-60ca-b390-3223f4ac8b34/mzl.vbvqksns.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2026` `swift` 
@@ -2988,6 +3074,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6657973126) <a href='https://mymx2-oss.oss-cn-shanghai.aliyuncs.com/doc/img-aichongshe-oss-demo.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`120` 
+- [Pinto Notes](https://github.com/pinto-notes/pinto-notes): Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them
+  - <a href=https://pintonotes.com>`https://pintonotes.com`</a>
+  -  <a href='https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `macos` `mcp` 
 - [Saber](https://github.com/saber-notes/saber): Take handwritten notes with the same functionalities as typed ones
   - [` App Store`](https://apps.apple.com/app/saber-handwritten-notes/id1671523739) <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/1_home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/2_editor.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/3_login.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/4_settings.png'>`Screenshot 4`</a> 
   -  `2026` `dart` 
@@ -3010,6 +3100,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple128/v4/c5/97/bc/c597bc2d-339c-8463-e7e7-f47fe7f6f770/mzl.uhkigexq.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/08/a6/aa/08a6aa5a-6a45-fcb0-5e75-c78fc2a10d67/mzl.ckjxbwfu.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/8e/72/69/8e72696d-fae0-0f81-4868-aa281ba30866/mzl.ucpnawyo.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2020` `swift` 
   -  ☆`527` 
+- [Minder](https://github.com/Mattbusel/minder): Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets
+  - [` App Store`](https://apps.apple.com/app/id6813451929) <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Pomosh](https://github.com/stevenselcuk/Pomosh-iOS-watchOS): Pomodoro Technique assistant
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ac2f2230-23ad-4f7c-9625-862b365565d3'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` 
@@ -3324,10 +3417,6 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/SeekingMini/MoneyPlus/blob/master/images/screenshot-1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `snapkit` 
   -  ☆`41` 
-- [Tasks](https://github.com/mbcrump/TasksForSwiftWithPersistingData): Designed to quickly & easily add tasks
-  -  <a href='https://raw.githubusercontent.com/mbcrump/TasksForSwiftWithPersistingData/master/Images/demo.gif'>`Screenshot 1`</a> 
-  -  `2019` `swift` `iphone` 
-  -  ☆`16` 
 ### Firebase 
  
 https://firebase.google.com/ — [back to top](#readme) 
@@ -3374,6 +3463,9 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://github.com/alfianlosari/CoronaVirusTrackerFlutter/raw/master/promo.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2020` `flutter` `dart` 
   -  ☆`88` 
+- [DartPDF](https://github.com/ben-milanko/dart-pdf/tree/main/app): PDF editor for annotating documents and filling forms
+  - <a href=https://dart-pdf.com/>`https://dart-pdf.com/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6780083686) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg'>`Screenshot 1`</a> 
 - [Deer](https://github.com/aleksanderwozniak/deer): Minimalist Flutter Todo App, built using BLoC pattern
   -  `2020` `flutter` `dart` 
   -  ☆`459` 
@@ -3410,10 +3502,6 @@ https://flutter.dev — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/10066840/45931079-61844e00-bf36-11e8-80d5-e02f8123db59.gif'>`Screenshot 1`</a> 
   -  `2024` `flutter` `dart` 
   -  ☆`2386` 
-- [Fluttery Filmy](https://github.com/ibhavikmakwana/Fluttery-Filmy): Movies powered by tmdb
-  -  <a href='https://github.com/ibhavikmakwana/Fluttery-Filmy/raw/master/screenshot/Fluttery_Filmy.gif'>`Screenshot 1`</a> 
-  -  `2019` `flutter` `dart` 
-  -  ☆`198` 
 - [Gmail clone](https://github.com/rodydavis/gmail_clone)
   -  <a href='https://github.com/rodydavis/gmail_clone/raw/master/screenshots/listview.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
@@ -3479,14 +3567,13 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
   -  ☆`195` 
+- [Quadrim](https://github.com/evermeer/Quadrim): Four in a row in a 4x4x4 cube with a rotatable 3D board and 31 computer opponents; vibe coded with Claude Code, every prompt and decision included
+  - [` App Store`](https://apps.apple.com/app/quadrim/id6804034367) <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png'>`Screenshot 3`</a> 
+  - `flutter` `dart` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
-- [Sandwhich](https://github.com/MotionMobs/Sandwhich): Solve the sandwich debate by determining if the picture you've taken is a sandwich using machine learning
-  -  <a href='https://github.com/MotionMobs/Sandwhich/raw/master/media/animated.gif'>`Screenshot 1`</a> 
-  -  `2019` `flutter` `dart` `python` 
-  -  ☆`151` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
   -  `2026` `flutter` `dart` 
   -  ☆`179` 
@@ -3724,6 +3811,10 @@ https://reactnative.dev/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1_en-US.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2_en-US.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3_en-US.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/refs/heads/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4_en-US.png'>`Screenshot 4`</a> 
   -  `2026` `react-native` `ipad` 
   -  ☆`2604` 
+- [Pixy](https://github.com/mrzmyr/pixy-mood-tracker-app): Mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone
+  - <a href=https://pixy.day>`https://pixy.day`</a>
+  - [` App Store`](https://apps.apple.com/app/pixy-mood-tracker/id1605327124) <a href='https://raw.githubusercontent.com/mrzmyr/pixy-mood-tracker-app/main/docs/screen-1.png'>`Screenshot 1`</a> 
+  - `react-native` `typescript` `expo` 
 - [PokeDB](https://github.com/satya164/PocketGear): Clean and simple Pokédex app for Pokémon GO
   - [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `react-native` 
@@ -3947,10 +4038,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/sloria/Fingerspelling-iOS/master/media/screenshot.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `combine` 
   -  ☆`28` 
-- [FireTodo](https://github.com/sgr-ksmt/FireTodo): Simple Todo using SwiftUI, Firebase, Redux
-  -  <a href='https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true'>`Screenshot 1`</a> 
-  -  `2022` `swift` `swiftui` `firebase` `redux` 
-  -  ☆`374` 
 - [Food Truck](https://github.com/apple/sample-food-truck): Create a single codebase and app target for Mac, iPad, and iPhone. Sample code by Apple
   -  `2023` `swift` `macos` `swiftui` 
   -  ☆`1852` 

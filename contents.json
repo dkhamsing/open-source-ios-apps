@@ -61,6 +61,10 @@
       "parent": "developer"
     },
     {
+      "title": "Duo",
+      "id": "duo"
+    },	  
+    {
       "title": "Education",
       "id": "education"
     },
@@ -372,6 +376,22 @@
     }
   ],
   "projects": [
+    {
+      "title": "BG Trainer",
+      "category-ids": [
+        "education"
+      ],
+      "description": "Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface",
+      "source": "https://github.com/korchasa/bg-trainer",
+      "itunes": "https://apps.apple.com/app/id6766068069",
+      "license": "mit",
+      "lang": "rus",
+      "screenshots": [
+        "https://bgtrainer.korchasa.dev/assets/app-lessons.png"
+      ],
+      "date_added": "Oct 17 2026",
+      "suggested_by": "@korchasa"
+    },
     {
       "title": "Kurozora",
       "category-ids": [
@@ -1347,10 +1367,13 @@
       ],
       "description": "Draw, sketch and create tiny pieces of art directly on Apple Watch",
       "source": "https://github.com/denis-kolchev/Paint-Anytime",
+      "itunes": "https://apps.apple.com/app/paint-anytime/id6816100087",
       "license": "agpl-3.0",
       "screenshots": [
         "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG",
-        "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG"
+        "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-185C263D-45DF-4083-A93E-5BB0CED69B8F.PNG",
+        "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG",
+        "https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-E6D433C8-04EB-4934-98D9-ACE97176C268.PNG"
       ],
       "date_added": "Sep 28 2026",
       "suggested_by": "@denis-kolchev",
@@ -8030,7 +8053,7 @@
       "source": "https://github.com/mbcrump/TasksForSwiftWithPersistingData",
       "tags": [
         "swift",
-        "iphone"
+        "iphone", "archive"
       ],
       "stars": 16,
       "license": "other",
@@ -17192,7 +17215,7 @@
         "developer"
       ],
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "description": "iTunes Connect app which is actually useful",
       "source": "https://github.com/RishabhTayal/Unofficial-iTC",
@@ -17217,7 +17240,7 @@
         "mvp",
         "mvvm",
         "flux",
-        "design-patterns"
+        "design-patterns", "archive"
       ],
       "description": "GitHub user search app with variety of design patterns",
       "source": "https://github.com/marty-suzuki/iOSDesignPatternSamples",
@@ -22708,7 +22731,7 @@
         "swift",
         "swiftui",
         "firebase",
-        "redux"
+        "redux", "archive"
       ],
       "screenshots": [
         "https://github.com/sgr-ksmt/FireTodo/blob/master/docs/images/img6.png?raw=true"
@@ -25264,7 +25287,7 @@
         "swift",
         "swiftui",
         "combine",
-        "mvvm"
+        "mvvm", "archive"
       ],
       "date_added": "Sep 11 2020",
       "suggested_by": "dkhamsing",
@@ -25700,7 +25723,7 @@
       ],
       "tags": [
         "flutter",
-        "dart"
+        "dart", "archive"
       ],
       "license": "apache-2.0",
       "date_added": "Oct 5 2017",
@@ -25852,7 +25875,7 @@
       "tags": [
         "flutter",
         "dart",
-        "python"
+        "python", "archive"
       ],
       "license": "other",
       "date_added": "Oct 20 2020",
@@ -30408,7 +30431,7 @@
     {
       "title": "Ice Cubes",
       "category-ids": [
-        "mastodon"
+        "mastodon", "duo"
       ],
       "source": "https://github.com/Dimillian/IceCubesApp",
       "tags": [
@@ -34599,7 +34622,7 @@
       "itunes": "https://apps.apple.com/app/id6760672848",
       "license": "mit",
       "screenshots": [
-        "https://raw.githubusercontent.com/apoorvdarshan/scowld/main/assets/screenshot.png"
+        "https://github.com/apoorvdarshan/scowld/blob/main/assets/avatars.png?raw=true"
       ],
       "date_added": "Aug 7 2026",
       "suggested_by": "@apoorvdarshan",
@@ -35015,6 +35038,528 @@
       ],
       "date_added": "Oct 2 2026",
       "suggested_by": "@Nerdykidtech"
+    },
+    {
+      "title": "Recly",
+      "category-ids": [
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos",
+        "kotlin-multiplatform"
+      ],
+      "description": "One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key",
+      "source": "https://github.com/rokrokss/recly",
+      "homepage": "https://recly.dev",
+      "itunes": "https://apps.apple.com/app/recly-record-for-your-ai/id6809930443",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png",
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png",
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png"
+      ],
+      "date_added": "Oct 5 2026",
+      "suggested_by": "@rokrokss"
+    },
+    {
+      "title": "Pixy",
+      "category-ids": [
+        "health",
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "typescript",
+        "expo"
+      ],
+      "description": "Mood tracker with one pixel per day, so your whole year fits on one screen. No account, no ads, entries stay on your phone",
+      "source": "https://github.com/mrzmyr/pixy-mood-tracker-app",
+      "homepage": "https://pixy.day",
+      "itunes": "https://apps.apple.com/app/pixy-mood-tracker/id1605327124",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/mrzmyr/pixy-mood-tracker-app/main/docs/screen-1.png"
+      ],
+      "date_added": "Oct 4 2026",
+      "suggested_by": "@mrzmyr"
+    },
+    {
+      "title": "Sonar",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Music player with NetEase Cloud Music and QQ Music search, synchronized lyrics, and local playlist backups.",
+      "source": "https://github.com/can4hou6joeng4/Sonar",
+      "license": "gpl-3.0",
+      "lang": "zho",
+      "screenshots": [
+        "https://raw.githubusercontent.com/can4hou6joeng4/Sonar/main/assets/previews/ios-main.png"
+      ],
+      "date_added": "Oct 6 2026",
+      "suggested_by": "@can4hou6joeng4"
+    },
+    {
+      "title": "Vibe",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "objc"
+      ],
+      "description": "Minimal player for your music files, with waveform seeking, DJ FX, CUE sheets, and Dropbox playback.",
+      "source": "https://github.com/cmicali/vibe",
+      "homepage": "https://vibeplayer.app",
+      "itunes": "https://apps.apple.com/app/vibe-music-player/id1582482361",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://github.com/cmicali/vibe/blob/main/Assets/app-store/screenshots/en/ios/iphone/01-player.png?raw=true"
+      ],
+      "date_added": "Oct 6 2026",
+      "suggested_by": "@cmicali"
+    },
+    {
+      "title": "Cloakmark",
+      "category-ids": [
+        "security" 
+      ],
+      "description": "Redact photos, videos and PDFs on-device (formerly ZeroNet Redact).",
+      "license": "gpl-3.0",
+      "source": "https://github.com/materialofair/ZeroNet_Redact",
+      "homepage": "https://redact.siproducers.com",
+      "itunes": "https://apps.apple.com/app/id6756290503",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg"
+      ],
+      "date_added": "Oct 7 2026",
+      "suggested_by": "@materialofair"
+    },
+    {
+      "title": "Codync",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls",
+      "source": "https://github.com/leepokai/Codync",
+      "homepage": "https://www.codync.dev",
+      "itunes": "https://apps.apple.com/app/codync/id6760984418",
+      "license": "mit",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/92/a2/4092a244-6d5f-52f2-f161-98f5a0c41fdd/01-hero.png/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/42/b6/5e42b681-fc15-2d72-a2df-2f16a9dac4fd/02-device-top.png/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/55/3cd655cd-aad7-e5b9-4c0b-fe8907c70b5b/03-device-bottom.png/392x696bb.jpg"
+      ],
+      "date_added": "Oct 7 2026",
+      "suggested_by": "@leepokai"
+    },
+    {
+      "title": "Verceltics",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad"
+      ],
+      "description": "Manage hosting, domains, DNS, deployments, web analytics and uptime across 27 services including Vercel, Cloudflare and Netlify",
+      "source": "https://github.com/apoorvdarshan/verceltics",
+      "homepage": "https://verceltics.com",
+      "itunes": "https://apps.apple.com/app/id6761645656",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/hosting.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/registrars.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/verceltics/main/docs/screenshots/ios/sites.png"
+      ],
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@apoorvdarshan"
+    },
+	  {
+   "title": "iphoneduo",
+      "category-ids": [
+        "duo"
+      ],
+      "tags": [
+        "swift",
+        "swiftui" 
+      ],
+      "description": "Examples for the iPhone Duo (foldable iPhone) APIs in iOS 27.1: hinge, reserved regions, ArrangementView, vertical toolbar",
+      "source": "https://github.com/Codelaby/IphoneDuo",
+   "license": "apache-2.0",
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@dkhamsing"		  
+	  },
+    {
+      "title": "DartPDF",
+      "category-ids": [
+        "productivity",
+        "flutter"
+      ],
+      "description": "PDF editor for annotating documents and filling forms",
+      "source": "https://github.com/ben-milanko/dart-pdf/tree/main/app",
+      "homepage": "https://dart-pdf.com/",
+      "itunes": "https://apps.apple.com/app/id6780083686",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ef/5c/fb/ef5cfb41-b366-a352-0e64-43a466f850b3/02-editor.png/600x1300bb-60.jpg"
+      ],
+      "date_added": "Oct 10 2026",
+      "suggested_by": "@ben-milanko"
+    },
+    {
+      "title": "Sill",
+      "category-ids": [
+        "productivity",
+        "duo"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "macos"
+      ],
+      "description": "Shows any window from your Mac on your iPhone or iPad and lets you use it with touch, Apple Pencil, a trackpad and keys",
+      "source": "https://github.com/Saffsanity/sill",
+      "homepage": "https://getsill.app",
+      "itunes": "https://apps.apple.com/app/id6816359860",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg",
+        "https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg"
+      ],
+      "date_added": "Oct 11 2026",
+      "suggested_by": "@Saffsanity"
+    },
+	   {
+      "title": "Earnote",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "whisper",
+        "mlx"
+      ],
+      "description": "Record lectures, meetings or voice memos and get a structured note with tasks, flashcards and a PDF study sheet; transcription runs on-device with Whisper",
+      "source": "https://github.com/louiskl/Earnote",
+      "homepage": "https://earnote.dev",
+      "itunes": "https://apps.apple.com/app/earnote/id6815681807",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-rec-en.jpg",
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-note-en.jpg",
+        "https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-cards-en.jpg"
+      ],
+      "date_added": "Oct 8 2026",
+      "suggested_by": "@louiskl"
+    },
+    {
+      "title": "Pinto Notes",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos",
+        "mcp"
+      ],
+      "description": "Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them",
+      "source": "https://github.com/pinto-notes/pinto-notes",
+      "homepage": "https://pintonotes.com",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png"
+      ],
+      "date_added": "Oct 13 2026",
+      "suggested_by": "@emilwagman"
+    },
+    {
+      "title": "Quadrim",
+      "category-ids": [
+        "game",
+        "flutter"
+      ],
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "description": "Four in a row in a 4x4x4 cube with a rotatable 3D board and 31 computer opponents; vibe coded with Claude Code, every prompt and decision included",
+      "source": "https://github.com/evermeer/Quadrim",
+      "itunes": "https://apps.apple.com/app/quadrim/id6804034367",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png",
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png",
+        "https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png"
+      ],
+      "date_added": "Oct 13 2026",
+      "suggested_by": "@evermeer"
+    },
+    {
+      "title": "JoeBro Mobile",
+      "description": "iPhone companion to the JoeBro Mac AI workspace; chats, agents and documents over your own network, no cloud",
+      "category-ids": [
+        "productivity"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/joexk1/JoeBro-Mobile/main/README_assets/phone-agent.png"
+      ],
+      "source": "https://github.com/joexk1/JoeBro-Mobile",
+      "license": "gpl-3.0",
+      "date_added": "Oct 14 2026",
+      "suggested_by": "@joexk1"
+    },
+    {
+      "title": "LysnBox",
+      "description": "Listen to EPUBs, PDFs, web articles and text with on-device AI voices in 31 languages, fully offline",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_1_Library.png",
+        "https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png"
+      ],
+      "source": "https://github.com/joseph6377/J7seven",
+      "homepage": "https://books.josepht.in",
+      "itunes": "https://apps.apple.com/app/lysnbox/id6772035198",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@joseph6377"
+    },
+ {
+      "title": "Sbu Subscriptions",
+      "description": "Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device",
+      "category-ids": [
+        "finance"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "widget"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg"
+      ],
+      "source": "https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions",
+      "itunes": "https://apps.apple.com/app/id6780154928",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@mgiuditta"
+    },
+ {
+      "title": "Ironbook",
+      "category-ids": [
+        "fitness"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Workout log for lifting: sets, personal records, a rest timer, plates math and progress charts",
+      "source": "https://github.com/Mattbusel/ironbook",
+      "itunes": "https://apps.apple.com/app/id6814264434",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/ironbook/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },	 
+	   {
+      "title": "Minder",
+      "category-ids": [
+        "productivity",
+        "timer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Focus timer with a pair of animated eyes that watch you work (body doubling), with goals, streaks, a Live Activity and widgets",
+      "source": "https://github.com/Mattbusel/minder",
+      "itunes": "https://apps.apple.com/app/id6813451929",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png",
+        "https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png"
+      ],
+      "date_added": "Oct 9 2026",
+      "suggested_by": "@Mattbusel"
+    },
+    {
+      "title": "Sbu Scanner",
+      "description": "Read and make QR codes and barcodes, history on the device, no ads or tracking",
+      "category-ids": [
+        "scan"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/29/d4/2829d4af-e2ae-c7bf-aa38-b82e348ccbc9/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg"
+      ],
+      "source": "https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuScanner",
+      "itunes": "https://apps.apple.com/app/id6772572337",
+      "license": "mit",
+      "date_added": "Oct 18 2026",
+      "suggested_by": "@mgiuditta"
+    },
+    {
+      "title": "Prism",
+      "description": "Reads Apple Health and works out daily sleep, recovery, strain, stress and energy scores on the device, with a journal, planners, widgets and full data export; no account needed",
+      "category-ids": [
+        "health"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit",
+        "widget"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png"
+      ],
+      "source": "https://github.com/soma-intelligence/prism",
+      "license": "agpl-3.0",
+      "date_added": "Oct 19 2026",
+      "suggested_by": "@QuentinCar0n"
+    },
+    {
+      "title": "Aura",
+      "description": "Music player for Navidrome, Subsonic and OpenSubsonic servers, with synced lyrics, an EQ, offline downloads, CarPlay and an Apple Watch app",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-now-playing.jpg",
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-home.jpg",
+        "https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg"
+      ],
+      "source": "https://github.com/adrbn/aura",
+      "itunes": "https://apps.apple.com/app/id6818241470",
+      "homepage": "https://aura.adrbn.dev",
+      "license": "gpl-3.0",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@adrbn"
+    },
+    {
+      "title": "Ischys",
+      "description": "Strength training log that keeps everything on the phone, with an Apple Watch app and a Lock Screen Live Activity, no account",
+      "category-ids": [
+        "fitness",
+        "apple-watch"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript",
+        "swift"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/ischys-app/Ischys/main/docs/screenshots/home.png"
+      ],
+      "source": "https://github.com/ischys-app/Ischys",
+      "homepage": "https://ischys.app",
+      "itunes": "https://apps.apple.com/app/id6790443643",
+      "license": "mit",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@vplsdev"
+    },
+    {
+      "title": "Super Productivity",
+      "description": "To-do list and time tracker with timeboxing, a Pomodoro timer and Jira, GitHub and GitLab integrations; works offline, no account needed",
+      "category-ids": [
+        "tasks"
+      ],
+      "tags": [
+        "capacitor",
+        "angular",
+        "typescript",
+        "ipad"
+      ],
+      "homepage": "https://super-productivity.com",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e3/04/73/e3047345-c483-2727-2ec3-c0b7982b36dc/08-today.png/230x499bb.jpg"
+      ],
+      "source": "https://github.com/super-productivity/super-productivity",
+      "itunes": "https://apps.apple.com/app/super-productivity/id1482572463",
+      "license": "mit",
+      "date_added": "Oct 20 2026",
+      "suggested_by": "@johannesjo"
+    },
+    {
+      "title": "Align Studio",
+      "description": "Intelligent camera app that guides real-time photo composition, suggests optimal zoom levels, and captures high-resolution RAW shots with film presets",
+      "category-ids": [
+        "photo"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "coreml",
+        "metal",
+        "camera"
+      ],
+      "source": "https://github.com/emlavankhoahienma-hue/ai-smart-framing-camera",
+      "license": "mit",
+      "date_added": "Oct 22 2026",
+      "suggested_by": "@emlavankhoahienma-hue"
+    },
+    {
+      "title": "Generator Tracker",
+      "description": "Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts",
+      "category-ids": [
+        "productivity",
+        "react-native"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript",
+        "firebase"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg"
+      ],
+      "source": "https://github.com/yuri-val/GeneratorTracker",
+      "homepage": "https://generatortracker.yuri-val.dev",
+      "itunes": "https://apps.apple.com/app/id6819560707",
+      "license": "mit",
+      "date_added": "Oct 21 2026",
+      "suggested_by": "@yuri-val"
     }
   ]
 }
