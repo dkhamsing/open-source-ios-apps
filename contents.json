@@ -4768,6 +4768,23 @@
       "updated": "2015-09-15 23:13:51 UTC"
     },
     {
+      "title": "PureLibrary",
+      "category-ids": [
+        "photo"
+      ],
+      "description": "Photo library organizer and cleaner with duplicate clustering, blur detection, and swipe triage",
+      "source": "https://github.com/emlavankhoahienma-hue/PureLibrary",
+      "tags": [
+        "swift",
+        "swiftui",
+        "coreml",
+        "vision"
+      ],
+      "license": "mit",
+      "date_added": "Oct 23 2026",
+      "suggested_by": "@emlavankhoahienma-hue"
+    },
+    {
       "title": "Revolved",
       "category-ids": [
         "media"
