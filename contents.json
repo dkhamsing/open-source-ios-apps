@@ -35593,6 +35593,34 @@
       "date_added": "Oct 21 2026",
       "suggested_by": "@yuri-val"
     },
+	   {
+      "title": "Lyricar",
+      "description": "Synced lyrics for whatever plays on your Spotify, on the Lock Screen, Dynamic Island, Home Screen widgets and CarPlay",
+      "category-ids": [
+        "audio" 
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "spotify",
+        "lrclib",
+        "activitykit",
+        "widgetkit",
+        "carplay",
+        "app-intents"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/phone-karaoke.png",
+        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/home-widgets.png",
+        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/dynamic-island-line.png",
+        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png"
+      ],
+      "source": "https://github.com/noluyorAbi/lyricar",
+      "homepage": "https://lyricar.adatepe.dev",
+      "license": "apache-2.0",
+      "date_added": "Oct 21 2026",
+      "suggested_by": "@noluyorAbi"
+    }	  ,
     {
       "title": "Nano Buddha",
       "category-ids": [
