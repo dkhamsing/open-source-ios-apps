@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1713-green.svg) ![](https://img.shields.io/badge/Updated-October%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1715-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -243,6 +243,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`66` 
+- [Nano Buddha](https://github.com/knorthfield/nano-buddha): Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health
+  - [` App Store`](https://apps.apple.com/app/id6824602807) <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/2-sit.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/watch/2-sit.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server
   - <a href=https://www.nightscout.info/>`https://www.nightscout.info/`</a>
   -  <a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'>`Screenshot 1`</a> 
@@ -252,7 +255,7 @@ Jump to
   -  `2025` `watchos` 
   -  ☆`33` 
 - [Paint Anytime](https://github.com/denis-kolchev/Paint-Anytime): Draw, sketch and create tiny pieces of art directly on Apple Watch
-  - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-185C263D-45DF-4083-A93E-5BB0CED69B8F.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-E6D433C8-04EB-4934-98D9-ACE97176C268.PNG'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-6CDF876B-5B5B-406D-AE09-4C4DF3FBD48A.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4E3E4793-5295-448D-84D5-496EA4E122A2.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4D2D5F4B-0080-4027-90C2-0D0496BF7369.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-3130074F-56B5-43F4-B57A-162A5D5F04E0.PNG'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `watchos` `2026` 
 - [PhotoWatch](https://github.com/dropbox/PhotoWatch): Uses the SwiftyDropbox SDK
   -  <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'>`Screenshot 1`</a> 
@@ -672,6 +675,8 @@ Jump to
 - [Codync](https://github.com/leepokai/Codync): Message the coding agents on your computer (Claude Code, Codex, Gemini and more) as persistent bots, with approvals, push notifications, remote screen and voice calls
   - <a href=https://www.codync.dev>`https://www.codync.dev`</a>
   - [` App Store`](https://apps.apple.com/app/codync/id6760984418) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/40/92/a2/4092a244-6d5f-52f2-f161-98f5a0c41fdd/01-hero.png/392x696bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5e/42/b6/5e42b681-fc15-2d72-a2df-2f16a9dac4fd/02-device-top.png/392x696bb.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/d6/55/3cd655cd-aad7-e5b9-4c0b-fe8907c70b5b/03-device-bottom.png/392x696bb.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
+- [DevHardware](https://github.com/emlavankhoahienma-hue/DevHardware): Real-time hardware, Mach memory, thermal state, Metal GPU, and network interface inspector for developers
   - `swift` `swiftui` 
 - [Domain Dig](https://github.com/krazywarez/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
   - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004)
@@ -1623,6 +1628,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://github.com/user-attachments/assets/8295b8a5-7ad0-4a6a-8097-c82a28a28212)'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`62` 
+- [Nano Buddha](https://github.com/knorthfield/nano-buddha): Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health
+  - [` App Store`](https://apps.apple.com/app/id6824602807) <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/2-sit.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/watch/2-sit.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Nightguard](https://github.com/nightscout/nightguard): Display blood glucose values stored on your nightscout server
   - <a href=https://www.nightscout.info/>`https://www.nightscout.info/`</a>
   -  <a href='https://github.com/nightscout/nightguard/raw/master/images/nightguard24.jpg'>`Screenshot 1`</a> 

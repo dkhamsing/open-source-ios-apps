@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **325** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **326** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -145,8 +145,11 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/khabit/id1533656718) <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_2.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/elkiwy/KHabit/master/Screenshots/KHabit_3.png'>`Screenshot 3`</a> 
   -  `2023` `swift` `swiftui` 
   -  ☆`66` 
+- [Nano Buddha](https://github.com/knorthfield/nano-buddha): Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health
+  - [` App Store`](https://apps.apple.com/app/id6824602807) <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/2-sit.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/watch/2-sit.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Paint Anytime](https://github.com/denis-kolchev/Paint-Anytime): Draw, sketch and create tiny pieces of art directly on Apple Watch
-  - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-F1A50180-A7B1-4820-B40F-1DF043406D16.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-185C263D-45DF-4083-A93E-5BB0CED69B8F.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-36D76474-D3BA-49F0-A2A4-A0A93C0558F2.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/incoming-E6D433C8-04EB-4934-98D9-ACE97176C268.PNG'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-6CDF876B-5B5B-406D-AE09-4C4DF3FBD48A.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4E3E4793-5295-448D-84D5-496EA4E122A2.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4D2D5F4B-0080-4027-90C2-0D0496BF7369.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-3130074F-56B5-43F4-B57A-162A5D5F04E0.PNG'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `watchos` `2026` 
 - [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
   - <a href=https://recly.dev>`https://recly.dev`</a>
@@ -848,6 +851,9 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - <a href=https://mirrornotes.org>`https://mirrornotes.org`</a>
   - [` App Store`](https://apps.apple.com/app/id6769007201) <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide1-entries.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide2-insights.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide3-ask.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/lokii49/mirror/main/docs/screenshots/slide4-mood-timeline.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` `cloudkit` 
+- [Nano Buddha](https://github.com/knorthfield/nano-buddha): Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health
+  - [` App Store`](https://apps.apple.com/app/id6824602807) <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/2-sit.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/watch/2-sit.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Open Food Facts](https://github.com/openfoodfacts/smooth-app): Scan food products barcode to see if they are good for you and the planet
   - [` App Store`](https://apps.apple.com/app/open-food-facts/id588797948) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple124/v4/e7/18/27/e71827cd-1fd4-5b81-b52e-2668feed9700/pr_source.png/230x0w.png'>`Screenshot 1`</a> 
   -  `2026` `flutter` 
