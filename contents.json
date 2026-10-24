@@ -6029,6 +6029,23 @@
       "updated": "2017-07-18 22:36:59 UTC"
     },
     {
+      "title": "SafeRedact",
+      "category-ids": [
+        "security",
+        "photo"
+      ],
+      "description": "Photo privacy redactor for sensitive text, faces, and barcodes with EXIF metadata scrubbing",
+      "source": "https://github.com/emlavankhoahienma-hue/SafeRedact",
+      "tags": [
+        "swift",
+        "swiftui",
+        "vision"
+      ],
+      "license": "mit",
+      "date_added": "Oct 24 2026",
+      "suggested_by": "@emlavankhoahienma-hue"
+    },
+    {
       "title": "Starship",
       "category-ids": [
         "sample"
