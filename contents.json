@@ -35592,6 +35592,28 @@
       "license": "mit",
       "date_added": "Oct 21 2026",
       "suggested_by": "@yuri-val"
+    },
+    {
+      "title": "Nano Buddha",
+      "category-ids": [
+        "health",
+        "apple-watch"
+      ],
+      "description": "Meditation timer with no clock: a singing bowl rings after a slightly random time, and each completed sit quietly grows 15 seconds longer. iPhone, iPad, Watch, TV and Mac; logs Mindful Minutes to Health",
+      "source": "https://github.com/knorthfield/nano-buddha",
+      "itunes": "https://apps.apple.com/app/id6824602807",
+      "screenshots": [
+        "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/1-home.png",
+        "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/iphone/2-sit.png",
+        "https://raw.githubusercontent.com/knorthfield/nano-buddha/main/AppStore/screenshots/watch/2-sit.png"
+      ],
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "date_added": "Oct 24 2026",
+      "suggested_by": "@knorthfield"
     }
   ]
 }
