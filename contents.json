@@ -35018,7 +35018,7 @@
         "vision"
       ],
       "description": "Body-controlled game that tracks your movement with the device camera and can mirror play to a larger screen",
-      "source": "https://github.com/Significant-Hobbies/motion",
+      "source": "https://github.com/sarthakagrawal927/motion",
       "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/Significant-Hobbies/motion/main/artifacts/app-store/iphone-6.9/motion-maker-clean.jpg"
