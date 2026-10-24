@@ -35652,6 +35652,29 @@
       ],
       "date_added": "Oct 24 2026",
       "suggested_by": "@knorthfield"
+    },
+    {
+      "title": "Craftify",
+      "category-ids": [
+        "extension",
+        "text"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Translate, correct, simplify, explain or summarize text from any app through the Share sheet, using your own OpenAI, Claude, Mistral or OpenRouter API key",
+      "source": "https://github.com/korchasa/craftify-byok-ai-shortcuts",
+      "homepage": "https://craftify.korchasa.dev/",
+      "itunes": "https://apps.apple.com/app/id6745511563",
+      "license": "other",
+      "screenshots": [
+        "https://craftify.korchasa.dev/assets/shot-actions.png",
+        "https://craftify.korchasa.dev/assets/shot-explain.png",
+        "https://craftify.korchasa.dev/assets/shot-settings.png"
+      ],
+      "date_added": "Oct 19 2026",
+      "suggested_by": "@korchasa"
     }
   ]
 }
