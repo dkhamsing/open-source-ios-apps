@@ -35675,6 +35675,34 @@
       ],
       "date_added": "Oct 19 2026",
       "suggested_by": "@korchasa"
+    },
+    {
+      "title": "Fud AI",
+      "category-ids": [
+        "health",
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ipad",
+        "healthkit",
+        "widgetkit",
+        "watchos",
+        "ai"
+      ],
+      "description": "Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account",
+      "source": "https://github.com/apoorvdarshan/fud-ai",
+      "homepage": "https://fud-ai.app",
+      "itunes": "https://apps.apple.com/app/id6758935726",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png",
+        "https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png"
+      ],
+      "date_added": "Oct 25 2026",
+      "suggested_by": "@apoorvdarshan"
     }
   ]
 }
