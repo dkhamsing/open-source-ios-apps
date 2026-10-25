@@ -355,6 +355,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Impulse](https://github.com/Jasdev/Impulse)
 - [IndieApps](https://github.com/antranapp/IndieApps)
 - [Inkpad](https://github.com/sprang/Inkpad)
+- [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
 - [iOctocat](https://github.com/dennisreimann/ioctocat)
 - [iOS 10 Day by Day](https://github.com/ShinobiControls/iOS10-day-by-day)
 - [iOS 11 by Examples](https://github.com/artemnovichkov/iOS-11-by-Examples)

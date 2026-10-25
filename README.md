@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1715-green.svg) ![](https://img.shields.io/badge/Updated-October%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1720-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -227,6 +227,10 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `iphone` `ipad` 
   -  ☆`732` 
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
+  - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ipad` `healthkit` `widgetkit` `watchos` `ai` 
 - [Gym Routine Tracker](https://github.com/open-trackers/Gym-Routine-Tracker-Watch-App): Minimalist workout tracker
   - [` App Store`](https://apps.apple.com/app/gym-routine-tracker/id6444747204) <a href='https://raw.githubusercontent.com/gym-routine-tracker/gym-routine-tracker.github.io/gh-pages/assets/images/exercise-run-display.png'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` 
@@ -1051,6 +1055,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1531546573) <a href='https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png'>`Screenshot 1`</a> 
   -  `2024` `objc` 
   -  ☆`230` 
+- [Craftify](https://github.com/korchasa/craftify-byok-ai-shortcuts): Translate, correct, simplify, explain or summarize text from any app through the Share sheet, using your own OpenAI, Claude, Mistral or OpenRouter API key
+  - <a href=https://craftify.korchasa.dev/>`https://craftify.korchasa.dev/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6745511563) <a href='https://craftify.korchasa.dev/assets/shot-actions.png'>`Screenshot 1`</a>  <a href='https://craftify.korchasa.dev/assets/shot-explain.png'>`Screenshot 2`</a>  <a href='https://craftify.korchasa.dev/assets/shot-settings.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [HTTPS4All](https://github.com/bouk/HTTPS4All): Port of HTTPS Everywhere to force (most) links to use HTTPS
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020` `swift` 
@@ -1149,6 +1157,9 @@ Today Extensions or Widgets — [back to top](#readme)
 Widget (iOS 14) — [back to top](#readme) 
  
 
+- [Chain](https://github.com/Mattbusel/chain): Habit tracker with interactive Home Screen widgets, a year quilt per habit, streak freezes, quit-habit counters and Apple Health auto-complete
+  - [` App Store`](https://apps.apple.com/app/id6814264554) <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Clendar](https://github.com/vinhnx/Clendar): Minimal calendar & widgets
   -  <a href='https://user-images.githubusercontent.com/4723115/211681182-b43b1c2d-b754-4408-ae44-c94fbd83370c.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `iphone` `ipad` 
@@ -1599,6 +1610,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/154331528-8cf655bc-dac4-433d-a521-9179324f9188.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `tca` `combine` 
   -  ☆`124` 
+- [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
+  - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ipad` `healthkit` `widgetkit` `watchos` `ai` 
 - [Go Cycling Tracker](https://github.com/AnthonyH93/GoCycling)
   - [` App Store`](https://apps.apple.com/app/go-cycling/id1565861313) <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/1.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/3.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/5.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AnthonyH93/GoCycling/main/Screenshots/AppStoreVersion1_2_0/6.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `mapkit` `core-data` 
@@ -1985,7 +2000,7 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`11466` 
 - [AudioKitSynthOne](https://github.com/AudioKit/AudioKitSynthOne): Free synthesizer https://audiokitpro.com/synth/
   - <a href=https://audiokitpro.com/synth/>`https://audiokitpro.com/synth/`</a>
-  - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://audiokitpro.com/images/ak2.gif'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/audiokit-synth-one-synthesizer/id1371050497) <a href='https://github.com/user-attachments/assets/ec2cfd29-0302-44f4-be0a-0d13f12e91ad'>`Screenshot 1`</a> 
   -  `2022` `swift` `objc` 
   -  ☆`1796` 
 - [Aura](https://github.com/adrbn/aura): Music player for Navidrome, Subsonic and OpenSubsonic servers, with synced lyrics, an EQ, offline downloads, CarPlay and an Apple Watch app
@@ -2004,6 +2019,10 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/yuripetrosyan/Controllers/assets/73176415/f60607c2-7a1b-4df3-b6af-6c6f3988f478'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`11` 
+- [Lyricar](https://github.com/noluyorAbi/lyricar): Synced lyrics for whatever plays on your Spotify, on the Lock Screen, Dynamic Island, Home Screen widgets and CarPlay
+  - <a href=https://lyricar.adatepe.dev>`https://lyricar.adatepe.dev`</a>
+  -  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/phone-karaoke.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/home-widgets.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/dynamic-island-line.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png'>`Screenshot 4`</a> 
+  - `swift` `swiftui` `spotify` `lrclib` `activitykit` `widgetkit` `carplay` `app-intents` 
 - [LysnBox](https://github.com/joseph6377/J7seven): Listen to EPUBs, PDFs, web articles and text with on-device AI voices in 31 languages, fully offline
   - <a href=https://books.josepht.in>`https://books.josepht.in`</a>
   - [` App Store`](https://apps.apple.com/app/lysnbox/id6772035198) <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_1_Library.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/joseph6377/J7seven/master/AppStoreScreenshots/6.7_3_Voices.png'>`Screenshot 2`</a> 
@@ -2245,6 +2264,8 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  ☆`1380` 
 - [PureLibrary](https://github.com/emlavankhoahienma-hue/PureLibrary): Photo library organizer and cleaner with duplicate clustering, blur detection, and swipe triage
   - `swift` `swiftui` `coreml` `vision` 
+- [SafeRedact](https://github.com/emlavankhoahienma-hue/SafeRedact): Photo privacy redactor for sensitive text, faces, and barcodes with EXIF metadata scrubbing
+  - `swift` `swiftui` `vision` 
 - [SharedImages](https://github.com/crspybits/SharedImages): Save your images in your own cloud storage (e.g., Google Drive), and safely share those images with others
   -  <a href='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `google drive api` `facebook api` `syncserverii client` 
@@ -2842,6 +2863,8 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`661` 
+- [SafeRedact](https://github.com/emlavankhoahienma-hue/SafeRedact): Photo privacy redactor for sensitive text, faces, and barcodes with EXIF metadata scrubbing
+  - `swift` `swiftui` `vision` 
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser
   - <a href=https://simplelogin.io/>`https://simplelogin.io/`</a>
   - [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858) <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'>`Screenshot 1`</a> 
@@ -3020,6 +3043,10 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Craftify](https://github.com/korchasa/craftify-byok-ai-shortcuts): Translate, correct, simplify, explain or summarize text from any app through the Share sheet, using your own OpenAI, Claude, Mistral or OpenRouter API key
+  - <a href=https://craftify.korchasa.dev/>`https://craftify.korchasa.dev/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6745511563) <a href='https://craftify.korchasa.dev/assets/shot-actions.png'>`Screenshot 1`</a>  <a href='https://craftify.korchasa.dev/assets/shot-explain.png'>`Screenshot 2`</a>  <a href='https://craftify.korchasa.dev/assets/shot-settings.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` 
 - [Edhita](https://github.com/tnantoka/edhita): Text editor
   - [` App Store`](https://apps.apple.com/app/edhita-open-source-text-editor/id398896655) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple71/v4/ab/43/71/ab437113-1e03-517f-837e-73430970acb5/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple71/v4/8e/47/f1/8e47f1a1-51b5-1ebe-f2c1-d9557260fbdc/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2026` `swift` 
@@ -4117,9 +4144,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://github.com/V8tr/InfiniteListSwiftUI/raw/master/demo.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `combine` `github` 
   -  ☆`74` 
-- [InstaFake - Instagram Clone](https://github.com/leavenstee/InstaFake-Swift-UI)
-  -  `2019` `swift` 
-  -  ☆`17` 
 - [Instagram-SwiftUI](https://github.com/PankajGaikar/Instagram-Clone-SwiftUI)
   -  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/IMG_1607.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/activity-dark.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/PankajGaikar/Instagram-Clone-SwiftUI/main/Screenshots/profile-dark.PNG'>`Screenshot 3`</a> 
   -  `2024` `swift` `swiftui` 
