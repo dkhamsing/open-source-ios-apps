@@ -35731,6 +35731,25 @@
       ],
       "date_added": "Oct 25 2026",
       "suggested_by": "@apoorvdarshan"
+    },
+    {
+      "title": "Yihu",
+      "category-ids": [
+        "productivity"
+      ],
+      "description": "An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.",
+      "source": "https://github.com/alexlee2046/yihu-ios",
+      "homepage": "https://getyihu.com/",
+      "itunes": "https://apps.apple.com/us/app/yihu/id6819057500",
+      "license": "apache-2.0",
+      "tags": [
+        "swift"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a6/d7/7ca6d774-feda-c798-4c55-d95ad98e9786/iphone-connect.png/320x480bb.jpg"
+      ],
+      "date_added": "Oct 26 2026",
+      "suggested_by": "@alexlee2046"
     }
   ]
 }
