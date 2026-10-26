@@ -35750,6 +35750,29 @@
       ],
       "date_added": "Oct 26 2026",
       "suggested_by": "@alexlee2046"
+    },
+    {
+      "title": "Posato",
+      "category-ids": [
+        "productivity"
+      ],
+      "description": "Block chosen websites and apps with Screen Time for a timed pause, now or on a schedule, with optional end-to-end encrypted iCloud sync",
+      "source": "https://github.com/dees91/posato",
+      "homepage": "https://posato.app",
+      "itunes": "https://apps.apple.com/app/posato/id6812237585",
+      "license": "apache-2.0",
+      "tags": [
+        "kotlin",
+        "kotlin-multiplatform",
+        "compose-multiplatform",
+        "swift",
+        "cloudkit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-websites.png"
+      ],
+      "date_added": "Oct 26 2026",
+      "suggested_by": "@dees91"
     }
   ]
 }
