@@ -35731,6 +35731,31 @@
       "date_added": "Oct 25 2026",
       "suggested_by": "@apoorvdarshan"
     },
+	   {
+      "title": "Open Habit",
+      "description": "Habit tracker with interactive widgets, Apple Shortcuts actions, an Apple Watch app, iCloud sync and JSON export; no account needed",
+      "category-ids": [
+        "tasks"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "cloudkit",
+        "app-intents",
+        "widgetkit",
+        "ipad"
+      ],
+      "homepage": "https://getopenhabit.com",
+      "source": "https://github.com/zamai/open-habit",
+      "itunes": "https://apps.apple.com/app/id6808947599",
+      "screenshots": [
+        "https://raw.githubusercontent.com/zamai/open-habit/main/site/assets/iphone-overview-light.png",
+        "https://raw.githubusercontent.com/zamai/open-habit/main/site/assets/widget-three-habits.png"
+      ],
+      "license": "mit",
+      "date_added": "Oct 22 2026",
+      "suggested_by": "@zamai"
+    },
     {
       "title": "Yihu",
       "category-ids": [
