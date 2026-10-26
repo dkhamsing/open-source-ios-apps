@@ -35773,6 +35773,25 @@
       ],
       "date_added": "Oct 26 2026",
       "suggested_by": "@dees91"
+    },
+    {
+      "title": "Waybill",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI",
+      "source": "https://github.com/Yvsleyen00941/Waybill",
+      "homepage": "https://yorben.me/#waybill",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Yvsleyen00941/Waybill/main/icon.png"
+      ],
+      "date_added": "Oct 26 2026",
+      "suggested_by": "@Yvsleyen00941"
     }
   ]
 }
