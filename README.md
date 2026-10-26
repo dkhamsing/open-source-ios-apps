@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1720-green.svg) ![](https://img.shields.io/badge/Updated-October%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1722-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2605,6 +2605,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6742197499) <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-today.png'>`Screenshot 1`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-project.png'>`Screenshot 2`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-timer.png'>`Screenshot 3`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-today.png'>`Screenshot 4`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-section.png'>`Screenshot 5`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-project.png'>`Screenshot 6`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-today.png'>`Screenshot 7`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-section.png'>`Screenshot 8`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-menu.png'>`Screenshot 9`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` 
   -  ☆`40` 
+- [Posato](https://github.com/dees91/posato): Block chosen websites and apps with Screen Time for a timed pause, now or on a schedule, with optional end-to-end encrypted iCloud sync
+  - <a href=https://posato.app>`https://posato.app`</a>
+  - [` App Store`](https://apps.apple.com/app/posato/id6812237585) <a href='https://raw.githubusercontent.com/dees91/posato/main/.github/assets/step-websites.png'>`Screenshot 1`</a> 
+  - `swift` `kotlin` `kotlin-multiplatform` `compose-multiplatform` `cloudkit` 
 - [Rushi](https://github.com/hooosberg/Rushi): Buddhist toolkit — Diamond/Heart Sutra reader (9 languages), 108-bead mala counter, sutra calligraphy. Scriptures CC0 public domain.
   - [` App Store`](https://apps.apple.com/us/app/rushi-sutra-mala-meditation/id6766074713) <a href='https://raw.githubusercontent.com/hooosberg/Rushi/main/posters/sheet-en.webp'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` `ipad` `multilingual` 
@@ -2613,6 +2617,10 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://getsill.app>`https://getsill.app`</a>
   - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
   - `swift` `swiftui` `ipad` `macos` 
+- [Yihu](https://github.com/alexlee2046/yihu-ios): An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.
+  - <a href=https://getyihu.com/>`https://getyihu.com/`</a>
+  - [` App Store`](https://apps.apple.com/us/app/yihu/id6819057500) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a6/d7/7ca6d774-feda-c798-4c55-d95ad98e9786/iphone-connect.png/320x480bb.jpg'>`Screenshot 1`</a> 
+  - `swift` 
 ## Sample 
  
 [back to top](#readme) 
@@ -3998,7 +4006,7 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020` `swift` `swiftui` `core-data` 
   -  ☆`69` 
-- [BreadBuddy](https://github.com/maxhumber/BreadBuddy): Recipe scheduler for baked goods
+- [BreadBuddy](https://github.com/bracketltd/BreadBuddy): Recipe scheduler for baked goods
   - [` App Store`](https://apps.apple.com/app/id1620912870) <a href='https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `swiftui` 
   -  ☆`160` 
