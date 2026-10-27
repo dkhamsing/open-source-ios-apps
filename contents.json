@@ -383,6 +383,7 @@
       ],
       "description": "Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface",
       "source": "https://github.com/korchasa/bg-trainer",
+      "homepage": "https://bgtrainer.korchasa.dev/",
       "itunes": "https://apps.apple.com/app/id6766068069",
       "license": "mit",
       "lang": "rus",
