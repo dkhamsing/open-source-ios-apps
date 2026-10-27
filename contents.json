@@ -35817,6 +35817,32 @@
       ],
       "date_added": "Oct 26 2026",
       "suggested_by": "@Yvsleyen00941"
+    },
+    {
+      "title": "Pocket AI Lab",
+      "category-ids": [
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "llm",
+        "mlx",
+        "coreml",
+        "whisper"
+      ],
+      "description": "Run open LLMs from Hugging Face offline on iPhone with llama.cpp, MLX, Core ML or Apple Foundation Models, with vision models, voice input, a memory-fit check before download and a built-in benchmark",
+      "source": "https://github.com/ananasDDA/pocket-ai-lab",
+      "homepage": "https://ananasdda.github.io/pocket-ai-lab/",
+      "itunes": "https://apps.apple.com/app/id6802253142",
+      "license": "mit",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/96/72/f4967274-a3cb-62d1-c4f3-212495afc70f/ai_lab1.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/31/cd/e531cd57-cc27-6fb9-27b9-361e654fc119/ai_lab2.png/460x0w.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/86/ae/c986ae03-1e94-88ff-ca89-ece5eb84ba7e/ai_lab3.png/460x0w.jpg"
+      ],
+      "date_added": "Oct 26 2026",
+      "suggested_by": "@ananasDDA"
     }
   ]
 }
