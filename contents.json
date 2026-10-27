@@ -35817,6 +35817,27 @@
       ],
       "date_added": "Oct 26 2026",
       "suggested_by": "@Yvsleyen00941"
+    },
+    {
+      "title": "Cockpit",
+      "category-ids": [
+        "productivity",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos"
+      ],
+      "description": "Tactile macOS HUD and menu bar workspace dashboard for quick glanceable monitoring",
+      "source": "https://github.com/Yvsleyen00941/Cockpit",
+      "homepage": "https://yorben.me/#cockpit",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Yvsleyen00941/Cockpit/main/icon.png"
+      ],
+      "date_added": "Oct 27 2026",
+      "suggested_by": "@Yvsleyen00941"
     }
   ]
 }
