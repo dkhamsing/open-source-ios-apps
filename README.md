@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1722-green.svg) ![](https://img.shields.io/badge/Updated-October%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1724-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -260,7 +260,7 @@ Jump to
   -  ☆`33` 
 - [Paint Anytime](https://github.com/denis-kolchev/Paint-Anytime): Draw, sketch and create tiny pieces of art directly on Apple Watch
   - [` App Store`](https://apps.apple.com/app/paint-anytime/id6816100087) <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-6CDF876B-5B5B-406D-AE09-4C4DF3FBD48A.PNG'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4E3E4793-5295-448D-84D5-496EA4E122A2.PNG'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-4D2D5F4B-0080-4027-90C2-0D0496BF7369.PNG'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/denis-kolchev/Paint-Anytime/main/images/app%20previews/release%201.1/incoming-3130074F-56B5-43F4-B57A-162A5D5F04E0.PNG'>`Screenshot 4`</a> 
-  -  `2026` `swift` `swiftui` `watchos` `2026` 
+  -  `2026` `swift` `swiftui` `watchos` 
 - [PhotoWatch](https://github.com/dropbox/PhotoWatch): Uses the SwiftyDropbox SDK
   -  <a href='https://github.com/dropbox/PhotoWatch/raw/master/Screenshots/watch.png'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -888,6 +888,7 @@ Jump to
   -  `2026` `swift` 
   -  ☆`28` 
 - [BG Trainer](https://github.com/korchasa/bg-trainer): Free Bulgarian grammar drills for beginners with a Russian or Ukrainian interface
+  - <a href=https://bgtrainer.korchasa.dev/>`https://bgtrainer.korchasa.dev/`</a>
   - [` App Store`](https://apps.apple.com/app/id6766068069) <a href='https://bgtrainer.korchasa.dev/assets/app-lessons.png'>`Screenshot 1`</a> 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
   - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
@@ -1497,6 +1498,10 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/nicklockwood/Swune/raw/main/Screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`49` 
+- [Waybill](https://github.com/Yvsleyen00941/Waybill): Tactile 3D logistics idle diorama game for iPad built with RealityKit and SwiftUI
+  - <a href=https://yorben.me/#waybill>`https://yorben.me/#waybill`</a>
+  -  <a href='https://raw.githubusercontent.com/Yvsleyen00941/Waybill/main/icon.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://user-images.githubusercontent.com/4723115/146569119-685104a8-b67c-448c-9c3e-6898b5c0ceac.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
@@ -3029,6 +3034,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/us/app/habo-habit-tracker/id1670223360) <a href='https://habo.space/images/mockups/mockup2_hu_128f21691bd29adf.webp'>`Screenshot 1`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`1512` 
+- [Open Habit](https://github.com/zamai/open-habit): Habit tracker with interactive widgets, Apple Shortcuts actions, an Apple Watch app, iCloud sync and JSON export; no account needed
+  - <a href=https://getopenhabit.com>`https://getopenhabit.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6808947599) <a href='https://raw.githubusercontent.com/zamai/open-habit/main/site/assets/iphone-overview-light.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/zamai/open-habit/main/site/assets/widget-three-habits.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `cloudkit` `app-intents` `widgetkit` `ipad` 
 - [Planc](https://github.com/aerlinn13/planc): Minimalistic to-do list
   -  <a href='https://github.com/aerlinn13/Planc/blob/master/screenshots/1.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
@@ -4109,10 +4118,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/z-combinator-for-hacker-news/id1638242818) <a href='https://raw.githubusercontent.com/Livinglist/Gem/refs/heads/main/Resources/Screenshots/home_top.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`88` 
-- [GitHub User Search](https://github.com/ra1028/SwiftUI-Combine)
-  -  <a href='https://github.com/ra1028/SwiftUI-Combine/raw/master/assets/sample.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` `swiftui` `combine` 
-  -  ☆`451` 
 - [GitHubSearchWithSwiftUI](https://github.com/marty-suzuki/GitHubSearchWithSwiftUI): Search GitHub
   -  <a href='https://user-images.githubusercontent.com/2082134/58905672-41539280-8745-11e9-99e3-cb3c3c4991f0.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/2082134/59124140-e1a1f500-8999-11e9-9d28-aaa2181a5e43.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/2082134/59275420-4198e400-8c97-11e9-8e44-588f328bde8d.png'>`Screenshot 3`</a> 
   -  `2019` `swift` `swiftui` `combine` 
