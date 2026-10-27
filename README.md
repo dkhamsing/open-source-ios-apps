@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1724-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1725-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -4251,6 +4251,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [PKDex](https://github.com/MaikCL/PKDex-iOS)
   -  `2021` `swift` `swiftui` `combine` `mvi` `model-view-intent` 
   -  ☆`18` 
+- [Pocket AI Lab](https://github.com/ananasDDA/pocket-ai-lab): Run open LLMs from Hugging Face offline on iPhone with llama.cpp, MLX, Core ML or Apple Foundation Models, with vision models, voice input, a memory-fit check before download and a built-in benchmark
+  - <a href=https://ananasdda.github.io/pocket-ai-lab/>`https://ananasdda.github.io/pocket-ai-lab/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6802253142) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f4/96/72/f4967274-a3cb-62d1-c4f3-212495afc70f/ai_lab1.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/31/cd/e531cd57-cc27-6fb9-27b9-361e654fc119/ai_lab2.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/86/ae/c986ae03-1e94-88ff-ca89-ece5eb84ba7e/ai_lab3.png/460x0w.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `llm` `mlx` `coreml` `whisper` 
 - [Podcasts](https://github.com/albertopeam/Podcasts): Shows a list of podcasts that can be played, fetched from listennotes
   -  <a href='https://github.com/albertopeam/Podcasts/raw/master/art/podcasts.png'>`Screenshot 1`</a> 
   -  `2019` `swift` `combine` 
