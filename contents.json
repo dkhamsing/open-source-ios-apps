@@ -35867,6 +35867,28 @@
       ],
       "date_added": "Oct 26 2026",
       "suggested_by": "@ananasDDA"
+    },
+    {
+      "title": "Quock",
+      "category-ids": [
+        "react-native"
+      ],
+      "tags": [
+        "typescript",
+        "react-native",
+        "expo",
+        "llm",
+        "ai"
+      ],
+      "description": "Chat with cloud-hosted open models through Ollama Cloud, with streamed replies, image and PDF input, and chat history stored on-device",
+      "source": "https://github.com/matteocelani/quock",
+      "itunes": "https://apps.apple.com/app/id6785608333",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/matteocelani/quock/main/docs/screenshots/0.2.png"
+      ],
+      "date_added": "Oct 28 2026",
+      "suggested_by": "@matteocelani"
     }
   ]
 }
