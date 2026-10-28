@@ -35889,6 +35889,29 @@
       ],
       "date_added": "Oct 28 2026",
       "suggested_by": "@matteocelani"
+    },
+    {
+      "title": "Origin Lens",
+      "category-ids": [
+        "photo",
+        "flutter"
+      ],
+      "tags": [
+        "flutter",
+        "dart",
+        "rust",
+        "ipad"
+      ],
+      "description": "Verify image provenance with C2PA Content Credentials and EXIF metadata",
+      "source": "https://github.com/aloth/origin-lens",
+      "itunes": "https://apps.apple.com/app/origin-lens/id6756628121",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analyze-image-home.png",
+        "https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analysis-results-exif.png"
+      ],
+      "date_added": "Oct 28 2026",
+      "suggested_by": "@aloth"
     }
   ]
 }
