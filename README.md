@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1725-green.svg) ![](https://img.shields.io/badge/Updated-October%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1726-green.svg) ![](https://img.shields.io/badge/Updated-October%2028,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1615,6 +1615,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/4723115/154331528-8cf655bc-dac4-433d-a521-9179324f9188.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `tca` `combine` 
   -  ☆`124` 
+- [FoodVisionAI (NadY Diet)](https://github.com/UniversalSDK/FoodVisionAI-iOS): AI food vision & calorie tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration
+  - <a href=https://nady.iqtest.pp.ua>`https://nady.iqtest.pp.ua`</a>
+  - [` App Store`](https://apps.apple.com/app/id6740164035) <a href='https://raw.githubusercontent.com/UniversalSDK/FoodVisionAI-iOS/main/Assets/nady_demo.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `healthkit` `computer-vision` `ai` 
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
   - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
   - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 

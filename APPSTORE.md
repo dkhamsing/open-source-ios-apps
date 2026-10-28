@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **333** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -846,6 +846,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/dailyvox-ai-voice-diary/id6760454642) <a href='https://github.com/user-attachments/assets/5d16f6a9-2a08-4eb8-b67d-924745749b8c'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`18` 
+- [FoodVisionAI (NadY Diet)](https://github.com/UniversalSDK/FoodVisionAI-iOS): AI food vision & calorie tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration
+  - <a href=https://nady.iqtest.pp.ua>`https://nady.iqtest.pp.ua`</a>
+  - [` App Store`](https://apps.apple.com/app/id6740164035) <a href='https://raw.githubusercontent.com/UniversalSDK/FoodVisionAI-iOS/main/Assets/nady_demo.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `healthkit` `computer-vision` `ai` 
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
   - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
   - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
