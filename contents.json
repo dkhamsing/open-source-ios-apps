@@ -35799,6 +35799,30 @@
       "date_added": "Oct 26 2026",
       "suggested_by": "@dees91"
     },
+	    {
+      "title": "FoodVisionAI (NadY Diet)",
+      "description": "AI food vision & calorie tracker with Bento UI, intermittent fasting timer, and Apple HealthKit integration",
+      "category-ids": [
+        "health"
+    
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit",
+        "computer-vision",
+        "ai"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/UniversalSDK/FoodVisionAI-iOS/main/Assets/nady_demo.jpg"
+      ],
+      "source": "https://github.com/UniversalSDK/FoodVisionAI-iOS",
+      "homepage": "https://nady.iqtest.pp.ua",
+      "itunes": "https://apps.apple.com/app/id6740164035",
+      "license": "mit",
+      "date_added": "Oct 24 2026",
+      "suggested_by": "@UniversalSDK"
+    },
     {
       "title": "Waybill",
       "category-ids": [
