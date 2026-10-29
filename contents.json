@@ -36028,6 +36028,25 @@
       "suggested_by": "@peterzhang0216",
       "stars": 0,
       "updated": "2026-10-29 13:14:54 UTC"
+    },
+    {
+      "title": "Pomelu",
+      "category-ids": [
+        "flutter"
+      ],
+      "tags": [
+        "flutter",
+        "dart",
+        "riverpod",
+        "llm",
+        "ai"
+      ],
+      "description": "Mobile client for Hermes Agent, the self-hosted AI agent by Nous Research: one chat per bot, live Markdown answers, approvals, voice and files, no analytics or ads",
+      "source": "https://github.com/ateymoori/pomelu",
+      "homepage": "https://royan.se/pomelu/",
+      "license": "apache-2.0",
+      "date_added": "Oct 29 2026",
+      "suggested_by": "@royan-agent"
     }
   ]
 }
