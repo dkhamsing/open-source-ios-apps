@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **334** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **336** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1222,6 +1222,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/metax/id1376589355) <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPhone_en.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Ckitakishi/MetaX/master/Screenshots/iPad_en.png'>`Screenshot 2`</a> 
   -  `2026` `swift` 
   -  ☆`226` 
+- [Origin Lens](https://github.com/aloth/origin-lens): Verify image provenance with C2PA Content Credentials and EXIF metadata
+  - [` App Store`](https://apps.apple.com/app/origin-lens/id6756628121) <a href='https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analyze-image-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analysis-results-exif.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` `rust` `ipad` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2026` 
@@ -1927,6 +1930,9 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/orgro/id1512580074) <a href='https://github.com/amake/orgro/assets/2172537/a3d841a3-84f3-4c34-9381-c73ab4dc9249'>`Screenshot 1`</a> 
   -  `2026` `flutter` 
   -  ☆`732` 
+- [Origin Lens](https://github.com/aloth/origin-lens): Verify image provenance with C2PA Content Credentials and EXIF metadata
+  - [` App Store`](https://apps.apple.com/app/origin-lens/id6756628121) <a href='https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analyze-image-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/aloth/origin-lens/main/screenshots/origin-lens-analysis-results-exif.png'>`Screenshot 2`</a> 
+  - `flutter` `dart` `rust` `ipad` 
 - [Platypus Crypto](https://github.com/Blakexx/CryptoTracker)
   - [` App Store`](https://apps.apple.com/app/platypus-crypto/id1397122793) <a href='https://user-images.githubusercontent.com/4723115/129973780-284f8ef0-7ad7-4a29-aaf4-082b76c24b44.png'>`Screenshot 1`</a> 
   -  `2021` `flutter` `dart` 
@@ -2044,6 +2050,9 @@ https://reactnative.dev/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/pocketdex-for-pok%C3%A9mon-go/id1255564898) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple113/v4/92/e1/4d/92e14db4-8386-6f71-161b-652d76ce89ee/mzl.rlgaqcnk.jpg/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/43/11/f3/4311f37f-7232-b725-cd03-f4e8f2e7ace4/mzl.askczwpt.jpg/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/62/db/8d/62db8da0-0810-dfd0-937a-63dfc6fae957/mzl.odiufjsj.jpg/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/a9/fb/29/a9fb2936-ca9e-c88e-1276-e7a60a5fa565/pr_source.jpg/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/32/c4/b632c4ee-2e2c-ff81-dd04-87e9f49f7341/mzl.sckfqxlh.jpg/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2025` `react-native` 
   -  ☆`211` 
+- [Quock](https://github.com/matteocelani/quock): Chat with cloud-hosted open models through Ollama Cloud, with streamed replies, image and PDF input, and chat history stored on-device
+  - [` App Store`](https://apps.apple.com/app/id6785608333) <a href='https://raw.githubusercontent.com/matteocelani/quock/main/docs/screenshots/0.2.png'>`Screenshot 1`</a> 
+  - `typescript` `react-native` `expo` `llm` `ai` 
 - [Rainbow](https://github.com/rainbow-me/rainbow): Ethereum wallet that lives in your pocket
   - <a href=https://rainbow.me>`https://rainbow.me`</a>
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
