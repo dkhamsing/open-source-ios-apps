@@ -35912,6 +35912,26 @@
       ],
       "date_added": "Oct 28 2026",
       "suggested_by": "@aloth"
+    },
+    {
+      "title": "Lexa",
+      "category-ids": [
+        "education"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Offline English vocabulary trainer for Chinese speakers with spaced repetition and word lists from VOA, AWL and ECDICT",
+      "source": "https://github.com/peterzhang0216/lexa",
+      "license": "mit",
+      "lang": "zho",
+      "screenshots": [
+        "https://raw.githubusercontent.com/peterzhang0216/lexa/main/screenshots/01_home.png",
+        "https://raw.githubusercontent.com/peterzhang0216/lexa/main/screenshots/02_study_front.png"
+      ],
+      "date_added": "Oct 29 2026",
+      "suggested_by": "@peterzhang0216"
     }
   ]
 }
