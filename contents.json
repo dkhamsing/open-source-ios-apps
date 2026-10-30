@@ -36028,6 +36028,38 @@
       "suggested_by": "@peterzhang0216",
       "stars": 0,
       "updated": "2026-10-29 13:14:54 UTC"
+    },
+    {
+      "title": "Currents",
+      "category-ids": [
+        "location",
+        "apple-watch",
+        "swiftui"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ios26",
+        "grdb",
+        "sqlite",
+        "cloudkit",
+        "coreml",
+        "mapkit",
+        "widgetkit",
+        "activitykit",
+        "watchos"
+      ],
+      "description": "Offline-first fishing companion with a bite forecast, catch log, offline maps and on-device fish identification",
+      "source": "https://github.com/PndaMan/Currents",
+      "itunes": "https://apps.apple.com/app/currents-fishing-forecast/id6771932525",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/01_today.png",
+        "https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/02_explore.png",
+        "https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/04_logbook.png"
+      ],
+      "date_added": "Oct 30 2026",
+      "suggested_by": "@PndaMan"
     }
   ]
 }
