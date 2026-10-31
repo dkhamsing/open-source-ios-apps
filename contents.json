@@ -35130,9 +35130,7 @@
       "itunes": "https://apps.apple.com/app/recly-record-for-your-ai/id6809930443",
       "license": "agpl-3.0",
       "screenshots": [
-        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png",
-        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png",
-        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png"
+        "https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png" 
       ],
       "date_added": "Oct 5 2026",
       "suggested_by": "@rokrokss",
