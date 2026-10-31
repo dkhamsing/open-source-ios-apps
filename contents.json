@@ -36006,6 +36006,26 @@
       "updated": "2026-10-27 11:59:56 UTC"
     },
     {
+  "title": "BitTool Signer",
+  "category-ids": [
+    "security"
+  ],
+  "description": "Offline transaction signer using QR codes for Bitcoin PSBT and EVM signing",
+  "source": "https://github.com/bitbill/bittool-signer-ios",
+  "homepage": "https://bittool.com/signer/",
+  "itunes": "https://apps.apple.com/app/id6823781498",
+  "license": "mit",
+  "tags": [
+    "swift"
+  ],
+  "date_added": "Oct 30 2026",
+  "suggested_by": "@jtomtan",
+  "screenshots": [
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/0e/81/bb0e8195-9740-469a-3b95-4a60bd7ecd1c/01-air-gapped.png/320x480bb.jpg",
+    "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/3f/ce/0c3fcef6-6058-0602-9b63-a4cba52d6383/02-review.png/320x480bb.jpg"
+  ]
+},
+    {
       "title": "Lexa",
       "category-ids": [
         "education"
