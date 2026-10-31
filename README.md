@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1730-green.svg) ![](https://img.shields.io/badge/Updated-October%2030,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1731-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202026-lightgrey.svg)
 
 Jump to
 
@@ -279,7 +279,7 @@ Jump to
   -  ☆`6` 
 - [Recly](https://github.com/rokrokss/recly): One-tap recorder for iPhone and Apple Watch that saves recordings to your own Google Drive or iCloud without a Recly account or server, and transcribes them on device or with your own API key
   - <a href=https://recly.dev>`https://recly.dev`</a>
-  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/03-drive.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/04-record.png'>`Screenshot 3`</a> 
+  - [` App Store`](https://apps.apple.com/app/recly-record-for-your-ai/id6809930443) <a href='https://raw.githubusercontent.com/rokrokss/recly/main/docs/design/screenshots/en/02-transcribe.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `watchos` `kotlin-multiplatform` 
   -  ☆`19` 
 - [Silent Bell: Mindful Taps](https://github.com/jakublipinski/Silent-Bell): Silent Bell taps your wrist at random moments. Silent by default. Nothing on screen. Just a quiet question, felt and not heard: where is your attention right now?
@@ -2854,6 +2854,10 @@ https://newsapi.org/ — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [BitTool Signer](https://github.com/bitbill/bittool-signer-ios): Offline transaction signer using QR codes for Bitcoin PSBT and EVM signing
+  - <a href=https://bittool.com/signer/>`https://bittool.com/signer/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6823781498) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/bb/0e/81/bb0e8195-9740-469a-3b95-4a60bd7ecd1c/01-air-gapped.png/320x480bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/3f/ce/0c3fcef6-6058-0602-9b63-a4cba52d6383/02-review.png/320x480bb.jpg'>`Screenshot 2`</a> 
+  - `swift` 
 - [Cloakmark](https://github.com/materialofair/ZeroNet_Redact): Redact photos, videos and PDFs on-device (formerly ZeroNet Redact).
   - <a href=https://redact.siproducers.com>`https://redact.siproducers.com`</a>
   - [` App Store`](https://apps.apple.com/app/id6756290503) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9c/20/40/9c2040af-58f8-6f25-319f-499f5a8c0030/01-photo-en.png/320x480bb.jpg'>`Screenshot 1`</a> 
