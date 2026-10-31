@@ -36010,7 +36010,6 @@
     {
   "title": "BitTool Signer",
   "category-ids": [
-    "bitcoin",
     "security"
   ],
   "description": "Offline transaction signer using QR codes for Bitcoin PSBT and EVM signing",
