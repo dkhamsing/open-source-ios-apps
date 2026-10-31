@@ -36066,5 +36066,28 @@
       "date_added": "Oct 29 2026",
       "suggested_by": "@royan-agent"
     }
+,
+    {
+      "title": "Screen Capture",
+      "category-ids": [
+        "macos",
+        "swiftui"
+      ],
+      "description": "Native screenshot and sticky-aware scrolling long-capture utility with inline vector annotation",
+      "source": "https://github.com/nasadunadu/screen-capture-macos",
+      "homepage": "https://nasadunadu.github.io/screen-capture-macos/",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/nasadunadu/screen-capture-macos/main/docs/images/settings.png"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "macos",
+        "screencapturekit"
+      ],
+      "date_added": "Oct 31 2026",
+      "suggested_by": "@nasadunadu"
+    }
   ]
 }
