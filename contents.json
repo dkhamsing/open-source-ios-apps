@@ -36085,7 +36085,7 @@
       "description": "Mobile analytic document designer with an ad-hoc SQL query builder, banded report layout designer, and viewer for PostgreSQL, MySQL/MariaDB, SQL Server, and SQLite",
       "source": "https://github.com/mthomason/MAD",
       "homepage": "https://docs.everydayapps.com",
-      "license": "apache-2.0",
+      "license": "mit",
       "screenshots": [
         "https://raw.githubusercontent.com/mthomason/MAD/master/docs/assets/app-preview-poster.png",
         "https://raw.githubusercontent.com/mthomason/MAD/master/docs/assets/macos-native-mad-query.png",
