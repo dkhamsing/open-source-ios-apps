@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1731-green.svg) ![](https://img.shields.io/badge/Updated-October%2031,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1732-green.svg) ![](https://img.shields.io/badge/Updated-November%20%201,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2623,6 +2623,10 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://user-images.githubusercontent.com/705880/63391950-34286600-c37a-11e9-965f-832efe3da507.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`622` 
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit): Tactile macOS HUD and menu bar workspace dashboard for quick glanceable monitoring
+  - <a href=https://yorben.me/#cockpit>`https://yorben.me/#cockpit`</a>
+  -  <a href='https://raw.githubusercontent.com/Yvsleyen00941/Cockpit/main/icon.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `macos` 
 - [Conduck](https://github.com/GigaDuckAI/conduck): Native voice and text client for your self-hosted or BYO-key AI, on iPhone, iPad, Mac, Apple Watch and CarPlay
   - [` App Store`](https://apps.apple.com/app/id6773045286) <a href='https://github.com/user-attachments/assets/083609a7-f841-4d2c-96dc-78c0d6c9de5a'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `apple-watch` `macos` `swiftui` 
@@ -3773,6 +3777,10 @@ Cross platform projects — [back to top](#readme)
   -  <a href='https://github.com/nalexn/blob_files/raw/master/images/countries_preview.png?raw=true'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` `macos` `mvvm` 
   -  ☆`6607` 
+- [Cockpit](https://github.com/Yvsleyen00941/Cockpit): Tactile macOS HUD and menu bar workspace dashboard for quick glanceable monitoring
+  - <a href=https://yorben.me/#cockpit>`https://yorben.me/#cockpit`</a>
+  -  <a href='https://raw.githubusercontent.com/Yvsleyen00941/Cockpit/main/icon.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `macos` 
 - [Corona Tracker](https://github.com/MhdHejazi/CoronaTracker): Coronavirus tracker with maps & charts
   - <a href=https://coronatracker.samabox.com/>`https://coronatracker.samabox.com/`</a>
   -  <a href='https://user-images.githubusercontent.com/121827/76356430-fe06ff80-6326-11ea-8107-60f900a73016.png'>`Screenshot 1`</a> 
