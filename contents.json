@@ -36118,6 +36118,26 @@
       ],
       "date_added": "Oct 30 2026",
       "suggested_by": "@PndaMan"
+    },
+    {
+      "title": "Oath Wallet",
+      "category-ids": [
+        "cryptocurrency"
+      ],
+      "description": "Manage Bitcoin, Ethereum and other assets on iPhone and iPad",
+      "license": "mit",
+      "source": "https://github.com/devdasx/oath-wallet",
+      "homepage": "https://oathwallet.org",
+      "itunes": "https://apps.apple.com/app/id6780187283",
+      "tags": [
+        "swift",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://oathwallet.org/assets/press/2026-10/oath-portfolio-iphone.png"
+      ],
+      "date_added": "Nov 2 2026",
+      "suggested_by": "@devdasx"
     }
   ]
 }
