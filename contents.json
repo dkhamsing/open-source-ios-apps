@@ -25998,14 +25998,14 @@
         "widget"
       ],
       "description": "Check your GitHub contributions using Home Screen Widgets",
-      "source": "https://github.com/AnderGoig/github-contributions-ios",
+      "source": "https://github.com/latelunchapps/github-contributions-ios",
       "itunes": "https://apps.apple.com/app/id1537192731",
       "license": "mit",
       "tags": [
         "swift"
       ],
       "screenshots": [
-        "https://github.com/AnderGoig/github-contributions-ios/raw/master/.assets/app-screenshot-1.jpg"
+        "https://raw.githubusercontent.com/latelunchapps/github-contributions-ios/master/.assets/app-screenshot-1.jpg"
       ],
       "date_added": "Oct 26 2020",
       "suggested_by": "@AnderGoig",
