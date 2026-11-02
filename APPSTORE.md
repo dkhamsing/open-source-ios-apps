@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **337** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **339** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -133,6 +133,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/id1531546573) <a href='https://raw.githubusercontent.com/wiki/chanify/chanify/images/preview.png'>`Screenshot 1`</a> 
   -  `2024` `objc` 
   -  ☆`229` 
+- [Currents](https://github.com/PndaMan/Currents): Offline-first fishing companion with a bite forecast, catch log, offline maps and on-device fish identification
+  - [` App Store`](https://apps.apple.com/app/currents-fishing-forecast/id6771932525) <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/01_today.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/02_explore.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/04_logbook.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ios26` `grdb` `sqlite` `cloudkit` `coreml` `mapkit` `widgetkit` `activitykit` `watchos` 
 - [Fud AI](https://github.com/apoorvdarshan/fud-ai): Calorie, macro and workout tracker that logs meals from photos, barcodes, text or a spoken conversation, using your own Gemini, OpenAI, Claude or other AI key, with an AI coach, Apple Health sync and no account
   - <a href=https://fud-ai.app>`https://fud-ai.app`</a>
   - [` App Store`](https://apps.apple.com/app/id6758935726) <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/01-day-at-a-glance.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/02-snap-your-meal.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/store/screenshots/ios/07-ask-about-your-goals.png'>`Screenshot 3`</a> 
@@ -424,8 +427,8 @@ Jump to
 [back to top](#readme) 
  
 
-- [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
+- [Contribution Graphs for GitHub](https://github.com/latelunchapps/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/latelunchapps/github-contributions-ios/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`401` 
 - [Contributions for GitHub](https://github.com/JustinFincher/GitHubContributionsiOS): Look at your contributions graph in a Today Extension
@@ -649,8 +652,8 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6814264554) <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/chain/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`2` 
-- [Contribution Graphs for GitHub](https://github.com/AnderGoig/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
-  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://github.com/AnderGoig/github-contributions-ios/raw/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
+- [Contribution Graphs for GitHub](https://github.com/latelunchapps/github-contributions-ios): Check your GitHub contributions using Home Screen Widgets
+  - [` App Store`](https://apps.apple.com/app/id1537192731) <a href='https://raw.githubusercontent.com/latelunchapps/github-contributions-ios/master/.assets/app-screenshot-1.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`401` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
@@ -746,6 +749,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`94` 
+- [Oath Wallet](https://github.com/devdasx/oath-wallet): Manage Bitcoin, Ethereum and other assets on iPhone and iPad
+  - <a href=https://oathwallet.org>`https://oathwallet.org`</a>
+  - [` App Store`](https://apps.apple.com/app/id6780187283) <a href='https://oathwallet.org/assets/press/2026-10/oath-portfolio-iphone.png'>`Screenshot 1`</a> 
+  - `swift` `ipad` 
 - [Rainbow](https://github.com/rainbow-me/rainbow): Ethereum wallet that lives in your pocket
   - <a href=https://rainbow.me>`https://rainbow.me`</a>
   - [` App Store`](https://apps.apple.com/app/rainbow-ethereum-wallet/id1457119021) <a href='https://user-images.githubusercontent.com/4723115/139700145-bb518aef-a815-421b-a504-1f2646ed32bc.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/4723115/139700159-5ac0f3cc-8ecf-4b56-a020-e5e848d460e3.png'>`Screenshot 2`</a> 
@@ -1056,6 +1063,9 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/arc-app-location-activity/id1063151918) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/add2f568-16b9-442f-859a-d19e45c248bc'>`Screenshot 1`</a> 
   -  `2024` `swift` 
   -  ☆`115` 
+- [Currents](https://github.com/PndaMan/Currents): Offline-first fishing companion with a bite forecast, catch log, offline maps and on-device fish identification
+  - [` App Store`](https://apps.apple.com/app/currents-fishing-forecast/id6771932525) <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/01_today.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/02_explore.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/04_logbook.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ios26` `grdb` `sqlite` `cloudkit` `coreml` `mapkit` `widgetkit` `activitykit` `watchos` 
 - [iBurn](https://github.com/iBurnApp/iBurn-iOS): Offline map and guide for the Burning Man art festival
   - [` App Store`](https://apps.apple.com/app/iburn-2025/id388169740)
   -  `2026` `swift` 
@@ -2147,6 +2157,9 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1620912870) <a href='https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`160` 
+- [Currents](https://github.com/PndaMan/Currents): Offline-first fishing companion with a bite forecast, catch log, offline maps and on-device fish identification
+  - [` App Store`](https://apps.apple.com/app/currents-fishing-forecast/id6771932525) <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/01_today.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/02_explore.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/PndaMan/Currents/app-store-screenshots/raw/04_logbook.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `ios26` `grdb` `sqlite` `cloudkit` `coreml` `mapkit` `widgetkit` `activitykit` `watchos` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
   - [` App Store`](https://apps.apple.com/app/id1531906207) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/a175e471-523d-4137-add4-c02ef6fa0dff'>`Screenshot 1`</a> 
   -  `2025` `swift` 
