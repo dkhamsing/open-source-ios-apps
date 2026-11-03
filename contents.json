@@ -36138,6 +36138,18 @@
       ],
       "date_added": "Nov 2 2026",
       "suggested_by": "@devdasx"
+    },
+    {
+      "title": "Happier",
+      "category-ids": ["developer"],
+      "description": "Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines",
+      "source": "https://github.com/happier-dev/happier",
+      "itunes": "https://apps.apple.com/app/happier-claude-codex-opencode/id6758554297",
+      "license": "mit",
+      "tags": ["react-native", "expo"],
+      "screenshots": ["https://raw.githubusercontent.com/happier-dev/happier/main/.github/screenshots/session.png"],
+      "date_added": "Nov 3 2026",
+      "suggested_by": "@leeroybrun"
     }
   ]
 }
