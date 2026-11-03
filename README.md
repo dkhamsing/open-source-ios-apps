@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1734-green.svg) ![](https://img.shields.io/badge/Updated-November%20%202,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1736-green.svg) ![](https://img.shields.io/badge/Updated-November%20%203,%202026-lightgrey.svg)
 
 Jump to
 
@@ -715,6 +715,9 @@ Jump to
 - [Foundation Models Framework Example](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab)
   -  `2026` `ios26` `xcode27` 
   -  ☆`1191` 
+- [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines
+  - [` App Store`](https://apps.apple.com/app/happier-claude-codex-opencode/id6758554297) <a href='https://raw.githubusercontent.com/happier-dev/happier/main/.github/screenshots/session.png'>`Screenshot 1`</a> 
+  - `react-native` `expo` 
 - [Haptic Haven](https://github.com/davejacobsen/HapticHaven): Test, learn about, and implement haptic feedback
   - [` App Store`](https://apps.apple.com/us/app/id1523772947) <a href='https://raw.githubusercontent.com/davejacobsen/HapticHaven/master/Screenshots/Screenshots.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -2372,6 +2375,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/superarcswift/SwiftCommunity/master/Assets/screenshot1.png'>`Screenshot 1`</a> 
   -  `2020` `swift` `superarc` `markdownview` 
   -  ☆`56` 
+- [Tuber](https://github.com/achubnet/Tuber): Calm player for the YouTube channels you follow that skips in-video sponsor reads via SponsorBlock, with no ads, Shorts or recommendations
+  -  <a href='https://raw.githubusercontent.com/achubnet/Tuber/main/Screenshots/showcase.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `swiftdata` `cloudkit` 
 - [VLC](https://github.com/videolan/vlc): Media Player
   - <a href=https://www.videolan.org/>`https://www.videolan.org/`</a>
   - [` App Store`](https://apps.apple.com/app/vlc-for-ios/id650377962) <a href='https://user-images.githubusercontent.com/4723115/146823429-c85f22c0-e757-48c0-ba54-0930ed1769bc.png'>`Screenshot 1`</a> 
