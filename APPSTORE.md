@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **340** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1487,6 +1487,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
   -  `2026` `swift` `swiftui` `ipad` `macos` 
   -  ☆`4242` 
+- [ThumbFree](https://github.com/kabrapratik28/ThumbFree): Keyboard that types what you say in any app; speech recognition runs on the phone, so it works offline
+  - [` App Store`](https://apps.apple.com/app/id6817631006) <a href='https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-1-listening.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-2-typed.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `coreml` 
 - [Yihu](https://github.com/alexlee2046/yihu-ios): An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.
   - <a href=https://getyihu.com/>`https://getyihu.com/`</a>
   - [` App Store`](https://apps.apple.com/us/app/yihu/id6819057500) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a6/d7/7ca6d774-feda-c798-4c55-d95ad98e9786/iphone-connect.png/320x480bb.jpg'>`Screenshot 1`</a> 

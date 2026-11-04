@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1736-green.svg) ![](https://img.shields.io/badge/Updated-November%20%203,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1738-green.svg) ![](https://img.shields.io/badge/Updated-November%20%204,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2028,6 +2028,9 @@ Image, video, audio, reading — [back to top](#readme)
 - [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
   -  `2020` `swift` `core-data` 
   -  ☆`13` 
+- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player with on-device playback, mixes, listening stats and backup; no server needed
+  -  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/home.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/now-playing.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/mix.jpg'>`Screenshot 3`</a> 
+  - `swift` `capacitor` `javascript` `music` 
 ### Animoji 
  
 [back to top](#readme) 
@@ -2120,6 +2123,9 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`347` 
+- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player with on-device playback, mixes, listening stats and backup; no server needed
+  -  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/home.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/now-playing.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/mix.jpg'>`Screenshot 3`</a> 
+  - `swift` `capacitor` `javascript` `music` 
 - [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner
   - [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624) <a href='https://github.com/jpsim/ZenTuner/raw/main/images/zentuner-ios-dark.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -2687,6 +2693,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6816359860) <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-3.jpg'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-4.jpg'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-5.jpg'>`Screenshot 5`</a>  <a href='https://raw.githubusercontent.com/Saffsanity/sill/main/design/screenshots/ipad-6.jpg'>`Screenshot 6`</a> 
   -  `2026` `swift` `swiftui` `ipad` `macos` 
   -  ☆`4242` 
+- [ThumbFree](https://github.com/kabrapratik28/ThumbFree): Keyboard that types what you say in any app; speech recognition runs on the phone, so it works offline
+  - [` App Store`](https://apps.apple.com/app/id6817631006) <a href='https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-1-listening.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-2-typed.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `coreml` 
 - [Yihu](https://github.com/alexlee2046/yihu-ios): An iPhone voice companion for your own web workspace, with on-device recognition and reviewed draft insertion, without automatic sending.
   - <a href=https://getyihu.com/>`https://getyihu.com/`</a>
   - [` App Store`](https://apps.apple.com/us/app/yihu/id6819057500) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/7c/a6/d7/7ca6d774-feda-c798-4c55-d95ad98e9786/iphone-connect.png/320x480bb.jpg'>`Screenshot 1`</a> 
