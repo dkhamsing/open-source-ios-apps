@@ -36170,6 +36170,18 @@
       ],
       "date_added": "Oct 29 2026",
       "suggested_by": "@achubnet"
+    },
+    {
+      "title": "ThumbFree",
+      "category-ids": ["productivity"],
+      "description": "Keyboard that types what you say in any app; speech recognition runs on the phone, so it works offline",
+      "source": "https://github.com/kabrapratik28/ThumbFree",
+      "itunes": "https://apps.apple.com/app/id6817631006",
+      "license": "apache-2.0",
+      "tags": ["swift", "swiftui", "coreml"],
+      "screenshots": ["https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-1-listening.png", "https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-2-typed.png"],
+      "date_added": "Nov 3 2026",
+      "suggested_by": "@kabrapratik28"
     }
   ]
 }
