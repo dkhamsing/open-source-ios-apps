@@ -36182,6 +36182,28 @@
       "screenshots": ["https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-1-listening.png", "https://raw.githubusercontent.com/kabrapratik28/ThumbFree/main/docs/brand/common/readme/iphone-2-typed.png"],
       "date_added": "Nov 3 2026",
       "suggested_by": "@kabrapratik28"
+    },
+    {
+      "title": "MultiScreenDock",
+      "category-ids": [
+        "productivity",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "appkit",
+        "macos"
+      ],
+      "description": "Mirrors your live macOS Dock across all connected displays, including vertically stacked upper monitors, without stealing window focus",
+      "source": "https://github.com/fgomsan/MultiScreenDock",
+      "homepage": "https://multiscreendock.fgomsan.here.now",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/fgomsan/MultiScreenDock/main/docs/screenshot.png",
+        "https://raw.githubusercontent.com/fgomsan/MultiScreenDock/main/docs/demo.gif"
+      ],
+      "date_added": "Nov 4 2026",
+      "suggested_by": "@fgomsan"
     }
   ]
 }
