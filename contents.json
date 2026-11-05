@@ -36206,6 +36206,18 @@
       "screenshots": ["https://raw.githubusercontent.com/Merlin1A/resecta/main/.github/assets/readme-home.png"],
       "date_added": "Nov 5 2026",
       "suggested_by": "@Merlin1A"
+    },
+    {
+      "title": "Tether",
+      "category-ids": ["misc", "swiftui"],
+      "description": "Share the iPhone's data with a laptop, iPad, Android phone or travel router over WireGuard, as the phone's own traffic instead of hotspot traffic",
+      "source": "https://github.com/viktor-svirsky/tether",
+      "homepage": "https://viktor-svirsky.github.io/tether/",
+      "license": "mit",
+      "tags": ["swift", "swiftui", "wireguard", "go"],
+      "screenshots": ["https://raw.githubusercontent.com/viktor-svirsky/tether/main/docs/sharing.png"],
+      "date_added": "Nov 5 2026",
+      "suggested_by": "@viktor-svirsky"
     }
   ]
 }
