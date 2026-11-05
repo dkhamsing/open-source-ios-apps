@@ -715,6 +715,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Swift-Gif](https://github.com/pjchavarria/Swift-Gif)
 - [Swift-Walk-Tracker](https://github.com/kevinvanderlugt/Swift-Walk-Tracker)
 - [SwiftBlog](https://github.com/BalestraPatrick/SwiftBlog)
+- [Swiftenstein](https://github.com/nicklockwood/Swiftenstein)
 - [Swifteroid](https://github.com/eugenpirogoff/swifteroid)
 - [SwiftFanorona](https://github.com/jenduf/SwiftFanorona)
 - [SwiftFlickrApp](https://github.com/synboo/SwiftFlickrApp)

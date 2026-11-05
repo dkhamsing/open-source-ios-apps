@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1738-green.svg) ![](https://img.shields.io/badge/Updated-November%20%204,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1738-green.svg) ![](https://img.shields.io/badge/Updated-November%20%205,%202026-lightgrey.svg)
 
 Jump to
 
@@ -477,10 +477,6 @@ Jump to
 - [Swiftagram](https://github.com/sbertix/Swiftagram): For Instagram, relies on unofficial private APIs
   -  `2022` `swift` 
   -  ☆`263` 
-- [Swiftenstein](https://github.com/nicklockwood/Swiftenstein): Wolfenstein 3D clone
-  -  <a href='https://raw.githubusercontent.com/nicklockwood/Swiftenstein/master/Screenshot.png'>`Screenshot 1`</a> 
-  -  `2019` `swift` 
-  -  ☆`372` 
 - [SwiftUICraft](https://github.com/aheze/SwiftUICraft): Minecraft clone
   -  <a href='https://github.com/aheze/SwiftUICraft/raw/main/Assets/Level1.PNG'>`Screenshot 1`</a> 
   -  `2022` `swift` `swiftui` 
