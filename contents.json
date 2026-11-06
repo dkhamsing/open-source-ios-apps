@@ -19720,7 +19720,7 @@
       "itunes": "https://apps.apple.com/app/afone/id1470424336",
       "license": "mit",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png",
