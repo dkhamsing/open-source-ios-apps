@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1738-green.svg) ![](https://img.shields.io/badge/Updated-November%20%205,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1740-green.svg) ![](https://img.shields.io/badge/Updated-November%20%206,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2953,6 +2953,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`664` 
+- [Resecta](https://github.com/Merlin1A/resecta): Redact PDFs on the device: marked regions are overwritten in the page pixels, then the exported file is re-opened and checked for text that remains
+  - <a href=https://resecta.app>`https://resecta.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6786922787) <a href='https://raw.githubusercontent.com/Merlin1A/resecta/main/.github/assets/readme-home.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `pdfkit` `vision` 
 - [SafeRedact](https://github.com/emlavankhoahienma-hue/SafeRedact): Photo privacy redactor for sensitive text, faces, and barcodes with EXIF metadata scrubbing
   -  `2026` `swift` `swiftui` `vision` 
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser
@@ -3498,6 +3502,10 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/3a3ee691-e5e3-4c73-9924-a67a80c3a13b'>`Screenshot 1`</a> 
   -  `2021` `swift` `realm` `rxswift` 
   -  ☆`10` 
+- [Tether](https://github.com/viktor-svirsky/tether): Share the iPhone's data with a laptop, iPad, Android phone or travel router over WireGuard, as the phone's own traffic instead of hotspot traffic
+  - <a href=https://viktor-svirsky.github.io/tether/>`https://viktor-svirsky.github.io/tether/`</a>
+  -  <a href='https://raw.githubusercontent.com/viktor-svirsky/tether/main/docs/sharing.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `wireguard` `go` 
 - [tortellini](https://github.com/nate-parrott/tortellini): Makes cooking easier
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/16e9420f-c4dc-4bd5-be92-55af3cd0fad6'>`Screenshot 1`</a> 
   -  `2024` `swift` 
@@ -4525,6 +4533,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [TemperatureAtlas](https://github.com/jhatin94/tempatlas-swiftui): Uses Apple Maps combined with the OpenWeather API
   -  `2020` `swift` 
   -  ☆`15` 
+- [Tether](https://github.com/viktor-svirsky/tether): Share the iPhone's data with a laptop, iPad, Android phone or travel router over WireGuard, as the phone's own traffic instead of hotspot traffic
+  - <a href=https://viktor-svirsky.github.io/tether/>`https://viktor-svirsky.github.io/tether/`</a>
+  -  <a href='https://raw.githubusercontent.com/viktor-svirsky/tether/main/docs/sharing.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `wireguard` `go` 
 - [TextScanner](https://github.com/appcoda/TextScanner): Text recognition
   - <a href=https://www.appcoda.com/swiftui-text-recognition/>`https://www.appcoda.com/swiftui-text-recognition/`</a>
   -  <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/905475e8-dfb1-4a19-8543-860547686955'>`Screenshot 1`</a> 

@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **341** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **342** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1582,6 +1582,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
   -  `2026` `swift` 
   -  ☆`664` 
+- [Resecta](https://github.com/Merlin1A/resecta): Redact PDFs on the device: marked regions are overwritten in the page pixels, then the exported file is re-opened and checked for text that remains
+  - <a href=https://resecta.app>`https://resecta.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6786922787) <a href='https://raw.githubusercontent.com/Merlin1A/resecta/main/.github/assets/readme-home.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `pdfkit` `vision` 
 - [SimpleLogin](https://github.com/simple-login/Simple-Login-iOS): Protect your email with aliases and more. Its Share Extension helps you create aliases on the fly without leaving your favorite browser
   - <a href=https://simplelogin.io/>`https://simplelogin.io/`</a>
   - [` App Store`](https://apps.apple.com/app/simplelogin-anti-spam/id1494359858) <a href='https://raw.githubusercontent.com/ntnhon/TarotCodexPublicImages/master/SL/1.png'>`Screenshot 1`</a> 
