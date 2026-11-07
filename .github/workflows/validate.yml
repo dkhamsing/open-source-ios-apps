@@ -12,7 +12,7 @@ jobs:
       - name: Set up Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '2.4.0'    
+          ruby-version: '2.4'    
           bundler-cache: true      
 
       - name: Install json_schema
