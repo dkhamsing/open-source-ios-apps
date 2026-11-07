@@ -6079,7 +6079,7 @@
       "description": "State preservation & restoration APIs",
       "source": "https://github.com/shagedorn/StateRestorationDemo",
       "tags": [
-        "swift"
+        "swift", "archive"
       ],
       "screenshots": [
         "https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png"
