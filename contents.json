@@ -3438,7 +3438,7 @@
         "health"
       ],
       "description": "Sync selected Apple Health data to a private backend API",
-      "source": "https://github.com/megabyte0x/healthykit",
+      "source": "https://github.com/megabyte0x/healthysync",
       "homepage": "https://healthysync.megabyte.sh/apple-health-app-sync",
       "screenshots": [
         "https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png"
