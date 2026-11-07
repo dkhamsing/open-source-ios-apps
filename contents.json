@@ -36208,6 +36208,27 @@
       "date_added": "Nov 5 2026",
       "suggested_by": "@Merlin1A"
     },
+      {
+      "title": "Handsy AI (ESP32 iPhone Agent)",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "ai",
+        "esp32"
+      ],
+      "description": "Lets an AI agent operate a real iPhone through a $7 XIAO ESP32-S3 board (AirPlay mirroring for eyes, USB HID mouse and keyboard for hands), no jailbreak",
+      "source": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "homepage": "https://handsy.tech",
+      "license": "mit",
+      "screenshots": [
+        "https://media.handsy.tech/press/real-photo.jpg"
+      ],
+      "date_added": "Nov 4 2026",
+      "suggested_by": "@onehumanbeing"
+    },
     {
       "title": "Tether",
       "category-ids": ["misc", "swiftui"],
