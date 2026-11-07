@@ -36253,6 +36253,19 @@
       "screenshots": ["https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/iphone-6.9/01-results.png"],
       "date_added": "Nov 7 2026",
       "suggested_by": "@hyya-dev"
+    },
+    {
+      "title": "Compresso",
+      "category-ids": ["photo", "react-native"],
+      "description": "Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads",
+      "source": "https://github.com/iziuqo/compresso",
+      "itunes": "https://apps.apple.com/app/id6829326032",
+      "homepage": "https://compresso.izaias.xyz",
+      "license": "mit",
+      "tags": ["typescript", "react-native", "expo"],
+      "screenshots": ["https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp"],
+      "date_added": "Nov 7 2026",
+      "suggested_by": "@iziuqo"
     }
   ]
 }
