@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **342** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **343** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1213,10 +1213,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `iphone` `ipad` `core-data` 
   -  ☆`303` 
-- [Sora](https://github.com/cranci1/Sora): Modular web scraping
-  - [` App Store`](https://apps.apple.com/app/sulfur/id6742741043) <a href='https://raw.githubusercontent.com/cranci1/Sora/refs/heads/main/assets/Sulfur.png'>`Screenshot 1`</a> 
-  -  `2026` `swift` 
-  -  ☆`427` 
 - [Strata](https://github.com/microdotblog/strata):  Notes for Micro.blog
   - [` App Store`](https://apps.apple.com/app/strata-for-micro-blog/id6474192080)
   -  `2026` `react-native` 
@@ -1538,6 +1534,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020` `swift` 
   -  ☆`42` 
+- [hYYa Digital Footprint Check](https://github.com/hyya-dev/hYYa-Digital-Footprint-Check): Privacy check-up that shows what any app can learn about your device, with steps to reduce it
+  - <a href=https://hyya.com/hyya-digital-footprint-check.html>`https://hyya.com/hyya-digital-footprint-check.html`</a>
+  - [` App Store`](https://apps.apple.com/app/id6824033636) <a href='https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/iphone-6.9/01-results.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [IVPN](https://github.com/ivpn/ios-app)
   - [` App Store`](https://apps.apple.com/app/ivpn-secure-vpn-for-privacy/id1193122683) <a href='https://github.com/user-attachments/assets/b3db260b-3c94-4913-90c1-25f6c2e771f1'>`Screenshot 1`</a> 
   -  `2026` `swift` `ipad` 
@@ -1796,6 +1796,11 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6657973126) <a href='https://mymx2-oss.oss-cn-shanghai.aliyuncs.com/doc/img-aichongshe-oss-demo.jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`120` 
+- [Pinto Notes](https://github.com/pinto-notes/pinto-notes): Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them
+  - <a href=https://pintonotes.com>`https://pintonotes.com`</a>
+  - [` App Store`](https://apps.apple.com/app/id6817253103) <a href='https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png'>`Screenshot 1`</a> 
+  -  `2026` `swift` `swiftui` `macos` `mcp` 
+  -  ☆`30` 
 - [Saber](https://github.com/saber-notes/saber): Take handwritten notes with the same functionalities as typed ones
   - [` App Store`](https://apps.apple.com/app/saber-handwritten-notes/id1671523739) <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/1_home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/2_editor.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/3_login.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/saber-notes/saber/main/metadata/en-US/images/phoneScreenshots/4_settings.png'>`Screenshot 4`</a> 
   -  `2026` `dart` 
@@ -2190,6 +2195,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`182` 
+- [hYYa Digital Footprint Check](https://github.com/hyya-dev/hYYa-Digital-Footprint-Check): Privacy check-up that shows what any app can learn about your device, with steps to reduce it
+  - <a href=https://hyya.com/hyya-digital-footprint-check.html>`https://hyya.com/hyya-digital-footprint-check.html`</a>
+  - [` App Store`](https://apps.apple.com/app/id6824033636) <a href='https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/iphone-6.9/01-results.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [isowords](https://github.com/pointfreeco/isowords): Word search game played on a vanishing cube
   - [` App Store`](https://apps.apple.com/app/isowords/id1528246952) <a href='https://dbsqho33cgp4y.cloudfront.net/github/isowords-screenshots.jpg'>`Screenshot 1`</a> 
   -  `2024` `swift` 

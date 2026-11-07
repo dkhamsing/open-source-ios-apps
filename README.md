@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1740-green.svg) ![](https://img.shields.io/badge/Updated-November%20%206,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1741-green.svg) ![](https://img.shields.io/badge/Updated-November%20%207,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2223,10 +2223,6 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/reading-list-a-book-tracking-log/id1217139955) <a href='https://raw.githubusercontent.com/AndrewBennet/ReadingListV1/master/media/iPhone%20X-0_ToReadList_framed.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `iphone` `ipad` `core-data` 
   -  ☆`303` 
-- [Sora](https://github.com/cranci1/Sora): Modular web scraping
-  - [` App Store`](https://apps.apple.com/app/sulfur/id6742741043) <a href='https://raw.githubusercontent.com/cranci1/Sora/refs/heads/main/assets/Sulfur.png'>`Screenshot 1`</a> 
-  -  `2026` `swift` 
-  -  ☆`427` 
 - [Star Wars](https://github.com/joreilly/StarWars): Uses swapi
   -  <a href='https://github.com/joreilly/StarWars/raw/main/art/screenshot1.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `kmm` `graphql` 
@@ -2810,10 +2806,6 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/c-villain/SneakerShop/raw/main/demo/demo.png'>`Screenshot 1`</a> 
   -  `2024` `swift` `skip` 
   -  ☆`9` 
-- [StateRestorationDemo](https://github.com/shagedorn/StateRestorationDemo): State preservation & restoration APIs
-  -  <a href='https://raw.githubusercontent.com/shagedorn/StateRestorationDemo/master/Presentation/app_screenshot.png'>`Screenshot 1`</a> 
-  -  `2023` `swift` 
-  -  ☆`49` 
 - [Swift-Demos](https://github.com/Lax/Learn-iOS-Swift-by-Examples): Mirror of Apple sample code
   -  `2023` `swift` 
   -  ☆`3774` 
@@ -2902,6 +2894,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/https4all/id1305430042)
   -  `2020` `swift` 
   -  ☆`42` 
+- [hYYa Digital Footprint Check](https://github.com/hyya-dev/hYYa-Digital-Footprint-Check): Privacy check-up that shows what any app can learn about your device, with steps to reduce it
+  - <a href=https://hyya.com/hyya-digital-footprint-check.html>`https://hyya.com/hyya-digital-footprint-check.html`</a>
+  - [` App Store`](https://apps.apple.com/app/id6824033636) <a href='https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/iphone-6.9/01-results.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [iCepa](https://github.com/iCepa/iCepa): System-wide VPN based Tor client
   -  `2024` `swift` `tor` 
   -  ☆`772` 
@@ -3220,7 +3216,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  ☆`120` 
 - [Pinto Notes](https://github.com/pinto-notes/pinto-notes): Notes with folders, checklists and tables that imports Apple Notes and lets ChatGPT, Claude and other AI apps read and edit your notes after you approve them
   - <a href=https://pintonotes.com>`https://pintonotes.com`</a>
-  -  <a href='https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6817253103) <a href='https://raw.githubusercontent.com/pinto-notes/pinto-notes/main/docs/images/iphone-lisbon.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `macos` `mcp` 
   -  ☆`30` 
 - [Saber](https://github.com/saber-notes/saber): Take handwritten notes with the same functionalities as typed ones
@@ -4253,6 +4249,10 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`17` 
+- [hYYa Digital Footprint Check](https://github.com/hyya-dev/hYYa-Digital-Footprint-Check): Privacy check-up that shows what any app can learn about your device, with steps to reduce it
+  - <a href=https://hyya.com/hyya-digital-footprint-check.html>`https://hyya.com/hyya-digital-footprint-check.html`</a>
+  - [` App Store`](https://apps.apple.com/app/id6824033636) <a href='https://raw.githubusercontent.com/hyya-dev/hYYa-Digital-Footprint-Check/main/store/slides/iphone-6.9/01-results.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 - [IcySky for BlueSky](https://github.com/Dimillian/IcySky)
   -  <a href='https://github.com/Dimillian/IcySky/raw/main/Images/image1.png'>`Screenshot 1`</a> 
   -  `2025` `swift` `swiftui` 
