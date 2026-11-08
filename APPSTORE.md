@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **343** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **344** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -752,7 +752,7 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/fearless-wallet/id1537251089) <a href='https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/84/7f/c5/847fc57b-0d8e-d2ea-23cd-6b3a144762bd/1279be76-e29b-4dcf-9c72-a795e43bd1ec_2.jpg/600x0w.jpg'>`Screenshot 1`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/4e/02/fc/4e02fcc7-f838-dce7-17ab-f52ec722f067/60a5c7bf-69ce-4b5c-9bcb-311a20acfe5c_3.jpg/600x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/05/32/38/053238ed-03e1-1818-bef2-89dcdd81a90a/d176b4b0-7a8b-4a86-b4e9-773c02427d44_7.jpg/600x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`94` 
-- [Oath Wallet](https://github.com/devdasx/oath-wallet): Manage Bitcoin, Ethereum and other assets on iPhone and iPad
+- [Oath Wallet](https://github.com/OathWallet/oath-wallet): Manage Bitcoin, Ethereum and other assets on iPhone and iPad
   - <a href=https://oathwallet.org>`https://oathwallet.org`</a>
   - [` App Store`](https://apps.apple.com/app/id6780187283) <a href='https://oathwallet.org/assets/press/2026-10/oath-portfolio-iphone.png'>`Screenshot 1`</a> 
   - `swift` `ipad` 
@@ -1243,6 +1243,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/blear-create-blurry-wallpapers/id994182280) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/92/6f/a4/926fa4b0-7002-a610-2d29-aa5d0598ffaf/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/4c/af/9b/4caf9b23-c3a5-8177-c7cd-f02e4e3d7ba2/pr_source.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/52/fb/46/52fb4604-c9fb-1799-ba61-3c1523986e03/pr_source.png/460x0w.jpg'>`Screenshot 3`</a> 
   -  `2026` `objc` 
   -  ☆`573` 
+- [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
+  - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - `typescript` `react-native` `expo` 
 - [Find](https://github.com/aheze/OpenFind): Text search for images
   - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
   -  `2023` `swift` `swiftui` `realm` `camera` 
@@ -2070,6 +2074,10 @@ https://reactnative.dev/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`1079` 
+- [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
+  - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - `typescript` `react-native` `expo` 
 - [Generator Tracker](https://github.com/yuri-val/GeneratorTracker): Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts
   - <a href=https://generatortracker.yuri-val.dev>`https://generatortracker.yuri-val.dev`</a>
   - [` App Store`](https://apps.apple.com/app/id6819560707) <a href='https://raw.githubusercontent.com/yuri-val/GeneratorTracker/main/marketing/article/images/ios-en-home.jpg'>`Screenshot 1`</a> 

@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1741-green.svg) ![](https://img.shields.io/badge/Updated-November%20%207,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1743-green.svg) ![](https://img.shields.io/badge/Updated-November%20%208,%202026-lightgrey.svg)
 
 Jump to
 
@@ -711,6 +711,10 @@ Jump to
 - [Foundation Models Framework Example](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab)
   -  `2026` `ios26` `xcode27` 
   -  ☆`1191` 
+- [Handsy AI (ESP32 iPhone Agent)](https://github.com/onehumanbeing/esp32-iphone-agent): Lets an AI agent operate a real iPhone through a $7 XIAO ESP32-S3 board (AirPlay mirroring for eyes, USB HID mouse and keyboard for hands), no jailbreak
+  - <a href=https://handsy.tech>`https://handsy.tech`</a>
+  -  <a href='https://media.handsy.tech/press/real-photo.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `ai` `esp32` 
 - [Happier](https://github.com/happier-dev/happier): Open-source, end-to-end encrypted, cross-device app to orchestrate Claude Code, Codex and other coding agents on your own machines
   - [` App Store`](https://apps.apple.com/app/happier-claude-codex-opencode/id6758554297) <a href='https://raw.githubusercontent.com/happier-dev/happier/main/.github/screenshots/session.png'>`Screenshot 1`</a> 
   - `react-native` `expo` 
@@ -1350,7 +1354,7 @@ File Management — [back to top](#readme)
 - [lil wallet](https://github.com/jordansinger/lil-wallet):  Ethereum wallet
   -  `2024` `swift` `swiftui` 
   -  ☆`153` 
-- [Oath Wallet](https://github.com/devdasx/oath-wallet): Manage Bitcoin, Ethereum and other assets on iPhone and iPad
+- [Oath Wallet](https://github.com/OathWallet/oath-wallet): Manage Bitcoin, Ethereum and other assets on iPhone and iPad
   - <a href=https://oathwallet.org>`https://oathwallet.org`</a>
   - [` App Store`](https://apps.apple.com/app/id6780187283) <a href='https://oathwallet.org/assets/press/2026-10/oath-portfolio-iphone.png'>`Screenshot 1`</a> 
   - `swift` `ipad` 
@@ -1656,7 +1660,7 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
 - [HealthKit~Swift](https://github.com/Darktt/HealthKit-Swift): Sample app
   -  `2020` `swift` `healthkit` 
   -  ☆`119` 
-- [HealthSync](https://github.com/megabyte0x/healthykit): Sync selected Apple Health data to a private backend API
+- [HealthSync](https://github.com/megabyte0x/healthysync): Sync selected Apple Health data to a private backend API
   - <a href=https://healthysync.megabyte.sh/apple-health-app-sync>`https://healthysync.megabyte.sh/apple-health-app-sync`</a>
   -  <a href='https://raw.githubusercontent.com/megabyte0x/healthykit/main/docs/assets/healthsync-onboarding.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `healthkit` 
@@ -2287,6 +2291,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
 - [Blurry](https://github.com/meteochu/Blurry)
   -  `2021` `swift` 
   -  ☆`24` 
+- [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
+  - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - `typescript` `react-native` `expo` 
 - [CosmicDaily](https://github.com/emrepbu/CosmicDaily): Explore NASA astronomy picture of the day and explanations
   - <a href=https://emrepbu.github.io/CosmicDaily/>`https://emrepbu.github.io/CosmicDaily/`</a>
   -  `2025` `swiftui` 
@@ -3901,6 +3909,10 @@ https://reactnative.dev/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1495796682) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ca04127b-5c28-419f-95cf-3b1d4816ad07'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`1079` 
+- [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
+  - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
+  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - `typescript` `react-native` `expo` 
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)
   -  <a href='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'>`Screenshot 1`</a> 
   -  `2023` `react-native` `dribbble` 
