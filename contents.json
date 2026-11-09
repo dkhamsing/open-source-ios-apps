@@ -6329,6 +6329,25 @@
       "updated": "2015-06-19 07:32:28 UTC"
     },
     {
+      "title": "Unreeled",
+      "category-ids": [
+        "social"
+      ],
+      "description": "Instagram client that shows only the people you follow, with no Reels feed, Explore, suggested posts or ads",
+      "source": "https://github.com/Mdavoigneau/Unreeled",
+      "homepage": "https://unreeled.app",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "screenshots": [
+        "https://unreeled.app/images/welcome.png"
+      ],
+      "date_added": "Nov 9 2026",
+      "suggested_by": "@Mdavoigneau"
+    },
+    {
       "title": "Yep",
       "category-ids": [
         "social"
