@@ -17,6 +17,7 @@ concurrency:
 
 jobs:
   check-links:
+    if: github.repository == 'dkhamsing/open-source-ios-apps'
     runs-on: ubuntu-latest
     timeout-minutes: 30
 
