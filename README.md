@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1743-green.svg) ![](https://img.shields.io/badge/Updated-November%20%208,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1745-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202026-lightgrey.svg)
 
 Jump to
 
@@ -906,6 +906,10 @@ Jump to
   - <a href=https://bgtrainer.korchasa.dev/>`https://bgtrainer.korchasa.dev/`</a>
   - [` App Store`](https://apps.apple.com/app/id6766068069) <a href='https://bgtrainer.korchasa.dev/assets/app-lessons.png'>`Screenshot 1`</a> 
   -  `2026` 
+- [Brass Pawn](https://github.com/minchopm/chess-trainer): Offline chess tactics, positional judgement, and endgame trainer powered by Stockfish 18 and Reckless.
+  - <a href=https://brasspawn.com>`https://brasspawn.com`</a>
+  - [` App Store`](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012)
+  - `swift` `ipad` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
   - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
   -  `2026` `swift` 
@@ -1396,6 +1400,10 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/pedrommcarrasco/ARbusters/blob/master/screenshots.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`108` 
+- [Brass Pawn](https://github.com/minchopm/chess-trainer): Offline chess tactics, positional judgement, and endgame trainer powered by Stockfish 18 and Reckless.
+  - <a href=https://brasspawn.com>`https://brasspawn.com`</a>
+  - [` App Store`](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012)
+  - `swift` `ipad` 
 - [CardsAgainst](https://github.com/jpsim/CardsAgainst): For Cards Against Humanity
   -  <a href='https://user-images.githubusercontent.com/4723115/122964516-33790600-d33c-11eb-8b2d-0ceb2cee906e.gif'>`Screenshot 1`</a> 
   -  `2019` `swift` 
@@ -3086,6 +3094,10 @@ https://newsapi.org/ — [back to top](#readme)
   -  <a href='https://github.com/draese/TwitterSentiment/blob/main/doc/screenshot.png'>`Screenshot 1`</a> 
   -  `2022` `swift` 
   -  ☆`15` 
+- [Unreeled](https://github.com/Mdavoigneau/Unreeled): Instagram client that shows only the people you follow, with no Reels feed, Explore, suggested posts or ads
+  - <a href=https://unreeled.app>`https://unreeled.app`</a>
+  -  <a href='https://unreeled.app/images/welcome.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 
