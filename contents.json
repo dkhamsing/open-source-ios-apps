@@ -36279,6 +36279,31 @@
       "date_added": "Nov 7 2026",
       "suggested_by": "@hyya-dev"
     },
+      {
+      "title": "Voyager",
+      "category-ids": [
+        "social"
+      ],
+      "description": "Open-source client for browsing and interacting with Lemmy and Piefed communities",
+      "source": "https://github.com/aeharding/voyager",
+      "itunes": "https://apps.apple.com/app/voyager-for-lemmy/id6451429762",
+      "license": "agpl-3.0",
+      "tags": [
+        "react",
+        "typescript",
+        "ionic",
+        "capacitor"
+      ],
+      "screenshots": [
+        "https://getvoyager.app/assets/1.png",
+        "https://getvoyager.app/assets/2.png",
+        "https://getvoyager.app/assets/3.png",
+        "https://getvoyager.app/assets/4.png",
+        "https://getvoyager.app/assets/5.png"
+      ],
+      "date_added": "Nov 5 2026",
+      "suggested_by": "@coderswiftie"
+    },
     {
       "title": "Compresso",
       "category-ids": [
