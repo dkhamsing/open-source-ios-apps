@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **345** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **346** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1702,6 +1702,9 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6450543782) <a href='https://mlem.group/screenshots/showcase/feeds.jpeg'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`251` 
+- [Voyager](https://github.com/aeharding/voyager): Open-source client for browsing and interacting with Lemmy and Piefed communities
+  - [` App Store`](https://apps.apple.com/app/voyager-for-lemmy/id6451429762) <a href='https://getvoyager.app/assets/1.png'>`Screenshot 1`</a>  <a href='https://getvoyager.app/assets/2.png'>`Screenshot 2`</a>  <a href='https://getvoyager.app/assets/3.png'>`Screenshot 3`</a>  <a href='https://getvoyager.app/assets/4.png'>`Screenshot 4`</a>  <a href='https://getvoyager.app/assets/5.png'>`Screenshot 5`</a> 
+  - `react` `typescript` `ionic` `capacitor` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 

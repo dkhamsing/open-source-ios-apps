@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1745-green.svg) ![](https://img.shields.io/badge/Updated-November%20%209,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1746-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202026-lightgrey.svg)
 
 Jump to
 
@@ -3098,6 +3098,9 @@ https://newsapi.org/ — [back to top](#readme)
   - <a href=https://unreeled.app>`https://unreeled.app`</a>
   -  <a href='https://unreeled.app/images/welcome.png'>`Screenshot 1`</a> 
   - `swift` `swiftui` 
+- [Voyager](https://github.com/aeharding/voyager): Open-source client for browsing and interacting with Lemmy and Piefed communities
+  - [` App Store`](https://apps.apple.com/app/voyager-for-lemmy/id6451429762) <a href='https://getvoyager.app/assets/1.png'>`Screenshot 1`</a>  <a href='https://getvoyager.app/assets/2.png'>`Screenshot 2`</a>  <a href='https://getvoyager.app/assets/3.png'>`Screenshot 3`</a>  <a href='https://getvoyager.app/assets/4.png'>`Screenshot 4`</a>  <a href='https://getvoyager.app/assets/5.png'>`Screenshot 5`</a> 
+  - `react` `typescript` `ionic` `capacitor` 
 ### Mastodon 
  
 https://joinmastodon.org — [back to top](#readme) 
