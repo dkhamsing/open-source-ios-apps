@@ -36325,6 +36325,27 @@
       ],
       "date_added": "Nov 7 2026",
       "suggested_by": "@iziuqo"
+    },
+    {
+      "title": "Dash Notes",
+      "category-ids": [
+        "notes"
+      ],
+      "tags": [
+        "javascript",
+        "capacitor"
+      ],
+      "description": "Private, offline-first notes with Face ID, locked notes, self-destructing notes and optional end-to-end encrypted sync",
+      "source": "https://github.com/Efesop/rich-text-editor",
+      "homepage": "https://dashnote.io",
+      "itunes": "https://apps.apple.com/app/id6766192836",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Efesop/rich-text-editor/main/docs/screenshots/dash-iphone-list.png",
+        "https://raw.githubusercontent.com/Efesop/rich-text-editor/main/docs/screenshots/dash-iphone-note.png"
+      ],
+      "date_added": "Nov 10 2026",
+      "suggested_by": "@Efesop"
     }
   ]
 }
