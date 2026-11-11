@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1746-green.svg) ![](https://img.shields.io/badge/Updated-November%2010,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1747-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202026-lightgrey.svg)
 
 Jump to
 
@@ -492,10 +492,6 @@ Jump to
 [back to top](#readme) 
  
 
-- [afone](https://github.com/automat-berlin/afone): Reference implementation for SIP Telephony that can be used on different SIP stacks with no effort
-  - [` App Store`](https://apps.apple.com/app/afone/id1470424336) <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/login_advanced.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/dialer.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/call.png'>`Screenshot 4`</a>  <a href='https://raw.githubusercontent.com/automat-berlin/afone/master/Documentation/Screenshots/settings.png'>`Screenshot 5`</a> 
-  -  `2019` `swift` 
-  -  ☆`45` 
 - [Apple Intelligence Chat](https://github.com/PallavAg/Apple-Intelligence-Chat): Chat with Apple Intelligence using the new Foundation Models Framework and Liquid Glass UI
   -  <a href='https://github.com/user-attachments/assets/6305de96-2c6a-4eaa-99ff-a923ad6be368'>`Screenshot 1`</a> 
   -  `2025` `swiftui` `ios26` 
@@ -3189,6 +3185,10 @@ https://joinmastodon.org — [back to top](#readme)
 [back to top](#readme) 
  
 
+- [Dash Notes](https://github.com/Efesop/rich-text-editor): Private, offline-first notes with Face ID, locked notes, self-destructing notes and optional end-to-end encrypted sync
+  - <a href=https://dashnote.io>`https://dashnote.io`</a>
+  - [` App Store`](https://apps.apple.com/app/id6766192836) <a href='https://raw.githubusercontent.com/Efesop/rich-text-editor/main/docs/screenshots/dash-iphone-list.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Efesop/rich-text-editor/main/docs/screenshots/dash-iphone-note.png'>`Screenshot 2`</a> 
+  - `javascript` `capacitor` 
 - [Earnote](https://github.com/louiskl/Earnote): Record lectures, meetings or voice memos and get a structured note with tasks, flashcards and a PDF study sheet; transcription runs on-device with Whisper
   - <a href=https://earnote.dev>`https://earnote.dev`</a>
   - [` App Store`](https://apps.apple.com/app/earnote/id6815681807) <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-rec-en.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-note-en.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/louiskl/Earnote/main/docs/assets/iphone-cards-en.jpg'>`Screenshot 3`</a> 
