@@ -36176,19 +36176,13 @@
         "media",
         "audio"
       ],
-      "description": "Ad-free YouTube Music player with on-device playback, mixes, listening stats and backup; no server needed",
+      "description": "Ad-free YouTube Music player for iPhone: on-device playback, stations, synced lyrics, offline downloads and listening stats; no server needed",
       "source": "https://github.com/AbinGanlary/yt-music",
       "license": "mit",
       "tags": [
-        "capacitor",
-        "javascript",
         "swift",
+        "swiftui",
         "music"
-      ],
-      "screenshots": [
-        "https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/home.jpg",
-        "https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/now-playing.jpg",
-        "https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/mix.jpg"
       ],
       "date_added": "Nov 4 2026",
       "suggested_by": "@AbinGanlary"
