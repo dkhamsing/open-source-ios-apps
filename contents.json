@@ -36346,6 +36346,27 @@
       ],
       "date_added": "Nov 10 2026",
       "suggested_by": "@Efesop"
+    },
+    {
+      "title": "OpenJKDF2 for iOS",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "c",
+        "objc",
+        "ipad"
+      ],
+      "description": "Unofficial iPhone and iPad port of the Jedi Knight: Dark Forces II engine, with touch controls. Needs your own copy of the game",
+      "source": "https://github.com/sithewok13-dev/OpenJKDF2-iOS",
+      "homepage": "https://sithewok13-dev.github.io/OpenJKDF2-iOS/",
+      "license": "other",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sithewok13-dev/OpenJKDF2-iOS/HEAD/docs/ios/screenshots/jerec-cross-fold.jpg",
+        "https://raw.githubusercontent.com/sithewok13-dev/OpenJKDF2-iOS/HEAD/docs/ios/screenshots/dual-sabers-touch.jpg"
+      ],
+      "date_added": "Nov 12 2026",
+      "suggested_by": "@sithewok13-dev"
     }
   ]
 }
