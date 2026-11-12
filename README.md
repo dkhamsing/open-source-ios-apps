@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1747-green.svg) ![](https://img.shields.io/badge/Updated-November%2011,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1748-green.svg) ![](https://img.shields.io/badge/Updated-November%2012,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1494,6 +1494,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/eveuniverse/id418895101) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/04/8d/f4/048df460-8415-913d-cea4-9adce71370cf/mzm.lddloznb.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple62/v4/b0/e7/b4/b0e7b405-69c8-560b-72dd-7e779081adc0/mzm.laponjby.png/460x0w.jpg'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/fe/ba/07/feba07fb-c2d7-6bc4-eca7-c1a32c6827f4/mzm.dfjfwhds.png/460x0w.jpg'>`Screenshot 3`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple62/v4/31/21/25/312125a3-e312-f009-115d-8023635314fc/mzm.evrsahoz.png/460x0w.jpg'>`Screenshot 4`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple62/v4/63/91/58/639158b3-23b1-71ca-de67-f3fa8eabf256/mzm.pxsjydzt.png/460x0w.jpg'>`Screenshot 5`</a> 
   -  `2026` `objc` 
   -  ☆`119` 
+- [OpenJKDF2 for iOS](https://github.com/sithewok13-dev/OpenJKDF2-iOS): Unofficial iPhone and iPad port of the Jedi Knight: Dark Forces II engine, with touch controls. Needs your own copy of the game
+  - <a href=https://sithewok13-dev.github.io/OpenJKDF2-iOS/>`https://sithewok13-dev.github.io/OpenJKDF2-iOS/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/OpenJKDF2-iOS/HEAD/docs/ios/screenshots/jerec-cross-fold.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/OpenJKDF2-iOS/HEAD/docs/ios/screenshots/dual-sabers-touch.jpg'>`Screenshot 2`</a> 
+  - `c` `objc` `ipad` 
 - [osu!](https://github.com/ppy/osu): Rhythm game
   -  `2026` `csharp` 
   -  ☆`19345` 
