@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1748-green.svg) ![](https://img.shields.io/badge/Updated-November%2012,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1749-green.svg) ![](https://img.shields.io/badge/Updated-November%2013,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1221,6 +1221,10 @@ File Management — [back to top](#readme)
 - [Amahi](https://github.com/amahi/ios): View all the docs, photos, videos and other data you have stored in your Amahi server, securely, from anywhere
   -  `2020` `swift` `ipad` 
   -  ☆`50` 
+- [CrocApp](https://github.com/bakirgdev/CrocApp): Send files, folders and text to another device with a short code phrase, end-to-end encrypted and compatible with the croc command line
+  - <a href=https://crocapp.dev>`https://crocapp.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/crocapp/id6805675003) <a href='https://crocapp.dev/assets/img/screenshots/iphone/send-code-light.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `go` `ipad` `macos` 
 - [FileExplorer](https://github.com/Augustyniak/FileExplorer): Powerful file browser that allows its users to choose and remove files and/or directories
   -  <a href='https://raw.githubusercontent.com/Augustyniak/FileExplorer/master/Resources/General.gif'>`Screenshot 1`</a> 
   -  `2021` `swift` 
@@ -2036,9 +2040,8 @@ Image, video, audio, reading — [back to top](#readme)
 - [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
   -  `2020` `swift` `core-data` 
   -  ☆`13` 
-- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player with on-device playback, mixes, listening stats and backup; no server needed
-  -  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/home.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/now-playing.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/mix.jpg'>`Screenshot 3`</a> 
-  - `swift` `capacitor` `javascript` `music` 
+- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player for iPhone: on-device playback, stations, synced lyrics, offline downloads and listening stats; no server needed
+  - `swift` `swiftui` `music` 
 ### Animoji 
  
 [back to top](#readme) 
@@ -2131,9 +2134,8 @@ Image, video, audio, reading — [back to top](#readme)
   -  <a href='https://github.com/youstanzr/YouTag/raw/master/Images/screenshot_banner.png'>`Screenshot 1`</a> 
   -  `2025` `swift` 
   -  ☆`347` 
-- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player with on-device playback, mixes, listening stats and backup; no server needed
-  -  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/home.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/now-playing.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/yt-music/main/docs/screenshots/mix.jpg'>`Screenshot 3`</a> 
-  - `swift` `capacitor` `javascript` `music` 
+- [YT Music](https://github.com/AbinGanlary/yt-music): Ad-free YouTube Music player for iPhone: on-device playback, stations, synced lyrics, offline downloads and listening stats; no server needed
+  - `swift` `swiftui` `music` 
 - [ZenTuner](https://github.com/jpsim/ZenTuner): Minimal chromatic tuner
   - [` App Store`](https://apps.apple.com/app/zen-tuner/id1550640624) <a href='https://github.com/jpsim/ZenTuner/raw/main/images/zentuner-ios-dark.png'>`Screenshot 1`</a> 
   -  `2024` `swift` 

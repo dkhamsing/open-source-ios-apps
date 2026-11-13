@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **346** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **347** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -681,6 +681,10 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/se/app/airdash-file-sharing/id1596599922) <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/d1/65/bdd16515-3594-0d63-7486-3e3a5635aaf8/bb596084-a356-4916-bdd0-aede1ef119ea_Simulator_Screen_Shot_-_iPhone_13_-_2022-06-20_at_18.48.30.png/460x0w.webp'>`Screenshot 1`</a> 
   -  `2026` `flutter` `webrtc` 
   -  ☆`673` 
+- [CrocApp](https://github.com/bakirgdev/CrocApp): Send files, folders and text to another device with a short code phrase, end-to-end encrypted and compatible with the croc command line
+  - <a href=https://crocapp.dev>`https://crocapp.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/crocapp/id6805675003) <a href='https://crocapp.dev/assets/img/screenshots/iphone/send-code-light.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `go` `ipad` `macos` 
 - [kDrive](https://github.com/Infomaniak/ios-kDrive): Secure cloud to collaborate online, access your documents and files on all your devices
   - <a href=https://www.infomaniak.com/en/kdrive>`https://www.infomaniak.com/en/kdrive`</a>
   - [` App Store`](https://apps.apple.com/app/infomaniak-kdrive/id1482778676) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple115/v4/fd/5e/eb/fd5eeb3a-6bef-a79f-b3f6-f6dacd824b8e/2da2a5e3-f988-4215-931a-58f58c9b9a66_mobile-6.5-1.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple125/v4/8e/a7/72/8ea772cc-81d0-112f-ee4b-c475a92501bc/0c9b7def-a516-4116-92b4-7fa131519ac3_mobile-6.5-2.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c5/ca/17/c5ca17ff-2950-0ec1-ab91-4e02f8d0947f/1391ef65-23e7-44b7-9c64-62bb35d84f80_mobile-6.5-3.png/600x0w.png'>`Screenshot 3`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/d7/de/85/d7de854f-c3b4-269d-9777-0252d4933666/9eef055e-3d6b-4bf0-9ab4-a0d6d9b9055b_mobile-6.5-4.png/600x0w.png'>`Screenshot 4`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple115/v4/1a/cd/2a/1acd2a04-49eb-94f5-fca3-6fc9c1e4ada5/df89351c-147d-457f-ba48-e6765e6a24c2_mobile-6.5-5.png/600x0w.png'>`Screenshot 5`</a> 
