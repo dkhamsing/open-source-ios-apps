@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1749-green.svg) ![](https://img.shields.io/badge/Updated-November%2013,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1749-green.svg) ![](https://img.shields.io/badge/Updated-November%2014,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2303,7 +2303,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  ☆`24` 
 - [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
   - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6829326032)
   - `typescript` `react-native` `expo` 
 - [CosmicDaily](https://github.com/emrepbu/CosmicDaily): Explore NASA astronomy picture of the day and explanations
   - <a href=https://emrepbu.github.io/CosmicDaily/>`https://emrepbu.github.io/CosmicDaily/`</a>
@@ -3932,7 +3932,7 @@ https://reactnative.dev/ — [back to top](#readme)
   -  ☆`1079` 
 - [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
   - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6829326032)
   - `typescript` `react-native` `expo` 
 - [Dribbble](https://github.com/catalinmiron/react-native-dribbble-app)
   -  <a href='https://cloud.githubusercontent.com/assets/2805320/8113463/db61b072-1076-11e5-8aa2-52417f019ea0.jpg'>`Screenshot 1`</a> 

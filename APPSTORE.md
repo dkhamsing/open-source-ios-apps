@@ -1253,7 +1253,7 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  ☆`573` 
 - [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
   - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6829326032)
   - `typescript` `react-native` `expo` 
 - [Find](https://github.com/aheze/OpenFind): Text search for images
   - [` App Store`](https://apps.apple.com/app/id1506500202) <a href='https://open.getfind.app/assets/Find.jpg'>`Screenshot 1`</a> 
@@ -2091,7 +2091,7 @@ https://reactnative.dev/ — [back to top](#readme)
   -  ☆`1079` 
 - [Compresso](https://github.com/iziuqo/compresso): Make photos smaller for messages, email and upload forms, entirely on the device, with no uploads, account or ads
   - <a href=https://compresso.izaias.xyz>`https://compresso.izaias.xyz`</a>
-  - [` App Store`](https://apps.apple.com/app/id6829326032) <a href='https://raw.githubusercontent.com/iziuqo/compresso/main/website/public/early/en/purpose.webp'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6829326032)
   - `typescript` `react-native` `expo` 
 - [Generator Tracker](https://github.com/yuri-val/GeneratorTracker): Offline logbook for power generators: one-tap engine-hour timer, fuel estimates from refills, maintenance reminders and monthly charts
   - <a href=https://generatortracker.yuri-val.dev>`https://generatortracker.yuri-val.dev`</a>
