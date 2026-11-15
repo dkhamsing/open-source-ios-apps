@@ -34424,10 +34424,7 @@
       "source": "https://github.com/TNT-Likely/BeeCount",
       "itunes": "https://apps.apple.com/app/id6754611670",
       "screenshots": [
-        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/01-home.png",
-        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/03-analytics.png",
-        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/09-mine.png",
-        "https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/05-add.png"
+        
       ],
       "tags": [
         "flutter",
