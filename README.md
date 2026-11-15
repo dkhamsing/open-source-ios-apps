@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1749-green.svg) ![](https://img.shields.io/badge/Updated-November%2014,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1750-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1545,6 +1545,9 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://user-images.githubusercontent.com/4723115/146569119-685104a8-b67c-448c-9c3e-6898b5c0ceac.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 
   -  ☆`543` 
+- [Wudland](https://github.com/joexk1/wudland): Cosy isometric pixel village that follows your real time, season and weather, with 19 rooms to explore and gentle puzzle errands
+  - [` App Store`](https://apps.apple.com/app/id6829491480) <a href='https://raw.githubusercontent.com/joexk1/wudland/main/README_assets/hero.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/joexk1/wudland/main/README_assets/seasons.png'>`Screenshot 2`</a> 
+  - `swift` `swiftui` `javascript` 
 ### Cocos2d 
  
 https://cocos2d.org/ — [back to top](#readme) 
