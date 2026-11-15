@@ -36374,6 +36374,27 @@
       ],
       "date_added": "Nov 12 2026",
       "suggested_by": "@sithewok13-dev"
+    },
+    {
+      "title": "Wudland",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "javascript"
+      ],
+      "description": "Cosy isometric pixel village that follows your real time, season and weather, with 19 rooms to explore and gentle puzzle errands",
+      "source": "https://github.com/joexk1/wudland",
+      "itunes": "https://apps.apple.com/app/id6829491480",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/joexk1/wudland/main/README_assets/hero.png",
+        "https://raw.githubusercontent.com/joexk1/wudland/main/README_assets/seasons.png"
+      ],
+      "date_added": "Nov 15 2026",
+      "suggested_by": "@joexk1"
     }
   ]
 }
