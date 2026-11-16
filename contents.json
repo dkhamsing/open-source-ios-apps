@@ -36395,6 +36395,34 @@
       ],
       "date_added": "Nov 15 2026",
       "suggested_by": "@joexk1"
+    },
+    {
+      "title": "Waytrace",
+      "category-ids": [
+        "location",
+        "travel",
+        "apple-watch"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "cloudkit",
+        "mapkit",
+        "watchos",
+        "ios26"
+      ],
+      "description": "Records your routes and stops all day in the background, lights up the cities and countries you have been to from your photo library, and keeps everything in your own iCloud",
+      "source": "https://github.com/lxyeternal/PathTracker",
+      "itunes": "https://apps.apple.com/app/id6827694426",
+      "license": "other",
+      "screenshots": [
+        "https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/1.jpg",
+        "https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/2.jpg",
+        "https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/3.jpg"
+      ],
+      "date_added": "Nov 15 2026",
+      "suggested_by": "@lxyeternal"
     }
   ]
 }
