@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1750-green.svg) ![](https://img.shields.io/badge/Updated-November%2015,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1751-green.svg) ![](https://img.shields.io/badge/Updated-November%2016,%202026-lightgrey.svg)
 
 Jump to
 
@@ -305,6 +305,9 @@ Jump to
   -  <a href='https://github.com/caiobzen/water-reminder-swiftui/raw/master/drink-water-app.gif'>`Screenshot 1`</a> 
   -  `2024` `swift` `combine` 
   -  ☆`243` 
+- [Waytrace](https://github.com/lxyeternal/PathTracker): Records your routes and stops all day in the background, lights up the cities and countries you have been to from your photo library, and keeps everything in your own iCloud
+  - [` App Store`](https://apps.apple.com/app/id6827694426) <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/3.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `cloudkit` `mapkit` `watchos` `ios26` 
 - [Word Of The Day](https://github.com/kyledold/WordOfTheDay): Includes a widget and watch app
   - [` App Store`](https://apps.apple.com/gb/app/word-of-the-day-english/id1551946328) <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_large.png'>`Screenshot 1`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_medium.png'>`Screenshot 2`</a>  <a href='https://github.com/kyledold/WordOfTheDay/blob/master/Images/preview_watchOS.png'>`Screenshot 3`</a> 
   -  `2024` `watchos` `swiftui` `alamofire` 
@@ -1993,6 +1996,9 @@ https://www.apple.com/researchkit/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/traccar-manager/id1113966562) <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple82/v4/68/1e/63/681e63ef-4cda-0e94-7489-01858fbfd8ab/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/17/a6/03/17a6033a-1de3-ce5e-fd25-e150f778524d/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/ff/46/cf/ff46cfa4-adc9-27be-96c7-f745c74be801/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
   -  `2025` `objc` 
   -  ☆`143` 
+- [Waytrace](https://github.com/lxyeternal/PathTracker): Records your routes and stops all day in the background, lights up the cities and countries you have been to from your photo library, and keeps everything in your own iCloud
+  - [` App Store`](https://apps.apple.com/app/id6827694426) <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/3.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `cloudkit` `mapkit` `watchos` `ios26` 
 ## Media 
  
 Image, video, audio, reading — [back to top](#readme) 
@@ -3297,6 +3303,9 @@ https://joinmastodon.org — [back to top](#readme)
   -  <a href='https://github.com/Themoji/themoji.me/blob/gh-pages/ThemojiIdea.jpg?raw=true'>`Screenshot 1`</a> 
   -  `2023` `swift` 
   -  ☆`41` 
+- [Waytrace](https://github.com/lxyeternal/PathTracker): Records your routes and stops all day in the background, lights up the cities and countries you have been to from your photo library, and keeps everything in your own iCloud
+  - [` App Store`](https://apps.apple.com/app/id6827694426) <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/1.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/2.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/lxyeternal/PathTracker/main/AppStore/screenshots/en/3.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `cloudkit` `mapkit` `watchos` `ios26` 
 ## Weather 
  
 [back to top](#readme) 
