@@ -36373,6 +36373,69 @@
       "suggested_by": "@sithewok13-dev"
     },
     {
+      "title": "Serious Sam Classic for iOS",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "c",
+        "cpp",
+        "objc"
+      ],
+      "description": "Unofficial iPhone port of Serious Sam: The First Encounter and The Second Encounter (Serious Engine 1), with touch controls. Needs your own copy of the games",
+      "source": "https://github.com/sithewok13-dev/SeriousSamClassic",
+      "homepage": "https://sithewok13-dev.github.io/serious-sam/",
+      "license": "gpl-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sithewok13-dev/SeriousSamClassic/ios/docs/ios/screenshots/fe-kleer-horde-minigun.jpg",
+        "https://raw.githubusercontent.com/sithewok13-dev/SeriousSamClassic/ios/docs/ios/screenshots/se-selfie-horde.jpg"
+      ],
+      "date_added": "Nov 17 2026",
+      "suggested_by": "@sithewok13-dev"
+    },
+    {
+      "title": "Raze for iOS",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "cpp",
+        "objc",
+        "ipad"
+      ],
+      "description": "Unofficial iPhone and iPad port of Raze, playing Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and PowerSlave, with touch controls. Needs your own copies of the games",
+      "source": "https://github.com/sithewok13-dev/Raze-iOS-",
+      "homepage": "https://sithewok13-dev.github.io/raze/",
+      "license": "other",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sithewok13-dev/Raze-iOS-/ios/docs/ios/screenshots/duke-classic-hud.jpg",
+        "https://raw.githubusercontent.com/sithewok13-dev/Raze-iOS-/ios/docs/ios/screenshots/blood-tommygun.jpg"
+      ],
+      "date_added": "Nov 17 2026",
+      "suggested_by": "@sithewok13-dev"
+    },
+    {
+      "title": "DOOM 3 for iOS",
+      "category-ids": [
+        "game"
+      ],
+      "tags": [
+        "cpp",
+        "objc",
+        "ipad"
+      ],
+      "description": "Unofficial iPhone and iPad port of DOOM 3 and Resurrection of Evil on dhewm3, with touch controls. Needs your own copy of the game",
+      "source": "https://github.com/sithewok13-dev/doom3-ios",
+      "homepage": "https://sithewok13-dev.github.io/doom3/",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/sithewok13-dev/doom3-ios/ios/docs/ios/screenshots/imp-flashlight.jpg",
+        "https://raw.githubusercontent.com/sithewok13-dev/doom3-ios/ios/docs/ios/screenshots/hell-plasma.jpg"
+      ],
+      "date_added": "Nov 17 2026",
+      "suggested_by": "@sithewok13-dev"
+    },
+    {
       "title": "Wudland",
       "category-ids": [
         "game"
