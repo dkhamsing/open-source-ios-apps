@@ -721,7 +721,7 @@ File Management — [back to top](#readme)
  
 
 - [BeeCount](https://github.com/TNT-Likely/BeeCount): Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount Cloud, iCloud, Supabase, WebDAV, S3)
-  - [` App Store`](https://apps.apple.com/app/id6754611670) <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/01-home.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/03-analytics.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/09-mine.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/TNT-Likely/BeeCount/main/preview/store-en/05-add.png'>`Screenshot 4`</a> 
+  - [` App Store`](https://apps.apple.com/app/id6754611670)
   -  `2026` `flutter` `dart` 
   -  ☆`2688` 
 - [BetBudd](https://github.com/bigjermaine/SwiftTracker): Keep track of spending on bets and other gambling activities
