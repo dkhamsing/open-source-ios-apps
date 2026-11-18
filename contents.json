@@ -36525,6 +36525,28 @@
       ],
       "date_added": "Nov 15 2026",
       "suggested_by": "@lxyeternal"
+    },
+    {
+      "title": "Termphin",
+      "category-ids": [
+        "terminal"
+      ],
+      "tags": [
+        "flutter",
+        "dart",
+        "ssh",
+        "sftp"
+      ],
+      "description": "SSH client with sessions that survive a locked phone, lost signal or network switch, plus SFTP, port forwarding and snippets",
+      "source": "https://github.com/Termphin/Termphin",
+      "itunes": "https://apps.apple.com/app/id6813191168",
+      "homepage": "https://termphin.dev",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Termphin/Termphin/main/docs/images/readme-pixel.webp"
+      ],
+      "date_added": "Nov 17 2026",
+      "suggested_by": "@mikolajbadyl"
     }
   ]
 }
