@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1751-green.svg) ![](https://img.shields.io/badge/Updated-November%2017,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1757-green.svg) ![](https://img.shields.io/badge/Updated-November%2018,%202026-lightgrey.svg)
 
 Jump to
 
@@ -875,6 +875,10 @@ Jump to
   -  <a href='https://user-images.githubusercontent.com/36863/80056069-54a05580-84f1-11ea-8597-5a227c9c64a7.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`1744` 
+- [Termphin](https://github.com/Termphin/Termphin): SSH client with sessions that survive a locked phone, lost signal or network switch, plus SFTP, port forwarding and snippets
+  - <a href=https://termphin.dev>`https://termphin.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6813191168) <a href='https://raw.githubusercontent.com/Termphin/Termphin/main/docs/images/readme-pixel.webp'>`Screenshot 1`</a> 
+  - `flutter` `dart` `ssh` `sftp` 
 ## Duo 
  
 [back to top](#readme) 
@@ -910,7 +914,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012)
   - `swift` `ipad` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
-  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467)
   -  `2026` `swift` 
   -  ☆`51` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
@@ -1423,6 +1427,14 @@ File Management — [back to top](#readme)
   - <a href=https://domination.sourceforge.io/>`https://domination.sourceforge.io/`</a>
   - [` App Store`](https://apps.apple.com/app/id1602913079) <a href='https://domination.sourceforge.io/screenshots/ss_tegmap.png'>`Screenshot 1`</a> 
   - `java` 
+- [DOOM (UZDoom) for iOS](https://github.com/sithewok13-dev/UZDoom): Unofficial iPhone and iPad port of UZDoom, playing DOOM, DOOM II and Final DOOM, with touch controls. Needs your own copy of the games
+  - <a href=https://sithewok13-dev.github.io/doom/>`https://sithewok13-dev.github.io/doom/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/UZDoom/ios/docs/ios/screenshots/classic-hud.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/UZDoom/ios/docs/ios/screenshots/selfie.jpg'>`Screenshot 2`</a> 
+  - `cpp` `objc` `ipad` 
+- [DOOM 3 for iOS](https://github.com/sithewok13-dev/doom3-ios): Unofficial iPhone and iPad port of DOOM 3 and Resurrection of Evil on dhewm3, with touch controls. Needs your own copy of the game
+  - <a href=https://sithewok13-dev.github.io/doom3/>`https://sithewok13-dev.github.io/doom3/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/doom3-ios/ios/docs/ios/screenshots/imp-flashlight.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/doom3-ios/ios/docs/ios/screenshots/hell-plasma.jpg'>`Screenshot 2`</a> 
+  - `cpp` `objc` `ipad` 
 - [Doom Classic](https://github.com/id-Software/DOOM-iOS)
   -  <a href='https://is5-ssl.mzstatic.com/image/thumb/Purple123/v4/27/a9/6c/27a96c0e-87ae-9c9a-27fa-efb44f309b87/pr_source.jpg/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/61/d8/e6/61d8e6a2-f14b-21f1-36c8-1dd0252a2bd3/pr_source.jpg/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/6c/23/b2/6c23b2a5-f442-7481-a2fd-01ead8fc7d69/pr_source.jpg/626x0w.jpg'>`Screenshot 3`</a> 
   -  `2023` `objc` 
@@ -1521,10 +1533,18 @@ File Management — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/quadrim/id6804034367) <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png'>`Screenshot 3`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`1` 
+- [Raze for iOS](https://github.com/sithewok13-dev/Raze-iOS-): Unofficial iPhone and iPad port of Raze, playing Duke Nukem 3D, Blood, Shadow Warrior, Redneck Rampage and PowerSlave, with touch controls. Needs your own copies of the games
+  - <a href=https://sithewok13-dev.github.io/raze/>`https://sithewok13-dev.github.io/raze/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/Raze-iOS-/ios/docs/ios/screenshots/duke-classic-hud.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/Raze-iOS-/ios/docs/ios/screenshots/blood-tommygun.jpg'>`Screenshot 2`</a> 
+  - `cpp` `objc` `ipad` 
 - [SaveTheDot](https://github.com/JakeLin/SaveTheDot): Escape from the squares
   -  <a href='https://cloud.githubusercontent.com/assets/573856/16248754/90150c2a-3854-11e6-9ee1-c2e4f228a9b6.gif'>`Screenshot 1`</a> 
   -  `2020` `swift` `uiviewpropertyanimator` 
   -  ☆`811` 
+- [Serious Sam Classic for iOS](https://github.com/sithewok13-dev/SeriousSamClassic): Unofficial iPhone port of Serious Sam: The First Encounter and The Second Encounter (Serious Engine 1), with touch controls. Needs your own copy of the games
+  - <a href=https://sithewok13-dev.github.io/serious-sam/>`https://sithewok13-dev.github.io/serious-sam/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/SeriousSamClassic/ios/docs/ios/screenshots/fe-kleer-horde-minigun.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/SeriousSamClassic/ios/docs/ios/screenshots/se-selfie-horde.jpg'>`Screenshot 2`</a> 
+  - `c` `cpp` `objc` 
 - [SHMUP](https://github.com/fabiensanglard/Shmup): 3D multiplatform game written primarily in C
   - <a href=https://fabiensanglard.net/shmup/>`https://fabiensanglard.net/shmup/`</a>
   - [` App Store`](https://apps.apple.com/app/shmup/id337663605) <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple117/v4/40/3a/21/403a21ac-9841-ab2b-4353-ce1f72a2c753/pr_source.png/460x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/2b/f4/8f/2bf48f1f-70fd-33d3-3198-c18ee88e2414/pr_source.png/460x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple117/v4/c3/97/7e/c3977e1f-48c9-e4b6-5f94-a4a988a53567/pr_source.png/460x0w.png'>`Screenshot 3`</a> 
@@ -1544,6 +1564,10 @@ File Management — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/Yvsleyen00941/Waybill/main/icon.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`1` 
+- [Wolf3D for iOS](https://github.com/sithewok13-dev/ECWolf): Unofficial iPhone and iPad port of ECWolf, playing Wolfenstein 3D and Spear of Destiny, with touch controls. Needs your own copy of the games
+  - <a href=https://sithewok13-dev.github.io/wolf3d/>`https://sithewok13-dev.github.io/wolf3d/`</a>
+  -  <a href='https://raw.githubusercontent.com/sithewok13-dev/ECWolf/ios/docs/ios/screenshots/e1m1-cells.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/sithewok13-dev/ECWolf/ios/docs/ios/screenshots/selfie.jpg'>`Screenshot 2`</a> 
+  - `cpp` `objc` `ipad` 
 - [Wolfenstein 3D](https://github.com/id-Software/Wolf3D-iOS): Wolfenstein 3D
   - [` App Store`](https://apps.apple.com/app/wolfenstein-3d-classic-platinum/id309470478) <a href='https://user-images.githubusercontent.com/4723115/146569119-685104a8-b67c-448c-9c3e-6898b5c0ceac.png'>`Screenshot 1`</a> 
   -  `2022` `objc` 

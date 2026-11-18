@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **349** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **350** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -462,6 +462,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2024` `swift` `ipad` 
   -  ☆`689` 
+- [Termphin](https://github.com/Termphin/Termphin): SSH client with sessions that survive a locked phone, lost signal or network switch, plus SFTP, port forwarding and snippets
+  - <a href=https://termphin.dev>`https://termphin.dev`</a>
+  - [` App Store`](https://apps.apple.com/app/id6813191168) <a href='https://raw.githubusercontent.com/Termphin/Termphin/main/docs/images/readme-pixel.webp'>`Screenshot 1`</a> 
+  - `flutter` `dart` `ssh` `sftp` 
 ## Duo 
  
 [back to top](#readme) 
@@ -490,7 +494,7 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/brass-pawn-chess-trainer/id6803566012)
   - `swift` `ipad` 
 - [Conjugar](https://github.com/vermont42/Conjugar): Learn and Practice All the Spanish Verb Tenses
-  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467) <a href='https://github.com/vermont42/Conjugar/blob/master/Images/verb-browse.png?raw=true'>`Screenshot 1`</a> 
+  - [` App Store`](https://apps.apple.com/app/conjugar/id1236500467)
   -  `2026` `swift` 
   -  ☆`51` 
 - [DeTeXt](https://github.com/venkatasg/DeTeXt): Find LaTeX symbols by drawing or searching
