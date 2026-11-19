@@ -36547,6 +36547,32 @@
       ],
       "date_added": "Nov 17 2026",
       "suggested_by": "@mikolajbadyl"
+    },
+    {
+      "title": "OpenIntelligence",
+      "category-ids": [
+        "productivity",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "apple-intelligence",
+        "foundation-models",
+        "rag"
+      ],
+      "description": "Chat with your own PDFs, notes and scans on iPhone, iPad and Mac with Apple Intelligence; retrieval runs on the device, works offline, and every answer cites the page it came from",
+      "source": "https://github.com/Gunnarguy/OpenIntelligence",
+      "homepage": "https://openintelligence.me",
+      "itunes": "https://apps.apple.com/app/id6756559175",
+      "license": "mit",
+      "screenshots": [
+        "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-cited-answer.png",
+        "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-library.png",
+        "https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-answer-inspection.png"
+      ],
+      "date_added": "Nov 17 2026",
+      "suggested_by": "@Gunnarguy"
     }
   ]
 }
