@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **350** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **351** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1490,6 +1490,10 @@ https://newsapi.org/ — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6813451929) <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/01_iPhone.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/02_iPhone.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Mattbusel/minder/main/fastlane/screenshots/en-US/03_iPhone.png'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`2` 
+- [OpenIntelligence](https://github.com/Gunnarguy/OpenIntelligence): Chat with your own PDFs, notes and scans on iPhone, iPad and Mac with Apple Intelligence; retrieval runs on the device, works offline, and every answer cites the page it came from
+  - <a href=https://openintelligence.me>`https://openintelligence.me`</a>
+  - [` App Store`](https://apps.apple.com/app/id6756559175) <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-cited-answer.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-library.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-answer-inspection.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `apple-intelligence` `foundation-models` `rag` 
 - [PomPadDo](https://github.com/amikhaylin/pompaddo): A personal task manager / planner
   - [` App Store`](https://apps.apple.com/app/id6742197499) <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-today.png'>`Screenshot 1`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-project.png'>`Screenshot 2`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/mac-timer.png'>`Screenshot 3`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-today.png'>`Screenshot 4`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-section.png'>`Screenshot 5`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/iphone-project.png'>`Screenshot 6`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-today.png'>`Screenshot 7`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-section.png'>`Screenshot 8`</a>  <a href='https://github.com/amikhaylin/pompaddo/raw/master/page-pix/watch-menu.png'>`Screenshot 9`</a> 
   -  `2026` `swift` `swiftui` `swiftdata` 
@@ -2075,6 +2079,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/hour-blocks-day-planner/id1456275153)
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`182` 
+- [OpenIntelligence](https://github.com/Gunnarguy/OpenIntelligence): Chat with your own PDFs, notes and scans on iPhone, iPad and Mac with Apple Intelligence; retrieval runs on the device, works offline, and every answer cites the page it came from
+  - <a href=https://openintelligence.me>`https://openintelligence.me`</a>
+  - [` App Store`](https://apps.apple.com/app/id6756559175) <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-cited-answer.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-library.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Gunnarguy/OpenIntelligence/main/.github/assets/screenshots/openintelligence-answer-inspection.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `apple-intelligence` `foundation-models` `rag` 
 - [ProtonVPN](https://github.com/ProtonVPN/ios-mac-app)
   - <a href=https://protonvpn.com/>`https://protonvpn.com/`</a>
   - [` App Store`](https://apps.apple.com/app/id1437005085) <a href='https://user-images.githubusercontent.com/4723115/137601688-ab7d6dbf-46c3-42f7-9b87-ea5e6d9896ea.png'>`Screenshot 1`</a> 
