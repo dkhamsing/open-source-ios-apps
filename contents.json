@@ -36573,6 +36573,28 @@
       ],
       "date_added": "Nov 17 2026",
       "suggested_by": "@Gunnarguy"
+    },
+    {
+      "title": "Trina AX",
+      "category-ids": [
+        "productivity",
+        "react-native"
+      ],
+      "tags": [
+        "typescript",
+        "react-native",
+        "expo"
+      ],
+      "description": "Phone client for a team's own Trina AX server, with shared files, chat rooms and an AI that sees only the folders the signed-in person may open",
+      "source": "https://github.com/trina-app/trina-ax",
+      "homepage": "https://ax.trina.app",
+      "itunes": "https://apps.apple.com/app/id6829192435",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/trina-app/trina-ax/main/docs/images/readme/v4/team-drive.webp"
+      ],
+      "date_added": "Nov 20 2026",
+      "suggested_by": "@potenlab"
     }
   ]
 }
