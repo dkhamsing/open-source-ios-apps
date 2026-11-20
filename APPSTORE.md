@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **352** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **353** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1177,6 +1177,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`25739` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 ### Animoji 
  
 [back to top](#readme) 
@@ -2096,6 +2100,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`234` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 - [Yattee](https://github.com/yattee/yattee): Alternative to YouTube
   - [` App Store`](https://apps.apple.com/app/yattee/id1595136629)
   -  `2026` `swift` `tvos` 

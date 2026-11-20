@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1759-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1760-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2074,6 +2074,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`25739` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 - [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
   -  `2020` `swift` `core-data` 
   -  ☆`13` 
@@ -3935,6 +3939,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`234` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 - [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game, Word Master and wordle-solver
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `kotlin` `swiftui` `macos` `kmp` 
