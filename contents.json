@@ -36598,6 +36598,25 @@
       ],
       "date_added": "Nov 20 2026",
       "suggested_by": "@INotSleep"
+    },
+    {
+      "title": "Slowth",
+      "category-ids": [
+        "safari-extension"
+      ],
+      "tags": [
+        "swift",
+        "swiftui"
+      ],
+      "description": "Hide YouTube Shorts and Instagram Reels in Safari, with optional on-device detection in supported iPhone and iPad apps",
+      "source": "https://github.com/skar404/slowth",
+      "itunes": "https://apps.apple.com/app/id6764140763",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/skar404/slowth/main/docs/showcase-02.jpg"
+      ],
+      "date_added": "Nov 20 2026",
+      "suggested_by": "@skar404"
     }
   ]
 }
