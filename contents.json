@@ -36573,6 +36573,31 @@
       ],
       "date_added": "Nov 17 2026",
       "suggested_by": "@Gunnarguy"
+    },
+    {
+      "title": "Detour SSH",
+      "category-ids": [
+        "terminal"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "rust",
+        "ssh",
+        "sftp"
+      ],
+      "description": "SSH client with a terminal key bar, files over SFTP, keys, snippets and Face ID, synced end-to-end encrypted with Detour on Windows, macOS and Linux and shared with a team through a Git repository or a OneDrive, Google Drive or Dropbox folder",
+      "source": "https://github.com/INotSleep/Detour",
+      "homepage": "https://inotsleep.com/projects/detour",
+      "itunes": "https://apps.apple.com/app/id6836001774",
+      "license": "agpl-3.0",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/33/7e/3b337e7b-a191-86f4-a9cf-1dd1d37335e4/iphone-1-hosts.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/6f/c6/9d6fc646-f23f-0e98-0820-cba8488a3e36/iphone-2-terminal.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/a1/ab/f8a1ab2b-42f6-6fcf-e0f0-3adba29e9f82/iphone-3-files.png/320x480bb.jpg"
+      ],
+      "date_added": "Nov 20 2026",
+      "suggested_by": "@INotSleep"
     }
   ]
 }
