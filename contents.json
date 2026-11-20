@@ -36598,6 +36598,32 @@
       ],
       "date_added": "Nov 20 2026",
       "suggested_by": "@INotSleep"
+    },
+    {
+      "title": "Strobe",
+      "category-ids": [
+        "media",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "ipad",
+        "macos"
+      ],
+      "description": "RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along",
+      "source": "https://github.com/abdeen-labs/rapid-serial-visual-presentation",
+      "homepage": "https://strobefast.app",
+      "itunes": "https://apps.apple.com/app/id6759187873",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png",
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png",
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png"
+      ],
+      "date_added": "Nov 19 2026",
+      "suggested_by": "@Cuzeth"
     }
   ]
 }
