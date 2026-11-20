@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **351** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **352** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -458,6 +458,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/blink-shell-build-code/id1594898306) <a href='https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/e1/44/bf/e144bfb0-5397-6e9f-7e94-e7303af10e93/pr_source.png/626x0w.jpg'>`Screenshot 1`</a>  <a href='https://is2-ssl.mzstatic.com/image/thumb/Purple123/v4/b8/a3/3f/b8a33f92-cf60-03ec-a8c2-ff3cdc222f80/pr_source.png/626x0w.jpg'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/f2/76/fff276ed-0b17-ad45-deee-6fa4be6d3024/pr_source.png/626x0w.jpg'>`Screenshot 3`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/95/f5/ec/95f5ec0b-8675-a452-de97-7d6f43a4e9ca/pr_source.png/626x0w.jpg'>`Screenshot 4`</a> 
   -  `2026` `objc` `uickeychainstore` `passcodelock` 
   -  ☆`6997` 
+- [Detour SSH](https://github.com/INotSleep/Detour): SSH client with a terminal key bar, files over SFTP, keys, snippets and Face ID, synced end-to-end encrypted with Detour on Windows, macOS and Linux and shared with a team through a Git repository or a OneDrive, Google Drive or Dropbox folder
+  - <a href=https://inotsleep.com/projects/detour>`https://inotsleep.com/projects/detour`</a>
+  - [` App Store`](https://apps.apple.com/app/id6836001774) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3b/33/7e/3b337e7b-a191-86f4-a9cf-1dd1d37335e4/iphone-1-hosts.png/320x480bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9d/6f/c6/9d6fc646-f23f-0e98-0820-cba8488a3e36/iphone-2-terminal.png/320x480bb.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/a1/ab/f8a1ab2b-42f6-6fcf-e0f0-3adba29e9f82/iphone-3-files.png/320x480bb.jpg'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `rust` `ssh` `sftp` 
 - [LibTerm](https://github.com/ColdGrub1384/LibTerm): Terminal with Python 3.7 and Lua 5.3, supports iOS 13 dark mode and multi window
   - [` App Store`](https://apps.apple.com/app/libterm/id1380911705) <a href='https://github.com/dkhamsing/open-source-ios-apps/assets/4723115/ea79adef-7060-4696-998b-fd147b103083'>`Screenshot 1`</a> 
   -  `2024` `swift` `ipad` 
