@@ -35685,10 +35685,7 @@
         "app-intents"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/phone-karaoke.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/home-widgets.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/dynamic-island-line.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png"
+        
       ],
       "source": "https://github.com/noluyorAbi/lyricar",
       "homepage": "https://lyricar.adatepe.dev",
