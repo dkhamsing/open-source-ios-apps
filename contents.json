@@ -36624,6 +36624,29 @@
       ],
       "date_added": "Nov 19 2026",
       "suggested_by": "@Cuzeth"
+    },
+    {
+      "title": "Orchestrator",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript"
+      ],
+      "description": "Companion app for the Orchestrator desktop workspace: see what each coding agent is doing, answer agents that are blocked and keep work moving from your phone",
+      "source": "https://github.com/OrchestratorInc/agent-orchestrator/tree/main/packages/mobile",
+      "homepage": "https://orchestrator.inc",
+      "itunes": "https://apps.apple.com/app/id6792552173",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/0f/f2/190ff2b0-df38-44c3-80a6-dccac515e4d2/01-hero.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/48/9b/30489bec-43ca-31d6-3ec5-2bb810d0176c/02-two-devices.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a6/89/9ba689c1-0273-4868-c29b-6d7bca13354e/03-device-top.png/320x480bb.jpg"
+      ],
+      "date_added": "Nov 21 2026",
+      "suggested_by": "@somewherelostt"
     }
   ]
 }
