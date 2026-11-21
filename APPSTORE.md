@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **353** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **352** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1050,10 +1050,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rtracker-track-it-all-your-way/id486541371) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/b8/0a/8e/b80a8e89-ca96-388e-6ea2-f35048b3d75f/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/c4/76/40/c476408e-27d6-6f4f-e304-3bccf1855509/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2025` `objc` 
   -  ☆`48` 
-- [Simple.](https://github.com/basarsubasi/simplefitnessapp): Create, schedule and track your workouts locally
-  - [` App Store`](https://apps.apple.com/us/app/simple-fitness-simplified/id6740262965) <a href='https://github.com/user-attachments/assets/d04a192f-836e-439e-aa0a-6fd8010cb13a'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/0bd94a1f-bca0-41ab-a67d-5745ed4d8599'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/7011f5ae-c0d7-444e-9bdc-1023d4bfd546'>`Screenshot 3`</a>  <a href='https://github.com/user-attachments/assets/de2a6493-ec9e-4935-a49b-c33dd9f66829'>`Screenshot 4`</a> 
-  -  `2025` `react-native` `expo` `typescript` 
-  -  ☆`224` 
 - [Subskills](https://github.com/ihvou/subskills): Sports technique video tutorials organized by sport and sub-skill
   - <a href=https://subskills.xyz>`https://subskills.xyz`</a>
   - [` App Store`](https://apps.apple.com/app/id6810049311) <a href='https://raw.githubusercontent.com/ihvou/subskills/main/store-assets/ios-listing/01-discover.png'>`Screenshot 1`</a> 
