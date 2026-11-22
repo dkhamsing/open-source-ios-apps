@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **352** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **353** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -411,6 +411,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`87` 
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator/tree/main/packages/mobile): Companion app for the Orchestrator desktop workspace: see what each coding agent is doing, answer agents that are blocked and keep work moving from your phone
+  - <a href=https://orchestrator.inc>`https://orchestrator.inc`</a>
+  - [` App Store`](https://apps.apple.com/app/id6792552173) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/0f/f2/190ff2b0-df38-44c3-80a6-dccac515e4d2/01-hero.png/320x480bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/48/9b/30489bec-43ca-31d6-3ec5-2bb810d0176c/02-two-devices.png/320x480bb.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a6/89/9ba689c1-0273-4868-c29b-6d7bca13354e/03-device-top.png/320x480bb.jpg'>`Screenshot 3`</a> 
+  - `react-native` `expo` `typescript` 
 - [SymbolGrid for SF Symbols](https://github.com/dl-alexandre/SymbolGrid)
   - [` App Store`](https://apps.apple.com/app/symbolgrid/id1640916135)
   -  `2025` `swift` `macos` `visionos` 
@@ -1881,7 +1885,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2026` `nativescript` 
   -  ☆`469` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
-  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
 - [SaxWeather](https://github.com/saxobroko/SaxWeather): Weather and forecasts from multiple user-selectable api's or PWS
@@ -2048,7 +2052,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2026` `flutter` `dart` 
   -  ☆`1` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
-  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
 - [Table Habit](https://github.com/FriesI23/mhabit): Offline-first micro-habit tracker
