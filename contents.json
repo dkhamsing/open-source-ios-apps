@@ -33416,7 +33416,7 @@
       "tags": [
         "react-native",
         "expo",
-        "typescript"
+        "typescript", "archive"
       ],
       "description": "Create, schedule and track your workouts locally",
       "screenshots": [
@@ -34191,8 +34191,8 @@
         "dart"
       ],
       "screenshots": [
-        "https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true",
-        "https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true"
+        "https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true",
+        "https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true"
       ],
       "date_added": "Jan 26 2025",
       "suggested_by": "@the-user-created",
@@ -35685,10 +35685,7 @@
         "app-intents"
       ],
       "screenshots": [
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/phone-karaoke.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/home-widgets.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/dynamic-island-line.png",
-        "https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png"
+        
       ],
       "source": "https://github.com/noluyorAbi/lyricar",
       "homepage": "https://lyricar.adatepe.dev",
@@ -36598,6 +36595,55 @@
       ],
       "date_added": "Nov 20 2026",
       "suggested_by": "@INotSleep"
+    },
+    {
+      "title": "Strobe",
+      "category-ids": [
+        "media",
+        "macos"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "ipad",
+        "macos"
+      ],
+      "description": "RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along",
+      "source": "https://github.com/abdeen-labs/rapid-serial-visual-presentation",
+      "homepage": "https://strobefast.app",
+      "itunes": "https://apps.apple.com/app/id6759187873",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png",
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png",
+        "https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png"
+      ],
+      "date_added": "Nov 19 2026",
+      "suggested_by": "@Cuzeth"
+    },
+    {
+      "title": "Orchestrator",
+      "category-ids": [
+        "developer"
+      ],
+      "tags": [
+        "react-native",
+        "expo",
+        "typescript"
+      ],
+      "description": "Companion app for the Orchestrator desktop workspace: see what each coding agent is doing, answer agents that are blocked and keep work moving from your phone",
+      "source": "https://github.com/OrchestratorInc/agent-orchestrator/tree/main/packages/mobile",
+      "homepage": "https://orchestrator.inc",
+      "itunes": "https://apps.apple.com/app/id6792552173",
+      "license": "apache-2.0",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/0f/f2/190ff2b0-df38-44c3-80a6-dccac515e4d2/01-hero.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/48/9b/30489bec-43ca-31d6-3ec5-2bb810d0176c/02-two-devices.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a6/89/9ba689c1-0273-4868-c29b-6d7bca13354e/03-device-top.png/320x480bb.jpg"
+      ],
+      "date_added": "Nov 21 2026",
+      "suggested_by": "@somewherelostt"
     },
     {
       "title": "Slowth",

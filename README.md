@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1759-green.svg) ![](https://img.shields.io/badge/Updated-November%2020,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1761-green.svg) ![](https://img.shields.io/badge/Updated-November%2022,%202026-lightgrey.svg)
 
 Jump to
 
@@ -763,6 +763,10 @@ Jump to
   - [` App Store`](https://apps.apple.com/app/ocaml-learn-code/id1547506826) <a href='https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/18/27/a5/1827a5ca-d493-968e-520c-a1da52c14053/aac6dd60-c3ba-48e7-b763-d065b3d6cccb_MAX-EN-1@3x.png/600x0w.png'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/7d/fc/cc/7dfccced-4658-54c8-c20b-d447e6caec06/13ec0f62-b0cf-427e-8c25-9c282432ddf7_MAX-EN-2@3x.png/600x0w.png'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/b2/d7/02/b2d7025c-a38b-47bd-96b9-3dbc6eae2979/2201b288-e06a-469f-bdcc-5d511e254716_MAX-EN-3@3x.png/600x0w.png'>`Screenshot 3`</a> 
   -  `2025` `swift` `ipad` 
   -  ☆`87` 
+- [Orchestrator](https://github.com/OrchestratorInc/agent-orchestrator/tree/main/packages/mobile): Companion app for the Orchestrator desktop workspace: see what each coding agent is doing, answer agents that are blocked and keep work moving from your phone
+  - <a href=https://orchestrator.inc>`https://orchestrator.inc`</a>
+  - [` App Store`](https://apps.apple.com/app/id6792552173) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/19/0f/f2/190ff2b0-df38-44c3-80a6-dccac515e4d2/01-hero.png/320x480bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/30/48/9b/30489bec-43ca-31d6-3ec5-2bb810d0176c/02-two-devices.png/320x480bb.jpg'>`Screenshot 2`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9b/a6/89/9ba689c1-0273-4868-c29b-6d7bca13354e/03-device-top.png/320x480bb.jpg'>`Screenshot 3`</a> 
+  - `react-native` `expo` `typescript` 
 - [Palm](https://github.com/zaiqltd/palm): Use your whole Mac from your iPhone: live screen, files, terminal and the coding agents on it, over your own Tailscale network
   - <a href=https://zaiq.ai/palm>`https://zaiq.ai/palm`</a>
   -  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/mac-screen.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/agent-approval.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/zaiqltd/palm/main/media/screens/every-agent.png'>`Screenshot 3`</a> 
@@ -1903,10 +1907,6 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/rtracker-track-it-all-your-way/id486541371) <a href='https://is3-ssl.mzstatic.com/image/thumb/Purple3/v4/b8/0a/8e/b80a8e89-ca96-388e-6ea2-f35048b3d75f/pr_source.png/460x0w.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/Purple1/v4/c4/76/40/c476408e-27d6-6f4f-e304-3bccf1855509/pr_source.png/460x0w.jpg'>`Screenshot 2`</a> 
   -  `2025` `objc` 
   -  ☆`48` 
-- [Simple.](https://github.com/basarsubasi/simplefitnessapp): Create, schedule and track your workouts locally
-  - [` App Store`](https://apps.apple.com/us/app/simple-fitness-simplified/id6740262965) <a href='https://github.com/user-attachments/assets/d04a192f-836e-439e-aa0a-6fd8010cb13a'>`Screenshot 1`</a>  <a href='https://github.com/user-attachments/assets/0bd94a1f-bca0-41ab-a67d-5745ed4d8599'>`Screenshot 2`</a>  <a href='https://github.com/user-attachments/assets/7011f5ae-c0d7-444e-9bdc-1023d4bfd546'>`Screenshot 3`</a>  <a href='https://github.com/user-attachments/assets/de2a6493-ec9e-4935-a49b-c33dd9f66829'>`Screenshot 4`</a> 
-  -  `2025` `react-native` `expo` `typescript` 
-  -  ☆`224` 
 - [Subskills](https://github.com/ihvou/subskills): Sports technique video tutorials organized by sport and sub-skill
   - <a href=https://subskills.xyz>`https://subskills.xyz`</a>
   - [` App Store`](https://apps.apple.com/app/id6810049311) <a href='https://raw.githubusercontent.com/ihvou/subskills/main/store-assets/ios-listing/01-discover.png'>`Screenshot 1`</a> 
@@ -2074,6 +2074,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/readest-ebook-reader/id6738622779) <a href='https://github.com/user-attachments/assets/c6de1b0e-8a49-4ad8-a72e-b04e7e7b9917'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`25739` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 - [whathaveiread](https://github.com/bcye/whathaveiread): Keep track of all books you've read and keep a short summary about them
   -  `2020` `swift` `core-data` 
   -  ☆`13` 
@@ -2121,7 +2125,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`11` 
 - [Lyricar](https://github.com/noluyorAbi/lyricar): Synced lyrics for whatever plays on your Spotify, on the Lock Screen, Dynamic Island, Home Screen widgets and CarPlay
   - <a href=https://lyricar.adatepe.dev>`https://lyricar.adatepe.dev`</a>
-  -  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/phone-karaoke.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/home-widgets.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/dynamic-island-line.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/noluyorAbi/lyricar/main/docs/screens/carplay-karaoke.png'>`Screenshot 4`</a> 
   -  `2026` `swift` `swiftui` `spotify` `lrclib` `activitykit` `widgetkit` `carplay` `app-intents` 
   -  ☆`1` 
 - [LysnBox](https://github.com/joseph6377/J7seven): Listen to EPUBs, PDFs, web articles and text with on-device AI voices in 31 languages, fully offline
@@ -3363,7 +3366,7 @@ https://joinmastodon.org — [back to top](#readme)
   -  `2023` `swift` 
   -  ☆`19` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
-  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
 - [RAYN Weather](https://github.com/qh-work/RAYN): Live weather, radar, air quality, astronomy, and marine conditions for Apple TV
@@ -3798,7 +3801,7 @@ https://flutter.dev — [back to top](#readme)
   -  `2026` `flutter` `dart` 
   -  ☆`1` 
 - [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
-  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/astraen-dev/RainVu/blob/8e4686107f14be790e6728c71198c14e514d54a8/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
+  - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
 - [Slide Puzzle](https://github.com/kevmoo/slide_puzzle)
@@ -3935,6 +3938,10 @@ Cross platform projects — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/stackov/id1511838391) <a href='https://uploads-ssl.webflow.com/5eda13df55b72c9ccf1b6aef/5eda4288c8019d1cc6edc24e_preview2.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `swiftui` `ipad` `macos` 
   -  ☆`234` 
+- [Strobe](https://github.com/abdeen-labs/rapid-serial-visual-presentation): RSVP speed reader for PDFs, EPUBs, Markdown and web articles: shows one word at a time at 100 to 1,000 words per minute, with an on-device voice that can read along
+  - <a href=https://strobefast.app>`https://strobefast.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6759187873) <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/01-one-word.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/03-hold-to-read.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/abdeen-labs/rapid-serial-visual-presentation/main/AppStore/Screenshots/iPhone%206.9-inch/08-full-text.png'>`Screenshot 3`</a> 
+  - `swift` `swiftui` `swiftdata` `ipad` `macos` 
 - [WordMasterKMP](https://github.com/joreilly/WordMasterKMP): Heavily inspired by the Wordle game, Word Master and wordle-solver
   -  <a href='https://user-images.githubusercontent.com/6302/148663064-3ed57b1f-c1a3-4e39-b2c2-2ddb3fb09ed9.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `kotlin` `swiftui` `macos` `kmp` 
