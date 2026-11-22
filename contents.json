@@ -34183,7 +34183,7 @@
         "flutter"
       ],
       "description": "Log rainfall from custom gauges and visualize historical data with charts",
-      "source": "https://github.com/astraen-dev/RainVu",
+      "source": "https://github.com/davidbits/RainVu",
       "itunes": "https://apps.apple.com/app/rainvu/id6754812264",
       "license": "mit",
       "tags": [
