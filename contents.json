@@ -36663,6 +36663,28 @@
       ],
       "date_added": "Nov 20 2026",
       "suggested_by": "@skar404"
+    },
+    {
+      "title": "Band·je",
+      "category-ids": [
+        "audio"
+      ],
+      "tags": [
+        "swift",
+        "swiftui",
+        "watchos",
+        "ipad"
+      ],
+      "description": "Record conversations on iPhone, iPad and Apple Watch and transcribe them on device in 25 languages, with speaker labels and summaries in your own templates",
+      "source": "https://github.com/neurendal/bandje",
+      "homepage": "https://band.je/",
+      "itunes": "https://apps.apple.com/app/id6831353548",
+      "license": "gpl-3.0",
+      "screenshots": [
+        "https://raw.githubusercontent.com/neurendal/bandje/main/.github/readme/ios-02-transcript-light.webp"
+      ],
+      "date_added": "Nov 23 2026",
+      "suggested_by": "@roelandp"
     }
   ]
 }
