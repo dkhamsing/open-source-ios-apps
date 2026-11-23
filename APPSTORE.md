@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **353** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **354** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -652,6 +652,9 @@ Jump to
   - [` App Store`](https://apps.apple.com/us/app/pipifier/id1234771095)
   -  `2021` `swift` 
   -  ☆`799` 
+- [Slowth](https://github.com/skar404/slowth): Hide YouTube Shorts and Instagram Reels in Safari, with optional on-device detection in supported iPhone and iPad apps
+  - [` App Store`](https://apps.apple.com/app/id6764140763) <a href='https://raw.githubusercontent.com/skar404/slowth/main/docs/showcase-02.jpg'>`Screenshot 1`</a> 
+  - `swift` `swiftui` 
 ### Today 
  
 Today Extensions or Widgets — [back to top](#readme) 
@@ -1884,7 +1887,7 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/oss-weather/id1499117252) <a href='https://github.com/user-attachments/assets/396957e5-9c53-4049-abc3-eb538e07837b'>`Screenshot 1`</a> 
   -  `2026` `nativescript` 
   -  ☆`469` 
-- [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
+- [RainVu](https://github.com/davidbits/RainVu): Log rainfall from custom gauges and visualize historical data with charts
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
@@ -2051,7 +2054,7 @@ https://flutter.dev — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/quadrim/id6804034367) <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/01-main.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/02-bramble.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/evermeer/Quadrim/main/doc/screenshots/04-cube.png'>`Screenshot 3`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`1` 
-- [RainVu](https://github.com/astraen-dev/RainVu): Log rainfall from custom gauges and visualize historical data with charts
+- [RainVu](https://github.com/davidbits/RainVu): Log rainfall from custom gauges and visualize historical data with charts
   - [` App Store`](https://apps.apple.com/app/rainvu/id6754812264) <a href='https://github.com/davidbits/RainVu/blob/main/docs/home_screen.png?raw=true'>`Screenshot 1`</a>  <a href='https://github.com/davidbits/RainVu/blob/main/docs/insights_screen.png?raw=true'>`Screenshot 2`</a> 
   -  `2026` `flutter` `dart` 
   -  ☆`7` 
