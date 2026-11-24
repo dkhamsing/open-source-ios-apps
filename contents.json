@@ -36685,6 +36685,27 @@
       ],
       "date_added": "Nov 23 2026",
       "suggested_by": "@roelandp"
+    },
+    {
+      "title": "Pulse Commit",
+      "category-ids": [
+        "health"
+      ],
+      "description": "Export Apple Health data as JSON, Markdown and GPX to your own GitHub repository or Telegram chat",
+      "source": "https://github.com/gaiverrr/pulsecommit",
+      "homepage": "https://pulsecommit.app",
+      "itunes": "https://apps.apple.com/app/id6830329627",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "healthkit"
+      ],
+      "screenshots": [
+        "https://pulsecommit.app/app-screenshot.png"
+      ],
+      "date_added": "Nov 24 2026",
+      "suggested_by": "@gaiverrr"
     }
   ]
 }
