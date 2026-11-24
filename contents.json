@@ -34385,7 +34385,7 @@
         "developer"
       ],
       "description": "Browse SourceHut repositories, issues, mailing lists, and patches",
-      "source": "https://github.com/krazywarez/hutch",
+      "source": "https://github.com/krz-labs/hutch",
       "itunes": "https://apps.apple.com/app/hutch-for-sourcehut/id6760742299",
       "tags": [
         "swift",
@@ -34403,7 +34403,7 @@
         "developer"
       ],
       "description": "Perform quick DNS lookups, SSL/TLS checks, and more on any domain",
-      "source": "https://github.com/krazywarez/domain-dig",
+      "source": "https://github.com/krz-labs/domain-dig",
       "itunes": "https://apps.apple.com/app/domaindig/id6760368004",
       "tags": [
         "swift",
