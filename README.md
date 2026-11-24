@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1762-green.svg) ![](https://img.shields.io/badge/Updated-November%2023,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1764-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202026-lightgrey.svg)
 
 Jump to
 
@@ -686,7 +686,7 @@ Jump to
   -  ☆`993` 
 - [DevHardware](https://github.com/emlavankhoahienma-hue/DevHardware): Real-time hardware, Mach memory, thermal state, Metal GPU, and network interface inspector for developers
   -  `2026` `swift` `swiftui` 
-- [Domain Dig](https://github.com/krazywarez/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
+- [Domain Dig](https://github.com/krz-labs/domain-dig): Perform quick DNS lookups, SSL/TLS checks, and more on any domain
   - [` App Store`](https://apps.apple.com/app/domaindig/id6760368004)
   -  `2026` `swift` `swiftui` 
   -  ☆`7` 
@@ -729,7 +729,7 @@ Jump to
   -  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/a6/75/0d/a6750dee-7361-ca1f-34bc-804b2b0d79e4/56caf957-c128-4b7a-8458-106a0de6fdaa_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.29.40.png/460x0w.webp'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/9e/c6/e79ec63c-db19-2029-165d-ce6fc55500d1/c30f507f-54df-4fe8-bc7f-44c86a61a72c_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.33.png/460x0w.webp'>`Screenshot 2`</a>  <a href='https://is3-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/81/01/ea/8101ea88-c459-e2b2-e18f-03eb42ccd5ff/5324ca34-a122-46fa-a618-1bb03d6afe7d_Simulator_Screen_Shot_-_iPhone_12_Pro_Max_-_2021-09-06_at_19.39.48.png/460x0w.webp'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` 
   -  ☆`17` 
-- [Hutch](https://github.com/krazywarez/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
+- [Hutch](https://github.com/krz-labs/hutch): Browse SourceHut repositories, issues, mailing lists, and patches
   - [` App Store`](https://apps.apple.com/app/hutch-for-sourcehut/id6760742299)
   -  `2026` `swift` `swiftui` 
   -  ☆`5` 
@@ -1766,6 +1766,10 @@ https://developer.apple.com/reference/spritekit — [back to top](#readme)
   -  <a href='https://raw.githubusercontent.com/soma-intelligence/prism/main/docs/images/screens/today.png'>`Screenshot 1`</a> 
   -  `2026` `swift` `swiftui` `healthkit` `widget` 
   -  ☆`4` 
+- [Pulse Commit](https://github.com/gaiverrr/pulsecommit): Export Apple Health data as JSON, Markdown and GPX to your own GitHub repository or Telegram chat
+  - <a href=https://pulsecommit.app>`https://pulsecommit.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6830329627) <a href='https://pulsecommit.app/app-screenshot.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `healthkit` 
 - [Pulse – Your Micro-Journal](https://github.com/marcusraitner/pulse): Minimalist micro-journaling companion designed to make reflection as effortless as possible
   - <a href=https://raitner.de/pulse>`https://raitner.de/pulse`</a>
   - [` App Store`](https://apps.apple.com/app/pulse-your-micro-journal/id6759242390)
@@ -2114,6 +2118,10 @@ Image, video, audio, reading — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id6818241470) <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-now-playing.jpg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-home.jpg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/adrbn/aura/main/docs/assets/readme-src/phone-radio.jpg'>`Screenshot 3`</a> 
   -  `2026` `swift` `swiftui` `watchos` 
   -  ☆`5` 
+- [Band·je](https://github.com/neurendal/bandje): Record conversations on iPhone, iPad and Apple Watch and transcribe them on device in 25 languages, with speaker labels and summaries in your own templates
+  - <a href=https://band.je/>`https://band.je/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6831353548) <a href='https://raw.githubusercontent.com/neurendal/bandje/main/.github/readme/ios-02-transcript-light.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `watchos` `ipad` 
 - [BookPlayer](https://github.com/TortugaPower/BookPlayer): Player for your DRM-free audiobooks
   - [` App Store`](https://apps.apple.com/app/bookplayer-audio-book-player/id1138219998) <a href='https://user-images.githubusercontent.com/14112819/42383876-3619b35c-80fe-11e8-8923-e5f80a3bb0d2.PNG'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383878-36354798-80fe-11e8-9621-9c88e54474ce.PNG'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14112819/42383879-3655af6a-80fe-11e8-8516-81c19ba5f4cc.PNG'>`Screenshot 3`</a> 
   -  `2026` `swift` 
