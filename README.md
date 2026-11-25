@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1764-green.svg) ![](https://img.shields.io/badge/Updated-November%2024,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1765-green.svg) ![](https://img.shields.io/badge/Updated-November%2025,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1214,6 +1214,9 @@ Widget (iOS 14) — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2026` 
   -  ☆`119` 
+- [Tuck](https://github.com/AbinGanlary/Tuck): Folders of apps as Home Screen widgets, one tap opens any app by bundle ID, including sideloaded and LiveContainer apps, with original App Store icons, dark icons, photo backgrounds and backup. Uses private APIs, so sideload only
+  -  <a href='https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folders.png'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folder-editor.png'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/add-apps.png'>`Screenshot 3`</a>  <a href='https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folder-style.png'>`Screenshot 4`</a> 
+  - `swift` `swiftui` `widgetkit` 
 - [US NewsFeed](https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM)
   -  <a href='https://github.com/JohnYezub/NewsFeed_SwiftUI_MVVM/raw/main/news2.gif'>`Screenshot 1`</a> 
   -  `2026` `swift` 
