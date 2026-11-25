@@ -36743,6 +36743,27 @@
       ],
       "date_added": "Nov 25 2026",
       "suggested_by": "@AbinGanlary"
+    },
+    {
+      "title": "Open POS",
+      "category-ids": [
+        "finance"
+      ],
+      "description": "Offline point-of-sale app and cash register for small shops, cafes and food trucks, free with no account, subscription or ads",
+      "source": "https://github.com/onepiece92/openPOS",
+      "itunes": "https://apps.apple.com/app/id6761003751",
+      "homepage": "https://onepiece92.github.io/openPOS/",
+      "license": "mit",
+      "tags": [
+        "flutter",
+        "dart"
+      ],
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/1d/a6/3a1da697-6981-0d1b-cf2d-971cbee965a6/1.png/320x480bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/35/f3/2835f3a1-da06-2421-2cbe-25eb2070c386/2.png/320x480bb.jpg"
+      ],
+      "date_added": "Nov 25 2026",
+      "suggested_by": "@onepiece92"
     }
   ]
 }
