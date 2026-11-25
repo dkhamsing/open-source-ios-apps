@@ -36707,6 +36707,21 @@
       "date_added": "Nov 24 2026",
       "suggested_by": "@gaiverrr"
     },
+{
+      "title": "Silverphase",
+      "category-ids": [
+        "photo"
+      ],
+      "description": "Digital darkroom, lets photographers pair a film stock with a paper and adjust exposure, development, and printing on-device",
+      "source": "https://github.com/akinal5765-byte/Silverphase",
+      "itunes": "https://apps.apple.com/app/silverphase-film-simulator/id6829987567",
+      "license": "mit",
+      "tags": [
+        "ipad", "swiftui"
+      ],
+      "date_added": "Nov 25 2026",
+      "suggested_by": "@akinal5765-byte"
+    },    
     {
       "title": "Tuck",
       "category-ids": [
