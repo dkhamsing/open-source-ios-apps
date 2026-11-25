@@ -52,7 +52,7 @@ jobs:
         run: |
           awesome_bot check-unique.txt \
             --allow-ssl \
-            --allow 302,429,502 \
+            --allow 302,429,502,503 \
             --white-list "$(echo "$WHITELIST" | tr -d ' \n')"
 
       - name: Upload link report
