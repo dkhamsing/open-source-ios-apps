@@ -36706,6 +36706,28 @@
       ],
       "date_added": "Nov 24 2026",
       "suggested_by": "@gaiverrr"
+    },
+    {
+      "title": "Tuck",
+      "category-ids": [
+        "widget"
+      ],
+      "description": "Folders of apps as Home Screen widgets, one tap opens any app by bundle ID, including sideloaded and LiveContainer apps, with original App Store icons, dark icons, photo backgrounds and backup. Uses private APIs, so sideload only",
+      "source": "https://github.com/AbinGanlary/Tuck",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "widgetkit"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folders.png",
+        "https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folder-editor.png",
+        "https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/add-apps.png",
+        "https://raw.githubusercontent.com/AbinGanlary/Tuck/main/screenshots/folder-style.png"
+      ],
+      "date_added": "Nov 25 2026",
+      "suggested_by": "@AbinGanlary"
     }
   ]
 }
