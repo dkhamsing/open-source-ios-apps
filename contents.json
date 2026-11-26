@@ -36715,7 +36715,7 @@
       "description": "Digital darkroom, lets photographers pair a film stock with a paper and adjust exposure, development, and printing on-device",
       "source": "https://github.com/akinal5765-byte/Silverphase",
       "itunes": "https://apps.apple.com/app/silverphase-film-simulator/id6829987567",
-      "license": "mit",
+      "license": "gpl-3.0",
       "tags": [
         "ipad", "swiftui"
       ],
