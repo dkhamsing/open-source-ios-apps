@@ -105,6 +105,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [Borrowed Books](https://github.com/MatheusCavalca/RenovaLivrosUFRGS)
 - [Brain Marks](https://github.com/mikaelacaron/brain-marks)
 - [Brave Private Web Browser](https://github.com/brave/brave-ios)
+- [BreadBuddy](https://github.com/bracketltd/BreadBuddy)
 - [Brew](https://github.com/contentful/ContentfulWatchKitExample)
 - [BrewMobile](https://github.com/brewfactory/BrewMobile)
 - [Bridges](https://github.com/zgrossbart/bridges)

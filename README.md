@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1765-green.svg) ![](https://img.shields.io/badge/Updated-November%2025,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1767-green.svg) ![](https://img.shields.io/badge/Updated-November%2026,%202026-lightgrey.svg)
 
 Jump to
 
@@ -1333,6 +1333,10 @@ File Management — [back to top](#readme)
   -  <a href='https://github.com/dkhamsing/stocks/blob/dev/Images/0.png?raw=true'>`Screenshot 1`</a> 
   -  `2020` `swift` 
   -  ☆`45` 
+- [Open POS](https://github.com/onepiece92/openPOS): Offline point-of-sale app and cash register for small shops, cafes and food trucks, free with no account, subscription or ads
+  - <a href=https://onepiece92.github.io/openPOS/>`https://onepiece92.github.io/openPOS/`</a>
+  - [` App Store`](https://apps.apple.com/app/id6761003751) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3a/1d/a6/3a1da697-6981-0d1b-cf2d-971cbee965a6/1.png/320x480bb.jpg'>`Screenshot 1`</a>  <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/28/35/f3/2835f3a1-da06-2421-2cbe-25eb2070c386/2.png/320x480bb.jpg'>`Screenshot 2`</a> 
+  - `flutter` `dart` 
 - [Sbu Subscriptions](https://github.com/mgiuditta/sbu-apps/tree/main/Apps/SbuSubscriptions): Track subscriptions and renewals, see what you spend each year, reminders before each payment; data stays on the device
   - [` App Store`](https://apps.apple.com/app/id6780154928) <a href='https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/82/3b/dd/823bdd51-1f6d-f224-dbb1-0f7f8ffa1dfb/iPhone_17_Pro_Max-01-main_framed.png/320x480bb.jpg'>`Screenshot 1`</a> 
   - `swift` `swiftui` `widget` 
@@ -2399,6 +2403,9 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://github.com/crspybits/SharedImages/raw/master/Screenshots/screenshot1.png'>`Screenshot 1`</a> 
   -  `2021` `swift` `google drive api` `facebook api` `syncserverii client` 
   -  ☆`14` 
+- [Silverphase](https://github.com/akinal5765-byte/Silverphase): Digital darkroom, lets photographers pair a film stock with a paper and adjust exposure, development, and printing on-device
+  - [` App Store`](https://apps.apple.com/app/silverphase-film-simulator/id6829987567)
+  - `ipad` `swiftui` 
 - [Space!](https://github.com/jtbandes/SpacePOD): iOS 14 widget displaying NASA's Astronomy Picture of the Day
   - [` App Store`](https://apps.apple.com/app/id1536864924) <a href='https://user-images.githubusercontent.com/14237/96915139-c171b980-145a-11eb-8ff5-191c6cba9f66.png'>`Screenshot 1`</a>  <a href='https://user-images.githubusercontent.com/14237/96915188-cdf61200-145a-11eb-99b8-d5ee109c2b5c.png'>`Screenshot 2`</a>  <a href='https://user-images.githubusercontent.com/14237/96915181-ccc4e500-145a-11eb-8627-781621ffc87a.png'>`Screenshot 3`</a>  <a href='https://user-images.githubusercontent.com/14237/96915186-cd5d7b80-145a-11eb-9be7-a233ce575081.png'>`Screenshot 4`</a> 
   -  `2026` 
@@ -4218,10 +4225,6 @@ https://github.com/ReactiveX/RxSwift — [back to top](#readme)
 - [BlogIdeaList-SwiftUI](https://github.com/andrewcbancroft/BlogIdeaList-SwiftUI): Using Core Data With SwiftUI
   -  `2020` `swift` `swiftui` `core-data` 
   -  ☆`69` 
-- [BreadBuddy](https://github.com/bracketltd/BreadBuddy): Recipe scheduler for baked goods
-  - [` App Store`](https://apps.apple.com/app/id1620912870) <a href='https://raw.githubusercontent.com/maxhumber/BreadBuddy/master/Marketing/Screenshots/screenshot_13pm_1.png'>`Screenshot 1`</a> 
-  -  `2026` `swift` `swiftui` 
-  -  ☆`160` 
 - [Broadcast](https://github.com/daneden/Broadcast): Write-only Twitter client
   -  `2022` `swift` `swiftui` 
   -  ☆`44` 
