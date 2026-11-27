@@ -36764,6 +36764,29 @@
       ],
       "date_added": "Nov 25 2026",
       "suggested_by": "@onepiece92"
+    },
+    {
+      "title": "Theo Notes",
+      "category-ids": [
+        "notes"
+      ],
+      "description": "Markdown notes with nested tags, wiki links, search inside images and scanned PDFs, locked notes, iCloud sync and an Apple Watch app",
+      "source": "https://github.com/jankutschera/theonotes",
+      "homepage": "https://theonotes.app",
+      "itunes": "https://apps.apple.com/app/id6832478875",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "cloudkit",
+        "markdown",
+        "watchos"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/jankutschera/theonotes/main/docs/readme/iphone-recipe.png"
+      ],
+      "date_added": "Nov 26 2026",
+      "suggested_by": "@jankutschera"
     }
   ]
 }
