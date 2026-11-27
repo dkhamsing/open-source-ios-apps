@@ -4,7 +4,7 @@
 ⚠️ This README is generated, please do not update. To contribute, make changes to contents.json ⚠️ 
  https://github.com/dkhamsing/open-source-ios-apps -->
 
-List of **357** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
+List of **358** open-source apps published on the App Store (complete list [here](https://github.com/dkhamsing/open-source-ios-apps)).
 
 
 
@@ -1876,6 +1876,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450) <a href='https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`6688` 
+- [Theo Notes](https://github.com/jankutschera/theonotes): Markdown notes with nested tags, wiki links, search inside images and scanned PDFs, locked notes, iCloud sync and an Apple Watch app
+  - <a href=https://theonotes.app>`https://theonotes.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6832478875) <a href='https://raw.githubusercontent.com/jankutschera/theonotes/main/docs/readme/iphone-recipe.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `cloudkit` `markdown` `watchos` 
 ## Timer 
  
 [back to top](#readme) 

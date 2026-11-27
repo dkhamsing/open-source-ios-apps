@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1767-green.svg) ![](https://img.shields.io/badge/Updated-November%2026,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1768-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202026-lightgrey.svg)
 
 Jump to
 
@@ -499,10 +499,6 @@ Jump to
   -  <a href='https://github.com/user-attachments/assets/6305de96-2c6a-4eaa-99ff-a923ad6be368'>`Screenshot 1`</a> 
   -  `2025` `swiftui` `ios26` 
   -  ☆`404` 
-- [AppRTC](https://github.com/ISBX/apprtc-ios): A native video chat app
-  -  <a href='https://github.com/ISBX/apprtc-ios/raw/master/screenshots/screenshots.jpg'>`Screenshot 1`</a> 
-  -  `2019` `objc` `webrtc` `google` 
-  -  ☆`1347` 
 - [Basic Chat (Bluetooth Low Energy)](https://github.com/adafruit/Basic-Chat)
   -  `2021` `swift` `bluetooth` 
   -  ☆`126` 
@@ -3326,6 +3322,10 @@ https://joinmastodon.org — [back to top](#readme)
   - [` App Store`](https://apps.apple.com/app/standard-notes/id1285392450) <a href='https://is1.mzstatic.com/image/thumb/Purple118/v4/20/d6/3e/20d63e81-ad02-c057-a4d8-fa105f8fff22/source/392x696bb.jpg'>`Screenshot 1`</a> 
   -  `2026` `react-native` 
   -  ☆`6688` 
+- [Theo Notes](https://github.com/jankutschera/theonotes): Markdown notes with nested tags, wiki links, search inside images and scanned PDFs, locked notes, iCloud sync and an Apple Watch app
+  - <a href=https://theonotes.app>`https://theonotes.app`</a>
+  - [` App Store`](https://apps.apple.com/app/id6832478875) <a href='https://raw.githubusercontent.com/jankutschera/theonotes/main/docs/readme/iphone-recipe.png'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `cloudkit` `markdown` `watchos` 
 ## Timer 
  
 [back to top](#readme) 

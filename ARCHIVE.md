@@ -54,6 +54,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - [AppleWatchFaces](https://github.com/opensourceios/AppleWatchFaces)
 - [AppleWatchProductHunt](https://github.com/BalestraPatrick/AppleWatchProductHunt)
 - [AppLove](https://github.com/snowpunch/AppLove)
+- [AppRTC](https://github.com/ISBX/apprtc-ios)
 - [AppSales-Mobile](https://github.com/omz/AppSales-Mobile)
 - [AppSlate](https://github.com/Taehan-Kim/AppSlate)
 - [appstore](https://github.com/phillfarrugia/appstore-clone)
