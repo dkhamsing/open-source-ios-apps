@@ -36764,6 +36764,30 @@
       ],
       "date_added": "Nov 25 2026",
       "suggested_by": "@onepiece92"
+    },
+    {
+      "title": "StackConnect",
+      "category-ids": [
+        "developer"
+      ],
+      "description": "Manage App Store Connect and Firebase from iPhone and iPad: versions and metadata, App Review submissions, TestFlight, customer reviews, certificates, team roles, Remote Config and Cloud Messaging, with keys kept in the Keychain and no server in between",
+      "source": "https://github.com/r1b2ns/stack-connect",
+      "itunes": "https://apps.apple.com/app/id6761390987",
+      "license": "mit",
+      "tags": [
+        "swift",
+        "swiftui",
+        "swiftdata",
+        "rust",
+        "ipad"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/r1b2ns/stack-connect/master/fastlane/screenshots/en-US/iPhone_6.5_1.png",
+        "https://raw.githubusercontent.com/r1b2ns/stack-connect/master/fastlane/screenshots/en-US/iPhone_6.5_2.png",
+        "https://raw.githubusercontent.com/r1b2ns/stack-connect/master/fastlane/screenshots/en-US/iPhone_6.5_6.png"
+      ],
+      "date_added": "Nov 27 2026",
+      "suggested_by": "@r1b2ns"
     }
   ]
 }
