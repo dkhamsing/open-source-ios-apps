@@ -36762,6 +36762,24 @@
       "date_added": "Nov 25 2026",
       "suggested_by": "@onepiece92"
     },
+     {
+      "title": "OC Pass",
+      "category-ids": [
+        "developer"
+      ],
+      "description": "Self-hosted OpenClaw assistant: pair once, then chat, send files and use voice input while the gateway stays on localhost",
+      "source": "https://github.com/poly39-xoio/oc-pass-ios",
+      "homepage": "https://apps.apple.com/app/id6825438357",
+      "itunes": "https://apps.apple.com/app/id6825438357",
+      "license": "mit",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/5xSYFLWfjJgbgD16RY9s5w/900x1600bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/EFtXNEkI9h1MXUzeYvRxzQ/900x1600bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/O3dVyh_Lpp2DMA1kLzT9Bw/900x1600bb.png"
+      ],
+      "date_added": "Nov 22 2026",
+      "suggested_by": "@7fujii-code"
+    },
     {
       "title": "Theo Notes",
       "category-ids": [
