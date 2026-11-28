@@ -6,7 +6,7 @@
 
 A collaborative list of open-source `iOS`, `iPadOS`, `watchOS`, `tvOS` and `visionOS` apps, your [contribution](https://github.com/dkhamsing/open-source-ios-apps/blob/master/.github/CONTRIBUTING.md) is welcome :smile:
 
-![](https://img.shields.io/badge/Projects-1768-green.svg) ![](https://img.shields.io/badge/Updated-November%2027,%202026-lightgrey.svg)
+![](https://img.shields.io/badge/Projects-1769-green.svg) ![](https://img.shields.io/badge/Updated-November%2028,%202026-lightgrey.svg)
 
 Jump to
 
@@ -2148,7 +2148,6 @@ Image, video, audio, reading — [back to top](#readme)
   -  ☆`3` 
 - [Minidisc](https://github.com/Loriage/Minidisc): An opinionated music player for Navidrome, Subsonic and OpenSubsonic servers with native Lidarr integration.
   - <a href=https://minidisc.dev>`https://minidisc.dev`</a>
-  -  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/home.jpeg'>`Screenshot 1`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/player.jpeg'>`Screenshot 2`</a>  <a href='https://raw.githubusercontent.com/Loriage/Minidisc/main/docs/screenshots/discover.jpeg'>`Screenshot 3`</a> 
   -  `2026` `swift` 
   -  ☆`42` 
 - [NewsAnalyzer](https://github.com/ethanswift/NewsAnalyzer): Let you listen to English news, see the text and let you analyze what you have heard
@@ -2434,6 +2433,10 @@ Mostly using https://giphy.com/ — [back to top](#readme)
   -  <a href='https://pbs.twimg.com/media/F8Bb6h9XAAE05jU?format=jpg'>`Screenshot 1`</a> 
   -  `2026` `swift` `youtube` 
   -  ☆`70` 
+- [Grain](https://github.com/w3ltyyy/Grain): Cinema for iPhone, iPad and Mac: TMDB catalog, your own Jackett, Prowlarr, Torznab or Stremio sources, a built-in torrent engine and a VLCKit player
+  - <a href=https://grained.space>`https://grained.space`</a>
+  -  <a href='https://raw.githubusercontent.com/w3ltyyy/Grain/main/docs/images/cover-en.webp'>`Screenshot 1`</a> 
+  - `swift` `swiftui` `vlckit` `tmdb` `macos` 
 - [Loadify](https://github.com/VishwaiOSDev/Loadify-iOS): Instant YouTube video downloader
   -  `2026` `swift` `swift5` `download` `youtube` `downloader` 
   -  ☆`151` 
