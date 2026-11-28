@@ -36787,6 +36787,28 @@
       ],
       "date_added": "Nov 26 2026",
       "suggested_by": "@jankutschera"
+    },
+    {
+      "title": "Grain",
+      "category-ids": [
+        "video"
+      ],
+      "description": "Cinema for iPhone, iPad and Mac: TMDB catalog, your own Jackett, Prowlarr, Torznab or Stremio sources, a built-in torrent engine and a VLCKit player",
+      "source": "https://github.com/w3ltyyy/Grain",
+      "homepage": "https://grained.space",
+      "license": "gpl-3.0",
+      "tags": [
+        "swift",
+        "swiftui",
+        "vlckit",
+        "tmdb",
+        "macos"
+      ],
+      "screenshots": [
+        "https://raw.githubusercontent.com/w3ltyyy/Grain/main/docs/images/cover-en.webp"
+      ],
+      "date_added": "Nov 28 2026",
+      "suggested_by": "@w3ltyyy"
     }
   ]
 }
